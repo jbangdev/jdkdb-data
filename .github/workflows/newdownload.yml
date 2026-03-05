@@ -1,0 +1,87 @@
+name: Update jdkdb - checksums (not mac)
+on:
+  workflow_run:
+    workflows: ["Update jdkdb - metadata"]
+    types:
+      - completed
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      limit-progress:
+        description: 'Limit progress updates (0 for no limit)'
+        required: true
+        type: number
+        default: 0
+      limit-total:
+        description: 'Limit total updates (0 for no limit)'
+        required: true
+        type: number
+        default: 100
+      do_commit:
+        description: 'Commit the changes after updating checksums'
+        required: true
+        type: boolean
+        default: true
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: 'ubuntu-latest'
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    env:
+      APP: https://github.com/jbangdev/jdkdb-scraper/releases/latest/download/jdkdb-scraper-standalone.jar
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y binutils cpio rpm2cpio msitools
+
+    - name: Setup JBang
+      uses: jbangdev/setup-jbang@main
+
+    - name: Run downloader manually
+      if: github.event_name == 'workflow_dispatch'
+      env:
+        GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        EXTRA_OPTS="--exclude pkg,dmg"
+        if [ "${{ inputs.limit-progress }}" != "0" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --limit-progress ${{ inputs.limit-progress }}"
+        fi
+        if [ "${{ inputs.limit-total }}" != "0" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --limit-total ${{ inputs.limit-total }}"
+        fi
+        echo "Running update with: $EXTRA_OPTS"
+        jbang --java 21+ $APP --version
+        jbang --java 21+ $APP download $EXTRA_OPTS
+
+    - name: Run downloader on workflow_run
+      if: github.event_name == 'workflow_run'
+      env:
+        GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        EXTRA_OPTS="--limit-total 1000 --exclude pkg,dmg"
+        echo "Running download with: $EXTRA_OPTS"
+        jbang --java 21+ $APP --version
+        jbang --java 21+ $APP download $EXTRA_OPTS
+
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      if: github.event_name == 'workflow_run' || inputs.do_commit
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        message: "Update checksums (not mac)"
+
+    - name: Upload log files
+      uses: actions/upload-artifact@v6
+      if: always()
+      with:
+        name: update-logs
+        path: logs/**/*.log
+        retention-days: 30
