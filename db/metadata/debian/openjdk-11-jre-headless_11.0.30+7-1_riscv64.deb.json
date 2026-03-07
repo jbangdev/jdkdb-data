@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb","release_type":"ga","version":"11.0.30+7-1","java_version":"11.0.30+7","jvm_impl":"hotspot","os":"linux","architecture":"riscv64","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb","md5":"18b2cddffe1ad5d104f250cac7bd9ed4","md5_file":"openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb.md5","sha1":"1e6154b8aa0849781c152931d8dc1c4e3ab4757b","sha1_file":"openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb.sha1","sha256":"0d755d2bdf4a8f17af6028decf595b932f622bc58bbb863c04a8ef65b98aff00","sha256_file":"openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb.sha256","sha512":"bbf62911e7f33e883d2357f5842c5bf04a10ee4edc08bddf9e7958ca65ab02a5e7d48546839cd244081ebd06722c944d84eb9aeebb7e7bb615b477ce0e17b235","sha512_file":"openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb.sha512","size":31813224,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"11.0.30+7-post-Debian-1","JAVA_VERSION_DATE":"2026-01-20","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"riscv64","OS_NAME":"Linux","JAVA_VERSION":"11.0.30","LIBC":"gnu"}}
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "11.0.30+7",
+  "jvm_impl": "hotspot",
+  "md5": "18b2cddffe1ad5d104f250cac7bd9ed4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "11.0.30+7-post-Debian-1",
+    "JAVA_VERSION": "11.0.30",
+    "JAVA_VERSION_DATE": "2026-01-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "1e6154b8aa0849781c152931d8dc1c4e3ab4757b",
+  "sha256": "0d755d2bdf4a8f17af6028decf595b932f622bc58bbb863c04a8ef65b98aff00",
+  "sha512": "bbf62911e7f33e883d2357f5842c5bf04a10ee4edc08bddf9e7958ca65ab02a5e7d48546839cd244081ebd06722c944d84eb9aeebb7e7bb615b477ce0e17b235",
+  "size": 31813224,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb",
+  "vendor": "debian",
+  "version": "11.0.30+7-1"
+}

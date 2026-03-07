@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz","release_type":"ga","version":"25.0.1b268.52","java_version":"25.0.1","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz","md5":"8c82bc049b9acdcfec46481f8ff749f2","md5_file":"jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz.md5","sha1":"5092322c41c033f8fc284fd7da9f0c84ca7483ad","sha1_file":"jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz.sha1","sha256":"9d9ea1461b943f5364e7d12622ad5bd0d2d59df016c6fac65c8c1e6bdec1d93f","sha256_file":"jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz.sha256","sha512":"671c99b76cb1cb9c15f7ad01fef7cfb3724895f2b805bdf237bfd74dd86001f180de3abe9bbf0a0d1090a0a14bda0a9d582e243a24f0a10e7b4c8facd6cff045","sha512_file":"jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz.sha512","size":531651823,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"25.0.1+8-b268.52","JCEF_VERSION":"137.0.17.1118+g94518db","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:c4bac827d87a+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-25.0.1+8-268.52-jcef","OS_NAME":"Linux","JAVA_VERSION":"25.0.1","JCEF_COMMIT_HASH":"94518dbf0c84b420c8e407ef71a11024fdda7fdf","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.1",
+  "jvm_impl": "hotspot",
+  "md5": "8c82bc049b9acdcfec46481f8ff749f2",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.1+8-268.52-jcef",
+    "JAVA_RUNTIME_VERSION": "25.0.1+8-b268.52",
+    "JAVA_VERSION": "25.0.1",
+    "JCEF_COMMIT_HASH": "94518dbf0c84b420c8e407ef71a11024fdda7fdf",
+    "JCEF_VERSION": "137.0.17.1118+g94518db",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c4bac827d87a+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "5092322c41c033f8fc284fd7da9f0c84ca7483ad",
+  "sha256": "9d9ea1461b943f5364e7d12622ad5bd0d2d59df016c6fac65c8c1e6bdec1d93f",
+  "sha512": "671c99b76cb1cb9c15f7ad01fef7cfb3724895f2b805bdf237bfd74dd86001f180de3abe9bbf0a0d1090a0a14bda0a9d582e243a24f0a10e7b4c8facd6cff045",
+  "size": 531651823,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-linux-aarch64-b268.52.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.1b268.52"
+}

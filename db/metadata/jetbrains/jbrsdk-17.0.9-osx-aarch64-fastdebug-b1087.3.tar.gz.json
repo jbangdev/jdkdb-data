@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz","release_type":"ga","version":"17.0.9b1087.3","java_version":"17.0.9","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz","md5":"879178044df8acec61df48091eb29818","md5_file":"jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz.md5","sha1":"2bb865762a3357eb7c13bf841c4c8b0cc4ceaa5f","sha1_file":"jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz.sha1","sha256":"fe6ae2d789fd2445602f75f79cebf84934eab57fd4704b957b6a7697adbdac1d","sha256_file":"jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz.sha256","sha512":"8d823bf65e128578d74fb2193c2bc83e753b6330fb445cbd3fff11f1ee5beac51e3cd541c7a06a99d7477be620897cbd05d2e8d796f97164718c50264ec9ae05","sha512_file":"jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz.sha512","size":315967541,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+7-b1087.3","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:6d34cbce8a81+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-17.0.9+7-1087.3-fd","OS_NAME":"Darwin","JAVA_VERSION":"17.0.9","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "879178044df8acec61df48091eb29818",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.0.9+7-1087.3-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.9+7-b1087.3",
+    "JAVA_VERSION": "17.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:6d34cbce8a81+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "2bb865762a3357eb7c13bf841c4c8b0cc4ceaa5f",
+  "sha256": "fe6ae2d789fd2445602f75f79cebf84934eab57fd4704b957b6a7697adbdac1d",
+  "sha512": "8d823bf65e128578d74fb2193c2bc83e753b6330fb445cbd3fff11f1ee5beac51e3cd541c7a06a99d7477be620897cbd05d2e8d796f97164718c50264ec9ae05",
+  "size": 315967541,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.9-osx-aarch64-fastdebug-b1087.3.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1087.3"
+}

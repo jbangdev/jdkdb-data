@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz","release_type":"ga","version":"21.0.7b509.40","java_version":"21.0.7","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz","md5":"abd652615f6b5b7cf6fa619ebbc4498c","md5_file":"jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz.md5","sha1":"3b4c9a9912b32d0efe7d2aa0f387bc9bfbb2cad9","sha1_file":"jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz.sha1","sha256":"84b476ade7bea94f619224aae5e2449ba0ad177619d4faeec5c277db1c027cfd","sha256_file":"jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz.sha256","sha512":"97e412b355596393831b7bfe2f8f44600dfdd0b0aa3a6d6bce670ab55e68f7bb5123f5d462641f55426b125ff426a02715cb79695fbc7d47c4e8fe2eb40f8d41","sha512_file":"jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz.sha512","size":579575008,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.7+9-b509.40","JCEF_VERSION":"122.1.9.877+gf04fabb","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:8747ab90632b+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.7+9-509.40-fd","OS_NAME":"Windows","JAVA_VERSION":"21.0.7","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "abd652615f6b5b7cf6fa619ebbc4498c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.7+9-509.40-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.7+9-b509.40",
+    "JAVA_VERSION": "21.0.7",
+    "JCEF_VERSION": "122.1.9.877+gf04fabb",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:8747ab90632b+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "3b4c9a9912b32d0efe7d2aa0f387bc9bfbb2cad9",
+  "sha256": "84b476ade7bea94f619224aae5e2449ba0ad177619d4faeec5c277db1c027cfd",
+  "sha512": "97e412b355596393831b7bfe2f8f44600dfdd0b0aa3a6d6bce670ab55e68f7bb5123f5d462641f55426b125ff426a02715cb79695fbc7d47c4e8fe2eb40f8d41",
+  "size": 579575008,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.7-windows-x64-fastdebug-b509.40.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.7b509.40"
+}

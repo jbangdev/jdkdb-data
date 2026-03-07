@@ -1,1 +1,32 @@
-{"vendor":"jetbrains","filename":"jbrsdk_jcef-17-linux-x64-b135.1.tar.gz","release_type":"ga","version":"17b135.1","java_version":"17","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17-linux-x64-b135.1.tar.gz","md5":"c91f61f94c906c3f84d65b3cf93445ad","md5_file":"jbrsdk_jcef-17-linux-x64-b135.1.tar.gz.md5","sha1":"f16885e68747bd2ab356d1bdffcd1553a594ba85","sha1_file":"jbrsdk_jcef-17-linux-x64-b135.1.tar.gz.sha1","sha256":"de985fc604d9b80f0bcaf8a4aedd5ce87420c11eed8b4fb1f975808a744bd3b1","sha256_file":"jbrsdk_jcef-17-linux-x64-b135.1.tar.gz.sha256","sha512":"a9d3c055765b5949f7e3346e6fc076811339d39bb364d6147caa5f8a5a268bfcaba8c96139c45ba3c8b0643cf59be72f383ea50d8b5f587b150cab1d42c0f633","sha512_file":"jbrsdk_jcef-17-linux-x64-b135.1.tar.gz.sha512","size":334933012,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:cd4ef878a03d+ jcef_git:git:a48a0fdb88fd","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-17.35-135.1-jcef","OS_NAME":"Linux","JAVA_VERSION":"17","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_jcef-17-linux-x64-b135.1.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17",
+  "jvm_impl": "hotspot",
+  "md5": "c91f61f94c906c3f84d65b3cf93445ad",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.35-135.1-jcef",
+    "JAVA_VERSION": "17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cd4ef878a03d+ jcef_git:git:a48a0fdb88fd"
+  },
+  "release_type": "ga",
+  "sha1": "f16885e68747bd2ab356d1bdffcd1553a594ba85",
+  "sha256": "de985fc604d9b80f0bcaf8a4aedd5ce87420c11eed8b4fb1f975808a744bd3b1",
+  "sha512": "a9d3c055765b5949f7e3346e6fc076811339d39bb364d6147caa5f8a5a268bfcaba8c96139c45ba3c8b0643cf59be72f383ea50d8b5f587b150cab1d42c0f633",
+  "size": 334933012,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17-linux-x64-b135.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17b135.1"
+}

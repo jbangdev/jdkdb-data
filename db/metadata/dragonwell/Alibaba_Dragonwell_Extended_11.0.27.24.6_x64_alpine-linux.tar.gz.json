@@ -1,1 +1,22 @@
-{"vendor":"dragonwell","filename":"Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz","release_type":"ga","version":"11.0.27.24.6","java_version":"11.0.27.24.6","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["musl"],"url":"https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.27.24_jdk-11.0.27-ga/Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz","md5":"6b384ae8cb06a778a01904465880c89a","md5_file":"Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz.md5","sha1":"326d8f77cf57b9b6a40c8483a3cbc5febf3ddd13","sha1_file":"Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz.sha1","sha256":"5cddf59be997ce39fbd4c091fcc5108089837bc74930c179b2805437f56360d7","sha256_file":"Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz.sha256","sha512":"99f9a41c5d63d01ffc8094eacc57110ae87d3977ea20c6a86f5849c34840739dba6dd17566db8c5faf04f32a57e0746c89ff22fc9ad125a0ddc04263fe22b877","sha512_file":"Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz.sha512","size":198559663}
+{
+  "architecture": "x86_64",
+  "distro": "dragonwell",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.27.24.6",
+  "jvm_impl": "hotspot",
+  "md5": "6b384ae8cb06a778a01904465880c89a",
+  "os": "linux",
+  "release_type": "ga",
+  "sha1": "326d8f77cf57b9b6a40c8483a3cbc5febf3ddd13",
+  "sha256": "5cddf59be997ce39fbd4c091fcc5108089837bc74930c179b2805437f56360d7",
+  "sha512": "99f9a41c5d63d01ffc8094eacc57110ae87d3977ea20c6a86f5849c34840739dba6dd17566db8c5faf04f32a57e0746c89ff22fc9ad125a0ddc04263fe22b877",
+  "size": 198559663,
+  "url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.27.24_jdk-11.0.27-ga/Alibaba_Dragonwell_Extended_11.0.27.24.6_x64_alpine-linux.tar.gz",
+  "vendor": "alibaba",
+  "version": "11.0.27.24.6"
+}

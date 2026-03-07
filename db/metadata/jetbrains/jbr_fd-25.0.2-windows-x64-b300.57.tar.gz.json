@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-25.0.2-windows-x64-b300.57.tar.gz","release_type":"ga","version":"25.0.2b300.57","java_version":"25.0.2","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.2-windows-x64-b300.57.tar.gz","md5":"152e3704617aba33389d2089e25928c7","md5_file":"jbr_fd-25.0.2-windows-x64-b300.57.tar.gz.md5","sha1":"728ba13d00c4790f0ab64f36226bbae4206e6dbc","sha1_file":"jbr_fd-25.0.2-windows-x64-b300.57.tar.gz.sha1","sha256":"1d3ed3cfc6c304d42ac4120bb3ff62ed24325daffcc546a484d9b1e0eb34878b","sha256_file":"jbr_fd-25.0.2-windows-x64-b300.57.tar.gz.sha256","sha512":"7f2743ad9b79eaabd49dc752c83da5f887d33bba3fec1bdca588c198e20d8085f37d63f3de150a81eeb406f8107270ed135fdcbfa81fead938b96942bc4c7524","sha512_file":"jbr_fd-25.0.2-windows-x64-b300.57.tar.gz.sha512","size":105292241,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"25.0.2+1-b300.57","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:c628622cebf8+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-25.0.2+1-300.57-fd","OS_NAME":"Windows","JAVA_VERSION":"25.0.2","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-25.0.2-windows-x64-b300.57.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "152e3704617aba33389d2089e25928c7",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.2+1-300.57-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.2+1-b300.57",
+    "JAVA_VERSION": "25.0.2",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c628622cebf8+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "728ba13d00c4790f0ab64f36226bbae4206e6dbc",
+  "sha256": "1d3ed3cfc6c304d42ac4120bb3ff62ed24325daffcc546a484d9b1e0eb34878b",
+  "sha512": "7f2743ad9b79eaabd49dc752c83da5f887d33bba3fec1bdca588c198e20d8085f37d63f3de150a81eeb406f8107270ed135fdcbfa81fead938b96942bc4c7524",
+  "size": 105292241,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.2-windows-x64-b300.57.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.2b300.57"
+}

@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz","release_type":"ga","version":"17.0.9b1162.7","java_version":"17.0.9","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz","md5":"d485b36b526853231fb18640b6174ecd","md5_file":"jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz.md5","sha1":"b1ba4f9f4f2a3e031e4cf1f58a4c357a3e9d4ffa","sha1_file":"jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz.sha1","sha256":"5ed65d0f046f8cf0e589f148d972be1944ab84138d4eea89c510e7347c94703f","sha256_file":"jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz.sha256","sha512":"14b89e1afbfb55a6bf5766d702b28908e8fd52fdb110b6e7cddd050228a0118f529d0af22e28071f2dc46212a5e95a8f0d73fdc367b35b2d857101856d274148","sha512_file":"jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz.sha512","size":181940441,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+8-b1162.7","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1033157048e0+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.9+8-1162.7-fd","OS_NAME":"Darwin","JAVA_VERSION":"17.0.9","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "d485b36b526853231fb18640b6174ecd",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.9+8-1162.7-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.9+8-b1162.7",
+    "JAVA_VERSION": "17.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:1033157048e0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "b1ba4f9f4f2a3e031e4cf1f58a4c357a3e9d4ffa",
+  "sha256": "5ed65d0f046f8cf0e589f148d972be1944ab84138d4eea89c510e7347c94703f",
+  "sha512": "14b89e1afbfb55a6bf5766d702b28908e8fd52fdb110b6e7cddd050228a0118f529d0af22e28071f2dc46212a5e95a8f0d73fdc367b35b2d857101856d274148",
+  "size": 181940441,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-osx-aarch64-b1162.7.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1162.7"
+}

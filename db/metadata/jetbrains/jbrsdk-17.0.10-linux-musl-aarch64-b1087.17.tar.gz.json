@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz","release_type":"ga","version":"17.0.10b1087.17","java_version":"17.0.10","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["musl"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz","md5":"36ca15d429fb27fcfe80775c7a5ba5fa","md5_file":"jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz.md5","sha1":"67b79f568ecf0e81217602cc4cdf49264cc05441","sha1_file":"jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz.sha1","sha256":"03d241aed51032a5a47ea85effe4142053db20e3823b230c1c4b5705d5343a87","sha256_file":"jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz.sha256","sha512":"ca0b718c4deee393c70986b5f5ab1ad551b4e2e33a70d5957fc5cd88bdb69277068905d721bd5dbf8fde328d88acdb676265fa3089471e730c6010b0d5e30981","sha512_file":"jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz.sha512","size":204807708,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+1-b1087.17","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:178c33ae867b+","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-17.0.10+1-1087.17-nomod","OS_NAME":"Linux","JAVA_VERSION":"17.0.10","LIBC":"musl"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "36ca15d429fb27fcfe80775c7a5ba5fa",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.0.10+1-1087.17-nomod",
+    "JAVA_RUNTIME_VERSION": "17.0.10+1-b1087.17",
+    "JAVA_VERSION": "17.0.10",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:178c33ae867b+"
+  },
+  "release_type": "ga",
+  "sha1": "67b79f568ecf0e81217602cc4cdf49264cc05441",
+  "sha256": "03d241aed51032a5a47ea85effe4142053db20e3823b230c1c4b5705d5343a87",
+  "sha512": "ca0b718c4deee393c70986b5f5ab1ad551b4e2e33a70d5957fc5cd88bdb69277068905d721bd5dbf8fde328d88acdb676265fa3089471e730c6010b0d5e30981",
+  "size": 204807708,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.10-linux-musl-aarch64-b1087.17.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b1087.17"
+}

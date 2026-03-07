@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz","release_type":"ga","version":"17.0.11b1312.2","java_version":"17.0.11","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz","md5":"2c130ffc73b2889531464aed06dd1ccc","md5_file":"jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz.md5","sha1":"a095cb4e006897a2d713c12640f5abe00f28fc6f","sha1_file":"jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz.sha1","sha256":"c3e3a2efbdbb04715c481d87aab6ffcb5aeb13ae37b2906e9819408176fb9f4c","sha256_file":"jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz.sha256","sha512":"3ea37bfbd38bb4f0df8176db29defcb33a2e7e952abf2d377d4f93e5d977f42c873b37597bb8e32b571b79ad49590e1afa75fe9b543e8ef68059b4585372a484","sha512_file":"jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz.sha512","size":195557651,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.11+1-b1312.2","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:61688d4a7d27+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.11+1-1312.2-fd","OS_NAME":"Darwin","JAVA_VERSION":"17.0.11","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "2c130ffc73b2889531464aed06dd1ccc",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.11+1-1312.2-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.11+1-b1312.2",
+    "JAVA_VERSION": "17.0.11",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:61688d4a7d27+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "a095cb4e006897a2d713c12640f5abe00f28fc6f",
+  "sha256": "c3e3a2efbdbb04715c481d87aab6ffcb5aeb13ae37b2906e9819408176fb9f4c",
+  "sha512": "3ea37bfbd38bb4f0df8176db29defcb33a2e7e952abf2d377d4f93e5d977f42c873b37597bb8e32b571b79ad49590e1afa75fe9b543e8ef68059b4585372a484",
+  "size": 195557651,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.11-osx-aarch64-b1312.2.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.11b1312.2"
+}

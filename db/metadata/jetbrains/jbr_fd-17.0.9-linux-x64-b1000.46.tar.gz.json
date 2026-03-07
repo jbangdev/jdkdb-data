@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz","release_type":"ga","version":"17.0.9b1000.46","java_version":"17.0.9","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz","md5":"c24328894cbc4090027b825458026a3e","md5_file":"jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz.md5","sha1":"94d0870744c04d6d1d781244eef2968582744ccb","sha1_file":"jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz.sha1","sha256":"a538056fb8aa311eba597acf8297333f2d15664e6da2d9dec475d1611096b4dd","sha256_file":"jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz.sha256","sha512":"5b3b828b26715f5094a4553c672457e5e6a3645650f017d43e7bdce01daa9b30e6c00f15aea102912c94184775cac3c5c382fb8629d29e3f3d842375c9597f95","sha512_file":"jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz.sha512","size":194072776,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+7-b1000.46","JCEF_VERSION":"111.2.1.674+g5e74e8b","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:51a9f3c83348+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.9+7-1000.46-fd","OS_NAME":"Linux","JAVA_VERSION":"17.0.9","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "c24328894cbc4090027b825458026a3e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.9+7-1000.46-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.9+7-b1000.46",
+    "JAVA_VERSION": "17.0.9",
+    "JCEF_VERSION": "111.2.1.674+g5e74e8b",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:51a9f3c83348+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "94d0870744c04d6d1d781244eef2968582744ccb",
+  "sha256": "a538056fb8aa311eba597acf8297333f2d15664e6da2d9dec475d1611096b4dd",
+  "sha512": "5b3b828b26715f5094a4553c672457e5e6a3645650f017d43e7bdce01daa9b30e6c00f15aea102912c94184775cac3c5c382fb8629d29e3f3d842375c9597f95",
+  "size": 194072776,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-linux-x64-b1000.46.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1000.46"
+}

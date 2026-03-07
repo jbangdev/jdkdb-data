@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz","release_type":"ga","version":"21.0.10b1163.108","java_version":"21.0.10","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz","md5":"da8ba4236fed452158c07c1ff836a3d1","md5_file":"jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz.md5","sha1":"e8d97eb7d5b52570e144c22644ec904e6f3c77ac","sha1_file":"jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz.sha1","sha256":"a57d545eda701538d162f4b09bc21376255aa8b7eb22f83d6e5a6574d8d7aaf1","sha256_file":"jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz.sha256","sha512":"2bc263b7ca3e9ced715b9a125233a285e9f1cba9ff44bbfedf33231a4b96f180fa5c221c15cf6ed754b55bca2ca448a89ce2806a2ba0220bedbf193e9f1a7320","sha512_file":"jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz.sha512","size":241178851,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.10+7-b1163.108","JCEF_VERSION":"137.0.17.1107+ge397b56","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:f6c01ae40b16+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.10+7-1163.108-jcef","OS_NAME":"Linux","JAVA_VERSION":"21.0.10","JCEF_COMMIT_HASH":"e397b569415d3c67b114495985454e5201955573","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "da8ba4236fed452158c07c1ff836a3d1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.10+7-1163.108-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.10+7-b1163.108",
+    "JAVA_VERSION": "21.0.10",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:f6c01ae40b16+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "e8d97eb7d5b52570e144c22644ec904e6f3c77ac",
+  "sha256": "a57d545eda701538d162f4b09bc21376255aa8b7eb22f83d6e5a6574d8d7aaf1",
+  "sha512": "2bc263b7ca3e9ced715b9a125233a285e9f1cba9ff44bbfedf33231a4b96f180fa5c221c15cf6ed754b55bca2ca448a89ce2806a2ba0220bedbf193e9f1a7320",
+  "size": 241178851,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.10-linux-aarch64-b1163.108.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.10b1163.108"
+}

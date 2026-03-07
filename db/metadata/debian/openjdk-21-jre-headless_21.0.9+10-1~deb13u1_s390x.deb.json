@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb","release_type":"ga","version":"21.0.9+10-1~deb13u1","java_version":"21.0.9+10","jvm_impl":"hotspot","os":"linux","architecture":"s390x","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb","md5":"52c19c7657f18c435a43e7e47def5724","md5_file":"openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb.md5","sha1":"ae5a0d8d14a3bf49efc7120e66fdc3147a4ce6d3","sha1_file":"openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb.sha1","sha256":"32c1eb3c46eb24d712bf0a6f3e4768139f57c7fa9822496f858988e2ff096d95","sha256_file":"openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb.sha256","sha512":"5e61f429a8d5c3ee2391b33277e4cb61659e18f08d019a44bd5dba9029462c7f5ce40b99c6b26b89a2ef0e71b56060347da57ccaf84551f3b7cccb8669b7bedf","sha512_file":"openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb.sha512","size":38992172,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.9+10-Debian-1deb13u1","JAVA_VERSION_DATE":"2025-10-21","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"s390x","OS_NAME":"Linux","JAVA_VERSION":"21.0.9","LIBC":"gnu"}}
+{
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb",
+  "image_type": "jre",
+  "java_version": "21.0.9+10",
+  "jvm_impl": "hotspot",
+  "md5": "52c19c7657f18c435a43e7e47def5724",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.9+10-Debian-1deb13u1",
+    "JAVA_VERSION": "21.0.9",
+    "JAVA_VERSION_DATE": "2025-10-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "ae5a0d8d14a3bf49efc7120e66fdc3147a4ce6d3",
+  "sha256": "32c1eb3c46eb24d712bf0a6f3e4768139f57c7fa9822496f858988e2ff096d95",
+  "sha512": "5e61f429a8d5c3ee2391b33277e4cb61659e18f08d019a44bd5dba9029462c7f5ce40b99c6b26b89a2ef0e71b56060347da57ccaf84551f3b7cccb8669b7bedf",
+  "size": 38992172,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.9+10-1~deb13u1_s390x.deb",
+  "vendor": "debian",
+  "version": "21.0.9+10-1~deb13u1"
+}

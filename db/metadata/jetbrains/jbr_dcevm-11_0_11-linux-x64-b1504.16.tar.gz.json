@@ -1,1 +1,31 @@
-{"vendor":"jetbrains","filename":"jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz","release_type":"ga","version":"11.0.11b1504.16","java_version":"11.0.11","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz","md5":"406f2ebfaa5408af34035b26e4dc3aec","md5_file":"jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz.md5","sha1":"5f8b385a102ff4f1c4164f77f270472c3091a47b","sha1_file":"jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz.sha1","sha256":"594c2a26b4819acbc1d4bc9a23b5ad38461f674fdb8463a6b10deb4c00f87525","sha256_file":"jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz.sha256","sha512":"b1d210e99018bcef435c5ff17cb8945950afec486325213eec03235f1353b4f0c8f56966daee8b3103134daa0ea6aafe18a89a158fd19007ac57ef37b01d4c39","sha512_file":"jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz.sha512","size":166266491,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:ec0fa75eb31c+ jcef_git:git:c63ff895dbc5","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-11.0.11.9-1504.16-dcevm","OS_NAME":"Linux","JAVA_VERSION":"11.0.11"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz",
+  "image_type": "jre",
+  "java_version": "11.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "406f2ebfaa5408af34035b26e4dc3aec",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-11.0.11.9-1504.16-dcevm",
+    "JAVA_VERSION": "11.0.11",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ec0fa75eb31c+ jcef_git:git:c63ff895dbc5"
+  },
+  "release_type": "ga",
+  "sha1": "5f8b385a102ff4f1c4164f77f270472c3091a47b",
+  "sha256": "594c2a26b4819acbc1d4bc9a23b5ad38461f674fdb8463a6b10deb4c00f87525",
+  "sha512": "b1d210e99018bcef435c5ff17cb8945950afec486325213eec03235f1353b4f0c8f56966daee8b3103134daa0ea6aafe18a89a158fd19007ac57ef37b01d4c39",
+  "size": 166266491,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_11-linux-x64-b1504.16.tar.gz",
+  "vendor": "jetbrains",
+  "version": "11.0.11b1504.16"
+}

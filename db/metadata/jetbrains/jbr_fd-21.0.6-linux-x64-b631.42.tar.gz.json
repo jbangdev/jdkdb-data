@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.6-linux-x64-b631.42.tar.gz","release_type":"ga","version":"21.0.6b631.42","java_version":"21.0.6","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.6-linux-x64-b631.42.tar.gz","md5":"1d9a25e34027119a1922951a781b0b3a","md5_file":"jbr_fd-21.0.6-linux-x64-b631.42.tar.gz.md5","sha1":"0f9b8d2a46d784edd593e80ecf4250cbb189cd8b","sha1_file":"jbr_fd-21.0.6-linux-x64-b631.42.tar.gz.sha1","sha256":"51a55f00312cf8aad4d6d2c5f9e0d8eb523561de55fd7fe4cd4ba681fea5bcd7","sha256_file":"jbr_fd-21.0.6-linux-x64-b631.42.tar.gz.sha256","sha512":"f32a9c7661f43f6d8f27dc0a01840ee962031832560849a8b6a05bd217693640f588133c09ebba0173508b20048c005a9e8ce8ea6cccdc71b16161491d14ddcf","sha512_file":"jbr_fd-21.0.6-linux-x64-b631.42.tar.gz.sha512","size":223129957,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.6+9-b631.42","JCEF_VERSION":"122.1.9.917+g8fb0cb4","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:db3bd2e32f8d+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-21.0.6+9-631.42-fd","OS_NAME":"Linux","JAVA_VERSION":"21.0.6","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.6-linux-x64-b631.42.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.6",
+  "jvm_impl": "hotspot",
+  "md5": "1d9a25e34027119a1922951a781b0b3a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.6+9-631.42-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.6+9-b631.42",
+    "JAVA_VERSION": "21.0.6",
+    "JCEF_VERSION": "122.1.9.917+g8fb0cb4",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:db3bd2e32f8d+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "0f9b8d2a46d784edd593e80ecf4250cbb189cd8b",
+  "sha256": "51a55f00312cf8aad4d6d2c5f9e0d8eb523561de55fd7fe4cd4ba681fea5bcd7",
+  "sha512": "f32a9c7661f43f6d8f27dc0a01840ee962031832560849a8b6a05bd217693640f588133c09ebba0173508b20048c005a9e8ce8ea6cccdc71b16161491d14ddcf",
+  "size": 223129957,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.6-linux-x64-b631.42.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.6b631.42"
+}

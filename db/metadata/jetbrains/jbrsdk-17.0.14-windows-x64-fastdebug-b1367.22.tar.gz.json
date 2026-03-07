@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz","release_type":"ga","version":"17.0.14b1367.22","java_version":"17.0.14","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz","md5":"04a86cc56af2a4b74b813c93f7223ad8","md5_file":"jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz.md5","sha1":"e6683c373e093f1ea3446bd00b7aac1d0cee90db","sha1_file":"jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz.sha1","sha256":"b88c97b6ed7c3e6d97ca12e93e1ec32049cf5aff2ba78d2433237bfa2728da8f","sha256_file":"jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz.sha256","sha512":"79f90ac6710f097d8c8dd7bf82ff9458dd350b91b57e4032b31f7e45d12c71b35943579865e455b73ae9cf6d0c418c0b87b9612f3d9a408df49790ceca1e5007","sha512_file":"jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz.sha512","size":553304852,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.14+1-b1367.22","JCEF_VERSION":"122.1.9.997+g54ecb92","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:322f553c4c30+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-17.0.14+1-1367.22-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.14","JCEF_COMMIT_HASH":"54ecb9204399d36e61b5bf145afadb273d833002","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.14",
+  "jvm_impl": "hotspot",
+  "md5": "04a86cc56af2a4b74b813c93f7223ad8",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.0.14+1-1367.22-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.14+1-b1367.22",
+    "JAVA_VERSION": "17.0.14",
+    "JCEF_COMMIT_HASH": "54ecb9204399d36e61b5bf145afadb273d833002",
+    "JCEF_VERSION": "122.1.9.997+g54ecb92",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:322f553c4c30+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "e6683c373e093f1ea3446bd00b7aac1d0cee90db",
+  "sha256": "b88c97b6ed7c3e6d97ca12e93e1ec32049cf5aff2ba78d2433237bfa2728da8f",
+  "sha512": "79f90ac6710f097d8c8dd7bf82ff9458dd350b91b57e4032b31f7e45d12c71b35943579865e455b73ae9cf6d0c418c0b87b9612f3d9a408df49790ceca1e5007",
+  "size": 553304852,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.14-windows-x64-fastdebug-b1367.22.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.14b1367.22"
+}

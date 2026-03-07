@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz","release_type":"ga","version":"21.0.9b1038.76","java_version":"21.0.9","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz","md5":"c6c65dd91ca286185804126014cee897","md5_file":"jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz.md5","sha1":"1b959995f444536a3677a8969b191513644256d9","sha1_file":"jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz.sha1","sha256":"4be8e15a284a5b9730049c29096cb94971286886bcb912969b0bfa1503f8c358","sha256_file":"jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz.sha256","sha512":"2e6e9032875d8af155339382dec2460266350be23a4ab61112167f304699354f6a74be04ca1e11fe41a228eb492a67ef5831304c5ff55ad9c467a23ca9cd7522","sha512_file":"jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz.sha512","size":204959841,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.9+1-b1038.76","JCEF_VERSION":"122.1.9.1060+g33f6357","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:28a436e7b3a4+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.9+1-1038.76-jcef","OS_NAME":"Windows","JAVA_VERSION":"21.0.9","JCEF_COMMIT_HASH":"33f6357c0226f73b0e398b75d8bd22f486e430ab","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "c6c65dd91ca286185804126014cee897",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.9+1-1038.76-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.9+1-b1038.76",
+    "JAVA_VERSION": "21.0.9",
+    "JCEF_COMMIT_HASH": "33f6357c0226f73b0e398b75d8bd22f486e430ab",
+    "JCEF_VERSION": "122.1.9.1060+g33f6357",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:28a436e7b3a4+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "1b959995f444536a3677a8969b191513644256d9",
+  "sha256": "4be8e15a284a5b9730049c29096cb94971286886bcb912969b0bfa1503f8c358",
+  "sha512": "2e6e9032875d8af155339382dec2460266350be23a4ab61112167f304699354f6a74be04ca1e11fe41a228eb492a67ef5831304c5ff55ad9c467a23ca9cd7522",
+  "size": 204959841,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.9-windows-aarch64-b1038.76.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.76"
+}

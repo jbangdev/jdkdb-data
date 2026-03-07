@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.3-osx-x64-b480.1.tar.gz","release_type":"ga","version":"21.0.3b480.1","java_version":"21.0.3","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-osx-x64-b480.1.tar.gz","md5":"f1f12b091b7d0d8d09fab81e9823d087","md5_file":"jbr_fd-21.0.3-osx-x64-b480.1.tar.gz.md5","sha1":"e159674b2e4da3d0fcec2dc7abcd9c284db16f0b","sha1_file":"jbr_fd-21.0.3-osx-x64-b480.1.tar.gz.sha1","sha256":"d46e94c6139c93615b3dee6ed76730d42220debd0598d965cd8c29d250abb222","sha256_file":"jbr_fd-21.0.3-osx-x64-b480.1.tar.gz.sha256","sha512":"9ef1307bd27c253a8d61d68f8fa9f9da0c8adfea6c0e1118dad261764093d35c91aab3bb3c36c03c02ed260209e271cdaebbce479e52d1392166cd4561a1e1e2","sha512_file":"jbr_fd-21.0.3-osx-x64-b480.1.tar.gz.sha512","size":210410133,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.3+13-b480.1","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:edbb74e3e4a0+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-21.0.3+13-480.1-fd","OS_NAME":"Darwin","JAVA_VERSION":"21.0.3","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.3-osx-x64-b480.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "f1f12b091b7d0d8d09fab81e9823d087",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.3+13-480.1-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.3+13-b480.1",
+    "JAVA_VERSION": "21.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:edbb74e3e4a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "e159674b2e4da3d0fcec2dc7abcd9c284db16f0b",
+  "sha256": "d46e94c6139c93615b3dee6ed76730d42220debd0598d965cd8c29d250abb222",
+  "sha512": "9ef1307bd27c253a8d61d68f8fa9f9da0c8adfea6c0e1118dad261764093d35c91aab3bb3c36c03c02ed260209e271cdaebbce479e52d1392166cd4561a1e1e2",
+  "size": 210410133,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-osx-x64-b480.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.3b480.1"
+}

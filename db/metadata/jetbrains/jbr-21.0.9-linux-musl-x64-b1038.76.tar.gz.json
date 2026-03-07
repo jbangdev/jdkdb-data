@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz","release_type":"ga","version":"21.0.9b1038.76","java_version":"21.0.9","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["musl"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz","md5":"5a0eb32e27672a0a8a6b191afb0406c6","md5_file":"jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz.md5","sha1":"eb78f01ec7152ba3d98585e46a48744c25c4fa27","sha1_file":"jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz.sha1","sha256":"68a8bb16bdcb20207184353a6af53a8a99338f0e97f519ebe9fbee0a4632663a","sha256_file":"jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz.sha256","sha512":"bef9b1583e2ae227d2a75b1f7aa4c7ee9adaad7fac8e03b2ab0125f7efa2fecaf8b1b4f1b9686ab26e1ef6912b5b0da65ff952b9e356a7b5733e233ef946ed99","sha512_file":"jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz.sha512","size":99158927,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.9+10-b1038.76","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:28a436e7b3a4+","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-21.0.9+10-1038.76-nomod","OS_NAME":"Linux","JAVA_VERSION":"21.0.9","LIBC":"musl"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "5a0eb32e27672a0a8a6b191afb0406c6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.9+10-1038.76-nomod",
+    "JAVA_RUNTIME_VERSION": "21.0.9+10-b1038.76",
+    "JAVA_VERSION": "21.0.9",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:28a436e7b3a4+"
+  },
+  "release_type": "ga",
+  "sha1": "eb78f01ec7152ba3d98585e46a48744c25c4fa27",
+  "sha256": "68a8bb16bdcb20207184353a6af53a8a99338f0e97f519ebe9fbee0a4632663a",
+  "sha512": "bef9b1583e2ae227d2a75b1f7aa4c7ee9adaad7fac8e03b2ab0125f7efa2fecaf8b1b4f1b9686ab26e1ef6912b5b0da65ff952b9e356a7b5733e233ef946ed99",
+  "size": 99158927,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.9-linux-musl-x64-b1038.76.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.76"
+}

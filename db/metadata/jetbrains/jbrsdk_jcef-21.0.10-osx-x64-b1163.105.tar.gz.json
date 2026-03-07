@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz","release_type":"ga","version":"21.0.10b1163.105","java_version":"21.0.10","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz","md5":"62edadaab201aa3029215a49656bf0ef","md5_file":"jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz.md5","sha1":"2e2934f78f4af0b660e19feb095e670913ce8c4e","sha1_file":"jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz.sha1","sha256":"5d1944acfd54567bcb49ff7ef096da7be61e6b340eaecc51f91a33b282961056","sha256_file":"jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz.sha256","sha512":"2f9b9343fbcb1322b2969ec7aa784ad2feda740c3560ad23bab44d9460e4a787b097aa4cd771c3175b5a7a92a7694fe89c06adb0ad57b9bd5dda3022686cb275","sha512_file":"jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz.sha512","size":386093483,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.10+7-b1163.105","JCEF_VERSION":"137.0.17.1107+ge397b56","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:523c874eb177+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.10+7-1163.105-jcef","OS_NAME":"Darwin","JAVA_VERSION":"21.0.10","JCEF_COMMIT_HASH":"e397b569415d3c67b114495985454e5201955573","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "62edadaab201aa3029215a49656bf0ef",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.10+7-1163.105-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.10+7-b1163.105",
+    "JAVA_VERSION": "21.0.10",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:523c874eb177+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "2e2934f78f4af0b660e19feb095e670913ce8c4e",
+  "sha256": "5d1944acfd54567bcb49ff7ef096da7be61e6b340eaecc51f91a33b282961056",
+  "sha512": "2f9b9343fbcb1322b2969ec7aa784ad2feda740c3560ad23bab44d9460e4a787b097aa4cd771c3175b5a7a92a7694fe89c06adb0ad57b9bd5dda3022686cb275",
+  "size": 386093483,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-osx-x64-b1163.105.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.10b1163.105"
+}

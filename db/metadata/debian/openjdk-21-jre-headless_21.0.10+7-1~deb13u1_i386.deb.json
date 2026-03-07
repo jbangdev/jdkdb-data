@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb","release_type":"ga","version":"21.0.10+7-1~deb13u1","java_version":"21.0.10+7","jvm_impl":"hotspot","os":"linux","architecture":"i686","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb","md5":"62709e9e1ac21b5db2f1e92942589173","md5_file":"openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb.md5","sha1":"b3bdf92dd6da665c1698b01f2c1ec27b8484e729","sha1_file":"openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb.sha1","sha256":"d97e3db3122c7185e9f0016fee40359da6afaef200c36dcb0ed1a724b4fd60ec","sha256_file":"openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb.sha256","sha512":"66f53d4dd3cfaa2769f21115fbe607dc38adb4c63e4175be6afd10acc994a1ad9ca8e4c79ce0ae33b8da359393680c59db4520c0c594f58547d49d71b01f932e","sha512_file":"openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb.sha512","size":43281864,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.10+7-Debian-1deb13u1","JAVA_VERSION_DATE":"2026-01-20","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"x86","OS_NAME":"Linux","JAVA_VERSION":"21.0.10","LIBC":"gnu"}}
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb",
+  "image_type": "jre",
+  "java_version": "21.0.10+7",
+  "jvm_impl": "hotspot",
+  "md5": "62709e9e1ac21b5db2f1e92942589173",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.10+7-Debian-1deb13u1",
+    "JAVA_VERSION": "21.0.10",
+    "JAVA_VERSION_DATE": "2026-01-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "b3bdf92dd6da665c1698b01f2c1ec27b8484e729",
+  "sha256": "d97e3db3122c7185e9f0016fee40359da6afaef200c36dcb0ed1a724b4fd60ec",
+  "sha512": "66f53d4dd3cfaa2769f21115fbe607dc38adb4c63e4175be6afd10acc994a1ad9ca8e4c79ce0ae33b8da359393680c59db4520c0c594f58547d49d71b01f932e",
+  "size": 43281864,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.10+7-1~deb13u1_i386.deb",
+  "vendor": "debian",
+  "version": "21.0.10+7-1~deb13u1"
+}

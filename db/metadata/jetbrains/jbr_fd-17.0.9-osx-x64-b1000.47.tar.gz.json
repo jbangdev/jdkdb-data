@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz","release_type":"ga","version":"17.0.9b1000.47","java_version":"17.0.9","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz","md5":"d6e0c1cd28cd08f0f3ff9dd97224073f","md5_file":"jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz.md5","sha1":"4c194e4d68f696814896b5e5dcec5dc50f05b43a","sha1_file":"jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz.sha1","sha256":"e0ef2e2f6f0b790371ea2c8680df5f1acf76dfcaed038b6cb2ea09f635307987","sha256_file":"jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz.sha256","sha512":"da17e7de8c8822d46ceb91d36b18fb0cdfd26617705403a5b04a2bfcb601a7f5820c905438b86a576603039755ee41de747e69f19bb81a3cdcba6ae86faae949","sha512_file":"jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz.sha512","size":187328743,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+7-b1000.47","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:18fcd7420994+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.9+7-1000.47-fd","OS_NAME":"Darwin","JAVA_VERSION":"17.0.9","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "d6e0c1cd28cd08f0f3ff9dd97224073f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.9+7-1000.47-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.9+7-b1000.47",
+    "JAVA_VERSION": "17.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:18fcd7420994+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "4c194e4d68f696814896b5e5dcec5dc50f05b43a",
+  "sha256": "e0ef2e2f6f0b790371ea2c8680df5f1acf76dfcaed038b6cb2ea09f635307987",
+  "sha512": "da17e7de8c8822d46ceb91d36b18fb0cdfd26617705403a5b04a2bfcb601a7f5820c905438b86a576603039755ee41de747e69f19bb81a3cdcba6ae86faae949",
+  "size": 187328743,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-osx-x64-b1000.47.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1000.47"
+}

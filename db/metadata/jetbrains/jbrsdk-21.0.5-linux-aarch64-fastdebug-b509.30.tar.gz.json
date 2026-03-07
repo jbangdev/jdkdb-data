@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz","release_type":"ga","version":"21.0.5b509.30","java_version":"21.0.5","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz","md5":"99faa54a746a596785c9f33d6a1310c8","md5_file":"jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz.md5","sha1":"27807667fee84afe92a4ca3377514ff849e5133a","sha1_file":"jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz.sha1","sha256":"6b1dc7eb75a91b94fada4c2f0e22befd9872efb9704500ec4212c2860d0cf6c1","sha256_file":"jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz.sha256","sha512":"9d6c2430cf1779d30caa37bb3f169b0fa336da6f42e81bc2e4e166a4884bcc82233a618f5355636f8e353cb9f9a1413fc6868a70ede1a03feae35325dfa35af4","sha512_file":"jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz.sha512","size":497324813,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.5+13-b509.30","JCEF_VERSION":"122.1.9.877+gf04fabb","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:84a4edc1e2f4+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.5+13-509.30-fd","OS_NAME":"Linux","JAVA_VERSION":"21.0.5","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.5",
+  "jvm_impl": "hotspot",
+  "md5": "99faa54a746a596785c9f33d6a1310c8",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.5+13-509.30-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.5+13-b509.30",
+    "JAVA_VERSION": "21.0.5",
+    "JCEF_VERSION": "122.1.9.877+gf04fabb",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:84a4edc1e2f4+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "27807667fee84afe92a4ca3377514ff849e5133a",
+  "sha256": "6b1dc7eb75a91b94fada4c2f0e22befd9872efb9704500ec4212c2860d0cf6c1",
+  "sha512": "9d6c2430cf1779d30caa37bb3f169b0fa336da6f42e81bc2e4e166a4884bcc82233a618f5355636f8e353cb9f9a1413fc6868a70ede1a03feae35325dfa35af4",
+  "size": 497324813,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.5-linux-aarch64-fastdebug-b509.30.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.5b509.30"
+}

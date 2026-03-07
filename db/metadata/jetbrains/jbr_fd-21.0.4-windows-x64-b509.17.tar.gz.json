@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.4-windows-x64-b509.17.tar.gz","release_type":"ga","version":"21.0.4b509.17","java_version":"21.0.4","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.4-windows-x64-b509.17.tar.gz","md5":"633a4e001eb216a9fee8a7048becdacd","md5_file":"jbr_fd-21.0.4-windows-x64-b509.17.tar.gz.md5","sha1":"192d17e3a1d841ae988fd53a8eb89ab52417ef96","sha1_file":"jbr_fd-21.0.4-windows-x64-b509.17.tar.gz.sha1","sha256":"d8815c9df6bbdf4df727f0362dd5eb0f992b9cac02ae5accb0bcec3b26ed73f8","sha256_file":"jbr_fd-21.0.4-windows-x64-b509.17.tar.gz.sha256","sha512":"4d242ac1992a6acc13bd4e182847a93413c3d199e4493c6fdc151cdd70d547ff7f13cb10c762ccf6c668244fc678328723c10ebd8aaade06fdd5aad9bd6f5338","sha512_file":"jbr_fd-21.0.4-windows-x64-b509.17.tar.gz.sha512","size":229685202,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.4+13-b509.17","JCEF_VERSION":"122.1.9.877+gf04fabb","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:04855758c8a8+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-21.0.4+13-509.17-fd","OS_NAME":"Windows","JAVA_VERSION":"21.0.4","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.4-windows-x64-b509.17.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "633a4e001eb216a9fee8a7048becdacd",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.4+13-509.17-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.4+13-b509.17",
+    "JAVA_VERSION": "21.0.4",
+    "JCEF_VERSION": "122.1.9.877+gf04fabb",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:04855758c8a8+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "192d17e3a1d841ae988fd53a8eb89ab52417ef96",
+  "sha256": "d8815c9df6bbdf4df727f0362dd5eb0f992b9cac02ae5accb0bcec3b26ed73f8",
+  "sha512": "4d242ac1992a6acc13bd4e182847a93413c3d199e4493c6fdc151cdd70d547ff7f13cb10c762ccf6c668244fc678328723c10ebd8aaade06fdd5aad9bd6f5338",
+  "size": 229685202,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.4-windows-x64-b509.17.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.4b509.17"
+}

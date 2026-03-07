@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb","release_type":"ga","version":"21.0.10~4ea-1","java_version":"21.0.10","jvm_impl":"hotspot","os":"linux","architecture":"loong64","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb","md5":"6ccb392755f981b9e6664b183c12f616","md5_file":"openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb.md5","sha1":"6b4cc1411fe5a3386771495a3b3cc5c269425de7","sha1_file":"openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb.sha1","sha256":"469af83f7361a78fd2b404ddbb7775407010927339105990565ec4f420bacd7f","sha256_file":"openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb.sha256","sha512":"ab577d6310a69de67bc88d04b85e08c01f4f6b4b63c7e2554016327b42fb31dae617e1304aac1b63665215b5bbfa77cb95352270250cee3303387fd2f5fac003","sha512_file":"openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb.sha512","size":36881444,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.10-ea+4-Debian-1","JAVA_VERSION_DATE":"2026-01-20","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"loongarch64","OS_NAME":"Linux","JAVA_VERSION":"21.0.10","LIBC":"gnu"}}
+{
+  "architecture": "loong64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb",
+  "image_type": "jre",
+  "java_version": "21.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "6ccb392755f981b9e6664b183c12f616",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.10-ea+4-Debian-1",
+    "JAVA_VERSION": "21.0.10",
+    "JAVA_VERSION_DATE": "2026-01-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "loongarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "6b4cc1411fe5a3386771495a3b3cc5c269425de7",
+  "sha256": "469af83f7361a78fd2b404ddbb7775407010927339105990565ec4f420bacd7f",
+  "sha512": "ab577d6310a69de67bc88d04b85e08c01f4f6b4b63c7e2554016327b42fb31dae617e1304aac1b63665215b5bbfa77cb95352270250cee3303387fd2f5fac003",
+  "size": 36881444,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.10~4ea-1_loong64.deb",
+  "vendor": "debian",
+  "version": "21.0.10~4ea-1"
+}

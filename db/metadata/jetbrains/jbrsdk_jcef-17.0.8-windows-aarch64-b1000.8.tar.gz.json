@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz","release_type":"ga","version":"17.0.8b1000.8","java_version":"17.0.8","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz","md5":"e393c025c6cc3f6c87c1bbb30a335083","md5_file":"jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz.md5","sha1":"721ab3c8cea5263a1afe75f6fb32aa9644da2d0b","sha1_file":"jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz.sha1","sha256":"d1e113233706b6c7601cd2f9dfa190152dd7870f17814f100def4f765a30723e","sha256_file":"jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz.sha256","sha512":"0d656cdd3b2c68861a87bab8be040c68d1b032da991cb225443d1514f8732ed97838f996f7b1baf3b70004780653a2b4d0e268a109172b20a8cb75b8f21ef131","sha512_file":"jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz.sha512","size":453470642,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.8+7-b1000.8","JCEF_VERSION":"111.2.1.673+gd9dbcc0","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1554194d10f5+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-17.0.8+7-1000.8-jcef","OS_NAME":"Windows","JAVA_VERSION":"17.0.8","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.8",
+  "jvm_impl": "hotspot",
+  "md5": "e393c025c6cc3f6c87c1bbb30a335083",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.0.8+7-1000.8-jcef",
+    "JAVA_RUNTIME_VERSION": "17.0.8+7-b1000.8",
+    "JAVA_VERSION": "17.0.8",
+    "JCEF_VERSION": "111.2.1.673+gd9dbcc0",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1554194d10f5+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "721ab3c8cea5263a1afe75f6fb32aa9644da2d0b",
+  "sha256": "d1e113233706b6c7601cd2f9dfa190152dd7870f17814f100def4f765a30723e",
+  "sha512": "0d656cdd3b2c68861a87bab8be040c68d1b032da991cb225443d1514f8732ed97838f996f7b1baf3b70004780653a2b4d0e268a109172b20a8cb75b8f21ef131",
+  "size": 453470642,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.8-windows-aarch64-b1000.8.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.8b1000.8"
+}

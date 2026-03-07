@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz","release_type":"ga","version":"21.0.3b480.1","java_version":"21.0.3","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jdk","features":["musl"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz","md5":"b722b717037921b1c5ed7623c2ad424a","md5_file":"jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz.md5","sha1":"f0351430f216c349fb485accacd620926749fec4","sha1_file":"jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz.sha1","sha256":"3350e9e80b61f38788ef0f97d77dfeaa2cb14ab5aefa5dda86281f9dcbc77c82","sha256_file":"jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz.sha256","sha512":"47e0809d7be8e49b5bd20e87db9b23b969fae57f54807d797921cfbaafd670cc6a9b28b4d8b71e0e1185c497f5b814f29a0e2463c5cc6e893bc1af98561f50e0","sha512_file":"jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz.sha512","size":228952062,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.3+13-b480.1","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:edbb74e3e4a0+","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.3+13-480.1-nomod","OS_NAME":"Linux","JAVA_VERSION":"21.0.3","LIBC":"musl"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "b722b717037921b1c5ed7623c2ad424a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.3+13-480.1-nomod",
+    "JAVA_RUNTIME_VERSION": "21.0.3+13-b480.1",
+    "JAVA_VERSION": "21.0.3",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:edbb74e3e4a0+"
+  },
+  "release_type": "ga",
+  "sha1": "f0351430f216c349fb485accacd620926749fec4",
+  "sha256": "3350e9e80b61f38788ef0f97d77dfeaa2cb14ab5aefa5dda86281f9dcbc77c82",
+  "sha512": "47e0809d7be8e49b5bd20e87db9b23b969fae57f54807d797921cfbaafd670cc6a9b28b4d8b71e0e1185c497f5b814f29a0e2463c5cc6e893bc1af98561f50e0",
+  "size": 228952062,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.3-linux-musl-aarch64-b480.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.3b480.1"
+}

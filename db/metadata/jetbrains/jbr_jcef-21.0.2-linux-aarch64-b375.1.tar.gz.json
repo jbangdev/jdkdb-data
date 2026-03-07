@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz","release_type":"ga","version":"21.0.2b375.1","java_version":"21.0.2","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz","md5":"686aa6bbbcb32661cce51b747de811b4","md5_file":"jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz.md5","sha1":"97af357b9436d470047771490a78da01d10d32d8","sha1_file":"jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz.sha1","sha256":"1694648dbf38ad054f1ace8352b6ea4279f993c1576ccd12152fd90e078c1846","sha256_file":"jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz.sha256","sha512":"cb7e3b454bd35a34e6b0182b9064dd489954df6da97ba1ee43599bbae588fe6d0c12424f478f5750b0bd0a261aa3b7d2f90f89298dd93e8101ce88899e9ba019","sha512_file":"jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz.sha512","size":204240103,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.2+13-b375.1","JCEF_VERSION":"119.4.7.757+ga64fb92","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:ff104658d67c+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.2+13-375.1-jcef","OS_NAME":"Linux","JAVA_VERSION":"21.0.2","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "686aa6bbbcb32661cce51b747de811b4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.2+13-375.1-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.2+13-b375.1",
+    "JAVA_VERSION": "21.0.2",
+    "JCEF_VERSION": "119.4.7.757+ga64fb92",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ff104658d67c+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "97af357b9436d470047771490a78da01d10d32d8",
+  "sha256": "1694648dbf38ad054f1ace8352b6ea4279f993c1576ccd12152fd90e078c1846",
+  "sha512": "cb7e3b454bd35a34e6b0182b9064dd489954df6da97ba1ee43599bbae588fe6d0c12424f478f5750b0bd0a261aa3b7d2f90f89298dd93e8101ce88899e9ba019",
+  "size": 204240103,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.2-linux-aarch64-b375.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.2b375.1"
+}

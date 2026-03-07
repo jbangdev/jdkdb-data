@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-25-linux-aarch64-b176.2.tar.gz","release_type":"ea","version":"25b176.2","java_version":"25","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25-linux-aarch64-b176.2.tar.gz","md5":"4031752329bbdf5151a98b0776d814ed","md5_file":"jbr_jcef-25-linux-aarch64-b176.2.tar.gz.md5","sha1":"0216dcb4a2979c419e143ea852366c82464dfe74","sha1_file":"jbr_jcef-25-linux-aarch64-b176.2.tar.gz.sha1","sha256":"6fe4064af865c2fc3371be5fa877bee830fda4c24d1a89bfb02a942a7fac3d95","sha256_file":"jbr_jcef-25-linux-aarch64-b176.2.tar.gz.sha256","sha512":"dd008327f8751a63ae56dbb5551e02539812d863a65154ae96d3b5f3a034f2f11490e63c150fccd7cc0d11a2544931886867b474b5b2d2df5269ad7db73e975a","sha512_file":"jbr_jcef-25-linux-aarch64-b176.2.tar.gz.sha512","size":245419629,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"25+36-b176.2","JCEF_VERSION":"137.0.17.1084+gd6683f0","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:49bed44184e7+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-25+36-176.2-jcef","OS_NAME":"Linux","JAVA_VERSION":"25","JCEF_COMMIT_HASH":"d6683f08012dc2c2f5024d654bdb99631795a43b","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-25-linux-aarch64-b176.2.tar.gz",
+  "image_type": "jre",
+  "java_version": "25",
+  "jvm_impl": "hotspot",
+  "md5": "4031752329bbdf5151a98b0776d814ed",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25+36-176.2-jcef",
+    "JAVA_RUNTIME_VERSION": "25+36-b176.2",
+    "JAVA_VERSION": "25",
+    "JCEF_COMMIT_HASH": "d6683f08012dc2c2f5024d654bdb99631795a43b",
+    "JCEF_VERSION": "137.0.17.1084+gd6683f0",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:49bed44184e7+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ea",
+  "sha1": "0216dcb4a2979c419e143ea852366c82464dfe74",
+  "sha256": "6fe4064af865c2fc3371be5fa877bee830fda4c24d1a89bfb02a942a7fac3d95",
+  "sha512": "dd008327f8751a63ae56dbb5551e02539812d863a65154ae96d3b5f3a034f2f11490e63c150fccd7cc0d11a2544931886867b474b5b2d2df5269ad7db73e975a",
+  "size": 245419629,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25-linux-aarch64-b176.2.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25b176.2"
+}

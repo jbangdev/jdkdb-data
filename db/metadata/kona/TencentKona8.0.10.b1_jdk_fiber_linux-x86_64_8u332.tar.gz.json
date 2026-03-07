@@ -1,1 +1,29 @@
-{"vendor":"kona","filename":"TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz","release_type":"ga","version":"8.0.10.b1","java_version":"8u332","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fiber"],"url":"https://github.com/Tencent/TencentKona-8/releases/download/Fiber-8.0.10-GA/TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz","md5":"c3c7261685ba6309c866d3e4a43ae678","md5_file":"TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz.md5","sha1":"8236deba3f6cb916ef3da18bfc09721c00394368","sha1_file":"TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz.sha1","sha256":"a6dc30ee2f46c530919ee47757bd93dfadcc542f189100b98c3be4a6f4db4a68","sha256_file":"TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz.sha256","sha512":"d7499894e9bb1977705b4102f3001f80fe060185fdda9a5c3150fb8a7578b8a7ec706227804b261d1598b6f0cceafd52167dec35dbff1b068fb8ee930ba0ba77","sha512_file":"TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz.sha512","size":111060701,"release_info":{"OS_VERSION":"2.6","SOURCE":":","OS_ARCH":"amd64","OS_NAME":"Linux","JAVA_VERSION":"1.8.0_332_fiber"}}
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [
+    "fiber"
+  ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8u332",
+  "jvm_impl": "hotspot",
+  "md5": "c3c7261685ba6309c866d3e4a43ae678",
+  "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_332_fiber",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ":"
+  },
+  "release_type": "ga",
+  "sha1": "8236deba3f6cb916ef3da18bfc09721c00394368",
+  "sha256": "a6dc30ee2f46c530919ee47757bd93dfadcc542f189100b98c3be4a6f4db4a68",
+  "sha512": "d7499894e9bb1977705b4102f3001f80fe060185fdda9a5c3150fb8a7578b8a7ec706227804b261d1598b6f0cceafd52167dec35dbff1b068fb8ee930ba0ba77",
+  "size": 111060701,
+  "url": "https://github.com/Tencent/TencentKona-8/releases/download/Fiber-8.0.10-GA/TencentKona8.0.10.b1_jdk_fiber_linux-x86_64_8u332.tar.gz",
+  "vendor": "tencent",
+  "version": "8.0.10.b1"
+}

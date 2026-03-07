@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz","release_type":"ga","version":"21.0.3b480.1","java_version":"21.0.3","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz","md5":"364bf28c1771d45a02c9ba06daef8947","md5_file":"jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz.md5","sha1":"d18ef73cfbc7d2d71cb53aca4171532bdf23800a","sha1_file":"jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz.sha1","sha256":"590d90df9bd400fa1ce713b345d8830941d2bb1ec06a30b5bc45519ae4fa7ff6","sha256_file":"jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz.sha256","sha512":"48868fa0939126db7037eb58f903069eaa0d40533a60522e7d9d3685173b6ed71f9cb2556f324331aea5b8455dcf15cf300688b04f4d8ab3902c71eac7b56062","sha512_file":"jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz.sha512","size":202019201,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.3+13-b480.1","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:edbb74e3e4a0+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.3+13-480.1-fd","OS_NAME":"Darwin","JAVA_VERSION":"21.0.3","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "364bf28c1771d45a02c9ba06daef8947",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.3+13-480.1-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.3+13-b480.1",
+    "JAVA_VERSION": "21.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:edbb74e3e4a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "d18ef73cfbc7d2d71cb53aca4171532bdf23800a",
+  "sha256": "590d90df9bd400fa1ce713b345d8830941d2bb1ec06a30b5bc45519ae4fa7ff6",
+  "sha512": "48868fa0939126db7037eb58f903069eaa0d40533a60522e7d9d3685173b6ed71f9cb2556f324331aea5b8455dcf15cf300688b04f4d8ab3902c71eac7b56062",
+  "size": 202019201,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-osx-aarch64-b480.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.3b480.1"
+}

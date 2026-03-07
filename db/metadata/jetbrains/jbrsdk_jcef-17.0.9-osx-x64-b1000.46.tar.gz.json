@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz","release_type":"ga","version":"17.0.9b1000.46","java_version":"17.0.9","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz","md5":"ea4bb93dffe9cfc8038430266b0f9d6f","md5_file":"jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz.md5","sha1":"486f51d8707865e829638aa298273b4d5c5bf147","sha1_file":"jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz.sha1","sha256":"43454c84b11c6615de9bece2620ae5949c6e23aadf97a2fd5222ce48d3ac5bf3","sha256_file":"jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz.sha256","sha512":"31eb99fd260792e253e9e3723bc2d5f2580d1b9b69bd3fd0dd43b7982560194f9bc2a11ba9bac73885360805ce4cc72e37250a6a8040b37ab1f5975df688cdcc","sha512_file":"jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz.sha512","size":319233888,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+7-b1000.46","JCEF_VERSION":"111.2.1.674+g5e74e8b","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:51a9f3c83348+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-17.0.9+7-1000.46-jcef","OS_NAME":"Darwin","JAVA_VERSION":"17.0.9","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "ea4bb93dffe9cfc8038430266b0f9d6f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-17.0.9+7-1000.46-jcef",
+    "JAVA_RUNTIME_VERSION": "17.0.9+7-b1000.46",
+    "JAVA_VERSION": "17.0.9",
+    "JCEF_VERSION": "111.2.1.674+g5e74e8b",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:51a9f3c83348+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "486f51d8707865e829638aa298273b4d5c5bf147",
+  "sha256": "43454c84b11c6615de9bece2620ae5949c6e23aadf97a2fd5222ce48d3ac5bf3",
+  "sha512": "31eb99fd260792e253e9e3723bc2d5f2580d1b9b69bd3fd0dd43b7982560194f9bc2a11ba9bac73885360805ce4cc72e37250a6a8040b37ab1f5975df688cdcc",
+  "size": 319233888,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.9-osx-x64-b1000.46.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1000.46"
+}

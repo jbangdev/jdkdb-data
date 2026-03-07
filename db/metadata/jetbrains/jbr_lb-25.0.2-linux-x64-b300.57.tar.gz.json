@@ -1,1 +1,36 @@
-{"vendor":"jetbrains","filename":"jbr_lb-25.0.2-linux-x64-b300.57.tar.gz","release_type":"ga","version":"25.0.2b300.57","java_version":"25.0.2","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["legacy"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_lb-25.0.2-linux-x64-b300.57.tar.gz","md5":"0836197b7e351be1896e638308eda8ae","md5_file":"jbr_lb-25.0.2-linux-x64-b300.57.tar.gz.md5","sha1":"451a86b4a6231670b60c2a0dd7fa20762c420bb0","sha1_file":"jbr_lb-25.0.2-linux-x64-b300.57.tar.gz.sha1","sha256":"1484e96128deace2e0f4644e422c5fceb5991f78a3547c090f5770045b1ea4f3","sha256_file":"jbr_lb-25.0.2-linux-x64-b300.57.tar.gz.sha256","sha512":"3bcc6f6ca78082599b145ca7a98846dab9fcd133cab9cf97a0e49f9fa3203f934caf3e96a165dbee26a1d8b9377c7c2e5ba607c16b4ade07832b6437a49558d0","sha512_file":"jbr_lb-25.0.2-linux-x64-b300.57.tar.gz.sha512","size":243353049,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"25.0.2+10-b300.57","JCEF_VERSION":"137.0.17.1130+ga899e7a","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:c628622cebf8+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-25.0.2+10-300.57-lb","OS_NAME":"Linux","JAVA_VERSION":"25.0.2","JCEF_COMMIT_HASH":"a899e7a14a69578b1fbbedaf013c5ddc190dc63d","LIBC":"gnu","JCEF_VERSION_DETAILED":"137.0.17-gf354b0e-chromium-137.0.7151.104-api-1.21-unknown-SNAPSHOT"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "legacy"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_lb-25.0.2-linux-x64-b300.57.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "0836197b7e351be1896e638308eda8ae",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.2+10-300.57-lb",
+    "JAVA_RUNTIME_VERSION": "25.0.2+10-b300.57",
+    "JAVA_VERSION": "25.0.2",
+    "JCEF_COMMIT_HASH": "a899e7a14a69578b1fbbedaf013c5ddc190dc63d",
+    "JCEF_VERSION": "137.0.17.1130+ga899e7a",
+    "JCEF_VERSION_DETAILED": "137.0.17-gf354b0e-chromium-137.0.7151.104-api-1.21-unknown-SNAPSHOT",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c628622cebf8+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "451a86b4a6231670b60c2a0dd7fa20762c420bb0",
+  "sha256": "1484e96128deace2e0f4644e422c5fceb5991f78a3547c090f5770045b1ea4f3",
+  "sha512": "3bcc6f6ca78082599b145ca7a98846dab9fcd133cab9cf97a0e49f9fa3203f934caf3e96a165dbee26a1d8b9377c7c2e5ba607c16b4ade07832b6437a49558d0",
+  "size": 243353049,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_lb-25.0.2-linux-x64-b300.57.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.2b300.57"
+}

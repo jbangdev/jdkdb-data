@@ -1,1 +1,37 @@
-{"vendor":"temurin","filename":"OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg","release_type":"ga","version":"8u432-b06","java_version":"8u432-b06","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"pkg","image_type":"jdk","features":[],"url":"https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg","md5":"b65a503c2afc364a24df12d3e56bcbbf","md5_file":"OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg.md5","sha1":"d774c851116a34f94e671d16b6ffa9014c24475b","sha1_file":"OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg.sha1","sha256":"5715ad3587776435f4b51d1147fc5e53f08ba4e854f3bff27b916cbbbb52c970","sha256_file":"OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg.sha256","sha512":"e1371de7e82681a1078f74f4dddef75d82760309d40d9053bb110946599c2684f7b9330783fd969f8f1dbe9c35495fe12dafeba3fef1d0ebef912720ab9d7e14","sha512_file":"OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg.sha512","size":109730429,"release_info":{"SEMANTIC_VERSION":"8.0.432+6","BUILD_INFO":"OS: macOS Version: 14.1 23B74","BUILD_SOURCE_REPO":"https://github.com/adoptium/temurin-build.git","IMPLEMENTOR":"Eclipse Adoptium","OS_NAME":"Darwin","BUILD_SOURCE":"git:08621c72262ba260e4bb6451a9c75bf1c0ab365d","IMAGE_TYPE":"JDK","JVM_VARIANT":"Hotspot","OS_VERSION":"11.2","JVM_VERSION":"25.432-b06","SOURCE":".:git:069f6a49b533+","OS_ARCH":"x86_64","FULL_VERSION":"1.8.0_432-b06","JAVA_VERSION":"1.8.0_432","SOURCE_REPO":"https://github.com/adoptium/jdk8u.git"}}
+{
+  "architecture": "x86_64",
+  "distro": "temurin",
+  "features": [],
+  "file_type": "pkg",
+  "filename": "OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg",
+  "image_type": "jdk",
+  "java_version": "8u432-b06",
+  "jvm_impl": "hotspot",
+  "md5": "b65a503c2afc364a24df12d3e56bcbbf",
+  "os": "macosx",
+  "release_info": {
+    "BUILD_INFO": "OS: macOS Version: 14.1 23B74",
+    "BUILD_SOURCE": "git:08621c72262ba260e4bb6451a9c75bf1c0ab365d",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "1.8.0_432-b06",
+    "IMAGE_TYPE": "JDK",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "JAVA_VERSION": "1.8.0_432",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "25.432-b06",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "OS_VERSION": "11.2",
+    "SEMANTIC_VERSION": "8.0.432+6",
+    "SOURCE": ".:git:069f6a49b533+",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk8u.git"
+  },
+  "release_type": "ga",
+  "sha1": "d774c851116a34f94e671d16b6ffa9014c24475b",
+  "sha256": "5715ad3587776435f4b51d1147fc5e53f08ba4e854f3bff27b916cbbbb52c970",
+  "sha512": "e1371de7e82681a1078f74f4dddef75d82760309d40d9053bb110946599c2684f7b9330783fd969f8f1dbe9c35495fe12dafeba3fef1d0ebef912720ab9d7e14",
+  "size": 109730429,
+  "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jdk_x64_mac_hotspot_8u432b06.pkg",
+  "vendor": "eclipse",
+  "version": "8u432-b06"
+}

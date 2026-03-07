@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb","release_type":"ga","version":"25.0.2+10-1~deb13u2","java_version":"25.0.2+10","jvm_impl":"hotspot","os":"linux","architecture":"ppc64le","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb","md5":"d437637078d1417f6865f1c772ebd6f4","md5_file":"openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb.md5","sha1":"78acef0c9fcea82002ca7a4f2c82014ea35b086d","sha1_file":"openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb.sha1","sha256":"21b48c7fc696755d6f147387c56142caac3fdec7039ed374e56ce5ded3ab4f20","sha256_file":"openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb.sha256","sha512":"1a84eb3ff86b692c1994ca67a95f040aac2090ab5720860fce82f254e06736dc6aa04de85339a5445381e6e092473360b5f8d411eeb12835b88cfaed412c8923","sha512_file":"openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb.sha512","size":52054600,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"25.0.2+10-Debian-1deb13u2","JAVA_VERSION_DATE":"2026-01-20","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"ppc64le","OS_NAME":"Linux","JAVA_VERSION":"25.0.2","LIBC":"gnu"}}
+{
+  "architecture": "ppc64le",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb",
+  "image_type": "jre",
+  "java_version": "25.0.2+10",
+  "jvm_impl": "hotspot",
+  "md5": "d437637078d1417f6865f1c772ebd6f4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "25.0.2+10-Debian-1deb13u2",
+    "JAVA_VERSION": "25.0.2",
+    "JAVA_VERSION_DATE": "2026-01-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "78acef0c9fcea82002ca7a4f2c82014ea35b086d",
+  "sha256": "21b48c7fc696755d6f147387c56142caac3fdec7039ed374e56ce5ded3ab4f20",
+  "sha512": "1a84eb3ff86b692c1994ca67a95f040aac2090ab5720860fce82f254e06736dc6aa04de85339a5445381e6e092473360b5f8d411eeb12835b88cfaed412c8923",
+  "size": 52054600,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.2+10-1~deb13u2_ppc64el.deb",
+  "vendor": "debian",
+  "version": "25.0.2+10-1~deb13u2"
+}

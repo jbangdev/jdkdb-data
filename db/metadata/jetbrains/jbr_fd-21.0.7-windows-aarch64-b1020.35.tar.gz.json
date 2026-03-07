@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz","release_type":"ga","version":"21.0.7b1020.35","java_version":"21.0.7","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz","md5":"861511473dcd7d3faa89d0ef8c2663c7","md5_file":"jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz.md5","sha1":"02e1b09c1de864ad6076857fcc4c0eb4ee6aad47","sha1_file":"jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz.sha1","sha256":"0f868cd022ac34f351fc32fda2a4c891c171d65cabe9012bd284b6820222c01f","sha256_file":"jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz.sha256","sha512":"e68ae91dddec9f35ef5ff90a13660dff57eb0248b05e7c86cd263ef2921470a5f92996290040ff1896a5c2d455a1d6319a59831c4cb0ec231196afc06a13091d","sha512_file":"jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz.sha512","size":78885581,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.7+6-b1020.35","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:fc10c4afd6da+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.7+6-1020.35-fd","OS_NAME":"Windows","JAVA_VERSION":"21.0.7","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "861511473dcd7d3faa89d0ef8c2663c7",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.7+6-1020.35-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.7+6-b1020.35",
+    "JAVA_VERSION": "21.0.7",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:fc10c4afd6da+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "02e1b09c1de864ad6076857fcc4c0eb4ee6aad47",
+  "sha256": "0f868cd022ac34f351fc32fda2a4c891c171d65cabe9012bd284b6820222c01f",
+  "sha512": "e68ae91dddec9f35ef5ff90a13660dff57eb0248b05e7c86cd263ef2921470a5f92996290040ff1896a5c2d455a1d6319a59831c4cb0ec231196afc06a13091d",
+  "size": 78885581,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.7-windows-aarch64-b1020.35.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.7b1020.35"
+}

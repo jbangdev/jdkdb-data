@@ -1,1 +1,37 @@
-{"vendor":"semeru","filename":"ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm","release_type":"ga","version":"8u345-b01_openj9-0.33.0","java_version":"8u345-b01","jvm_impl":"openj9","os":"linux","architecture":"ppc64le","file_type":"rpm","image_type":"jdk","features":[],"url":"https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u345-b01_openj9-0.33.0/ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm","md5":"c0c5649e70c2358a7b45408c0ffa9868","md5_file":"ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm.md5","sha1":"a9916648c6945fd7d6d19ca20deecd0bf347779d","sha1_file":"ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm.sha1","sha256":"1ee830e6b21282f88509e0e24479d88977a7f3cbf1be8449680b9a6dbff9885b","sha256_file":"ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm.sha256","sha512":"f0a9827925b7782f90dd7bd0b8de276b7fea9d33f6a22816b727d2014e66b4b3ae8394d2faa64090e8aa5761cc894077ace92713b0b5a1056fad9f56173c7a06","sha512_file":"ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm.sha512","size":93235744,"release_info":{"SEMANTIC_VERSION":"8.0.345+1","BUILD_INFO":"OS: Linux Version: 3.10.0-1160.71.1.el7.ppc64le","BUILD_SOURCE_REPO":"https://github.com/ibmruntimes/temurin-build.git","IMPLEMENTOR":"IBM Corporation","OS_NAME":"Linux","BUILD_SOURCE":"git:b1aaf7d9","IMAGE_TYPE":"JDK","JVM_VARIANT":"Openj9","OS_VERSION":"2.6","JVM_VERSION":"openj9-0.33.0","SOURCE":".:git:f2d89babf537+ omr:git:b58aa2708c09 openj9:git:04a55b45b3a0 openssl:git:8aaca20cf999+","OS_ARCH":"ppc64le","FULL_VERSION":"1.8.0_345-b01","JAVA_VERSION":"1.8.0_345","SOURCE_REPO":"https://github.com/ibmruntimes/openj9-openjdk-jdk8.git"}}
+{
+  "architecture": "ppc64le",
+  "distro": "semeru",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm",
+  "image_type": "jdk",
+  "java_version": "8u345-b01",
+  "jvm_impl": "openj9",
+  "md5": "c0c5649e70c2358a7b45408c0ffa9868",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 3.10.0-1160.71.1.el7.ppc64le",
+    "BUILD_SOURCE": "git:b1aaf7d9",
+    "BUILD_SOURCE_REPO": "https://github.com/ibmruntimes/temurin-build.git",
+    "FULL_VERSION": "1.8.0_345-b01",
+    "IMAGE_TYPE": "JDK",
+    "IMPLEMENTOR": "IBM Corporation",
+    "JAVA_VERSION": "1.8.0_345",
+    "JVM_VARIANT": "Openj9",
+    "JVM_VERSION": "openj9-0.33.0",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SEMANTIC_VERSION": "8.0.345+1",
+    "SOURCE": ".:git:f2d89babf537+ omr:git:b58aa2708c09 openj9:git:04a55b45b3a0 openssl:git:8aaca20cf999+",
+    "SOURCE_REPO": "https://github.com/ibmruntimes/openj9-openjdk-jdk8.git"
+  },
+  "release_type": "ga",
+  "sha1": "a9916648c6945fd7d6d19ca20deecd0bf347779d",
+  "sha256": "1ee830e6b21282f88509e0e24479d88977a7f3cbf1be8449680b9a6dbff9885b",
+  "sha512": "f0a9827925b7782f90dd7bd0b8de276b7fea9d33f6a22816b727d2014e66b4b3ae8394d2faa64090e8aa5761cc894077ace92713b0b5a1056fad9f56173c7a06",
+  "size": 93235744,
+  "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u345-b01_openj9-0.33.0/ibm-semeru-open-8-jdk-1.8.0.345.b01_0.33.0-1.ppc64le.rpm",
+  "vendor": "ibm",
+  "version": "8u345-b01_openj9-0.33.0"
+}

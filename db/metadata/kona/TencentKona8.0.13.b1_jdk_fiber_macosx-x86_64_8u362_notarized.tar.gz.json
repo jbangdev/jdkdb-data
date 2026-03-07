@@ -1,1 +1,29 @@
-{"vendor":"kona","filename":"TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz","release_type":"ga","version":"8.0.13.b1","java_version":"8u362","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fiber"],"url":"https://github.com/Tencent/TencentKona-8/releases/download/Fiber-8.0.13-GA/TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz","md5":"827643edf7754117835da3a36910bdfd","md5_file":"TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz.md5","sha1":"1d876027dc970b24458d58a9cb134296b1164d78","sha1_file":"TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz.sha1","sha256":"93c559fb07de5897f1e4e410afcc5e568560ed8fa7012944f3bc65265a04ebaf","sha256_file":"TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz.sha256","sha512":"e2ecfb0451f84f5994903a1784ae3dce12a39b637e929438ed631b64588e5094e0918edf296d841dec1cda687e419e477a473d6bb97d039fa7dccf59db4e30ae","sha512_file":"TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz.sha512","size":104298285,"release_info":{"OS_VERSION":"11.2","SOURCE":".:git:64a9cb60e68d","OS_ARCH":"x86_64","OS_NAME":"Darwin","JAVA_VERSION":"1.8.0_362_fiber"}}
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [
+    "fiber"
+  ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8u362",
+  "jvm_impl": "hotspot",
+  "md5": "827643edf7754117835da3a36910bdfd",
+  "os": "macosx",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_362_fiber",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "OS_VERSION": "11.2",
+    "SOURCE": ".:git:64a9cb60e68d"
+  },
+  "release_type": "ga",
+  "sha1": "1d876027dc970b24458d58a9cb134296b1164d78",
+  "sha256": "93c559fb07de5897f1e4e410afcc5e568560ed8fa7012944f3bc65265a04ebaf",
+  "sha512": "e2ecfb0451f84f5994903a1784ae3dce12a39b637e929438ed631b64588e5094e0918edf296d841dec1cda687e419e477a473d6bb97d039fa7dccf59db4e30ae",
+  "size": 104298285,
+  "url": "https://github.com/Tencent/TencentKona-8/releases/download/Fiber-8.0.13-GA/TencentKona8.0.13.b1_jdk_fiber_macosx-x86_64_8u362_notarized.tar.gz",
+  "vendor": "tencent",
+  "version": "8.0.13.b1"
+}

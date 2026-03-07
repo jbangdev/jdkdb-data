@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz","release_type":"ga","version":"17.0.10b829.27","java_version":"17.0.10","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz","md5":"491ab26fe5db22644d0c3ca552a58c05","md5_file":"jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz.md5","sha1":"c8aae450c9095c7d1e8cf450031f562eac7daa0b","sha1_file":"jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz.sha1","sha256":"39ac59b39ab8ac91a6e6d45a25ec0baddcdf9a8f65b186480291bcede1c5bfcb","sha256_file":"jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz.sha256","sha512":"22582110b964f4ac77273e0f824f336471d00e827a699787c290cf2a6287fa8666759b88f8393453e493c3f9e008c5585ee23ef18eba70fb9bed4172be2b0bed","sha512_file":"jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz.sha512","size":175080466,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+10-b829.27","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:b4bc53a8ff61+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.10+10-829.27-jcef","OS_NAME":"Windows","JAVA_VERSION":"17.0.10","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "491ab26fe5db22644d0c3ca552a58c05",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.10+10-829.27-jcef",
+    "JAVA_RUNTIME_VERSION": "17.0.10+10-b829.27",
+    "JAVA_VERSION": "17.0.10",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:b4bc53a8ff61+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "c8aae450c9095c7d1e8cf450031f562eac7daa0b",
+  "sha256": "39ac59b39ab8ac91a6e6d45a25ec0baddcdf9a8f65b186480291bcede1c5bfcb",
+  "sha512": "22582110b964f4ac77273e0f824f336471d00e827a699787c290cf2a6287fa8666759b88f8393453e493c3f9e008c5585ee23ef18eba70fb9bed4172be2b0bed",
+  "size": 175080466,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.10-windows-aarch64-b829.27.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b829.27"
+}

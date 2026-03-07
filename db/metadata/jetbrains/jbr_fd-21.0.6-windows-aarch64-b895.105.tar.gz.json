@@ -1,1 +1,36 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz","release_type":"ga","version":"21.0.6b895.105","java_version":"21.0.6","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz","md5":"867a6e542bbb6299d7d84417ad306d54","md5_file":"jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz.md5","sha1":"0f81ab2caac2f3e22de7898a027a5466ddfcdc0e","sha1_file":"jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz.sha1","sha256":"0a78e78d386f2944e34c7fee7350a694a116d3ba259a50fa2411cab82452e396","sha256_file":"jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz.sha256","sha512":"a369dfffd27cc0c5500d75adf93b95f633491331eb2f58d506fbb90b86ecaab0963251a36b9f79b3d2c801fca3f8801bc48bbd54e9041637184086c442d57e22","sha512_file":"jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz.sha512","size":207983999,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.6+9-b895.105","JCEF_VERSION":"122.1.9.1010+gec65784","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1d17d00bce75+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.6+9-895.105-fd","OS_NAME":"Windows","JAVA_VERSION":"21.0.6","JCEF_COMMIT_HASH":"ec657849620e5f38b0688802200dabcb0b7764ca","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.6",
+  "jvm_impl": "hotspot",
+  "md5": "867a6e542bbb6299d7d84417ad306d54",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.6+9-895.105-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.6+9-b895.105",
+    "JAVA_VERSION": "21.0.6",
+    "JCEF_COMMIT_HASH": "ec657849620e5f38b0688802200dabcb0b7764ca",
+    "JCEF_VERSION": "122.1.9.1010+gec65784",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1d17d00bce75+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "0f81ab2caac2f3e22de7898a027a5466ddfcdc0e",
+  "sha256": "0a78e78d386f2944e34c7fee7350a694a116d3ba259a50fa2411cab82452e396",
+  "sha512": "a369dfffd27cc0c5500d75adf93b95f633491331eb2f58d506fbb90b86ecaab0963251a36b9f79b3d2c801fca3f8801bc48bbd54e9041637184086c442d57e22",
+  "size": 207983999,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.6-windows-aarch64-b895.105.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.6b895.105"
+}

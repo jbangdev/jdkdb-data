@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz","release_type":"ga","version":"17.0.9b1162.7","java_version":"17.0.9","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz","md5":"29b45f45ea5d3489e72b41c8d480d935","md5_file":"jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz.md5","sha1":"796b8092a3824ef5ff9fe43b21cbba595ec80209","sha1_file":"jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz.sha1","sha256":"ab1e2973ee09f6cd8548c7188452d6c66ede40930f6fc1265260aed264664c5d","sha256_file":"jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz.sha256","sha512":"e3e59ecddad46e2100d85dd62af1ce1617e36bc5e2366044954ebaef01b3c9ddaf1531d89c1ced108ff2390b600ea596583c80b60cc507b815a35a8427578a34","sha512_file":"jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz.sha512","size":184265045,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.9+8-b1162.7","JCEF_VERSION":"111.2.1.724+g4aed30f","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1033157048e0+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.9+8-1162.7-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.9","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "29b45f45ea5d3489e72b41c8d480d935",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.9+8-1162.7-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.9+8-b1162.7",
+    "JAVA_VERSION": "17.0.9",
+    "JCEF_VERSION": "111.2.1.724+g4aed30f",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1033157048e0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "796b8092a3824ef5ff9fe43b21cbba595ec80209",
+  "sha256": "ab1e2973ee09f6cd8548c7188452d6c66ede40930f6fc1265260aed264664c5d",
+  "sha512": "e3e59ecddad46e2100d85dd62af1ce1617e36bc5e2366044954ebaef01b3c9ddaf1531d89c1ced108ff2390b600ea596583c80b60cc507b815a35a8427578a34",
+  "size": 184265045,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.9-windows-aarch64-b1162.7.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.9b1162.7"
+}

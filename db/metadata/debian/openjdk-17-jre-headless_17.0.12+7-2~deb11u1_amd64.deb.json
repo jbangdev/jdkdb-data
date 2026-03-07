@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb","release_type":"ga","version":"17.0.12+7-2~deb11u1","java_version":"17.0.12+7","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb","md5":"fe04643dc8fd311e1d292c777dc1325f","md5_file":"openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb.md5","sha1":"672e06b2a818f6a8a7b1ce1e3c44bdf62178739a","sha1_file":"openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb.sha1","sha256":"931464ffc20aff9cc0dec93f75942e12c81c4d61bb550bdbca236ff9e7bd98cf","sha256_file":"openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb.sha256","sha512":"49fe7af66dca275beef1b5e5d24816f044d51856b623e679326cd714ab9fe04788991971d1793ac331c9d6c2b7f539b06f7e19c4496922feded26c93d20b0591","sha512_file":"openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb.sha512","size":43676788,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.12+7-Debian-2deb11u1","JAVA_VERSION_DATE":"2024-07-16","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"x86_64","OS_NAME":"Linux","JAVA_VERSION":"17.0.12","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb",
+  "image_type": "jre",
+  "java_version": "17.0.12+7",
+  "jvm_impl": "hotspot",
+  "md5": "fe04643dc8fd311e1d292c777dc1325f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.12+7-Debian-2deb11u1",
+    "JAVA_VERSION": "17.0.12",
+    "JAVA_VERSION_DATE": "2024-07-16",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "672e06b2a818f6a8a7b1ce1e3c44bdf62178739a",
+  "sha256": "931464ffc20aff9cc0dec93f75942e12c81c4d61bb550bdbca236ff9e7bd98cf",
+  "sha512": "49fe7af66dca275beef1b5e5d24816f044d51856b623e679326cd714ab9fe04788991971d1793ac331c9d6c2b7f539b06f7e19c4496922feded26c93d20b0591",
+  "size": 43676788,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.12+7-2~deb11u1_amd64.deb",
+  "vendor": "debian",
+  "version": "17.0.12+7-2~deb11u1"
+}

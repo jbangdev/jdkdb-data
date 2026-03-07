@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz","release_type":"ga","version":"17.0.10b829.27","java_version":"17.0.10","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz","md5":"73a07f5119e995efff90a8a0b47c4558","md5_file":"jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz.md5","sha1":"a0654c4b385e80992b4156466887c623aa7d6929","sha1_file":"jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz.sha1","sha256":"b8976c98bfb9974c335e0c9ff488587275be3000c9618e14cee418d408fc4be6","sha256_file":"jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz.sha256","sha512":"ea4fc4d06934291cd8c6f0e7cc68990478a53f2416a0204c1a3f828320e70cbb7abd017b97534e4271d3bd81be0c0c3d00dcc0c20cdf19206d35d1a01d3d3d5e","sha512_file":"jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz.sha512","size":177904611,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+10-b829.27","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:b4bc53a8ff61+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.10+10-829.27-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.10","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "73a07f5119e995efff90a8a0b47c4558",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.10+10-829.27-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.10+10-b829.27",
+    "JAVA_VERSION": "17.0.10",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:b4bc53a8ff61+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "a0654c4b385e80992b4156466887c623aa7d6929",
+  "sha256": "b8976c98bfb9974c335e0c9ff488587275be3000c9618e14cee418d408fc4be6",
+  "sha512": "ea4fc4d06934291cd8c6f0e7cc68990478a53f2416a0204c1a3f828320e70cbb7abd017b97534e4271d3bd81be0c0c3d00dcc0c20cdf19206d35d1a01d3d3d5e",
+  "size": 177904611,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-windows-aarch64-b829.27.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b829.27"
+}

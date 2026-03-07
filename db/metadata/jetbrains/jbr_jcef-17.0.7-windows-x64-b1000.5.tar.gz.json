@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz","release_type":"ga","version":"17.0.7b1000.5","java_version":"17.0.7","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz","md5":"de243d0fad06eb818edac1fc161d6b25","md5_file":"jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz.md5","sha1":"76cc48463db357c8ff80a218abd7c5c989f9986c","sha1_file":"jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz.sha1","sha256":"eb0275ad35acaa9a214c8ad1d6978b3f25622cfed71eeed76d4080dba3ac9d83","sha256_file":"jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz.sha256","sha512":"9687404f9a0bef91a916f4bf8896851c9f3b9cb3ee633196af730a87ff83fff3339c5e67d7d3dd11574cbc9210e231c1109582e3ed6204f2c8f5a12ddc5d6ba9","sha512_file":"jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz.sha512","size":194502301,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JCEF_VERSION":"111.2.1.671+g783d112","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:8007085d3ddf+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.7+7-1000.5-jcef","OS_NAME":"Windows","JAVA_VERSION":"17.0.7","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "de243d0fad06eb818edac1fc161d6b25",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.7+7-1000.5-jcef",
+    "JAVA_VERSION": "17.0.7",
+    "JCEF_VERSION": "111.2.1.671+g783d112",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:8007085d3ddf+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "76cc48463db357c8ff80a218abd7c5c989f9986c",
+  "sha256": "eb0275ad35acaa9a214c8ad1d6978b3f25622cfed71eeed76d4080dba3ac9d83",
+  "sha512": "9687404f9a0bef91a916f4bf8896851c9f3b9cb3ee633196af730a87ff83fff3339c5e67d7d3dd11574cbc9210e231c1109582e3ed6204f2c8f5a12ddc5d6ba9",
+  "size": 194502301,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.7-windows-x64-b1000.5.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.7b1000.5"
+}

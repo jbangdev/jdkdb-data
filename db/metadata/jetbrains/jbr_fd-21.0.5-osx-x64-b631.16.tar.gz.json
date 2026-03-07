@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.5-osx-x64-b631.16.tar.gz","release_type":"ga","version":"21.0.5b631.16","java_version":"21.0.5","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.5-osx-x64-b631.16.tar.gz","md5":"bb05016d8d220c783d47146fd6e440d1","md5_file":"jbr_fd-21.0.5-osx-x64-b631.16.tar.gz.md5","sha1":"5e7fea699426719e8beb14de5f68b1c752aba3f1","sha1_file":"jbr_fd-21.0.5-osx-x64-b631.16.tar.gz.sha1","sha256":"5da735d9ee1b3db920c5b196d58dbee89ebba6855c7cc40ecb54a127d8e187c9","sha256_file":"jbr_fd-21.0.5-osx-x64-b631.16.tar.gz.sha256","sha512":"c010ba7bc28fcb7c28fa8ae95b16e1ba1bc1f42cee2c2694b8bf2e494219b8cce4c81c0f13dc292d2b0e8aeaed7358b8e6ce8fd5dcc1fd14c6b3b92913dfd1c4","sha512_file":"jbr_fd-21.0.5-osx-x64-b631.16.tar.gz.sha512","size":219164597,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.5+8-b631.16","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1765a089db77+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-21.0.5+8-631.16-fd","OS_NAME":"Darwin","JAVA_VERSION":"21.0.5","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.5-osx-x64-b631.16.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.5",
+  "jvm_impl": "hotspot",
+  "md5": "bb05016d8d220c783d47146fd6e440d1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.5+8-631.16-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.5+8-b631.16",
+    "JAVA_VERSION": "21.0.5",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:1765a089db77+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "5e7fea699426719e8beb14de5f68b1c752aba3f1",
+  "sha256": "5da735d9ee1b3db920c5b196d58dbee89ebba6855c7cc40ecb54a127d8e187c9",
+  "sha512": "c010ba7bc28fcb7c28fa8ae95b16e1ba1bc1f42cee2c2694b8bf2e494219b8cce4c81c0f13dc292d2b0e8aeaed7358b8e6ce8fd5dcc1fd14c6b3b92913dfd1c4",
+  "size": 219164597,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.5-osx-x64-b631.16.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.5b631.16"
+}

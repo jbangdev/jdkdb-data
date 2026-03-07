@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz","release_type":"ga","version":"17.0.7b1000.6","java_version":"17.0.7","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz","md5":"d77791614a034fab9dcf03f9883eb502","md5_file":"jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz.md5","sha1":"6c5268f6dcb37c2117bf1358953c66a7010b89bd","sha1_file":"jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz.sha1","sha256":"2b6ad6d1609b40e5d7b272c7f1feea22093f8dc14538af66f62f65ef52cfdf1a","sha256_file":"jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz.sha256","sha512":"e4795e57e524b467af53b87875ff426a6ba1ce4698cd4353997696d3526445d3a5f22efab25e6c8da6b439a30df23a1ec01408f07f40edf3bdd7509ad183f0c1","sha512_file":"jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz.sha512","size":194431843,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JCEF_VERSION":"111.2.1.671+g783d112","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:e102369e4dbd+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.7+7-1000.6-fd","OS_NAME":"Linux","JAVA_VERSION":"17.0.7","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "d77791614a034fab9dcf03f9883eb502",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.7+7-1000.6-fd",
+    "JAVA_VERSION": "17.0.7",
+    "JCEF_VERSION": "111.2.1.671+g783d112",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:e102369e4dbd+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "6c5268f6dcb37c2117bf1358953c66a7010b89bd",
+  "sha256": "2b6ad6d1609b40e5d7b272c7f1feea22093f8dc14538af66f62f65ef52cfdf1a",
+  "sha512": "e4795e57e524b467af53b87875ff426a6ba1ce4698cd4353997696d3526445d3a5f22efab25e6c8da6b439a30df23a1ec01408f07f40edf3bdd7509ad183f0c1",
+  "size": 194431843,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.7-linux-aarch64-b1000.6.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.7b1000.6"
+}

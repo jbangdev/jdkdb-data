@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz","release_type":"ga","version":"17.0.10b1171.14","java_version":"17.0.10","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz","md5":"d5eae0bc10d636695b05b28fb321b293","md5_file":"jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz.md5","sha1":"db9e0c15cfc12c2410a8474acd5cb99f64c7f401","sha1_file":"jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz.sha1","sha256":"010cbd71321dd1330892020cc626c878543532ab987f3ebe2b2c466ce4874eec","sha256_file":"jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz.sha256","sha512":"1217674eeb09a221276569c691f796ee28b55752631577876bc5a8b853b114abb51a893ba2cab50d0438dcae4c478f152954bcbda09b89b5d576ba168720fdce","sha512_file":"jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz.sha512","size":203020413,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+8-b1171.14","JCEF_VERSION":"119.4.7.749+g4467854","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1224c8f97ed8+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.10+8-1171.14-fd","OS_NAME":"Linux","JAVA_VERSION":"17.0.10","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "d5eae0bc10d636695b05b28fb321b293",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.10+8-1171.14-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.10+8-b1171.14",
+    "JAVA_VERSION": "17.0.10",
+    "JCEF_VERSION": "119.4.7.749+g4467854",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1224c8f97ed8+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "db9e0c15cfc12c2410a8474acd5cb99f64c7f401",
+  "sha256": "010cbd71321dd1330892020cc626c878543532ab987f3ebe2b2c466ce4874eec",
+  "sha512": "1217674eeb09a221276569c691f796ee28b55752631577876bc5a8b853b114abb51a893ba2cab50d0438dcae4c478f152954bcbda09b89b5d576ba168720fdce",
+  "size": 203020413,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-linux-x64-b1171.14.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b1171.14"
+}

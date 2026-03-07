@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz","release_type":"ga","version":"17.0.10b1207.6","java_version":"17.0.10","jvm_impl":"hotspot","os":"windows","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz","md5":"a242ddae1865ec981abfea16da74fe76","md5_file":"jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz.md5","sha1":"7b2ac342dd7030e238b49abe1d4167b015197949","sha1_file":"jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz.sha1","sha256":"c73c9629af608f369e7d89ddc80b8f2865017d76d3a06a36aa235b80e136f723","sha256_file":"jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz.sha256","sha512":"5cc165eb7f376b0ae494a2ee6ef0ad1917f548ade9b78dca115ed20fc1b26310a4ac842261dbd277e175b0529438e2a0ce657f754def418a9d1be69d0015bb1c","sha512_file":"jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz.sha512","size":194951840,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+8-b1207.6","JCEF_VERSION":"119.4.7.760+g7e1384f","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:2445ea8d3dc2+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.10+8-1207.6-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.10","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "a242ddae1865ec981abfea16da74fe76",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.10+8-1207.6-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.10+8-b1207.6",
+    "JAVA_VERSION": "17.0.10",
+    "JCEF_VERSION": "119.4.7.760+g7e1384f",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2445ea8d3dc2+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "7b2ac342dd7030e238b49abe1d4167b015197949",
+  "sha256": "c73c9629af608f369e7d89ddc80b8f2865017d76d3a06a36aa235b80e136f723",
+  "sha512": "5cc165eb7f376b0ae494a2ee6ef0ad1917f548ade9b78dca115ed20fc1b26310a4ac842261dbd277e175b0529438e2a0ce657f754def418a9d1be69d0015bb1c",
+  "size": 194951840,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-windows-aarch64-b1207.6.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b1207.6"
+}

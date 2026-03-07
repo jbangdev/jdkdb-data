@@ -1,1 +1,31 @@
-{"vendor":"openjdk","filename":"openjdk-27-ea+10_linux-x64_bin.tar.gz","release_type":"ea","version":"27-ea+10","java_version":"27-ea+10","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":[],"url":"https://download.java.net/java/early_access/jdk27/10/GPL/openjdk-27-ea+10_linux-x64_bin.tar.gz","md5":"9e002e9db0e03d527ca1d3131e80c626","md5_file":"openjdk-27-ea+10_linux-x64_bin.tar.gz.md5","sha1":"61158843cb23360f2b777c1ea698d22b7cc40eb4","sha1_file":"openjdk-27-ea+10_linux-x64_bin.tar.gz.sha1","sha256":"d42a6202d27fdca3cc1de29d07dc85bb73d27637ba1e1ed715357472da050d31","sha256_file":"openjdk-27-ea+10_linux-x64_bin.tar.gz.sha256","sha512":"1c6bfcf7a12b0ff46bc26e919ff8cb7cbcf68be3b3109db06ba4b552d5064c2d5bf7277bc563454351923b15c5693f26b7cade92a390c9affe812c264b327d1b","sha512_file":"openjdk-27-ea+10_linux-x64_bin.tar.gz.sha512","size":227805359,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"27-ea+10-857","JAVA_VERSION_DATE":"2026-09-15","IMPLEMENTOR":"Oracle Corporation","SOURCE":".:git:759fe58877ac","OS_ARCH":"x86_64","OS_NAME":"Linux","JAVA_VERSION":"27","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+10_linux-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+10",
+  "jvm_impl": "hotspot",
+  "md5": "9e002e9db0e03d527ca1d3131e80c626",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+10-857",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:759fe58877ac"
+  },
+  "release_type": "ea",
+  "sha1": "61158843cb23360f2b777c1ea698d22b7cc40eb4",
+  "sha256": "d42a6202d27fdca3cc1de29d07dc85bb73d27637ba1e1ed715357472da050d31",
+  "sha512": "1c6bfcf7a12b0ff46bc26e919ff8cb7cbcf68be3b3109db06ba4b552d5064c2d5bf7277bc563454351923b15c5693f26b7cade92a390c9affe812c264b327d1b",
+  "size": 227805359,
+  "url": "https://download.java.net/java/early_access/jdk27/10/GPL/openjdk-27-ea+10_linux-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+10"
+}

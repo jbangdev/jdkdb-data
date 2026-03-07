@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz","release_type":"ga","version":"21.0.9b1038.76","java_version":"21.0.9","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz","md5":"eaac3455be755454f7a8a7ad6fb5591a","md5_file":"jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz.md5","sha1":"b8555dd5762cac2884fe927879b15f7688e46b6e","sha1_file":"jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz.sha1","sha256":"29c0742972ca6bbf78fa783e05d32e701c1833c00611f6c40b5f83ab8a35890f","sha256_file":"jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz.sha256","sha512":"65073036067cca4bb13069630b0bf06ca389b359786b759136df28fec1031fb27f92da99d117cd258d57082134892ac92b0065003156a6e33fae649d64ded235","sha512_file":"jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz.sha512","size":296570886,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.9+1-b1038.76","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:28a436e7b3a4+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.9+1-1038.76-fd","OS_NAME":"Windows","JAVA_VERSION":"21.0.9","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "md5": "eaac3455be755454f7a8a7ad6fb5591a",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.9+1-1038.76-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.9+1-b1038.76",
+    "JAVA_VERSION": "21.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:28a436e7b3a4+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "b8555dd5762cac2884fe927879b15f7688e46b6e",
+  "sha256": "29c0742972ca6bbf78fa783e05d32e701c1833c00611f6c40b5f83ab8a35890f",
+  "sha512": "65073036067cca4bb13069630b0bf06ca389b359786b759136df28fec1031fb27f92da99d117cd258d57082134892ac92b0065003156a6e33fae649d64ded235",
+  "size": 296570886,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.9-windows-x64-fastdebug-b1038.76.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.76"
+}

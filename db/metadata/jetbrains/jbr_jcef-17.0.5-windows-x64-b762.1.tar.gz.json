@@ -1,1 +1,32 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz","release_type":"ga","version":"17.0.5b762.1","java_version":"17.0.5","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz","md5":"b6b3ae5d84536fff187ef3b88000de8c","md5_file":"jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz.md5","sha1":"a986ba428d3ffb4c2276f07d00c163fc291c90b7","sha1_file":"jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz.sha1","sha256":"71adbca9e311a0e1f64aa5426692f59ecb1eebc623924c95ccbaa799da1c7a46","sha256_file":"jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz.sha256","sha512":"d964a4dbf11f59240d40f40c9c03e72b526ff808fdaffe069f08de10fc457e99a0f828436eed8f3b18530c4fc017d557516eee2d63fd81327a2e16caa61ed034","sha512_file":"jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz.sha512","size":180972048,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:41fa771f2b41+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.5+8-762.1-jcef","OS_NAME":"Windows","JAVA_VERSION":"17.0.5","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.5",
+  "jvm_impl": "hotspot",
+  "md5": "b6b3ae5d84536fff187ef3b88000de8c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.5+8-762.1-jcef",
+    "JAVA_VERSION": "17.0.5",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:41fa771f2b41+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "a986ba428d3ffb4c2276f07d00c163fc291c90b7",
+  "sha256": "71adbca9e311a0e1f64aa5426692f59ecb1eebc623924c95ccbaa799da1c7a46",
+  "sha512": "d964a4dbf11f59240d40f40c9c03e72b526ff808fdaffe069f08de10fc457e99a0f828436eed8f3b18530c4fc017d557516eee2d63fd81327a2e16caa61ed034",
+  "size": 180972048,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.5-windows-x64-b762.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.5b762.1"
+}

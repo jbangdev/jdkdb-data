@@ -1,1 +1,33 @@
-{"vendor":"debian","filename":"openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb","release_type":"ga","version":"17.0.18+8-1~deb12u1","java_version":"17.0.18+8","jvm_impl":"hotspot","os":"linux","architecture":"s390x","file_type":"deb","image_type":"jre","features":["headless"],"url":"http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb","md5":"40981c18f5ad5161f55c1d4c7c8db137","md5_file":"openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb.md5","sha1":"f204c3360e8862cb1168209426a64bfafd37b70e","sha1_file":"openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb.sha1","sha256":"f8ad3af5333399eb88afa40e3cd4fc0658a2f8a482fc8da098b6d0c54f8e0131","sha256_file":"openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb.sha256","sha512":"5381e5012fd19a8ea5575e2375e01df49bb7bac96d1a93e3378c10d07c9483eb57177822d04fcfd5a30924981035c9e12067d502dc0162811baf2cf027739a8d","sha512_file":"openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb.sha512","size":40535676,"release_info":{"MODULES":"java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.18+8-Debian-1deb12u1","JAVA_VERSION_DATE":"2026-01-20","IMPLEMENTOR":"Debian","SOURCE":"","OS_ARCH":"s390x","OS_NAME":"Linux","JAVA_VERSION":"17.0.18","LIBC":"gnu"}}
+{
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb",
+  "image_type": "jre",
+  "java_version": "17.0.18+8",
+  "jvm_impl": "hotspot",
+  "md5": "40981c18f5ad5161f55c1d4c7c8db137",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.18+8-Debian-1deb12u1",
+    "JAVA_VERSION": "17.0.18",
+    "JAVA_VERSION_DATE": "2026-01-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "f204c3360e8862cb1168209426a64bfafd37b70e",
+  "sha256": "f8ad3af5333399eb88afa40e3cd4fc0658a2f8a482fc8da098b6d0c54f8e0131",
+  "sha512": "5381e5012fd19a8ea5575e2375e01df49bb7bac96d1a93e3378c10d07c9483eb57177822d04fcfd5a30924981035c9e12067d502dc0162811baf2cf027739a8d",
+  "size": 40535676,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.18+8-1~deb12u1_s390x.deb",
+  "vendor": "debian",
+  "version": "17.0.18+8-1~deb12u1"
+}

@@ -1,1 +1,31 @@
-{"vendor":"jetbrains","filename":"jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz","release_type":"ga","version":"11.0.13b1751.25","java_version":"11.0.13","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz","md5":"a98942d6800c5330f68874c585471aed","md5_file":"jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz.md5","sha1":"933c2154dfd07dfc4f244f6508cfb412181ef7b2","sha1_file":"jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz.sha1","sha256":"ff25012920cf43062a7c566e80de8b233f1979040db8fa82f5843f67a2381c89","sha256_file":"jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz.sha256","sha512":"a1c30758f0dc42bd6bc098ed5c92362d755f11d7a514c3242c0c96b0c1d94200e25b53e247eba305d4ea32d64b7e5c1bc9f6001f4106f39aa46935aa0d15db00","sha512_file":"jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz.sha512","size":165158663,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:5e05211b6248+ jcef_git:git:cdacaad252e2","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-11.0.13.7-1751.25-dcevm","OS_NAME":"Windows","JAVA_VERSION":"11.0.13"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz",
+  "image_type": "jre",
+  "java_version": "11.0.13",
+  "jvm_impl": "hotspot",
+  "md5": "a98942d6800c5330f68874c585471aed",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-11.0.13.7-1751.25-dcevm",
+    "JAVA_VERSION": "11.0.13",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:5e05211b6248+ jcef_git:git:cdacaad252e2"
+  },
+  "release_type": "ga",
+  "sha1": "933c2154dfd07dfc4f244f6508cfb412181ef7b2",
+  "sha256": "ff25012920cf43062a7c566e80de8b233f1979040db8fa82f5843f67a2381c89",
+  "sha512": "a1c30758f0dc42bd6bc098ed5c92362d755f11d7a514c3242c0c96b0c1d94200e25b53e247eba305d4ea32d64b7e5c1bc9f6001f4106f39aa46935aa0d15db00",
+  "size": 165158663,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_13-windows-x64-b1751.25.tar.gz",
+  "vendor": "jetbrains",
+  "version": "11.0.13b1751.25"
+}

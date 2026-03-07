@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz","release_type":"ga","version":"17.0.10b1207.14","java_version":"17.0.10","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz","md5":"f51dbe10f1bb60576ae3170902aa3c0e","md5_file":"jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz.md5","sha1":"b9abe7aeffce8f0833f5d917e6cd524d673cb238","sha1_file":"jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz.sha1","sha256":"242fbb6599919626d46921e791e83467bda2df8fcd447485466d328b5c58fb1b","sha256_file":"jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz.sha256","sha512":"7d78f5ec9139ef33092159066e68f7ca4566b4cc06ffd5b3978b1148a2b3cecad9496d1f6fc19dc06961bdd1ec08035e710d129479c4c1be6044fe36d3c2ca8a","sha512_file":"jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz.sha512","size":191775463,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.10+1-b1207.14","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:ecf489f74413+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.0.10+1-1207.14-fd","OS_NAME":"Darwin","JAVA_VERSION":"17.0.10","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.10",
+  "jvm_impl": "hotspot",
+  "md5": "f51dbe10f1bb60576ae3170902aa3c0e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.10+1-1207.14-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.10+1-b1207.14",
+    "JAVA_VERSION": "17.0.10",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ecf489f74413+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "b9abe7aeffce8f0833f5d917e6cd524d673cb238",
+  "sha256": "242fbb6599919626d46921e791e83467bda2df8fcd447485466d328b5c58fb1b",
+  "sha512": "7d78f5ec9139ef33092159066e68f7ca4566b4cc06ffd5b3978b1148a2b3cecad9496d1f6fc19dc06961bdd1ec08035e710d129479c4c1be6044fe36d3c2ca8a",
+  "size": 191775463,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.10-osx-aarch64-b1207.14.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.10b1207.14"
+}

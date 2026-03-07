@@ -1,1 +1,33 @@
-{"vendor":"jetbrains","filename":"jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz","release_type":"ga","version":"21.0.6b895.109","java_version":"21.0.6","jvm_impl":"hotspot","os":"macosx","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["fastdebug"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz","md5":"1a98ab7af9be4203a0955493b2e699a2","md5_file":"jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz.md5","sha1":"2f0df13e74dc3dcc815e937e936ee393d6839af9","sha1_file":"jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz.sha1","sha256":"41187608844f3d530adc34e8ec0c833a1f5f96f059e6be6578f279ff27be12b2","sha256_file":"jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz.sha256","sha512":"ae89413d0b8114c534068d933363ea240fa6f672fa087cff8471d4c27a8c34bc1713c71d54cba853f9e6af5e72824916fc6db137f96defd4b813658b7fbf4028","sha512_file":"jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz.sha512","size":373672674,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.6+9-b895.109","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:5197cdecaf50+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBRSDK-21.0.6+9-895.109-fd","OS_NAME":"Darwin","JAVA_VERSION":"21.0.6","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.6",
+  "jvm_impl": "hotspot",
+  "md5": "1a98ab7af9be4203a0955493b2e699a2",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.6+9-895.109-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.6+9-b895.109",
+    "JAVA_VERSION": "21.0.6",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:5197cdecaf50+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "2f0df13e74dc3dcc815e937e936ee393d6839af9",
+  "sha256": "41187608844f3d530adc34e8ec0c833a1f5f96f059e6be6578f279ff27be12b2",
+  "sha512": "ae89413d0b8114c534068d933363ea240fa6f672fa087cff8471d4c27a8c34bc1713c71d54cba853f9e6af5e72824916fc6db137f96defd4b813658b7fbf4028",
+  "size": 373672674,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.6-osx-x64-fastdebug-b895.109.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.6b895.109"
+}

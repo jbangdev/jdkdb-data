@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.7-windows-x64-b985.2.tar.gz","release_type":"ga","version":"17.0.7b985.2","java_version":"17.0.7","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.7-windows-x64-b985.2.tar.gz","md5":"99b0a10eafb676650ff32aa498664b5c","md5_file":"jbr_fd-17.0.7-windows-x64-b985.2.tar.gz.md5","sha1":"ed99b3f6d339f9b7952983d75f2e3f5ca24f51ab","sha1_file":"jbr_fd-17.0.7-windows-x64-b985.2.tar.gz.sha1","sha256":"bc4d93977052a0d881bc134951f6058dd02a0111ce217fffc42693f6778b7a4c","sha256_file":"jbr_fd-17.0.7-windows-x64-b985.2.tar.gz.sha256","sha512":"1dfc5b76adb7d0e8f170f6398a4b0b891742032fb0755b818e035d4933e1dbd128aa9ee85f7e39ad6fdbf20815da697220b59514c7d5aabb236bf2047e19b4e8","sha512_file":"jbr_fd-17.0.7-windows-x64-b985.2.tar.gz.sha512","size":198117248,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JCEF_VERSION":"111.2.1.670+g2a20237","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:cd8e69b4fb43+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.7+7-985.2-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.7","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.7-windows-x64-b985.2.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "99b0a10eafb676650ff32aa498664b5c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.7+7-985.2-fd",
+    "JAVA_VERSION": "17.0.7",
+    "JCEF_VERSION": "111.2.1.670+g2a20237",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:cd8e69b4fb43+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "ed99b3f6d339f9b7952983d75f2e3f5ca24f51ab",
+  "sha256": "bc4d93977052a0d881bc134951f6058dd02a0111ce217fffc42693f6778b7a4c",
+  "sha512": "1dfc5b76adb7d0e8f170f6398a4b0b891742032fb0755b818e035d4933e1dbd128aa9ee85f7e39ad6fdbf20815da697220b59514c7d5aabb236bf2047e19b4e8",
+  "size": 198117248,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.7-windows-x64-b985.2.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.7b985.2"
+}

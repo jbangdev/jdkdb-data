@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz","release_type":"ga","version":"21.0.7b895.130","java_version":"21.0.7","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz","md5":"8726d3a6a6665f87b31fd49a58e57d1d","md5_file":"jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz.md5","sha1":"4f6833b563ec0e73b02b826bfb138853a1fe43c4","sha1_file":"jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz.sha1","sha256":"50377dfe534b4eb6021723c8381b295f6f9c3fbbca951c58f610628981ca6643","sha256_file":"jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz.sha256","sha512":"fa5022856c49fd08b41c3dcc0a821ca3b342a3b466fbbf0a162c738afdf56fc7e1d53ece6621aa5bb8dcae275e7ceffcf9da8f4c9396996a0767b473e7a6edae","sha512_file":"jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz.sha512","size":208163762,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.7+9-b895.130","JCEF_VERSION":"122.1.9.1014+g7a7b938","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:acdcc3a195c0+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.7+9-895.130-jcef","OS_NAME":"Darwin","JAVA_VERSION":"21.0.7","JCEF_COMMIT_HASH":"7a7b9383b3bf39c850feb0d103c6b829e2f48a6b","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.7",
+  "jvm_impl": "hotspot",
+  "md5": "8726d3a6a6665f87b31fd49a58e57d1d",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.7+9-895.130-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.7+9-b895.130",
+    "JAVA_VERSION": "21.0.7",
+    "JCEF_COMMIT_HASH": "7a7b9383b3bf39c850feb0d103c6b829e2f48a6b",
+    "JCEF_VERSION": "122.1.9.1014+g7a7b938",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:acdcc3a195c0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "4f6833b563ec0e73b02b826bfb138853a1fe43c4",
+  "sha256": "50377dfe534b4eb6021723c8381b295f6f9c3fbbca951c58f610628981ca6643",
+  "sha512": "fa5022856c49fd08b41c3dcc0a821ca3b342a3b466fbbf0a162c738afdf56fc7e1d53ece6621aa5bb8dcae275e7ceffcf9da8f4c9396996a0767b473e7a6edae",
+  "size": 208163762,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.7-osx-aarch64-b895.130.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.7b895.130"
+}

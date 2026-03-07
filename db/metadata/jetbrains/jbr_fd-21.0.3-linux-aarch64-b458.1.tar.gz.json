@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz","release_type":"ga","version":"21.0.3b458.1","java_version":"21.0.3","jvm_impl":"hotspot","os":"linux","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz","md5":"493604e75a54d7806493c308c91326ea","md5_file":"jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz.md5","sha1":"56e729c2456b2703bb2423709adacaeeefa56935","sha1_file":"jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz.sha1","sha256":"518a7149fca8ff3cb025297031c36d0bb1c813d8091d98e06240c323b7d659b4","sha256_file":"jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz.sha256","sha512":"023fa2e6119e61b7131c233a2ddd6988cc39eb3adb5b49595af0eb6e2a135dc6307281d8c2ed0487d9c4824ef19a60e138a6bbc627a1726b7038c2f135b58024","sha512_file":"jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz.sha512","size":214227511,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom","JAVA_RUNTIME_VERSION":"21.0.3+13-b458.1","JCEF_VERSION":"122.1.9.867+g34dfd65","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:8afe214424d7+ jcef_git:git:4a605f44671a","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-21.0.3+13-458.1-fd","OS_NAME":"Linux","JAVA_VERSION":"21.0.3","LIBC":"gnu"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "493604e75a54d7806493c308c91326ea",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.3+13-458.1-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.3+13-b458.1",
+    "JAVA_VERSION": "21.0.3",
+    "JCEF_VERSION": "122.1.9.867+g34dfd65",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all org.apache.thrift jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8afe214424d7+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "56e729c2456b2703bb2423709adacaeeefa56935",
+  "sha256": "518a7149fca8ff3cb025297031c36d0bb1c813d8091d98e06240c323b7d659b4",
+  "sha512": "023fa2e6119e61b7131c233a2ddd6988cc39eb3adb5b49595af0eb6e2a135dc6307281d8c2ed0487d9c4824ef19a60e138a6bbc627a1726b7038c2f135b58024",
+  "size": 214227511,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.3-linux-aarch64-b458.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.3b458.1"
+}

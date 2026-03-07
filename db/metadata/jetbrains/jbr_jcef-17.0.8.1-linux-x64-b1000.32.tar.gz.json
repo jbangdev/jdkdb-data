@@ -1,1 +1,34 @@
-{"vendor":"jetbrains","filename":"jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz","release_type":"ga","version":"17.0.8.1b1000.32","java_version":"17.0.8.1","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz","md5":"e3757f293b9461cc0b6ebeddb93d25cb","md5_file":"jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz.md5","sha1":"9751cee651c0535c48fb462f5dd9f41a6e6587cf","sha1_file":"jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz.sha1","sha256":"70ea6c7c2005508e4abe868cc23451a3a914e078b2d4c77e841c8b730949b7ad","sha256_file":"jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz.sha256","sha512":"c6ce77b69d90bebc2102eb3e19ff224e8fe03bf95289b40c3f3e263c98e635d7b8cf4ec2e7cb8444c39b8ec7adb72a7438e261557c0538c849fc28061689a582","sha512_file":"jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz.sha512","size":187335834,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.8.1+7-b1000.32","JCEF_VERSION":"111.2.1.674+g5e74e8b","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:06bb4772b5b5+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.8.1+7-1000.32-jcef","OS_NAME":"Linux","JAVA_VERSION":"17.0.8.1","LIBC":"gnu"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.8.1",
+  "jvm_impl": "hotspot",
+  "md5": "e3757f293b9461cc0b6ebeddb93d25cb",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.8.1+7-1000.32-jcef",
+    "JAVA_RUNTIME_VERSION": "17.0.8.1+7-b1000.32",
+    "JAVA_VERSION": "17.0.8.1",
+    "JCEF_VERSION": "111.2.1.674+g5e74e8b",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:06bb4772b5b5+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "9751cee651c0535c48fb462f5dd9f41a6e6587cf",
+  "sha256": "70ea6c7c2005508e4abe868cc23451a3a914e078b2d4c77e841c8b730949b7ad",
+  "sha512": "c6ce77b69d90bebc2102eb3e19ff224e8fe03bf95289b40c3f3e263c98e635d7b8cf4ec2e7cb8444c39b8ec7adb72a7438e261557c0538c849fc28061689a582",
+  "size": 187335834,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.8.1-linux-x64-b1000.32.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.8.1b1000.32"
+}

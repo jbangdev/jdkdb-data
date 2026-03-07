@@ -1,1 +1,30 @@
-{"vendor":"kona","filename":"TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz","release_type":"ga","version":"8.0.20.b1","java_version":"8u432","jvm_impl":"hotspot","os":"linux","architecture":"x86_64","file_type":"tar.gz","image_type":"jdk","features":["musl"],"url":"https://github.com/Tencent/TencentKona-8/releases/download/8.0.20-GA/TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz","md5":"31aad358899e522d82ac2b31373dcf68","md5_file":"TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz.md5","sha1":"54ef3357126be87a444f0c74a8bea8f253380c76","sha1_file":"TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz.sha1","sha256":"1e757d0917b981e517be88945b2ab926e40e2b0799348f4ec229bf05afd40a94","sha256_file":"TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz.sha256","sha512":"8d1c73e81bf85f9d0785d54ab2a0cab91319e685733d8f31f090f76e3529d0be3e58897a065479f6a87138d12f4c66a88165d1194aeec611020098eff9e6ab25","sha512_file":"TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz.sha512","size":104528711,"release_info":{"OS_VERSION":"2.6","SOURCE":".:git:9b9d6a098a04+","OS_ARCH":"amd64","OS_NAME":"Linux","JAVA_VERSION":"1.8.0_432","LIBC":""}}
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8u432",
+  "jvm_impl": "hotspot",
+  "md5": "31aad358899e522d82ac2b31373dcf68",
+  "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_432",
+    "LIBC": "",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:9b9d6a098a04+"
+  },
+  "release_type": "ga",
+  "sha1": "54ef3357126be87a444f0c74a8bea8f253380c76",
+  "sha256": "1e757d0917b981e517be88945b2ab926e40e2b0799348f4ec229bf05afd40a94",
+  "sha512": "8d1c73e81bf85f9d0785d54ab2a0cab91319e685733d8f31f090f76e3529d0be3e58897a065479f6a87138d12f4c66a88165d1194aeec611020098eff9e6ab25",
+  "size": 104528711,
+  "url": "https://github.com/Tencent/TencentKona-8/releases/download/8.0.20-GA/TencentKona8.0.20.b1_jdk_linux-musl-x86_64_8u432.tar.gz",
+  "vendor": "tencent",
+  "version": "8.0.20.b1"
+}

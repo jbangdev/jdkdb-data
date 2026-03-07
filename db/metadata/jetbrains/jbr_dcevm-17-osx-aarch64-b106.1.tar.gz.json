@@ -1,1 +1,32 @@
-{"vendor":"jetbrains","filename":"jbr_dcevm-17-osx-aarch64-b106.1.tar.gz","release_type":"ga","version":"17b106.1","java_version":"17","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-17-osx-aarch64-b106.1.tar.gz","md5":"f3ab1819d10a45d86f67a356258354d5","md5_file":"jbr_dcevm-17-osx-aarch64-b106.1.tar.gz.md5","sha1":"12182b6196844c86aadcdc05a5d3aa13d63d44a9","sha1_file":"jbr_dcevm-17-osx-aarch64-b106.1.tar.gz.sha1","sha256":"2d4302d75f2a2851c86a2a687e772e79bf3692c2c36eb45f972e0951987cc84f","sha256_file":"jbr_dcevm-17-osx-aarch64-b106.1.tar.gz.sha256","sha512":"f6f50933f7ecdbf1543529250f0599d2e405f48c8d90cdbac4f0c23a7de6af69c9d6b49319dc48aef5a4a6ef22482be7dc6eda0dfec21fe92aed091b604cb17e","sha512_file":"jbr_dcevm-17-osx-aarch64-b106.1.tar.gz.sha512","size":207514771,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs jetbrains.api jetbrains.api.impl","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:889c2899b0cb+ jcef_git:git:8be3c18cfeab","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-17.35-106.1-dcevm","OS_NAME":"Darwin","JAVA_VERSION":"17","LIBC":"default"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_dcevm-17-osx-aarch64-b106.1.tar.gz",
+  "image_type": "jre",
+  "java_version": "17",
+  "jvm_impl": "hotspot",
+  "md5": "f3ab1819d10a45d86f67a356258354d5",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.35-106.1-dcevm",
+    "JAVA_VERSION": "17",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs jetbrains.api jetbrains.api.impl",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:889c2899b0cb+ jcef_git:git:8be3c18cfeab"
+  },
+  "release_type": "ga",
+  "sha1": "12182b6196844c86aadcdc05a5d3aa13d63d44a9",
+  "sha256": "2d4302d75f2a2851c86a2a687e772e79bf3692c2c36eb45f972e0951987cc84f",
+  "sha512": "f6f50933f7ecdbf1543529250f0599d2e405f48c8d90cdbac4f0c23a7de6af69c9d6b49319dc48aef5a4a6ef22482be7dc6eda0dfec21fe92aed091b604cb17e",
+  "size": 207514771,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-17-osx-aarch64-b106.1.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17b106.1"
+}

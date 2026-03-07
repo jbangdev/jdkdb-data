@@ -1,1 +1,31 @@
-{"vendor":"jetbrains","filename":"jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz","release_type":"ga","version":"11.0.14.1b2043.17","java_version":"11.0.14.1","jvm_impl":"hotspot","os":"macosx","architecture":"aarch64","file_type":"tar.gz","image_type":"jre","features":["jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz","md5":"522919736b418765185f11219e05d13a","md5_file":"jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz.md5","sha1":"d3296486cabda2bc60ce1a99b15f6b0f3090463d","sha1_file":"jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz.sha1","sha256":"b5f29f09b6d48ec6a2e6095c872ffde5f564aad68b18f431103f4cc08637868f","sha256_file":"jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz.sha256","sha512":"84d8d2104492f34679705e3a2df5926812c5b97db3a88c87435b7aada5a4828b0878dc548c282ddd1f8c901a5fed20fb84f94cfe27e699bd16ba3d3a0a993943","sha512_file":"jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz.sha512","size":176300396,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:87370bcf2451+ jcef_git:git:316db138ea00","OS_ARCH":"aarch64","IMPLEMENTOR_VERSION":"JBR-11.0.14.1.1-2043.17-dcevm","OS_NAME":"Darwin","JAVA_VERSION":"11.0.14.1"}}
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz",
+  "image_type": "jre",
+  "java_version": "11.0.14.1",
+  "jvm_impl": "hotspot",
+  "md5": "522919736b418765185f11219e05d13a",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-11.0.14.1.1-2043.17-dcevm",
+    "JAVA_VERSION": "11.0.14.1",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:87370bcf2451+ jcef_git:git:316db138ea00"
+  },
+  "release_type": "ga",
+  "sha1": "d3296486cabda2bc60ce1a99b15f6b0f3090463d",
+  "sha256": "b5f29f09b6d48ec6a2e6095c872ffde5f564aad68b18f431103f4cc08637868f",
+  "sha512": "84d8d2104492f34679705e3a2df5926812c5b97db3a88c87435b7aada5a4828b0878dc548c282ddd1f8c901a5fed20fb84f94cfe27e699bd16ba3d3a0a993943",
+  "size": 176300396,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_14_1-osx-aarch64-b2043.17.tar.gz",
+  "vendor": "jetbrains",
+  "version": "11.0.14.1b2043.17"
+}

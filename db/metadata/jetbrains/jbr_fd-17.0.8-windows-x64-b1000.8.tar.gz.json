@@ -1,1 +1,35 @@
-{"vendor":"jetbrains","filename":"jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz","release_type":"ga","version":"17.0.8b1000.8","java_version":"17.0.8","jvm_impl":"hotspot","os":"windows","architecture":"x86_64","file_type":"tar.gz","image_type":"jre","features":["fastdebug","jcef"],"url":"https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz","md5":"07d7758bcc9b1625487c2b76a384c676","md5_file":"jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz.md5","sha1":"3f761c372f78f0f89f7ac9361b02c6574a659aaa","sha1_file":"jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz.sha1","sha256":"182de8bac6bbe8dd5bdac31860a1ed18de9152859fdfe4629c09d038fd1974f9","sha256_file":"jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz.sha256","sha512":"a04b2ea679e3bf30acbc4d95ce521f589f04e4565083979faf703a57205f14cacd06a9ef1d050c69c19121c9e2e2f7ed5dca03983f4962de0fd05a501ca92ae5","sha512_file":"jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz.sha512","size":198192869,"release_info":{"MODULES":"java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs","JAVA_RUNTIME_VERSION":"17.0.8+7-b1000.8","JCEF_VERSION":"111.2.1.673+gd9dbcc0","IMPLEMENTOR":"JetBrains s.r.o.","SOURCE":".:git:1554194d10f5+ jcef_git:git:4a605f44671a","OS_ARCH":"x86_64","IMPLEMENTOR_VERSION":"JBR-17.0.8+7-1000.8-fd","OS_NAME":"Windows","JAVA_VERSION":"17.0.8","LIBC":"default"}}
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.8",
+  "jvm_impl": "hotspot",
+  "md5": "07d7758bcc9b1625487c2b76a384c676",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-17.0.8+7-1000.8-fd",
+    "JAVA_RUNTIME_VERSION": "17.0.8+7-b1000.8",
+    "JAVA_VERSION": "17.0.8",
+    "JCEF_VERSION": "111.2.1.673+gd9dbcc0",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1554194d10f5+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "3f761c372f78f0f89f7ac9361b02c6574a659aaa",
+  "sha256": "182de8bac6bbe8dd5bdac31860a1ed18de9152859fdfe4629c09d038fd1974f9",
+  "sha512": "a04b2ea679e3bf30acbc4d95ce521f589f04e4565083979faf703a57205f14cacd06a9ef1d050c69c19121c9e2e2f7ed5dca03983f4962de0fd05a501ca92ae5",
+  "size": 198192869,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.8-windows-x64-b1000.8.tar.gz",
+  "vendor": "jetbrains",
+  "version": "17.0.8b1000.8"
+}
