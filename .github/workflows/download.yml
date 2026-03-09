@@ -18,6 +18,11 @@ on:
         required: true
         type: number
         default: 100
+      randomize:
+        description: 'Randomize the order of updates'
+        required: true
+        type: boolean
+        default: true
       do_commit:
         description: 'Commit the changes after updating checksums'
         required: true
@@ -56,6 +61,9 @@ jobs:
         if [ "${{ inputs.limit-total }}" != "0" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --limit-total ${{ inputs.limit-total }}"
         fi
+        if [ "${{ inputs.randomize }}" == "true" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --randomize"
+        fi
         echo "Running update with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
         jbang --java 21+ $APP download $EXTRA_OPTS
@@ -66,7 +74,7 @@ jobs:
         GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        EXTRA_OPTS="--limit-total 1000 --exclude pkg,dmg"
+        EXTRA_OPTS="--limit-total 1000 --exclude pkg,dmg --randomize"
         echo "Running download with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
         jbang --java 21+ $APP download $EXTRA_OPTS
