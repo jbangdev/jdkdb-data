@@ -1,4 +1,4 @@
-name: Update jdkdb - checksums (not mac)
+name: Update jdkdb - checksums (not dmg/pkg)
 on:
   workflow_run:
     workflows: ["Update jdkdb - metadata"]
@@ -80,11 +80,10 @@ jobs:
         jbang --java 21+ $APP download $EXTRA_OPTS
 
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: stefanzweifel/git-auto-commit-action@v7
       if: github.event_name == 'workflow_run' || inputs.do_commit
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        message: "Update checksums (not mac)"
+        commit_message: "Update checksums (not dmg/pkg)"
 
     - name: Upload log files
       uses: actions/upload-artifact@v6

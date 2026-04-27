@@ -1,7 +1,7 @@
-name: Update jdkdb - checksums (mac only)
+name: Update jdkdb - checksums (only dmg/pkg)
 on:
   workflow_run:
-    workflows: ["Update jdkdb - checksums (not mac)"]
+    workflows: ["Update jdkdb - checksums (not dmg/pkg)"]
     types:
       - completed
     branches:
@@ -75,11 +75,10 @@ jobs:
         jbang --java 21+ $APP download $EXTRA_OPTS
 
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: stefanzweifel/git-auto-commit-action@v7
       if: github.event_name == 'workflow_run' || inputs.do_commit
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        message: "Update checksums (mac only)"
+        commit_message: "Update checksums (pkg/dmg only)"
 
     - name: Upload log files
       uses: actions/upload-artifact@v6

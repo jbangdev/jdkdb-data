@@ -83,11 +83,10 @@ jobs:
         jbang --java 21+ $APP update $EXTRA_OPTS
 
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: stefanzweifel/git-auto-commit-action@v7
       if: github.event_name == 'schedule' || inputs.do_commit
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        message: "Update release metadata"
+        commit_message: "Update release metadata"
 
     - name: Upload log files
       uses: actions/upload-artifact@v6
