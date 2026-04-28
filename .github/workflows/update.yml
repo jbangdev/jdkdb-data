@@ -2,6 +2,7 @@ name: Update jdkdb - metadata
 on:
   schedule:
     - cron: '0 2 * * *'
+      timezone: 'UTC'
   workflow_dispatch:
     inputs:
       limit-progress:
