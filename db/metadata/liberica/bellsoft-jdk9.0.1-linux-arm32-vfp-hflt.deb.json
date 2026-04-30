@@ -9,6 +9,15 @@
   "jvm_impl": "hotspot",
   "md5": "fed05b814e729ccb80c73d764c7dffed",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "N/A",
+    "JAVA_VERSION": "9.0.1",
+    "MODULES": "java.base java.logging java.datatransfer java.activation java.compiler jdk.unsupported java.xml java.prefs java.desktop java.security.sasl java.naming java.rmi java.transaction java.corba java.instrument java.management java.management.rmi java.scripting java.xml.ws.annotation java.sql java.sql.rowset java.xml.crypto java.security.jgss java.se java.xml.bind jdk.httpserver java.xml.ws java.se.ee java.smartcardio javafx.base jdk.jsobject javafx.graphics javafx.controls javafx.fxml javafx.media jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.incubator.httpclient jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.management jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.security.jgss jdk.policytool jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.xml.bind jdk.xml.ws jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:a08cbfc0e4ec corba:5666eba44ac6 hotspot:b756e7a2ec33 jaxp:364631d8ff2e jaxws:a1d64f45f9d5 jdk:65464a307408 langtools:65bfdabaab9c nashorn:17cc754c8936",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
   "release_type": "ga",
   "sha1": "5bc76bcc0aa1ab1f7775b64360269398a6dc9fcb",
   "sha256": "c775eeeb68e0c91622cf6ae0ea21d704ce59f59d8fb7cc46949b69f03d604b7a",
