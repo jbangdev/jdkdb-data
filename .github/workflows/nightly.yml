@@ -1,0 +1,80 @@
+name: Nightly update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+      timezone: 'UTC'
+  workflow_dispatch:
+
+concurrency:
+  group: nightly
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: Create staging branch
+        run: git push origin HEAD:nightly-${{ github.run_id }}
+
+  update:
+    needs: prepare
+    uses: ./.github/workflows/update.yml
+    with:
+      branch: nightly-${{ github.run_id }}
+      limit-progress: 0
+      limit-total: 100
+      do_commit: true
+    secrets: inherit
+
+  download:
+    needs: update
+    uses: ./.github/workflows/download.yml
+    with:
+      branch: nightly-${{ github.run_id }}
+      limit-progress: 0
+      limit-total: 1000
+      randomize: true
+      do_commit: true
+    secrets: inherit
+
+  download-mac:
+    needs: download
+    uses: ./.github/workflows/download_mac.yml
+    with:
+      branch: nightly-${{ github.run_id }}
+      limit-progress: 0
+      limit-total: 100
+      randomize: true
+      do_commit: true
+    secrets: inherit
+
+  consolidate:
+    needs: [prepare, update, download, download-mac]
+    if: always() && needs.prepare.result == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Squash merge staging branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin nightly-${{ github.run_id }}
+          git merge --squash origin/nightly-${{ github.run_id }}
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Nightly release metadata update"
+            git push origin main
+          fi
+      - name: Delete staging branch
+        if: always()
+        run: git push origin --delete nightly-${{ github.run_id }}

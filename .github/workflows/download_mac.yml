@@ -1,11 +1,5 @@
 name: Update jdkdb - checksums (only dmg/pkg)
 on:
-  workflow_run:
-    workflows: ["Update jdkdb - checksums (not dmg/pkg)"]
-    types:
-      - completed
-    branches:
-      - main
   workflow_dispatch:
     inputs:
       limit-progress:
@@ -28,23 +22,56 @@ on:
         required: true
         type: boolean
         default: true
+  workflow_call:
+    inputs:
+      limit-progress:
+        description: 'Limit progress updates (0 for no limit)'
+        required: false
+        type: number
+        default: 0
+      limit-total:
+        description: 'Limit total updates (0 for no limit)'
+        required: false
+        type: number
+        default: 50
+      randomize:
+        description: 'Randomize the order of updates'
+        required: false
+        type: boolean
+        default: true
+      do_commit:
+        description: 'Commit the changes after updating checksums'
+        required: false
+        type: boolean
+        default: true
+      branch:
+        description: 'Branch to commit to (leave empty to use current branch)'
+        required: false
+        type: string
+        default: ''
+    outputs:
+      changes_detected:
+        description: 'Whether the commit step detected and committed any changes'
+        value: ${{ jobs.process.outputs.changes_detected }}
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 jobs:
-  update:
+  process:
     runs-on: 'macos-latest'
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    outputs:
+      changes_detected: ${{ steps.commit.outputs.changes_detected }}
     env:
       APP: https://github.com/jbangdev/jdkdb-scraper/releases/latest/download/jdkdb-scraper-standalone.jar
     steps:
     - uses: actions/checkout@v6
+      with:
+        ref: ${{ inputs.branch || github.ref }}
 
     - name: Setup JBang
       uses: jbangdev/setup-jbang@main
 
-    - name: Run downloader manually
-      if: github.event_name == 'workflow_dispatch'
+    - name: Run downloader
       env:
         GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -63,27 +90,18 @@ jobs:
         jbang --java 21+ $APP --version
         jbang --java 21+ $APP download $EXTRA_OPTS
 
-    - name: Run downloader on workflow_run
-      if: github.event_name == 'workflow_run'
-      env:
-        GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        EXTRA_OPTS="--limit-total 50 --include pkg,dmg --randomize"
-        echo "Running download with: $EXTRA_OPTS"
-        jbang --java 21+ $APP --version
-        jbang --java 21+ $APP download $EXTRA_OPTS
-
     - name: Commit & Push changes
+      id: commit
       uses: stefanzweifel/git-auto-commit-action@v7
-      if: github.event_name == 'workflow_run' || inputs.do_commit
+      if: inputs.do_commit
       with:
         commit_message: "Update checksums (pkg/dmg only)"
+        branch: ${{ inputs.branch || github.ref_name }}
 
     - name: Upload log files
       uses: actions/upload-artifact@v6
       if: always()
       with:
-        name: update-logs
+        name: download-mac-logs
         path: logs/**/*.log
         retention-days: 30

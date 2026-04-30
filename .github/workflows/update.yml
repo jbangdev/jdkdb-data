@@ -1,8 +1,5 @@
 name: Update jdkdb - metadata
 on:
-  schedule:
-    - cron: '0 2 * * *'
-      timezone: 'UTC'
   workflow_dispatch:
     inputs:
       limit-progress:
@@ -15,40 +12,54 @@ on:
         required: true
         type: number
         default: 100
-      download:
-        description: 'Download JDKs to update metadata with checksums'
-        required: true
-        type: boolean
-        default: false
-      index:
-        description: 'Create indices for the updated metadata'
-        required: true
-        type: boolean
-        default: true
       do_commit:
         description: 'Commit the changes after updating metadata'
         required: true
         type: boolean
         default: true
+  workflow_call:
+    inputs:
+      limit-progress:
+        description: 'Limit progress updates (0 for no limit)'
+        required: false
+        type: number
+        default: 10
+      limit-total:
+        description: 'Limit total updates (0 for no limit)'
+        required: false
+        type: number
+        default: 100
+      do_commit:
+        description: 'Commit the changes after updating metadata'
+        required: false
+        type: boolean
+        default: true
+      branch:
+        description: 'Branch to commit to (leave empty to use current branch)'
+        required: false
+        type: string
+        default: ''
+    outputs:
+      changes_detected:
+        description: 'Whether the commit step detected and committed any changes'
+        value: ${{ jobs.update.outputs.changes_detected }}
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 jobs:
   update:
     runs-on: 'ubuntu-latest'
+    outputs:
+      changes_detected: ${{ steps.commit.outputs.changes_detected }}
     steps:
     - uses: actions/checkout@v6
-
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y binutils cpio rpm2cpio msitools
+      with:
+        ref: ${{ inputs.branch || github.ref }}
 
     - name: Setup JBang
       uses: jbangdev/setup-jbang@main
 
-    - name: Run scrapers manually
-      if: github.event_name == 'workflow_dispatch'
+    - name: Run scrapers
       env:
         GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -61,33 +72,17 @@ jobs:
         if [ "${{ inputs.limit-total }}" != "0" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --limit-total ${{ inputs.limit-total }}"
         fi
-        if [ "${{ inputs.download }}" = "false" ]; then
-          EXTRA_OPTS="$EXTRA_OPTS --no-download"
-        fi
-        if [ "${{ inputs.index }}" = "false" ]; then
-          EXTRA_OPTS="$EXTRA_OPTS --no-index"
-        fi
-        echo "Running update with: $EXTRA_OPTS"
-        jbang --java 21+ $APP --version
-        jbang --java 21+ $APP update $EXTRA_OPTS
-
-    - name: Run scrapers on schedule
-      if: github.event_name == 'schedule'
-      env:
-        GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        APP=https://github.com/jbangdev/jdkdb-scraper/releases/latest/download/jdkdb-scraper-standalone.jar
-        EXTRA_OPTS="--no-download --no-index"
         echo "Running update with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
         jbang --java 21+ $APP update $EXTRA_OPTS
 
     - name: Commit & Push changes
+      id: commit
       uses: stefanzweifel/git-auto-commit-action@v7
-      if: github.event_name == 'schedule' || inputs.do_commit
+      if: inputs.do_commit
       with:
         commit_message: "Update release metadata"
+        branch: ${{ inputs.branch || github.ref_name }}
 
     - name: Upload log files
       uses: actions/upload-artifact@v6
