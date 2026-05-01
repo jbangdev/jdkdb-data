@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-17.0.19-macos-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.19",
+  "jvm_impl": "hotspot",
+  "md5": "eaaf836c35c17829cd807335169e0d29",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-13877125",
+    "JAVA_RUNTIME_VERSION": "17.0.19+10-LTS",
+    "JAVA_VERSION": "17.0.19",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:3f446fc423ac"
+  },
+  "release_type": "ea",
+  "sha1": "758f3dec6dbbedce19bc9ba2b2ab56f7687247b7",
+  "sha256": "5ce59293b2eb30cb4e9f0c72c1ea27cea2bfaadcf0dbbe87ddd92e031c4210be",
+  "sha512": "1519adf3254163e3d2fdacd71b4747247782240e6025eee6678bf9dabca99b5a0c1eddae9e50d5477970e0bf57386ba7aee9e17e4017618725a0348aba7fc83c",
+  "size": 186130463,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.19-macos-aarch64.tar.gz",
+  "vendor": "microsoft",
+  "version": "17.0.19"
+}
