@@ -9,9 +9,22 @@
   "image_type": "jre",
   "java_version": "11.28",
   "jvm_impl": "hotspot",
+  "md5": "70ac60dc946d9664a3f0e8bd31f4dabe",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "11",
+    "JAVA_VERSION_DATE": "2018-09-25",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": "3b65ef15af5c34b6c5b6eab5ddfb2ad487a23e13"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "cd39f5b0634f94ad353d27d39ceb66e70d2e8a24",
+  "sha256": "c773fb4cdc71af37963c86b4b2c2b853c3bfeec0231eb76fdb91c7eab57f2859",
+  "sha512": "803b88ca94824f666a76f8d2bb93cc893ca0d49f88cc38958bc776ee79fbd9bb2f9510a55176ba473557c33ab352a18b43b7475dfcf398328c98643f5fe9976e",
+  "size": 37372603,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11%2B28-1/sapmachine-jre-11.28_linux-ppc64le_bin.tar.gz",
   "vendor": "sap",
   "version": "11.28"
