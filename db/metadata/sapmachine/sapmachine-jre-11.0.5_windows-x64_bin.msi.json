@@ -7,9 +7,22 @@
   "image_type": "jre",
   "java_version": "11.0.5",
   "jvm_impl": "hotspot",
+  "md5": "cabdf6f64d61943f15dfb4595b6a414b",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "11.0.5",
+    "JAVA_VERSION_DATE": "2019-10-16",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:8c35b837f47c"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "2b04160f424bd3a8d34280c794b605be62a49f60",
+  "sha256": "26d7c37c5c9d4384408cb0e55ea1a92a4f284330315c560da5e217bdafa64f38",
+  "sha512": "a832e7b564dba5008d192bcd92e19571811d186f8af2dd9962cbf371b1c843e8262bdebefebba8decb82f57ae7db749dcf4615a2a0c34ca82e365d26b5ecc358",
+  "size": 38969344,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.5/sapmachine-jre-11.0.5_windows-x64_bin.msi",
   "vendor": "sap",
   "version": "11.0.5"
