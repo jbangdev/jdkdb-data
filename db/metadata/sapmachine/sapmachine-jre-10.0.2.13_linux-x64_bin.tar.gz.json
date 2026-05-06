@@ -7,9 +7,22 @@
   "image_type": "jre",
   "java_version": "10.0.2.13",
   "jvm_impl": "hotspot",
+  "md5": "54fb5fa2503f291ba12bd4ae4cf984ef",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "10.0.2",
+    "JAVA_VERSION_DATE": "2018-07-17",
+    "MODULES": "java.base java.datatransfer java.logging java.activation java.compiler java.xml java.prefs java.desktop java.security.sasl java.naming java.rmi java.transaction jdk.unsupported java.corba java.instrument java.management java.management.rmi java.scripting java.security.jgss java.sql java.sql.rowset java.xml.crypto java.se java.xml.bind java.xml.ws.annotation jdk.httpserver java.xml.ws java.se.ee java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.incubator.httpclient jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management.agent jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": "f996f155e2ecce9ec1cadcd32fb667620e7831d9"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "070c9faa29518c2518ec52426c693710dd4d5f38",
+  "sha256": "8d4a207454c7dbd3ca2be00286cffedbf68717012af70d03c84ade7033585b21",
+  "sha512": "20953436ee406676ee0f894bc13d2d0ae6c8b711d2e17d90c7c0a40ef94a58b7fc0a4afc57cc8493a1defa6c1e2b45d44baa075c912f70b6b9a21bc7d43100b5",
+  "size": 41471829,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-10.0.2%2B13-1/sapmachine-jre-10.0.2.13_linux-x64_bin.tar.gz",
   "vendor": "sap",
   "version": "10.0.2.13"

@@ -7,9 +7,22 @@
   "image_type": "jdk",
   "java_version": "10.0.1.10",
   "jvm_impl": "hotspot",
+  "md5": "7f3081b0bc5ebcc5d17ca9d5b8370b88",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "10.0.1",
+    "JAVA_VERSION_DATE": "2018-04-17",
+    "MODULES": "java.base java.datatransfer java.logging java.activation java.compiler java.xml java.prefs java.desktop java.security.sasl java.naming java.rmi java.transaction jdk.unsupported java.corba java.instrument java.management java.management.rmi java.scripting java.security.jgss java.sql java.sql.rowset java.xml.crypto java.se java.xml.bind java.xml.ws.annotation jdk.httpserver java.xml.ws java.se.ee java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.incubator.httpclient jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.bind jdk.xml.dom jdk.xml.ws jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": "c7ff860ee21e6299ce870dc8be068a3ea08d9255"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "cecd71c71135a1dbec949841557cb05725e9f5ca",
+  "sha256": "8d367d49aef22cbc4be938905da93650193564c10881289dd372c076ee291519",
+  "sha512": "0d08affd8706e0f28fa9c8a9eff9df504f0a6a39c5d0c59111dce97a3f832b33751d2c417ee41ee12a490a2526418d0b14e0dd11eaec3ff3d7b191f9cbc17e76",
+  "size": 205016640,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-10.0.1%2B10-0/sapmachine-jdk-10.0.1.10_linux-x64_bin.tar.gz",
   "vendor": "sap",
   "version": "10.0.1.10"

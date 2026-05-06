@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.19-beta-jdk27.0.0-beta.19-linux_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.19",
+  "jvm_impl": "hotspot",
+  "md5": "2ed0830f35645073d2b5196f377d96a0",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+19-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+19",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:eae7ccfa9642"
+  },
+  "release_type": "ea",
+  "sha1": "3e24627fac58a2225255f881b4f5854f7b0c1476",
+  "sha256": "128513a9bfee94c363e4b22c70a09971c94076d85ea3259967be424d616d84aa",
+  "sha512": "3602cd7742f3c60da11a990ac1482403f9c6420aa99b136bb97a55009f2965fc9a0be1172064b67c173da5e023afb4b22b2da6dae1d287673b9029692cdf8d5e",
+  "size": 236432789,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.19-beta-jdk27.0.0-beta.19-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.19"
+}
