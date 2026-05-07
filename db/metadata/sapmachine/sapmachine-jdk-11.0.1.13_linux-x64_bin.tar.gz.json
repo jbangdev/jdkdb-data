@@ -7,9 +7,22 @@
   "image_type": "jdk",
   "java_version": "11.0.1.13",
   "jvm_impl": "hotspot",
+  "md5": "4966b0b4772b2ba474c307abca13255d",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "11.0.1",
+    "JAVA_VERSION_DATE": "2018-10-17",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": "0c58c71d7f473ed4e5adfd73b7ce8b9157e50543"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "db7812ba8c45cfb7066ad26d0b24a97b8ff66d7f",
+  "sha256": "41d70861c71d33ed437d28f3aaa0a22543b83271c35b7910cd8613961dee3d2f",
+  "sha512": "76e785db32da79ee3226a9a8bf5fcc78877805443e47542ee0ce2eed8e63765b0c0c8b6fc57a61629826fd0b5d2231c2cb193b21de388203cfd3355ec06ee2a4",
+  "size": 189854241,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.1%2B13-0/sapmachine-jdk-11.0.1.13_linux-x64_bin.tar.gz",
   "vendor": "sap",
   "version": "11.0.1.13"
