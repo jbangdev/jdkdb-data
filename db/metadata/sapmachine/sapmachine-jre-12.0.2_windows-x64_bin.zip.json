@@ -7,9 +7,22 @@
   "image_type": "jre",
   "java_version": "12.0.2",
   "jvm_impl": "hotspot",
+  "md5": "33d3fd233c12a38252f41ec7e70c472e",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "JAVA_VERSION": "12.0.2",
+    "JAVA_VERSION_DATE": "2019-07-17",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:6b9486600a2b"
+  },
   "release_type": "ga",
-  "size": 0,
+  "sha1": "a1e6c917bd4c87d31c2b824ef4cb024d06d78b50",
+  "sha256": "d5ff306ec684b5b0edefc581b5ec49620e00de6cb6a591e465f6557dc15b2ba8",
+  "sha512": "adf84aa7f40e907358703a5bb6bf8ea90d9da984a74b31e4d9ff0424fd5bd8903ed0ac0c04eb3760b3d6bbbf20cd5b640946d3129ff0d11a7f4e6adea94775ae",
+  "size": 43713085,
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-12.0.2/sapmachine-jre-12.0.2_windows-x64_bin.zip",
   "vendor": "sap",
   "version": "12.0.2"

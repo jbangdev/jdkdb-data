@@ -1,0 +1,34 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": [
+    "le"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.20_linux-ppc64le_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.20",
+  "jvm_impl": "hotspot",
+  "md5": "bc01ba16545d3426d1ee290432de37c2",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+20",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7dcc50a3c09b"
+  },
+  "release_type": "ea",
+  "sha1": "429b85d6be74980a5ccd62089fbcd8d88e6117a6",
+  "sha256": "38c8bb517fb9e0fa860a595090a1f56febe7a20fa135a9d8f263c8bfa9ef9a8d",
+  "sha512": "ab4120e391d08df8a5373a6eae048d27e15b41f4afc55e62e1ce55b691bf67e5ea9b2186ee7f3ba58ba6d9b00415cc5bcc994f06763528bbdd1a323efbb6887b",
+  "size": 215105515,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B20/sapmachine-jdk-27-ea.20_linux-ppc64le_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.20"
+}
