@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.20_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.20",
+  "jvm_impl": "hotspot",
+  "md5": "9b50f80a3f96854453cd7c2c32322c54",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+20",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7dcc50a3c09b"
+  },
+  "release_type": "ea",
+  "sha1": "87a23a96c3868fab967c31ccd4a84d594b21abff",
+  "sha256": "07c955e04c1060855be82ec62a50a44c361528afba5ab13093243b6ca7297e9d",
+  "sha512": "f10b1a84909374feb5441eb344cf04ac51c328ebca3cc5e1df7147bc2835f0a8610990a47b998638d3cc5afaad27ebb20a0a0ade6f1e280a893c8dd6edf47a76",
+  "size": 216944529,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B20/sapmachine-jdk-27-ea.20_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.20"
+}
