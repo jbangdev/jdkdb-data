@@ -9,6 +9,15 @@
   "jvm_impl": "hotspot",
   "md5": "3a3545dfec0b2202f3e0234a62695745",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_VERSION": "15",
+    "JAVA_VERSION_DATE": "2020-09-15",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:hg:fb7064dc63f9+"
+  },
   "release_type": "ga",
   "sha1": "ef3189bdce510c9b2bc4f799a45b8dd946aec703",
   "sha256": "09a13ef45681d96caf6852a9c6444a0fcd3e25543e2ee70f4859c1270d4b3728",
