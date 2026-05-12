@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+21_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+21",
+  "jvm_impl": "hotspot",
+  "md5": "3f8270b8e2d186ad6f734e8bc4c71700",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+21-1925",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:4e1dd4daba5a"
+  },
+  "release_type": "ea",
+  "sha1": "5737b616ba74e4d569f90762176480194ee4125e",
+  "sha256": "d56b552c9140a7a90e15122f9fa2cc8d472f7bab535fc473337d43c24be49ace",
+  "sha512": "f0e00ade02be3aa01ffe5acd88153d6b66f49d08c0236bb92d27256f2365657b4fa5d8c4bbcb1363f9b62477784bbb690731135dbcdfabdf19f86dabb06e9911",
+  "size": 225911320,
+  "url": "https://download.java.net/java/early_access/jdk27/21/GPL/openjdk-27-ea+21_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+21"
+}
