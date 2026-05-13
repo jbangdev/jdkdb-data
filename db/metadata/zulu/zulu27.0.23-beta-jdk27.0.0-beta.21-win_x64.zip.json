@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu27.0.23-beta-jdk27.0.0-beta.21-win_x64.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.21",
+  "jvm_impl": "hotspot",
+  "md5": "5d27582f02b12d52ded03313de7b240b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+23-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+21",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:53d386083e3d"
+  },
+  "release_type": "ea",
+  "sha1": "bef249823a0e4459bce652be27f6b1237614fbfc",
+  "sha256": "a234d3acdb23570a14c7ff60d9e58d1e2e811d6bfcb4cbb97525d470d41d23ec",
+  "sha512": "83b7ded6a6db9796a99d65c29e0f916336751f6277d7be52b3b760397cdd669322d373876cddbe1274b09d9d1bf890f9e97ff569913b681877843c34b2d851dc",
+  "size": 233453103,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.23-beta-jdk27.0.0-beta.21-win_x64.zip",
+  "vendor": "azul",
+  "version": "27.0.23"
+}

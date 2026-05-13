@@ -9,6 +9,15 @@
   "jvm_impl": "hotspot",
   "md5": "30ed3eb0227cfd9416d9b5f927925400",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "N/A",
+    "JAVA_VERSION": "9.0.4",
+    "MODULES": "java.base java.datatransfer java.logging java.activation java.compiler java.xml java.prefs java.desktop jdk.unsupported java.rmi java.transaction java.security.sasl java.naming java.corba java.instrument java.management java.management.rmi java.scripting java.xml.ws.annotation java.security.jgss java.sql java.sql.rowset java.xml.crypto java.se java.xml.bind jdk.httpserver java.xml.ws java.se.ee java.smartcardio javafx.base jdk.jsobject javafx.graphics javafx.controls javafx.fxml javafx.media jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.incubator.httpclient jdk.internal.le jdk.internal.vm.ci jdk.jdwp.agent jdk.localedata jdk.management.agent jdk.management jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:2e265b4b8622+ corba:2ef36e70f490 hotspot:bb73b31e70e3 jaxp:95a71f690b44 jaxws:f4f878b5f01c jdk:a779673ab57d langtools:e2bf77b3f002 nashorn:fb3f7ae74bf6",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
   "release_type": "ga",
   "sha1": "29da2c255d0f84ac24e42a03a271b3af5aee0f73",
   "sha256": "a57296287fb3b40612cc266bfdc77ae5f6397b8eae2d6f0901cb6ecb268560c7",

@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac",
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu21.50.19-ca-crac-jre21.0.11-linux_musl_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "0a09ea4073f875201629cdceb4d42624",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.50+19-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-LTS",
+    "JAVA_VERSION": "21.0.11",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:71effce624f5"
+  },
+  "release_type": "ga",
+  "sha1": "7534f2ce85187ed81c60bd571640a75d2c2d2412",
+  "sha256": "8547a83f7cfd0e9aad70ebbd28b211d47293ef3ab988d9f88962c289453a4309",
+  "sha512": "2cace29ed98959a236cc3e01468edab85c6c6bc83a0f8c6ec19ea9ec9c5ba7b44183830a3a81d1fece4a6a9aaba164100bc2bf0ab89ebf9cc4f35694605ce466",
+  "size": 57031026,
+  "url": "https://static.azul.com/zulu/bin/zulu21.50.19-ca-crac-jre21.0.11-linux_musl_x64.tar.gz",
+  "vendor": "azul",
+  "version": "21.50.19"
+}

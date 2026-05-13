@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "crac",
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu26.30.11-ca-crac-jdk26.0.1-linux_musl_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.1",
+  "jvm_impl": "hotspot",
+  "md5": "ffc97cb239b385d69d8402e7ef9921b7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.30+11-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.1+8",
+    "JAVA_VERSION": "26.0.1",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:4d39a16d95fe"
+  },
+  "release_type": "ga",
+  "sha1": "44315d605e017185c5e3cecc88148e0734b24fad",
+  "sha256": "badab7ddcd19842318c955637476cd1ec9857ee32f25909f8c554ecf3bf2092f",
+  "sha512": "619d4d96426fdd5fdd7682ff5e736ce2dc020793c51610220fbb6044853a3c8d80eeb78bf49193242f12f777d60477f9c389fcf7e3f6bd4ab010c59eed74dbd0",
+  "size": 243985388,
+  "url": "https://static.azul.com/zulu/bin/zulu26.30.11-ca-crac-jdk26.0.1-linux_musl_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "26.30.11"
+}

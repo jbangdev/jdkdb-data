@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu21.50.19-ca-crac-jdk21.0.11-linux_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "2fc4f2904e535c6fc22270420d00b6f2",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.50+19-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-LTS",
+    "JAVA_VERSION": "21.0.11",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:71effce624f5"
+  },
+  "release_type": "ga",
+  "sha1": "a1d11b9a5c3feec746536785d4e15a0b7190e172",
+  "sha256": "c1bea9fe11775b93e5a76aaf8eda0cd46a2875a39fdb9bffc9b11f6c058f8a12",
+  "sha512": "c5b54895b4c90a1ab04aecfd2e75397b8fd2973a09645877302fc29634bd81a48a7018732c8f994b5c061505fd41e6ba2275c1d83f8d2b02a3b13763fb6852fc",
+  "size": 218751871,
+  "url": "https://static.azul.com/zulu/bin/zulu21.50.19-ca-crac-jdk21.0.11-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "21.50.19"
+}
