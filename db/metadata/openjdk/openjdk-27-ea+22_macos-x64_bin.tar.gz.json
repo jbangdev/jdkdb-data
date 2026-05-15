@@ -1,0 +1,31 @@
+{
+  "architecture": "x86_64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+22_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+22",
+  "jvm_impl": "hotspot",
+  "md5": "423443e1148d8e8db58860ac5bd326e6",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+22-2010",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:322dedba5832"
+  },
+  "release_type": "ea",
+  "sha1": "51e15e2ae949177455d73005ce4e6c51085ec410",
+  "sha256": "9a4028a08994fa37f6cabfcf70683464b6f56b7b001601286192d90cf000b7fa",
+  "sha512": "468a3774609134d50a259d04807fe2eb056dc50dd3e40da8085a9ec7305d3649e58749dc3c21be4fc93ad6f2ebf5c8aaca8e7fdb239f6dc52bdbcf4016a38d44",
+  "size": 223428667,
+  "url": "https://download.java.net/java/early_access/jdk27/22/GPL/openjdk-27-ea+22_macos-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+22"
+}
