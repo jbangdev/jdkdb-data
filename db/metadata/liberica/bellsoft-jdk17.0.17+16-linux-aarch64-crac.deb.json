@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "crac"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk17.0.17+16-linux-aarch64-crac.deb",
-  "image_type": "jdk",
-  "java_version": "17.0.17+16",
-  "jvm_impl": "hotspot",
-  "md5": "798faf0220028163f9b611ab16a4553a",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "190cec7508dd119a6bc289381d15d64997e829d0",
-  "sha256": "30fd5df31c0ba27ab09a2d66019a2ed036a4be2d8b23715ba6a3fa00ef5d9c9c",
-  "sha512": "967fba584e2204bb3babd587e715d8d745f79e8a4237af47941093013bbadeabe041d02ecb8d91cbd11506fdc7add8dbece704b95b377da8c439e582432f2069",
-  "size": 160608736,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.17+16/bellsoft-jdk17.0.17+16-linux-aarch64-crac.deb",
-  "vendor": "bellsoft",
-  "version": "17.0.17+16"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "crac"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk17.0.17+16-linux-aarch64-crac.deb",
+"image_type": "jdk",
+"java_version": "17.0.17+16",
+"jvm_impl": "hotspot",
+"md5": "798faf0220028163f9b611ab16a4553a",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.17+16-LTS",
+  "JAVA_VERSION": "17.0.17",
+  "JAVA_VERSION_DATE": "2025-10-21",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:514a3afce5d1+"
+},
+"release_type": "ga",
+"sha1": "190cec7508dd119a6bc289381d15d64997e829d0",
+"sha256": "30fd5df31c0ba27ab09a2d66019a2ed036a4be2d8b23715ba6a3fa00ef5d9c9c",
+"sha512": "967fba584e2204bb3babd587e715d8d745f79e8a4237af47941093013bbadeabe041d02ecb8d91cbd11506fdc7add8dbece704b95b377da8c439e582432f2069",
+"size": 160608736,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.17+16/bellsoft-jdk17.0.17+16-linux-aarch64-crac.deb",
+"vendor": "bellsoft",
+"version": "17.0.17+16"
 }

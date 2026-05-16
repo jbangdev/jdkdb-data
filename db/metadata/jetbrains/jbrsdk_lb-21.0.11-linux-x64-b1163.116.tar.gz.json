@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "legacy"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_lb-21.0.11-linux-x64-b1163.116.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "082564438cf1ec2fd6ba0e7d727c936f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.11+10-1163.116-lb",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-b1163.116",
+    "JAVA_VERSION": "21.0.11",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cf1f197170a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "c1f304be4dd0c3edc8fde9597bc28d5baf78fe0f",
+  "sha256": "ffa3b36e8155d3c5223d784fb3497b9b560782e1651968c0fb2a8cdd30fd3e30",
+  "sha512": "a726910ab7ee6c7d1f79d5533436562d03e7fc9591ef225f1c04e164b5f1c364e4ccccc7f33f2234214c7c354bcf47831be6b9c69f3fcb258d38765ac52e6348",
+  "size": 519461904,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_lb-21.0.11-linux-x64-b1163.116.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.116"
+}

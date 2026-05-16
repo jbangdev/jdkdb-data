@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jre17.0.16+12-linux-aarch64-musl.apk",
-  "image_type": "jre",
-  "java_version": "17.0.16+12",
-  "jvm_impl": "hotspot",
-  "md5": "9cc2b9a78e1c37635847948d215c0d48",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "83a98dc46e675d249fb48a787bbb1380049bcc17",
-  "sha256": "c1267e9340dd8133c701b274d188003b8ed02b2339cdeff1e97eb1d7889d6de1",
-  "sha512": "82b110240fde5a0540e96e5be0aedcb7d05499eb38c3476aa1b7bbc956dadbfcdd4f87e635b9ffe732721e8ae2f5a72d917aee90fe861bc49f63dae763ecaee4",
-  "size": 56793678,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.16+12/bellsoft-jre17.0.16+12-linux-aarch64-musl.apk",
-  "vendor": "bellsoft",
-  "version": "17.0.16+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "apk",
+"filename": "bellsoft-jre17.0.16+12-linux-aarch64-musl.apk",
+"image_type": "jre",
+"java_version": "17.0.16+12",
+"jvm_impl": "hotspot",
+"md5": "9cc2b9a78e1c37635847948d215c0d48",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.16+12-LTS",
+  "JAVA_VERSION": "17.0.16",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:31c3a6b30f26+"
+},
+"release_type": "ga",
+"sha1": "83a98dc46e675d249fb48a787bbb1380049bcc17",
+"sha256": "c1267e9340dd8133c701b274d188003b8ed02b2339cdeff1e97eb1d7889d6de1",
+"sha512": "82b110240fde5a0540e96e5be0aedcb7d05499eb38c3476aa1b7bbc956dadbfcdd4f87e635b9ffe732721e8ae2f5a72d917aee90fe861bc49f63dae763ecaee4",
+"size": 56793678,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.16+12/bellsoft-jre17.0.16+12-linux-aarch64-musl.apk",
+"vendor": "bellsoft",
+"version": "17.0.16+12"
 }

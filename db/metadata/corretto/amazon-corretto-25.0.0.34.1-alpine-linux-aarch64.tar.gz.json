@@ -1,22 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "corretto",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "amazon-corretto-25.0.0.34.1-alpine-linux-aarch64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "25.0.0.34.1",
-  "jvm_impl": "hotspot",
-  "md5": "31f71e640765d8530749042a8e871e03",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "bdc500a1ebe48201311b03649124bc97b33dfe66",
-  "sha256": "7295bf7fee10c4deff317e039b8f8baa94f29c7d57686189d9888e9fc97f6198",
-  "sha512": "6914d1750f260064a95f0e50b4ca217280ee09d0e7fcf18e7e7e401899b884384d2cd1d19fa9596112b76ed628b4f898d10192b24b034e20eec07de183273bab",
-  "size": 225151271,
-  "url": "https://corretto.aws/downloads/resources/25.0.0.34.1/amazon-corretto-25.0.0.34.1-alpine-linux-aarch64.tar.gz",
-  "vendor": "amazon",
-  "version": "25.0.0.34.1"
+"architecture": "aarch64",
+"distro": "corretto",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "amazon-corretto-25.0.0.34.1-alpine-linux-aarch64.tar.gz",
+"image_type": "jdk",
+"java_version": "25.0.0.34.1",
+"jvm_impl": "hotspot",
+"md5": "31f71e640765d8530749042a8e871e03",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Amazon.com Inc.",
+  "IMPLEMENTOR_VERSION": "Corretto-25.0.0.34.1",
+  "JAVA_RUNTIME_VERSION": "25+34-LTS",
+  "JAVA_VERSION": "25",
+  "JAVA_VERSION_DATE": "2025-09-16",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:0c34ee6235b6+"
+},
+"release_type": "ga",
+"sha1": "bdc500a1ebe48201311b03649124bc97b33dfe66",
+"sha256": "7295bf7fee10c4deff317e039b8f8baa94f29c7d57686189d9888e9fc97f6198",
+"sha512": "6914d1750f260064a95f0e50b4ca217280ee09d0e7fcf18e7e7e401899b884384d2cd1d19fa9596112b76ed628b4f898d10192b24b034e20eec07de183273bab",
+"size": 225151271,
+"url": "https://corretto.aws/downloads/resources/25.0.0.34.1/amazon-corretto-25.0.0.34.1-alpine-linux-aarch64.tar.gz",
+"vendor": "amazon",
+"version": "25.0.0.34.1"
 }

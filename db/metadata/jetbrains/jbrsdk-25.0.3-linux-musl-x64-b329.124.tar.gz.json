@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-25.0.3-linux-musl-x64-b329.124.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "a58e6905f062ab28c18588458d5cfb6d",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.3+9-329.124-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.3+9-b329.124",
+    "JAVA_VERSION": "25.0.3",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:aa719f98f3da+"
+  },
+  "release_type": "ga",
+  "sha1": "ca2707edde8ba09dd91ee655570022d338c7a442",
+  "sha256": "cc6fde75395a462bfd091a274b9d9c9d151e1b46c58da02ca1fa2da84af6169f",
+  "sha512": "0d7040303139c90b3d088f692357893a093395a55d5779951f6ea1c3afcd6636aae0dd54ab38daf4975c74190c00b56b380e0066a4f6de7b2370c38288af09fa",
+  "size": 250213388,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.3-linux-musl-x64-b329.124.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.3b329.124"
+}

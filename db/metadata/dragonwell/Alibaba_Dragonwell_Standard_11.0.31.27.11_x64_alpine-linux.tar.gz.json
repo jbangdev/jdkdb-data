@@ -1,0 +1,43 @@
+{
+  "architecture": "x86_64",
+  "distro": "dragonwell",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "Alibaba_Dragonwell_Standard_11.0.31.27.11_x64_alpine-linux.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.31.27.11",
+  "jvm_impl": "hotspot",
+  "md5": "122c30d78e1b8c38033886975e571cf6",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 4.15.0-187-generic",
+    "BUILD_SOURCE": "git:6cdb06dd62a528a974fab80017d92987e597da30",
+    "BUILD_SOURCE_REPO": "https://github.com/dragonwell-releng/openjdk-build.git",
+    "FULL_VERSION": "11.0.31.27+11",
+    "IMAGE_TYPE": "JDK",
+    "IMPLEMENTOR": "Alibaba",
+    "IMPLEMENTOR_VERSION": "(Alibaba Dragonwell Standard Edition)-11.0.31.27+11-GA",
+    "JAVA_RUNTIME_VERSION": "11.0.31.27+11",
+    "JAVA_VERSION": "11.0.31.27",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "JVM_VARIANT": "Dragonwell",
+    "JVM_VERSION": "11.0.31.27+11",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "11.0.31.27+11",
+    "SOURCE": ".:git:3ddac305a38d",
+    "SOURCE_REPO": "https://github.com/dragonwell-project/dragonwell11.git"
+  },
+  "release_type": "ga",
+  "sha1": "c21a87b21e3d0c4fe17e3b11fb5956163a798d38",
+  "sha256": "df322c885d69fb9e2490bbae89e0af4bfa88ffe51d71b74cec1927ae1b87594a",
+  "sha512": "95f426c3640ada01170335ef602d2ef585fb24619f6b8e295df555002326f15ad7209e0e889905674103c9b777bd4e792584bd098507aa33d5acfc5b3473d3cc",
+  "size": 194613942,
+  "url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-standard-11.0.31.27_jdk-11.0.31-ga/Alibaba_Dragonwell_Standard_11.0.31.27.11_x64_alpine-linux.tar.gz",
+  "vendor": "alibaba",
+  "version": "11.0.31.27.11"
+}

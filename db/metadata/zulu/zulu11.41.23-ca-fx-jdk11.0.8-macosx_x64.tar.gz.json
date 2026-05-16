@@ -1,7 +1,7 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
     "javafx"
   ],
   "file_type": "tar.gz",
@@ -11,10 +11,21 @@
   "jvm_impl": "hotspot",
   "md5": "302be9475feb7965c490606c3b2c7e7c",
   "os": "macosx",
-  "release_type": "ga",
-  "sha1": "19842ef2e3160c81ffcaa239670627aadf08bb95",
-  "sha256": "d15b0280539b2821e3f6a1cbc349da2cc027a5075a17cb2d48e1c8b72f47b80b",
-  "sha512": "364a40f87c5736dd2f27bd5eeeebcc9b9e07c39c06ab2e664124a8ad73f9f68457cb299521b2369b45668a3e75b5d93c59fd2c57cac0967cc09fefa84157b221",
+  "release_info": {
+      "IMPLEMENTOR": "Azul Systems, Inc.",
+      "IMPLEMENTOR_VERSION": "Zulu11.41+23-CA",
+      "JAVA_VERSION": "11.0.8",
+      "JAVA_VERSION_DATE": "2020-07-14",
+      "LIBC": "default",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs org.openjsse",
+      "OS_ARCH": "x86_64",
+      "OS_NAME": "Darwin",
+      "SOURCE": ".:hg:5b0e54350bbc"
+    },
+    "release_type": "ga",
+    "sha1": "19842ef2e3160c81ffcaa239670627aadf08bb95",
+    "sha256": "d15b0280539b2821e3f6a1cbc349da2cc027a5075a17cb2d48e1c8b72f47b80b",
+    "sha512": "364a40f87c5736dd2f27bd5eeeebcc9b9e07c39c06ab2e664124a8ad73f9f68457cb299521b2369b45668a3e75b5d93c59fd2c57cac0967cc09fefa84157b221",
   "size": 274056521,
   "url": "https://static.azul.com/zulu/bin/zulu11.41.23-ca-fx-jdk11.0.8-macosx_x64.tar.gz",
   "vendor": "azul",

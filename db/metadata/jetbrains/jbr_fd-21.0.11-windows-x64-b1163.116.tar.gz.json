@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.11-windows-x64-b1163.116.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "ca453d90edcbf7163f3647a936b4e400",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.11+1-1163.116-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.11+1-b1163.116",
+    "JAVA_VERSION": "21.0.11",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:cf1f197170a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "57821253cc9849c858d0cca7fbb0b4614f9f6c9e",
+  "sha256": "8f376e371cf029af332409bba829cbe757a063977e1a195655f0254f87915473",
+  "sha512": "b4b91ee783619063f570ed0264c7102905e476835b7cd8b3f0f0adc0be00edabe7e651b492f683fa4882e81ad7a420265434a4d40f6221f49023cac7fffecb44",
+  "size": 98382097,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.11-windows-x64-b1163.116.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.116"
+}

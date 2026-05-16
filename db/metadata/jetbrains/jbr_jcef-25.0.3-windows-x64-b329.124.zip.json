@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "zip",
+  "filename": "jbr_jcef-25.0.3-windows-x64-b329.124.zip",
+  "image_type": "jre",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "a7d38ff9e67a65deeb5cfc538b68b4a4",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.3+1-329.124-jcef",
+    "JAVA_RUNTIME_VERSION": "25.0.3+1-b329.124",
+    "JAVA_VERSION": "25.0.3",
+    "JCEF_COMMIT_HASH": "68de80bc86de497c8d0632ad0f8fe33625b33bff",
+    "JCEF_VERSION": "137.0.17.1142+g68de80b",
+    "JCEF_VERSION_DETAILED": "137.0.17-gf354b0e-chromium-137.0.7151.104-api-1.21-261-b86",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:aa719f98f3da+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "bca2cf1da7dbdb4123d5e361e226b87130b92115",
+  "sha256": "75e33516259e8b995c03affed1f08a78328d716aad3bd678c408a4063ac53d5c",
+  "sha512": "3bea77c80f6f518fcede754ddfec90863f29ca356168cd08b17348036a2d74962355a21d607933b80558a65ce337b2613fad88092de74ad44c440fcd2516b6e9",
+  "size": 266647543,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.3-windows-x64-b329.124.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.3b329.124"
+}

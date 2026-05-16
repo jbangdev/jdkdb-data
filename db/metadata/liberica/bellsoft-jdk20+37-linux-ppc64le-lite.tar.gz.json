@@ -1,22 +1,32 @@
 {
-  "architecture": "ppc64le",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "20+37",
-  "jvm_impl": "hotspot",
-  "md5": "401033dfdb2d2b981e6657a0fc34d67d",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a45b73c273ef76777e61ac6ec2721ac0da09753a",
-  "sha256": "bb038a9bcf748a30d5daa3a25cc77953014a427332c2c2ebd1392c05715c4d44",
-  "sha512": "318e551be919b1fa9aec3339a2e5cd32af769960ed77ac291322f484242f2d2bcd25d3c122d29cab7f12b3f212e0eec8103800eae7af905c146a4587ac92912f",
-  "size": 76576378,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "20+37"
+"architecture": "ppc64le",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "20+37",
+"jvm_impl": "hotspot",
+"md5": "401033dfdb2d2b981e6657a0fc34d67d",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "20",
+  "JAVA_VERSION_DATE": "2023-03-21",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:dca02d0c8f83"
+},
+"release_type": "ga",
+"sha1": "a45b73c273ef76777e61ac6ec2721ac0da09753a",
+"sha256": "bb038a9bcf748a30d5daa3a25cc77953014a427332c2c2ebd1392c05715c4d44",
+"sha512": "318e551be919b1fa9aec3339a2e5cd32af769960ed77ac291322f484242f2d2bcd25d3c122d29cab7f12b3f212e0eec8103800eae7af905c146a4587ac92912f",
+"size": 76576378,
+"url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "20+37"
 }

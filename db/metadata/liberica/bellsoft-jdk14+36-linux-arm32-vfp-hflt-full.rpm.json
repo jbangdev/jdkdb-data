@@ -1,24 +1,34 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.rpm",
-  "image_type": "jdk",
-  "java_version": "14+36",
-  "jvm_impl": "hotspot",
-  "md5": "1d7bea0a880b36412cccb7cce6bf1ff2",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "3948ed99ed7b3b301aa2084f31cf1fd9dcbfe32a",
-  "sha256": "f89672d4abd2ffd9cab7e16110dd7b9fc65ecc81ff72114d7bf26efa0aea9cf1",
-  "sha512": "87118c43d9b74f5f21f684d38464c37e0456a2ee9b4f35674080c6da86f44a5358fe9f05b5410f0fab4a014b4ff545fcb3dc5637743ae3215704e07520abfffe",
-  "size": 195806508,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.rpm",
-  "vendor": "bellsoft",
-  "version": "14+36"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.rpm",
+"image_type": "jdk",
+"java_version": "14+36",
+"jvm_impl": "hotspot",
+"md5": "1d7bea0a880b36412cccb7cce6bf1ff2",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "14",
+  "JAVA_VERSION_DATE": "2020-03-16",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:e568ce785bdf+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "3948ed99ed7b3b301aa2084f31cf1fd9dcbfe32a",
+"sha256": "f89672d4abd2ffd9cab7e16110dd7b9fc65ecc81ff72114d7bf26efa0aea9cf1",
+"sha512": "87118c43d9b74f5f21f684d38464c37e0456a2ee9b4f35674080c6da86f44a5358fe9f05b5410f0fab4a014b4ff545fcb3dc5637743ae3215704e07520abfffe",
+"size": 195806508,
+"url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.rpm",
+"vendor": "bellsoft",
+"version": "14+36"
 }

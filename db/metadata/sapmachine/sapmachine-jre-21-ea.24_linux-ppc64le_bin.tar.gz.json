@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-21-ea.24_linux-ppc64le_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "21-ea.24",
-  "jvm_impl": "hotspot",
-  "md5": "a078246892bb73be1f3b789c9207ac15",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "4805c0b3c630db787c9d8a12022b291d30e44744",
-  "sha256": "1908f9998ab9c379e56533e829662e589d810707c2b05beddddb1e2631eb2373",
-  "sha512": "77d3f6b5be08b8197f1a4f474aaf64db9f7786af2d57c391def2ba579adc74b790ee41b666c2e23ce7bb3c91afbc8732db05912560aff651f277bc4962645c20",
-  "size": 52659397,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "21-ea.24"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-21-ea.24_linux-ppc64le_bin.tar.gz",
+"image_type": "jre",
+"java_version": "21-ea.24",
+"jvm_impl": "hotspot",
+"md5": "a078246892bb73be1f3b789c9207ac15",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "21-ea+24",
+  "JAVA_VERSION": "21",
+  "JAVA_VERSION_DATE": "2023-09-19",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:1ef8beac337c"
+},
+"release_type": "ea",
+"sha1": "4805c0b3c630db787c9d8a12022b291d30e44744",
+"sha256": "1908f9998ab9c379e56533e829662e589d810707c2b05beddddb1e2631eb2373",
+"sha512": "77d3f6b5be08b8197f1a4f474aaf64db9f7786af2d57c391def2ba579adc74b790ee41b666c2e23ce7bb3c91afbc8732db05912560aff651f277bc4962645c20",
+"size": 52659397,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "21-ea.24"
 }

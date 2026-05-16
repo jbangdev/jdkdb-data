@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jre25.0.2+12-linux-aarch64-musl.apk",
-  "image_type": "jre",
-  "java_version": "25.0.2+12",
-  "jvm_impl": "hotspot",
-  "md5": "7c12ac810d793756374515989c5beb14",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "e368408c9ec3ca10e97ce97d8113d26ff7105ea9",
-  "sha256": "fdf9d40b3b96337e17572c8f87c171c6ff7f5f6fd376fc89a12c80e15b47610d",
-  "sha512": "027ab3a523023be92e89b113cd4a28c72624b2052813a958ee38fc34accd65a9d0b134946ccea94fc658cfe205c73af4ca9b7da5c3ae730c3fbb6b80b5231456",
-  "size": 81424323,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.2+12/bellsoft-jre25.0.2+12-linux-aarch64-musl.apk",
-  "vendor": "bellsoft",
-  "version": "25.0.2+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "apk",
+"filename": "bellsoft-jre25.0.2+12-linux-aarch64-musl.apk",
+"image_type": "jre",
+"java_version": "25.0.2+12",
+"jvm_impl": "hotspot",
+"md5": "7c12ac810d793756374515989c5beb14",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "25.0.2+12-LTS",
+  "JAVA_VERSION": "25.0.2",
+  "JAVA_VERSION_DATE": "2026-01-20",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:a1073b668410+"
+},
+"release_type": "ga",
+"sha1": "e368408c9ec3ca10e97ce97d8113d26ff7105ea9",
+"sha256": "fdf9d40b3b96337e17572c8f87c171c6ff7f5f6fd376fc89a12c80e15b47610d",
+"sha512": "027ab3a523023be92e89b113cd4a28c72624b2052813a958ee38fc34accd65a9d0b134946ccea94fc658cfe205c73af4ca9b7da5c3ae730c3fbb6b80b5231456",
+"size": 81424323,
+"url": "https://github.com/bell-sw/Liberica/releases/download/25.0.2+12/bellsoft-jre25.0.2+12-linux-aarch64-musl.apk",
+"vendor": "bellsoft",
+"version": "25.0.2+12"
 }

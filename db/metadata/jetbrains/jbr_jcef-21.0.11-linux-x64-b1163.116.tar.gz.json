@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.11-linux-x64-b1163.116.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "md5": "9f6774e88b0f268ed28d177b06582aeb",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.11+10-1163.116-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-b1163.116",
+    "JAVA_VERSION": "21.0.11",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cf1f197170a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "4422e2976128177a158fa5a2667969b6720937d2",
+  "sha256": "29bc13ce14b7ddb25cc03516c7d941a9c9ad6cdc5424b3e61087d194819fb483",
+  "sha512": "9affe2dd70e26c5aa76e25860ba89cad0ae266558ca679e0178b22acc025ea61adb78c770e6965e61c050e45784819eee22f9e4d98e187a14f401f8a12d2118a",
+  "size": 241645439,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.11-linux-x64-b1163.116.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.116"
+}

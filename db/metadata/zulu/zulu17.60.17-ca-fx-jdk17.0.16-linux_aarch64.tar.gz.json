@@ -1,22 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu17.60.17-ca-fx-jdk17.0.16-linux_aarch64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.16",
-  "jvm_impl": "hotspot",
-  "md5": "5c8b04549da88116fd87a7e19f45a85d",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "e7ec592d62a327b31e8367ac6098c62fc76b74cf",
-  "sha256": "3733b3eb4c72f6e4c238fcb2892eb1af07c796548056a04ea9243c6e6cb016e0",
-  "sha512": "d34af82aa969bba036cfc1a4cc1bbaf0cc87f0bf4489be18ba2a71f1c8a99bf95bb656ae282fa0446fea592b13faaf8e316f092799ccbddcb943aaf62a82a99d",
-  "size": 303474000,
-  "url": "https://static.azul.com/zulu/bin/zulu17.60.17-ca-fx-jdk17.0.16-linux_aarch64.tar.gz",
-  "vendor": "azul",
-  "version": "17.60.17"
+"architecture": "aarch64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu17.60.17-ca-fx-jdk17.0.16-linux_aarch64.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.16",
+"jvm_impl": "hotspot",
+"md5": "5c8b04549da88116fd87a7e19f45a85d",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu17.60+17-CA",
+  "JAVA_RUNTIME_VERSION": "17.0.16+8-LTS",
+  "JAVA_VERSION": "17.0.16",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base com.azul.tooling java.logging java.management java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:414cd35a20fc"
+},
+"release_type": "ga",
+"sha1": "e7ec592d62a327b31e8367ac6098c62fc76b74cf",
+"sha256": "3733b3eb4c72f6e4c238fcb2892eb1af07c796548056a04ea9243c6e6cb016e0",
+"sha512": "d34af82aa969bba036cfc1a4cc1bbaf0cc87f0bf4489be18ba2a71f1c8a99bf95bb656ae282fa0446fea592b13faaf8e316f092799ccbddcb943aaf62a82a99d",
+"size": 303474000,
+"url": "https://static.azul.com/zulu/bin/zulu17.60.17-ca-fx-jdk17.0.16-linux_aarch64.tar.gz",
+"vendor": "azul",
+"version": "17.60.17"
 }

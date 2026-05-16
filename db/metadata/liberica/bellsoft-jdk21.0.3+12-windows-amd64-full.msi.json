@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk21.0.3+12-windows-amd64-full.msi",
-  "image_type": "jdk",
-  "java_version": "21.0.3+12",
-  "jvm_impl": "hotspot",
-  "md5": "0a2769d5fdc1f87c255e29c671b2fad4",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "dd60106b09f2af4f66730e92366492719bf4f65a",
-  "sha256": "69f3f5c225f7fa61a0fcfd2058142fb53123a62402216a24325e3447dd0d9291",
-  "sha512": "1af1a74243dde5ccdc319c66c1c41948f1e93a034a958917015aa4504082159535896ea85eaee76688a911674213785839510924c1765cb166143707fa8a6445",
-  "size": 302706688,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-windows-amd64-full.msi",
-  "vendor": "bellsoft",
-  "version": "21.0.3+12"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk21.0.3+12-windows-amd64-full.msi",
+"image_type": "jdk",
+"java_version": "21.0.3+12",
+"jvm_impl": "hotspot",
+"md5": "0a2769d5fdc1f87c255e29c671b2fad4",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.3+12-LTS",
+  "JAVA_VERSION": "21.0.3",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:718046d42f79+"
+},
+"release_type": "ga",
+"sha1": "dd60106b09f2af4f66730e92366492719bf4f65a",
+"sha256": "69f3f5c225f7fa61a0fcfd2058142fb53123a62402216a24325e3447dd0d9291",
+"sha512": "1af1a74243dde5ccdc319c66c1c41948f1e93a034a958917015aa4504082159535896ea85eaee76688a911674213785839510924c1765cb166143707fa8a6445",
+"size": 302706688,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-windows-amd64-full.msi",
+"vendor": "bellsoft",
+"version": "21.0.3+12"
 }

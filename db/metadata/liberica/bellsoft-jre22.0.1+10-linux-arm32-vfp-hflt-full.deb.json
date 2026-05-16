@@ -1,24 +1,36 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jre22.0.1+10-linux-arm32-vfp-hflt-full.deb",
-  "image_type": "jre",
-  "java_version": "22.0.1+10",
-  "jvm_impl": "hotspot",
-  "md5": "d5b4d8b621012936674a4ece73b57f11",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "ae3afb87252e7624239b935ff2b1de69a19d5677",
-  "sha256": "c02bdd1f5e2bb72441f865170a1df410caede16c74451476192668cb5ecf26b7",
-  "sha512": "193ecebfb78917816d96500e219964245cf3a9ec7ac7fe5f3699ac41d878e20c210dc1be777b91a76e186911ce0de1ef293bd4e3ae3586ba6de4eaa0c94df1d6",
-  "size": 31445682,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jre22.0.1+10-linux-arm32-vfp-hflt-full.deb",
-  "vendor": "bellsoft",
-  "version": "22.0.1+10"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jre22.0.1+10-linux-arm32-vfp-hflt-full.deb",
+"image_type": "jre",
+"java_version": "22.0.1+10",
+"jvm_impl": "hotspot",
+"md5": "d5b4d8b621012936674a4ece73b57f11",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "22.0.1+10",
+  "JAVA_VERSION": "22.0.1",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:be13c7f503ec+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "ae3afb87252e7624239b935ff2b1de69a19d5677",
+"sha256": "c02bdd1f5e2bb72441f865170a1df410caede16c74451476192668cb5ecf26b7",
+"sha512": "193ecebfb78917816d96500e219964245cf3a9ec7ac7fe5f3699ac41d878e20c210dc1be777b91a76e186911ce0de1ef293bd4e3ae3586ba6de4eaa0c94df1d6",
+"size": 31445682,
+"url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jre22.0.1+10-linux-arm32-vfp-hflt-full.deb",
+"vendor": "bellsoft",
+"version": "22.0.1+10"
 }

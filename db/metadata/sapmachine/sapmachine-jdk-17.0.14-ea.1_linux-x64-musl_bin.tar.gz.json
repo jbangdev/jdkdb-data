@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jdk-17.0.14-ea.1_linux-x64-musl_bin.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.14-ea.1",
-  "jvm_impl": "hotspot",
-  "md5": "23f600f16962a30880c63e70a28ca129",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "53e2bd8c135a44aa81dc2fa10496f80bd44e2616",
-  "sha256": "40ecea40f964dc3ae671b394c359909fb3504229523631724290630400dbfb20",
-  "sha512": "d8d410c6fdcf4863c83179e6331c13954d6b4b5289fe4ebd40d3c75741a47b939378063dadf0ed05b2030f964cae81e715adfdc8cdbb242a6e64109f8f012992",
-  "size": 193380988,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.14+1/sapmachine-jdk-17.0.14-ea.1_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "17.0.14-ea.1"
+"architecture": "x86_64",
+"distro": "sapmachine",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jdk-17.0.14-ea.1_linux-x64-musl_bin.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.14-ea.1",
+"jvm_impl": "hotspot",
+"md5": "23f600f16962a30880c63e70a28ca129",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "17.0.14-ea+1",
+  "JAVA_VERSION": "17.0.14",
+  "JAVA_VERSION_DATE": "2025-01-21",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:216f51b8c383"
+},
+"release_type": "ea",
+"sha1": "53e2bd8c135a44aa81dc2fa10496f80bd44e2616",
+"sha256": "40ecea40f964dc3ae671b394c359909fb3504229523631724290630400dbfb20",
+"sha512": "d8d410c6fdcf4863c83179e6331c13954d6b4b5289fe4ebd40d3c75741a47b939378063dadf0ed05b2030f964cae81e715adfdc8cdbb242a6e64109f8f012992",
+"size": 193380988,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.14+1/sapmachine-jdk-17.0.14-ea.1_linux-x64-musl_bin.tar.gz",
+"vendor": "sap",
+"version": "17.0.14-ea.1"
 }

@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "adoptopenjdk",
-  "features": [
-    "large_heap"
-  ],
-  "file_type": "zip",
-  "filename": "OpenJDK14-jre_x64_windows_openj9_windowsXL_14_36_openj9-0.19.0.zip",
-  "image_type": "jre",
-  "java_version": "14+36",
-  "jvm_impl": "openj9",
-  "md5": "4becf2556f8ae4983af73bc5008e9d1d",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "f2b310bbc67864bb269f2b72112e6a7bd992ae63",
-  "sha256": "22c8888898eeb6cc05e322eaa7b95182381cbf83ac8493ac16b01b5daa488310",
-  "sha512": "d9b49b6898d9dbf0f303bfc50126517534e34e345c1961d76ec3a4c2978ee9cf773a5b4eae45354f85f06c843b9d7f335e495aeabbdfb5f7fee59e91707d0a6d",
-  "size": 49631589,
-  "url": "https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14%2B36_openj9-0.19.0/OpenJDK14-jre_x64_windows_openj9_windowsXL_14_36_openj9-0.19.0.zip",
-  "vendor": "adoptopenjdk",
-  "version": "14.0.0+36.1.openj9-0.19.0"
+"architecture": "x86_64",
+"distro": "adoptopenjdk",
+"features": [
+  "large_heap"
+],
+"file_type": "zip",
+"filename": "OpenJDK14-jre_x64_windows_openj9_windowsXL_14_36_openj9-0.19.0.zip",
+"image_type": "jre",
+"java_version": "14+36",
+"jvm_impl": "openj9",
+"md5": "4becf2556f8ae4983af73bc5008e9d1d",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "AdoptOpenJDK",
+  "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+  "JAVA_VERSION": "14",
+  "JAVA_VERSION_DATE": "2020-03-17",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": "OpenJDK:a73be60649 OpenJ9:0133ba037 OMR:1c04e0ef9"
+},
+"release_type": "ga",
+"sha1": "f2b310bbc67864bb269f2b72112e6a7bd992ae63",
+"sha256": "22c8888898eeb6cc05e322eaa7b95182381cbf83ac8493ac16b01b5daa488310",
+"sha512": "d9b49b6898d9dbf0f303bfc50126517534e34e345c1961d76ec3a4c2978ee9cf773a5b4eae45354f85f06c843b9d7f335e495aeabbdfb5f7fee59e91707d0a6d",
+"size": 49631589,
+"url": "https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14%2B36_openj9-0.19.0/OpenJDK14-jre_x64_windows_openj9_windowsXL_14_36_openj9-0.19.0.zip",
+"vendor": "adoptopenjdk",
+"version": "14.0.0+36.1.openj9-0.19.0"
 }

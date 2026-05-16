@@ -1,22 +1,33 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-17.0.7_linux-ppc64le_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "17.0.7",
-  "jvm_impl": "hotspot",
-  "md5": "924fd1411c3dd9d7a240db8b2bc46a5a",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "ec146889475cb3227fad6dc2bba1b3ea1f6a9912",
-  "sha256": "da8b83cca44ca40fd8f8dd227906cbc5f6482695a3a1d2beebe0a2848f3b8a7e",
-  "sha512": "1b31116f241265ac0d5fb72b1e801823090b0f80e5bc6f21b24ec32d88cd568b759af2c128a193e2e372b002a606ee7e51e90d62609c71d74119a5fb4998cfe9",
-  "size": 47040043,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.7/sapmachine-jre-17.0.7_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "17.0.7"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-17.0.7_linux-ppc64le_bin.tar.gz",
+"image_type": "jre",
+"java_version": "17.0.7",
+"jvm_impl": "hotspot",
+"md5": "924fd1411c3dd9d7a240db8b2bc46a5a",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_VERSION": "17.0.7",
+  "JAVA_VERSION_DATE": "2023-04-18",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:5cd663db8d0e"
+},
+"release_type": "ga",
+"sha1": "ec146889475cb3227fad6dc2bba1b3ea1f6a9912",
+"sha256": "da8b83cca44ca40fd8f8dd227906cbc5f6482695a3a1d2beebe0a2848f3b8a7e",
+"sha512": "1b31116f241265ac0d5fb72b1e801823090b0f80e5bc6f21b24ec32d88cd568b759af2c128a193e2e372b002a606ee7e51e90d62609c71d74119a5fb4998cfe9",
+"size": 47040043,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.7/sapmachine-jre-17.0.7_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "17.0.7"
 }

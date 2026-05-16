@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-26-ea.11_linux-x64-musl_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "26-ea.11",
-  "jvm_impl": "hotspot",
-  "md5": "150b6e8575e9e2a552b1bbad462fd900",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "b1faa71b52c668e749ab2f688aa04a7fa0a86198",
-  "sha256": "5cba88c84e012b2b5c04bd15394ffe8bce0db9ba499aabae6dde85eb1cce43dc",
-  "sha512": "74d30958cd828558f03806a643fb5a017819be6a080f22339551510aec11bad7829bf2fbe4bb87494a320ac870b00545db1a2c68eb69b967ea6a605448334f92",
-  "size": 50900636,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26+11/sapmachine-jre-26-ea.11_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "26-ea.11"
+"architecture": "x86_64",
+"distro": "sapmachine",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-26-ea.11_linux-x64-musl_bin.tar.gz",
+"image_type": "jre",
+"java_version": "26-ea.11",
+"jvm_impl": "hotspot",
+"md5": "150b6e8575e9e2a552b1bbad462fd900",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "26-ea+11",
+  "JAVA_VERSION": "26",
+  "JAVA_VERSION_DATE": "2026-03-17",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:246437274bf0"
+},
+"release_type": "ea",
+"sha1": "b1faa71b52c668e749ab2f688aa04a7fa0a86198",
+"sha256": "5cba88c84e012b2b5c04bd15394ffe8bce0db9ba499aabae6dde85eb1cce43dc",
+"sha512": "74d30958cd828558f03806a643fb5a017819be6a080f22339551510aec11bad7829bf2fbe4bb87494a320ac870b00545db1a2c68eb69b967ea6a605448334f92",
+"size": 50900636,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26+11/sapmachine-jre-26-ea.11_linux-x64-musl_bin.tar.gz",
+"vendor": "sap",
+"version": "26-ea.11"
 }

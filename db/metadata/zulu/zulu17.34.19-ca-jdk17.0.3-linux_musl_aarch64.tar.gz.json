@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu17.34.19-ca-jdk17.0.3-linux_musl_aarch64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.3",
-  "jvm_impl": "hotspot",
-  "md5": "24c88918848a72133d31d3610f14c795",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "7fad6b18c66b5a8b55bb6fa099feb6b2df1ba8c1",
-  "sha256": "570704061a8410cd421fcb134e9309324991052600e98c7af1e4274d90cc058e",
-  "sha512": "34fecbf5eb4195548956eeed6e9fad2be44e9e4d54e9b9d04a69af708e8c45985bdd226281aff2cbd47bc8fe3c922ee21734966eb6c25b258aeec15ff54b6e10",
-  "size": 188961820,
-  "url": "https://static.azul.com/zulu/bin/zulu17.34.19-ca-jdk17.0.3-linux_musl_aarch64.tar.gz",
-  "vendor": "azul",
-  "version": "17.34.19"
+"architecture": "aarch64",
+"distro": "zulu",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu17.34.19-ca-jdk17.0.3-linux_musl_aarch64.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.3",
+"jvm_impl": "hotspot",
+"md5": "24c88918848a72133d31d3610f14c795",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu17.34+19-CA",
+  "JAVA_VERSION": "17.0.3",
+  "JAVA_VERSION_DATE": "2022-04-19",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:f2d082bc9a89"
+},
+"release_type": "ga",
+"sha1": "7fad6b18c66b5a8b55bb6fa099feb6b2df1ba8c1",
+"sha256": "570704061a8410cd421fcb134e9309324991052600e98c7af1e4274d90cc058e",
+"sha512": "34fecbf5eb4195548956eeed6e9fad2be44e9e4d54e9b9d04a69af708e8c45985bdd226281aff2cbd47bc8fe3c922ee21734966eb6c25b258aeec15ff54b6e10",
+"size": 188961820,
+"url": "https://static.azul.com/zulu/bin/zulu17.34.19-ca-jdk17.0.3-linux_musl_aarch64.tar.gz",
+"vendor": "azul",
+"version": "17.34.19"
 }

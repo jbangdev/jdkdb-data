@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu16.0.51-ea-jdk16.0.0-ea.23-linux_musl_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "16.0.0-ea.23",
-  "jvm_impl": "hotspot",
-  "md5": "27b5fac87cd405cdcd5ffaf256909046",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "9d88837177ff9137a2281119daa1ebd574f814bd",
-  "sha256": "31c6ed3aaa8dafeafba9006f324be0bf30a02e27513af9cd62ca8db486ac7bf6",
-  "sha512": "536cda254ff77361635780f8e46b498ffe5f545cf34da7d1340752aceb1aca3b5167900519b0e10bee7cc596b932e71093e05bf9836f77cd755f5d50f8ae8aa3",
-  "size": 209767377,
-  "url": "https://static.azul.com/zulu/bin/zulu16.0.51-ea-jdk16.0.0-ea.23-linux_musl_x64.tar.gz",
-  "vendor": "azul",
-  "version": "16.0.51"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu16.0.51-ea-jdk16.0.0-ea.23-linux_musl_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "16.0.0-ea.23",
+"jvm_impl": "hotspot",
+"md5": "27b5fac87cd405cdcd5ffaf256909046",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu16+51-CA",
+  "JAVA_VERSION": "16",
+  "JAVA_VERSION_DATE": "2021-03-16",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:cf40bd5ede3e"
+},
+"release_type": "ea",
+"sha1": "9d88837177ff9137a2281119daa1ebd574f814bd",
+"sha256": "31c6ed3aaa8dafeafba9006f324be0bf30a02e27513af9cd62ca8db486ac7bf6",
+"sha512": "536cda254ff77361635780f8e46b498ffe5f545cf34da7d1340752aceb1aca3b5167900519b0e10bee7cc596b932e71093e05bf9836f77cd755f5d50f8ae8aa3",
+"size": 209767377,
+"url": "https://static.azul.com/zulu/bin/zulu16.0.51-ea-jdk16.0.0-ea.23-linux_musl_x64.tar.gz",
+"vendor": "azul",
+"version": "16.0.51"
 }

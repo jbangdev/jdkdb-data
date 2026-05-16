@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jdk15.0.2+8-linux-x64-musl.apk",
-  "image_type": "jdk",
-  "java_version": "15.0.2+8",
-  "jvm_impl": "hotspot",
-  "md5": "e1f9fef2f6a4f814cb488ba4355bf00b",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "ea08fb2954bc6fe64bb78e8308e8558b65f1a7dd",
-  "sha256": "aa47ae3fa1c78796ef73f176143a8245df0faa3581d71c44da655d8ebc5e1af8",
-  "sha512": "e25cfa008a5deae2d417933c355f84f3d6fcb37e162e2b20a08be8ed58bb750a1d0cc9baabccbe90aeefbf22370c8ee0da12326c5812518db6eb1dcc456e19c9",
-  "size": 211254726,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+8/bellsoft-jdk15.0.2+8-linux-x64-musl.apk",
-  "vendor": "bellsoft",
-  "version": "15.0.2+8"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "apk",
+"filename": "bellsoft-jdk15.0.2+8-linux-x64-musl.apk",
+"image_type": "jdk",
+"java_version": "15.0.2+8",
+"jvm_impl": "hotspot",
+"md5": "e1f9fef2f6a4f814cb488ba4355bf00b",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "15.0.2",
+  "JAVA_VERSION_DATE": "2021-01-19",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:efc85fd35d2f+"
+},
+"release_type": "ga",
+"sha1": "ea08fb2954bc6fe64bb78e8308e8558b65f1a7dd",
+"sha256": "aa47ae3fa1c78796ef73f176143a8245df0faa3581d71c44da655d8ebc5e1af8",
+"sha512": "e25cfa008a5deae2d417933c355f84f3d6fcb37e162e2b20a08be8ed58bb750a1d0cc9baabccbe90aeefbf22370c8ee0da12326c5812518db6eb1dcc456e19c9",
+"size": 211254726,
+"url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+8/bellsoft-jdk15.0.2+8-linux-x64-musl.apk",
+"vendor": "bellsoft",
+"version": "15.0.2+8"
 }

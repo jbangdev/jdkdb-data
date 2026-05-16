@@ -1,24 +1,35 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jre20+37-linux-arm32-vfp-hflt-full.deb",
-  "image_type": "jre",
-  "java_version": "20+37",
-  "jvm_impl": "hotspot",
-  "md5": "1a69d30473a90798011b09750e559aed",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "6e9d041b77f61963c1492e389ac82b7bef26982a",
-  "sha256": "c8863aae8680929c667d63b8d779f0e8a986554da2b8d541074274e574dfb377",
-  "sha512": "79142bdc029ac107be34aaf58e3eff520dad474c647b73bb16ddab34cf70d349f8a934375c8931807610be40c2af66d84cae40ab8a820c860e84d23c2052fc82",
-  "size": 30025004,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt-full.deb",
-  "vendor": "bellsoft",
-  "version": "20+37"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jre20+37-linux-arm32-vfp-hflt-full.deb",
+"image_type": "jre",
+"java_version": "20+37",
+"jvm_impl": "hotspot",
+"md5": "1a69d30473a90798011b09750e559aed",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "20",
+  "JAVA_VERSION_DATE": "2023-03-21",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:dca02d0c8f83+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "6e9d041b77f61963c1492e389ac82b7bef26982a",
+"sha256": "c8863aae8680929c667d63b8d779f0e8a986554da2b8d541074274e574dfb377",
+"sha512": "79142bdc029ac107be34aaf58e3eff520dad474c647b73bb16ddab34cf70d349f8a934375c8931807610be40c2af66d84cae40ab8a820c860e84d23c2052fc82",
+"size": 30025004,
+"url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt-full.deb",
+"vendor": "bellsoft",
+"version": "20+37"
 }

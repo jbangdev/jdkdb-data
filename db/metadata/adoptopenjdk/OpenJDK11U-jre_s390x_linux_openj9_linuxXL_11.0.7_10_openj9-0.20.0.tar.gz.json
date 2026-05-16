@@ -1,22 +1,32 @@
 {
-  "architecture": "s390x",
-  "distro": "adoptopenjdk",
-  "features": [
-    "large_heap"
-  ],
-  "file_type": "tar.gz",
-  "filename": "OpenJDK11U-jre_s390x_linux_openj9_linuxXL_11.0.7_10_openj9-0.20.0.tar.gz",
-  "image_type": "jre",
-  "java_version": "11.0.7+10",
-  "jvm_impl": "openj9",
-  "md5": "315346e85cb05e88d0748c3a55d9eaf2",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "7f520a985541eade405b53eb8b9f174796a15e18",
-  "sha256": "4f0be306ebfc2bb6d0e5a844e73f4e65173eeaf495ec6308d8fd526cc2ba39f0",
-  "sha512": "8c57bf653c11a96b47c32ed1976d2a8cf727345e3a0d76ccba82c929334587699053ad7988384a95751b255f2ea869f338a5523aebb424f39b84f98e044758c5",
-  "size": 41028366,
-  "url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10_openj9-0.20.0/OpenJDK11U-jre_s390x_linux_openj9_linuxXL_11.0.7_10_openj9-0.20.0.tar.gz",
-  "vendor": "adoptopenjdk",
-  "version": "11.0.7+10.1.openj9-0.20.0"
+"architecture": "s390x",
+"distro": "adoptopenjdk",
+"features": [
+  "large_heap"
+],
+"file_type": "tar.gz",
+"filename": "OpenJDK11U-jre_s390x_linux_openj9_linuxXL_11.0.7_10_openj9-0.20.0.tar.gz",
+"image_type": "jre",
+"java_version": "11.0.7+10",
+"jvm_impl": "openj9",
+"md5": "315346e85cb05e88d0748c3a55d9eaf2",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Eclipse OpenJ9",
+  "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+  "JAVA_VERSION": "11.0.7",
+  "JAVA_VERSION_DATE": "2020-04-14",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+  "OS_ARCH": "s390x",
+  "OS_NAME": "Linux",
+  "SOURCE": "OpenJDK:838028fc9d OpenJ9:05fa2d361 OMR:d4365f371"
+},
+"release_type": "ga",
+"sha1": "7f520a985541eade405b53eb8b9f174796a15e18",
+"sha256": "4f0be306ebfc2bb6d0e5a844e73f4e65173eeaf495ec6308d8fd526cc2ba39f0",
+"sha512": "8c57bf653c11a96b47c32ed1976d2a8cf727345e3a0d76ccba82c929334587699053ad7988384a95751b255f2ea869f338a5523aebb424f39b84f98e044758c5",
+"size": 41028366,
+"url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10_openj9-0.20.0/OpenJDK11U-jre_s390x_linux_openj9_linuxXL_11.0.7_10_openj9-0.20.0.tar.gz",
+"vendor": "adoptopenjdk",
+"version": "11.0.7+10.1.openj9-0.20.0"
 }

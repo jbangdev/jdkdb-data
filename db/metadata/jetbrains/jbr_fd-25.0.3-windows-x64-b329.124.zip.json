@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "zip",
+  "filename": "jbr_fd-25.0.3-windows-x64-b329.124.zip",
+  "image_type": "jre",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "3f49417ef665f4eed91251bae6d04ef2",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.3+1-329.124-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.3+1-b329.124",
+    "JAVA_VERSION": "25.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:aa719f98f3da+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "a81dcff4ba2dafa1bc8a8b5f2b00549884d34ebb",
+  "sha256": "0e5e3ae5fef3dfc162e8575382f250f3c4a1e2d6e1029876705c892144038983",
+  "sha512": "ed07b7548fda08bff98e067f994a7c9cbb8841af41cd3bede6f96f4c54bc9f2fef2889c42ce0f1dbb8cf42422acc5e8ce4fe7f176fdf83614d820449aa2ef9e8",
+  "size": 106017938,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.3-windows-x64-b329.124.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.3b329.124"
+}

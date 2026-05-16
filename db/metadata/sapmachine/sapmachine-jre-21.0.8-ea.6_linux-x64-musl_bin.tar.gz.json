@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-21.0.8-ea.6_linux-x64-musl_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "21.0.8-ea.6",
-  "jvm_impl": "hotspot",
-  "md5": "88526a101d718a8fab8a5a4e0c34a412",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "9e1bcb1298915a67c713ca45b7553265e34190e1",
-  "sha256": "83549d502ea062b108c2e09836fd4e2a4045fae8cb53caf3ddd4595414302f11",
-  "sha512": "1c9ef61efdd5db221489dface26d4f89b50fd6e876998ff1b1a35e779fa468cfae6a48ed616b75db839699a0e034a6cf9cba7eadaa8737e5f2bc204a8b7c0cfa",
-  "size": 53138538,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.8+6/sapmachine-jre-21.0.8-ea.6_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "21.0.8-ea.6"
+"architecture": "x86_64",
+"distro": "sapmachine",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-21.0.8-ea.6_linux-x64-musl_bin.tar.gz",
+"image_type": "jre",
+"java_version": "21.0.8-ea.6",
+"jvm_impl": "hotspot",
+"md5": "c1b0e0f2591ac4568c72ff93f603b49c",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "21.0.8-ea+6",
+  "JAVA_VERSION": "21.0.8",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:d8516b1682a8"
+},
+"release_type": "ea",
+"sha1": "40b0ae04ac376509c394103c38fb9f1c48f7b77f",
+"sha256": "4442611c64aac1e225d92f547a4de1314495feca8f6660be723ba0c854968213",
+"sha512": "da9c31f77507ef964de9b5993e52d88425d8053968028acc461af42298a8648a2e9abedae51309e740548374f2976ac21b86e17258c672b308b74ce1c7f23650",
+"size": 53136251,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.8+6/sapmachine-jre-21.0.8-ea.6_linux-x64-musl_bin.tar.gz",
+"vendor": "sap",
+"version": "21.0.8-ea.6"
 }

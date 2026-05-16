@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jdk-21.0.9-ea.10_linux-ppc64le_bin.tar.gz",
-  "image_type": "jdk",
-  "java_version": "21.0.9-ea.10",
-  "jvm_impl": "hotspot",
-  "md5": "5b7ffff45eb9601e173ad8a71fc7db2f",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "579e1914abd18316c7cf9888fd6268472031c30f",
-  "sha256": "258a6e60221ca41314ce658064d75e3a1051aa256e20b78bd9c46bddfcb74d61",
-  "sha512": "0da233bb8056d95e4c6e8043f3b76c32a395508096dee15304c606ae25b47db65b5b64502bf5808a5db0b782142abef7a7b6e0246149fb97acf10dbf25571207",
-  "size": 207223788,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.9+10/sapmachine-jdk-21.0.9-ea.10_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "21.0.9-ea.10"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jdk-21.0.9-ea.10_linux-ppc64le_bin.tar.gz",
+"image_type": "jdk",
+"java_version": "21.0.9-ea.10",
+"jvm_impl": "hotspot",
+"md5": "5b7ffff45eb9601e173ad8a71fc7db2f",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "21.0.9-ea+10",
+  "JAVA_VERSION": "21.0.9",
+  "JAVA_VERSION_DATE": "2025-10-21",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:7837f2cecbbb"
+},
+"release_type": "ea",
+"sha1": "579e1914abd18316c7cf9888fd6268472031c30f",
+"sha256": "258a6e60221ca41314ce658064d75e3a1051aa256e20b78bd9c46bddfcb74d61",
+"sha512": "0da233bb8056d95e4c6e8043f3b76c32a395508096dee15304c606ae25b47db65b5b64502bf5808a5db0b782142abef7a7b6e0246149fb97acf10dbf25571207",
+"size": 207223788,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.9+10/sapmachine-jdk-21.0.9-ea.10_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "21.0.9-ea.10"
 }

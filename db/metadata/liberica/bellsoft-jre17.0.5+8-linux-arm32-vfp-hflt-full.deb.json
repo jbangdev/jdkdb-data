@@ -1,24 +1,35 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jre17.0.5+8-linux-arm32-vfp-hflt-full.deb",
-  "image_type": "jre",
-  "java_version": "17.0.5+8",
-  "jvm_impl": "hotspot",
-  "md5": "ccf60cbab10de806712bd61875562046",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "ae2e35b9c447402467d504560c74caa155286561",
-  "sha256": "62ee1f969860852ce34980f3da033ce5431fad51fb1e1bd5fd0fd3020fe3f559",
-  "sha512": "1a30983e2415736343840fa016d2482dc112adae309d2ccee23b4d7718b4ff982cfeca2b3b51fe661ca10ea1a7c78fe20d8bf927badf9e1759d05f5014fef8db",
-  "size": 29128112,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.5+8/bellsoft-jre17.0.5+8-linux-arm32-vfp-hflt-full.deb",
-  "vendor": "bellsoft",
-  "version": "17.0.5+8"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jre17.0.5+8-linux-arm32-vfp-hflt-full.deb",
+"image_type": "jre",
+"java_version": "17.0.5+8",
+"jvm_impl": "hotspot",
+"md5": "ccf60cbab10de806712bd61875562046",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "17.0.5",
+  "JAVA_VERSION_DATE": "2022-10-18",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:c783c217e5c2+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "ae2e35b9c447402467d504560c74caa155286561",
+"sha256": "62ee1f969860852ce34980f3da033ce5431fad51fb1e1bd5fd0fd3020fe3f559",
+"sha512": "1a30983e2415736343840fa016d2482dc112adae309d2ccee23b4d7718b4ff982cfeca2b3b51fe661ca10ea1a7c78fe20d8bf927badf9e1759d05f5014fef8db",
+"size": 29128112,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.5+8/bellsoft-jre17.0.5+8-linux-arm32-vfp-hflt-full.deb",
+"vendor": "bellsoft",
+"version": "17.0.5+8"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu18.30.11-ca-fx-jdk18.0.1-win_x64.zip",
-  "image_type": "jdk",
-  "java_version": "18.0.1",
-  "jvm_impl": "hotspot",
-  "md5": "7f84d07ab523af21d3cca921beb29ade",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "7de9d8a6f01b69dc083914076f70f73e518b33f6",
-  "sha256": "0b6b591526e14bf8b191c5bf674acf1956c00fc3ca59046acc946f9a0962275f",
-  "sha512": "ac3d11a273ee5f6721adcc65267aaa0a37a32b6eae48349f390f9a85dfc38baf09c311f114b96c57f096fdbe18279a9e47e31d57844e15b88ffc5aa509076fa6",
-  "size": 271376356,
-  "url": "https://static.azul.com/zulu/bin/zulu18.30.11-ca-fx-jdk18.0.1-win_x64.zip",
-  "vendor": "azul",
-  "version": "18.30.11"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "zip",
+"filename": "zulu18.30.11-ca-fx-jdk18.0.1-win_x64.zip",
+"image_type": "jdk",
+"java_version": "18.0.1",
+"jvm_impl": "hotspot",
+"md5": "7f84d07ab523af21d3cca921beb29ade",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu18.30+11-CA",
+  "JAVA_VERSION": "18.0.1",
+  "JAVA_VERSION_DATE": "2022-04-19",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:729af55056ce"
+},
+"release_type": "ga",
+"sha1": "7de9d8a6f01b69dc083914076f70f73e518b33f6",
+"sha256": "0b6b591526e14bf8b191c5bf674acf1956c00fc3ca59046acc946f9a0962275f",
+"sha512": "ac3d11a273ee5f6721adcc65267aaa0a37a32b6eae48349f390f9a85dfc38baf09c311f114b96c57f096fdbe18279a9e47e31d57844e15b88ffc5aa509076fa6",
+"size": 271376356,
+"url": "https://static.azul.com/zulu/bin/zulu18.30.11-ca-fx-jdk18.0.1-win_x64.zip",
+"vendor": "azul",
+"version": "18.30.11"
 }

@@ -1,24 +1,35 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk11.0.22+12-windows-i586-full.msi",
-  "image_type": "jdk",
-  "java_version": "11.0.22+12",
-  "jvm_impl": "hotspot",
-  "md5": "4fb45698ab78db4558e6370cef55fae6",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "30fd824a4c37bb81a5296dadbdad1dbc3dfd1afd",
-  "sha256": "ad1b72cb117d68614543c2f1094ca3f41a851c613612166a519d004e5ccc343a",
-  "sha512": "8e6721636a3fe1510ac3cfd0219159fd3999d09d672815c9c9a3edd6539cbc605951ff1a889e5b50834afa9395d52a733ef7ed6dd3a0eb0796188772198f2604",
-  "size": 254099456,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.22+12/bellsoft-jdk11.0.22+12-windows-i586-full.msi",
-  "vendor": "bellsoft",
-  "version": "11.0.22+12"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk11.0.22+12-windows-i586-full.msi",
+"image_type": "jdk",
+"java_version": "11.0.22+12",
+"jvm_impl": "hotspot",
+"md5": "4fb45698ab78db4558e6370cef55fae6",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "11.0.22+12-LTS",
+  "JAVA_VERSION": "11.0.22",
+  "JAVA_VERSION_DATE": "2024-01-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.packager jdk.packager.services jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:7c5022c08ff8+"
+},
+"release_type": "ga",
+"sha1": "30fd824a4c37bb81a5296dadbdad1dbc3dfd1afd",
+"sha256": "ad1b72cb117d68614543c2f1094ca3f41a851c613612166a519d004e5ccc343a",
+"sha512": "8e6721636a3fe1510ac3cfd0219159fd3999d09d672815c9c9a3edd6539cbc605951ff1a889e5b50834afa9395d52a733ef7ed6dd3a0eb0796188772198f2604",
+"size": 254099456,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.22+12/bellsoft-jdk11.0.22+12-windows-i586-full.msi",
+"vendor": "bellsoft",
+"version": "11.0.22+12"
 }

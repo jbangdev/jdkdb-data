@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk23.0.1+13-linux-amd64-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "23.0.1+13",
-  "jvm_impl": "hotspot",
-  "md5": "2f2dd400d30c797222555019b7b790a9",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "b218b403156331daeecdf2093005d9e3de541bb0",
-  "sha256": "1ad489dff8c8ae13b32f7a3d5f1e5b346620709540aaab35df142def4b49198c",
-  "sha512": "5f5bd2aacbdda23c583708823ffc2b9dc1217c098427889bdb95ccb105545a020cb626bbb407c8ff96687b766bcfffca1a202ce3d9cf755ab8ecab5cd2be0c8f",
-  "size": 81608452,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.1+13/bellsoft-jdk23.0.1+13-linux-amd64-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "23.0.1+13"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk23.0.1+13-linux-amd64-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "23.0.1+13",
+"jvm_impl": "hotspot",
+"md5": "2f2dd400d30c797222555019b7b790a9",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "23.0.1+13",
+  "JAVA_VERSION": "23.0.1",
+  "JAVA_VERSION_DATE": "2024-10-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:81c73d966af8+"
+},
+"release_type": "ga",
+"sha1": "b218b403156331daeecdf2093005d9e3de541bb0",
+"sha256": "1ad489dff8c8ae13b32f7a3d5f1e5b346620709540aaab35df142def4b49198c",
+"sha512": "5f5bd2aacbdda23c583708823ffc2b9dc1217c098427889bdb95ccb105545a020cb626bbb407c8ff96687b766bcfffca1a202ce3d9cf755ab8ecab5cd2be0c8f",
+"size": 81608452,
+"url": "https://github.com/bell-sw/Liberica/releases/download/23.0.1+13/bellsoft-jdk23.0.1+13-linux-amd64-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "23.0.1+13"
 }

@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk22.0.1+12-macos-aarch64-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "22.0.1+12",
-  "jvm_impl": "hotspot",
-  "md5": "66035934127269ae4dc85f73b6240f79",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "41da5aeb3918f3d039048cffa7811685c37f174c",
-  "sha256": "73591eca3ac1954dce9278b7ea63e442638b3cfdee7b42ffaec249c4a2e0530e",
-  "sha512": "ccdf44d8f3b54b3f70d8a21ee716635c449d43ecb41d156a3433bd796f0b7fded1d16648e29595f3529281bc4a862910e5921ba86ff762bc318867f1fd4dfd29",
-  "size": 307389938,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-macos-aarch64-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "22.0.1+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk22.0.1+12-macos-aarch64-full.tar.gz",
+"image_type": "jdk",
+"java_version": "22.0.1+12",
+"jvm_impl": "hotspot",
+"md5": "66035934127269ae4dc85f73b6240f79",
+"os": "macosx",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "22.0.1+12",
+  "JAVA_VERSION": "22.0.1",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Darwin",
+  "SOURCE": ".:git:4b3e1f9d12a0+"
+},
+"release_type": "ga",
+"sha1": "41da5aeb3918f3d039048cffa7811685c37f174c",
+"sha256": "73591eca3ac1954dce9278b7ea63e442638b3cfdee7b42ffaec249c4a2e0530e",
+"sha512": "ccdf44d8f3b54b3f70d8a21ee716635c449d43ecb41d156a3433bd796f0b7fded1d16648e29595f3529281bc4a862910e5921ba86ff762bc318867f1fd4dfd29",
+"size": 307389938,
+"url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-macos-aarch64-full.tar.gz",
+"vendor": "bellsoft",
+"version": "22.0.1+12"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk17.0.14+10-linux-amd64-lite.rpm",
-  "image_type": "jdk",
-  "java_version": "17.0.14+10",
-  "jvm_impl": "hotspot",
-  "md5": "b3b85936c64f9dcf1cc02b66bcbd308c",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "61a783fd6a1dbc08e53c0637a4154b0f2d61d6a3",
-  "sha256": "38af9120ff250ed4c91c8b444eb14d11b43fa47718512ed5304152da814bbc9f",
-  "sha512": "fe078522913d9c21e7070b273a681d8a0bd6decba9c3e7157e6cd5e492e415cc724a7e1683ae21e2c97de3757f6d54a30d5c40ab9c84cd1206c7308371d26dab",
-  "size": 68855036,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-linux-amd64-lite.rpm",
-  "vendor": "bellsoft",
-  "version": "17.0.14+10"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk17.0.14+10-linux-amd64-lite.rpm",
+"image_type": "jdk",
+"java_version": "17.0.14+10",
+"jvm_impl": "hotspot",
+"md5": "b3b85936c64f9dcf1cc02b66bcbd308c",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.14+10-LTS",
+  "JAVA_VERSION": "17.0.14",
+  "JAVA_VERSION_DATE": "2025-01-21",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:8f5a8e231753+"
+},
+"release_type": "ga",
+"sha1": "61a783fd6a1dbc08e53c0637a4154b0f2d61d6a3",
+"sha256": "38af9120ff250ed4c91c8b444eb14d11b43fa47718512ed5304152da814bbc9f",
+"sha512": "fe078522913d9c21e7070b273a681d8a0bd6decba9c3e7157e6cd5e492e415cc724a7e1683ae21e2c97de3757f6d54a30d5c40ab9c84cd1206c7308371d26dab",
+"size": 68855036,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-linux-amd64-lite.rpm",
+"vendor": "bellsoft",
+"version": "17.0.14+10"
 }

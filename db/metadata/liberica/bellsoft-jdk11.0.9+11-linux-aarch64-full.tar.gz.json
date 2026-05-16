@@ -1,24 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk11.0.9+11-linux-aarch64-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "11.0.9+11",
-  "jvm_impl": "hotspot",
-  "md5": "6a3afa7322cb4542b889170b402830af",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "480654a4c7c62f65dddc1064aaff671de8f2313d",
-  "sha256": "829b1369ed26c30a26192815a78b599f7f5fce05fed7864a2b911702286b8969",
-  "sha512": "1ac63ec18e8aea1528fb6ebc2fdd1b2df031e3e7693550bfb921fecaf6d139d15e87f7cc396e3047cac31e439ddfd85d26c61d723751f704b6abe584345c4ddf",
-  "size": 287201602,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.9+11/bellsoft-jdk11.0.9+11-linux-aarch64-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "11.0.9+11"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk11.0.9+11-linux-aarch64-full.tar.gz",
+"image_type": "jdk",
+"java_version": "11.0.9+11",
+"jvm_impl": "hotspot",
+"md5": "6a3afa7322cb4542b889170b402830af",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "11.0.9",
+  "JAVA_VERSION_DATE": "2020-10-20",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:73edf743a93a+"
+},
+"release_type": "ga",
+"sha1": "480654a4c7c62f65dddc1064aaff671de8f2313d",
+"sha256": "829b1369ed26c30a26192815a78b599f7f5fce05fed7864a2b911702286b8969",
+"sha512": "1ac63ec18e8aea1528fb6ebc2fdd1b2df031e3e7693550bfb921fecaf6d139d15e87f7cc396e3047cac31e439ddfd85d26c61d723751f704b6abe584345c4ddf",
+"size": 287201602,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.9+11/bellsoft-jdk11.0.9+11-linux-aarch64-full.tar.gz",
+"vendor": "bellsoft",
+"version": "11.0.9+11"
 }

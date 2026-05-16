@@ -1,22 +1,33 @@
 {
-  "architecture": "ppc64le",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk11.0.22+12-linux-ppc64le-lite.rpm",
-  "image_type": "jdk",
-  "java_version": "11.0.22+12",
-  "jvm_impl": "hotspot",
-  "md5": "50f8e924653669a708172f3372a06995",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "83add8953219e1eefb5325fcc2c3eb35edb40986",
-  "sha256": "692669177254138ef27456e3666755fbdd706b52b2680118c748e1ace45846d4",
-  "sha512": "1c831402ddd3bbd3cd27c8866fcd38c7902fcfc007252c17cb0c9b7fc20dd4b0b514c33fdfd497d963de947615c6165b98dd1bc032404733678b3b2d15747398",
-  "size": 66296352,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.22+12/bellsoft-jdk11.0.22+12-linux-ppc64le-lite.rpm",
-  "vendor": "bellsoft",
-  "version": "11.0.22+12"
+"architecture": "ppc64le",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk11.0.22+12-linux-ppc64le-lite.rpm",
+"image_type": "jdk",
+"java_version": "11.0.22+12",
+"jvm_impl": "hotspot",
+"md5": "50f8e924653669a708172f3372a06995",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "11.0.22+12-LTS",
+  "JAVA_VERSION": "11.0.22",
+  "JAVA_VERSION_DATE": "2024-01-16",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:e39b943cb6ac+"
+},
+"release_type": "ga",
+"sha1": "83add8953219e1eefb5325fcc2c3eb35edb40986",
+"sha256": "692669177254138ef27456e3666755fbdd706b52b2680118c748e1ace45846d4",
+"sha512": "1c831402ddd3bbd3cd27c8866fcd38c7902fcfc007252c17cb0c9b7fc20dd4b0b514c33fdfd497d963de947615c6165b98dd1bc032404733678b3b2d15747398",
+"size": 66296352,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.22+12/bellsoft-jdk11.0.22+12-linux-ppc64le-lite.rpm",
+"vendor": "bellsoft",
+"version": "11.0.22+12"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jre21.0.5+11-linux-x64-musl.tar.gz",
-  "image_type": "jre",
-  "java_version": "21.0.5+11",
-  "jvm_impl": "hotspot",
-  "md5": "0956b62b1f69b0bc1b39ec605404e0cf",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "c55ff0b1171a936d3a8ab83dbdce1f95361da56a",
-  "sha256": "48711c3a0517bd8f23f8b59f6b9c08fd828f212c100a0842b6f2adcfcf73180b",
-  "sha512": "7b67b117c117b91a0ada490a39bd0be439332ab515c94cd92547b4da269308a2d0d106f63188dc0deb158395c072a1f63c75c5a4b164ff0c267e112f14560019",
-  "size": 65508347,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.5+11/bellsoft-jre21.0.5+11-linux-x64-musl.tar.gz",
-  "vendor": "bellsoft",
-  "version": "21.0.5+11"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jre21.0.5+11-linux-x64-musl.tar.gz",
+"image_type": "jre",
+"java_version": "21.0.5+11",
+"jvm_impl": "hotspot",
+"md5": "0956b62b1f69b0bc1b39ec605404e0cf",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.5+11-LTS",
+  "JAVA_VERSION": "21.0.5",
+  "JAVA_VERSION_DATE": "2024-10-15",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:5b2266abef5f+"
+},
+"release_type": "ga",
+"sha1": "c55ff0b1171a936d3a8ab83dbdce1f95361da56a",
+"sha256": "48711c3a0517bd8f23f8b59f6b9c08fd828f212c100a0842b6f2adcfcf73180b",
+"sha512": "7b67b117c117b91a0ada490a39bd0be439332ab515c94cd92547b4da269308a2d0d106f63188dc0deb158395c072a1f63c75c5a4b164ff0c267e112f14560019",
+"size": 65508347,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.5+11/bellsoft-jre21.0.5+11-linux-x64-musl.tar.gz",
+"vendor": "bellsoft",
+"version": "21.0.5+11"
 }
