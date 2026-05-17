@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "zip",
+  "filename": "jbr_fd-25.0.3-windows-aarch64-b480.61.zip",
+  "image_type": "jre",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "bcedf095be3e7e1b055367c67be3704e",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.3+9-480.61-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.3+9-b480.61",
+    "JAVA_VERSION": "25.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:52b04970adc8+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "4f9133fa5cbf5508e47ebc1533b9771ce066362d",
+  "sha256": "169ca3f8d0d798d6d2d1fa4f803401d7de57631021df2b03cb61467be505116c",
+  "sha512": "6f3c046ddcf67aeb53dd38646a535212cb0db791ded31ec0b521233bf74e2b559ec540051f880edf5d985f6f640b427555caa321db111df269ce4de4396c7653",
+  "size": 84418678,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.3-windows-aarch64-b480.61.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.3b480.61"
+}

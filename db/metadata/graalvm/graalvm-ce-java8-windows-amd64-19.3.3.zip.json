@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "4e1b7db235c3367395433c5fa754bab2",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"graal-js\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1594732270, \"commit.rev\": \"67993f28fab0f6b4d431ad6d8b581b030bc96bb5\"}, \"regex\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"sdk\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"substratevm\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"tools\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"truffle\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}, \"vm\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1596560406, \"commit.rev\": \"f6bd3d1546f60739c0677263ba64d6d4507b2e9f\"}}",
+    "GRAALVM_VERSION": "19.3.3",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:f6bd3d1546f60739c0677263ba64d6d4507b2e9f graal-js:67993f28fab0f6b4d431ad6d8b581b030bc96bb5 regex:f6bd3d1546f60739c0677263ba64d6d4507b2e9f sdk:f6bd3d1546f60739c0677263ba64d6d4507b2e9f substratevm:f6bd3d1546f60739c0677263ba64d6d4507b2e9f tools:f6bd3d1546f60739c0677263ba64d6d4507b2e9f truffle:f6bd3d1546f60739c0677263ba64d6d4507b2e9f vm:f6bd3d1546f60739c0677263ba64d6d4507b2e9f",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog-java8.properties"
+  },
   "release_type": "ga",
   "sha1": "3624540c146160f0d0d72b0758f109277d752551",
   "sha256": "afeccdd9440e360528b7ba40d7e4e720205c519ed6c36e4b7d821aa3eb566d9a",

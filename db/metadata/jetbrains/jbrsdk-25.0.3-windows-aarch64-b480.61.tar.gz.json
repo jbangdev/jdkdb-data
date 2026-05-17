@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-25.0.3-windows-aarch64-b480.61.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "d058f50e9f164eaeaef06b80ec9eed7d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.3+9-480.61-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.3+9-b480.61",
+    "JAVA_VERSION": "25.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:52b04970adc8+"
+  },
+  "release_type": "ga",
+  "sha1": "85ae7e3fecb239de5ee7d9f88cf2c90d4694a7b1",
+  "sha256": "decf86221651c589bc2a2d6e69635d65a888c604ec3ae85ab11384dfa4868fe0",
+  "sha512": "7a7f4b8b7210e53380d309041aaaac708cb4166c1df9da7cf849f732afca2521344cfc1aedf03216f74d601fce3d5c92ed26a5044670f349ebc18efda4a8e5d1",
+  "size": 268746140,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.3-windows-aarch64-b480.61.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.3b480.61"
+}

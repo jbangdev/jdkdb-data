@@ -1,0 +1,39 @@
+{
+  "architecture": "aarch64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK8U-jre_aarch64_alpine-linux_hotspot_8u502b01-ea.tar.gz",
+  "image_type": "jre",
+  "java_version": "8",
+  "jvm_impl": "hotspot",
+  "md5": "29ac6a18972ec2ec5e402e274e0f024e",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-101-generic",
+    "BUILD_SOURCE": "git:62eb5136936ab6f3bcce3fb9ef8ea13fe494b198",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "1.8.0_502-beta-202605150921-b01",
+    "IMAGE_TYPE": "JRE",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "JAVA_VERSION": "1.8.0_502",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "25.502-b01",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SEMANTIC_VERSION": "8.0.502+1",
+    "SOURCE": ".:git:f918be761db6+",
+    "SOURCE_REPO": "https://github.com/adoptium/alpine-jdk8u.git"
+  },
+  "release_type": "ea",
+  "sha1": "620c2d8c13f6d57a360830a4df2a8efacbfbbba0",
+  "sha256": "53caa2bc2368f38add8d35535592db6ef97e30b976e78303762f9ed5dc3ba030",
+  "sha512": "442e8b97a450de550e3cb92b0b52c47f40fc8d54224f0d4b4c606899139a0559d6a02b8b71cff3b33c56d9b6e98ea4141cb4d21e3d57df37ead690ed56fe46d5",
+  "size": 41450678,
+  "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b01-ea-beta/OpenJDK8U-jre_aarch64_alpine-linux_hotspot_8u502b01-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "8u502-b01-ea-beta"
+}
