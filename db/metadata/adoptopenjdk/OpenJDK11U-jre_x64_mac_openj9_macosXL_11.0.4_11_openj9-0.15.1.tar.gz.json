@@ -11,6 +11,16 @@
   "jvm_impl": "openj9",
   "md5": "f38c36fa17850c1844842d4a17d93f6d",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Eclipse OpenJ9",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "11.0.4",
+    "JAVA_VERSION_DATE": "2019-07-16",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": "OpenJDK:fa49279450 OpenJ9:0f66c6431 OMR:ec782f26"
+  },
   "release_type": "ga",
   "sha1": "8b5ca2e6271436010e5ce59fd013084b90f80df7",
   "sha256": "69bb17ee11e3e4153cb83ab4a40e34f2739902e1138cc854af6c9517ac1b3e3f",

@@ -9,6 +9,16 @@
   "jvm_impl": "openj9",
   "md5": "6ae67f85be752131e1d46bfe1cd779e4",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "AdoptOpenJDK",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "14",
+    "JAVA_VERSION_DATE": "2020-03-17",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jshell jdk.jsobject jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs openj9.cuda openj9.dataaccess openj9.traceformat openj9.dtfj openj9.dtfjview openj9.gpu openj9.jvm openj9.sharedclasses openj9.zosconditionhandling",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": "OpenJDK:a73be60649 OpenJ9:0133ba037 OMR:1c04e0ef9"
+  },
   "release_type": "ga",
   "sha1": "46624530e3deed356233d91751a395b238182c6a",
   "sha256": "106b72d565be98834ead5fea9555bd646d488a86fc4ae4dd294a38e97bf77509",
