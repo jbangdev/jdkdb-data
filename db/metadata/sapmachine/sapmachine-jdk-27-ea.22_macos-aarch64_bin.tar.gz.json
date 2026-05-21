@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.22_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.22",
+  "jvm_impl": "hotspot",
+  "md5": "889d4d6a6e246a9399da8c8d9b06d3aa",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+22",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:decb6966a3ec"
+  },
+  "release_type": "ea",
+  "sha1": "94733d037693479759def0ae333be2e9d12e69cd",
+  "sha256": "1ee68439df9a7a59bd26f9bb0efe80a34a6044db303de9f064f65e470944556f",
+  "sha512": "1b2ff834954385ecd42f1687e27bbc425cb89735564b8b6740af65667cca59d087a84b3d93a72f70534b83a5366de9d0a6591928f77cd028d40b8a92bbb4353f",
+  "size": 126542508,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B22/sapmachine-jdk-27-ea.22_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.22"
+}

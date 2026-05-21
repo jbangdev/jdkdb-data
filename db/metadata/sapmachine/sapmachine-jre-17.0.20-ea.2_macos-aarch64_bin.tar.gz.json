@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.20-ea.2_macos-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.20-ea.2",
+  "jvm_impl": "hotspot",
+  "md5": "99c5033bcaa3c67d599d33df34556cd1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+2",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:1b924afaa683"
+  },
+  "release_type": "ea",
+  "sha1": "9422388ed86fb3e13e1c30b61c1fe24138b18429",
+  "sha256": "6ccf79ce567a03f5839f5382a32dce332d630f8bfedc2a3d00cfcdcfa0519964",
+  "sha512": "257fd55ac0093999ee49860d863a94e7e344da31467f1b4d7eaf18b268e381a967c9aa4c7576dcf1cd5d1e2ec9fd52480bf2861a8f0f2ce003295f06ef38fa72",
+  "size": 43722751,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20%2B2/sapmachine-jre-17.0.20-ea.2_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.20-ea.2"
+}
