@@ -1,0 +1,33 @@
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-11-jre-headless_11.0.31+11-1_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "11.0.31+11",
+  "jvm_impl": "hotspot",
+  "md5": "42bb6065e1bab3c6fe2c1cdc2982dd9e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "11.0.31+11-post-1-Debian",
+    "JAVA_VERSION": "11.0.31",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "3bc1bc2e44cff96df315f97090b5254fb71ff8f6",
+  "sha256": "349ed035ae5659a23ba717ed5be0dbe31bb9db6c4718ea905070448492b59f56",
+  "sha512": "8b6406eae26e9f79027cc38505f9a6e74cfc8a8495f3601233005e33ce58ece3fcb563fd6a8c11eecbf22154b9d1b0bb3d8f19e32cabc0bd01ba566dcd6e4080",
+  "size": 31803140,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.31+11-1_riscv64.deb",
+  "vendor": "debian",
+  "version": "11.0.31+11-1"
+}

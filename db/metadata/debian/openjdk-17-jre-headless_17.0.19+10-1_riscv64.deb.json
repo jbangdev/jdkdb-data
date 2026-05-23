@@ -1,0 +1,33 @@
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.19+10-1_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "17.0.19+10",
+  "jvm_impl": "hotspot",
+  "md5": "1ceb242e1af78ddb8c75255c3d22db22",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.19+10-1-Debian",
+    "JAVA_VERSION": "17.0.19",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "2166cc75e0f42be82590f8eb230eb6f27525d993",
+  "sha256": "0caed3fe5474ef6831b995ebfa26d4d360c8a84a8248beaf6dfb24c6637b0875",
+  "sha512": "2870c03847b5be72d5738843a2d8486c509d10f24d2ff6d0a5f08d8a5282d5573f11001da6adbcd2ef5f604f8d1eeb177717f9b6dfc9a414ec759939dc0ea17b",
+  "size": 43164536,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.19+10-1_riscv64.deb",
+  "vendor": "debian",
+  "version": "17.0.19+10-1"
+}

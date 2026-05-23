@@ -9,6 +9,17 @@
   "jvm_impl": "hotspot",
   "md5": "b410f0afe2c5356b3f57510de24ead98",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.54+23-CA",
+    "JAVA_VERSION": "11.0.14",
+    "JAVA_VERSION_DATE": "2022-01-18",
+    "LIBC": "default",
+    "MODULES": "java.base com.azul.tooling java.management java.logging java.security.sasl java.naming java.transaction.xa java.xml java.sql jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bb3b0e560649"
+  },
   "release_type": "ga",
   "sha1": "46f180f0cb3c2694fc31fa1892f8571eb152e43c",
   "sha256": "5cc099e58126f874a2fec9d7d6afb02bfaedc02b5d68e340d01b87fab504a2d2",
