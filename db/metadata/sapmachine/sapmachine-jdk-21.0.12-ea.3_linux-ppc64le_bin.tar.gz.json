@@ -1,0 +1,34 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": [
+    "le"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-21.0.12-ea.3_linux-ppc64le_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.12-ea.3",
+  "jvm_impl": "hotspot",
+  "md5": "37493044a6aaf03d0137827271941d6b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.12-ea+3",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a725eddc52fd"
+  },
+  "release_type": "ea",
+  "sha1": "ad4bce5d307b60e66826ddae79fb482d269f37c1",
+  "sha256": "04094d6bc4fc8b92a263043f363d4d6d4b3c646a45cdc5cd1103ceb8b4bdf77d",
+  "sha512": "fcd856fd67e9d3b6327f4938d2226e1ed185c8cab1744a637eceff7275667c76d0c016c53c8dd1a9c75204f7a0508979d3a46ee2955c4b4194bcf18f48032b1e",
+  "size": 209909637,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.12%2B3/sapmachine-jdk-21.0.12-ea.3_linux-ppc64le_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.12-ea.3"
+}
