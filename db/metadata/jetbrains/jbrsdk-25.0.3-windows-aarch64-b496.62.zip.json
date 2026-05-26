@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [],
+  "file_type": "zip",
+  "filename": "jbrsdk-25.0.3-windows-aarch64-b496.62.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "b416bea0e3dd618bcd6f8b77bb46915b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.3+9-496.62-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.3+9-b496.62",
+    "JAVA_VERSION": "25.0.3",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:424f1e33dd06+"
+  },
+  "release_type": "ga",
+  "sha1": "af618831561875990dfe5dfedb089d19088bc97a",
+  "sha256": "4a13f1907759bc4eee700b9674898a8a5d8537566acdac56ba7cc3892b3edbed",
+  "sha512": "635c890817ddc2991a17980b4aea32a1e6a6698545e8cffb56fbc18745f348d5d8399e8a9fc899383cc4420dc71d5d4625e4cbdcfc2c8415e1beb278f2e1f7d6",
+  "size": 272043394,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.3-windows-aarch64-b496.62.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.3b496.62"
+}

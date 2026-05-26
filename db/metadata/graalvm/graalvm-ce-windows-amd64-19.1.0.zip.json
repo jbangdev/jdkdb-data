@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "a955e97f011930a09d137e3dc9833c0e",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"graal-js\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561618653, \"commit.rev\": \"4ef4d2751e87ef34527a6c36f34fbde641191e08\"}, \"regex\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"sdk\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"substratevm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"tools\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"truffle\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}, \"vm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1561619703, \"commit.rev\": \"fff7b99a8a502b8382cddda06c90f339bf5f2525\"}}",
+    "GRAALVM_VERSION": "19.1.0",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:fff7b99a8a502b8382cddda06c90f339bf5f2525 graal-js:4ef4d2751e87ef34527a6c36f34fbde641191e08 regex:fff7b99a8a502b8382cddda06c90f339bf5f2525 sdk:fff7b99a8a502b8382cddda06c90f339bf5f2525 substratevm:fff7b99a8a502b8382cddda06c90f339bf5f2525 tools:fff7b99a8a502b8382cddda06c90f339bf5f2525 truffle:fff7b99a8a502b8382cddda06c90f339bf5f2525 vm:fff7b99a8a502b8382cddda06c90f339bf5f2525",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog.properties"
+  },
   "release_type": "ga",
   "sha1": "27156b2ee36954a687e40d77e424e55ecfdd651f",
   "sha256": "54d71bc3d43f7f05d1736547fd24add42a6199c5790413a948974e558739b0aa",
