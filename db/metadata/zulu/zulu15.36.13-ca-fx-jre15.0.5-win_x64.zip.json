@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu15.36.13-ca-fx-jre15.0.5-win_x64.zip",
-  "image_type": "jre",
-  "java_version": "15.0.5",
-  "jvm_impl": "hotspot",
-  "md5": "5c460dff9821ab91c360766852f6f1d7",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "b46c1329152a07accfa0e6b946e8ac3150e75ca1",
-  "sha256": "eacdb4e58cb612cc73b75ae88177fab8536d92800eb94b58a9379d79d1629b21",
-  "sha512": "9ef6dd4f2a3b701d5a292bf8707e1329389313f0bdc26f85a8b9ec65d188a2030e57ddd67e1fc4b83bd1cb4e80a6e85cb4ffb8e336e3af9ec8e892f95078af8d",
-  "size": 75835131,
-  "url": "https://static.azul.com/zulu/bin/zulu15.36.13-ca-fx-jre15.0.5-win_x64.zip",
-  "vendor": "azul",
-  "version": "15.36.13"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "zip",
+"filename": "zulu15.36.13-ca-fx-jre15.0.5-win_x64.zip",
+"image_type": "jre",
+"java_version": "15.0.5",
+"jvm_impl": "hotspot",
+"md5": "5c460dff9821ab91c360766852f6f1d7",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu15.36+13-CA",
+  "JAVA_VERSION": "15.0.5",
+  "JAVA_VERSION_DATE": "2021-10-19",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:c8e69d78b705"
+},
+"release_type": "ga",
+"sha1": "b46c1329152a07accfa0e6b946e8ac3150e75ca1",
+"sha256": "eacdb4e58cb612cc73b75ae88177fab8536d92800eb94b58a9379d79d1629b21",
+"sha512": "9ef6dd4f2a3b701d5a292bf8707e1329389313f0bdc26f85a8b9ec65d188a2030e57ddd67e1fc4b83bd1cb4e80a6e85cb4ffb8e336e3af9ec8e892f95078af8d",
+"size": 75835131,
+"url": "https://static.azul.com/zulu/bin/zulu15.36.13-ca-fx-jre15.0.5-win_x64.zip",
+"vendor": "azul",
+"version": "15.36.13"
 }

@@ -1,24 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jre14.0.2+13-linux-aarch64-full.tar.gz",
-  "image_type": "jre",
-  "java_version": "14.0.2+13",
-  "jvm_impl": "hotspot",
-  "md5": "28416ec2a2d83657cd42ccb9389df211",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "bfac5da14e666116ef0dce9b2ecf81b51fc3eb39",
-  "sha256": "e5a4592bf2f1835fc27e8307d18c1c56de8cdbe236b0024efb526c854ec3fddb",
-  "sha512": "6d266f4b1b9680c9eb52d3049c61811b56b0f463328516120e2771a0a7890a65375b9d6fb08554a0d07085122ec1edfc56e81fe736030de1bc590b252d5719a9",
-  "size": 81326777,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/14.0.2+13/bellsoft-jre14.0.2+13-linux-aarch64-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "14.0.2+13"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jre14.0.2+13-linux-aarch64-full.tar.gz",
+"image_type": "jre",
+"java_version": "14.0.2+13",
+"jvm_impl": "hotspot",
+"md5": "28416ec2a2d83657cd42ccb9389df211",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "14.0.2",
+  "JAVA_VERSION_DATE": "2020-07-14",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:20ae659e3cc6+"
+},
+"release_type": "ga",
+"sha1": "bfac5da14e666116ef0dce9b2ecf81b51fc3eb39",
+"sha256": "e5a4592bf2f1835fc27e8307d18c1c56de8cdbe236b0024efb526c854ec3fddb",
+"sha512": "6d266f4b1b9680c9eb52d3049c61811b56b0f463328516120e2771a0a7890a65375b9d6fb08554a0d07085122ec1edfc56e81fe736030de1bc590b252d5719a9",
+"size": 81326777,
+"url": "https://github.com/bell-sw/Liberica/releases/download/14.0.2+13/bellsoft-jre14.0.2+13-linux-aarch64-full.tar.gz",
+"vendor": "bellsoft",
+"version": "14.0.2+13"
 }

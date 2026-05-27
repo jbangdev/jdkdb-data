@@ -1,24 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk15+36-windows-amd64-full.zip",
-  "image_type": "jdk",
-  "java_version": "15+36",
-  "jvm_impl": "hotspot",
-  "md5": "87e29baa0527e4a09c89fb5d4e2382c1",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "a0d4ee588066f61ea93473574931ef7a358a2dc4",
-  "sha256": "a5d4d45f1cee8bcf49b157ed196e5a64c1313794d33883ba5d8e3604c75c0eb4",
-  "sha512": "e698926a247351011f5bdea9be27e40ac98b7e0272b63768120fe8755aab21deec45c8cd573c6bdb44bfd19af0826c820531c60a180a9708c40313baebc60480",
-  "size": 259033872,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-full.zip",
-  "vendor": "bellsoft",
-  "version": "15+36"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk15+36-windows-amd64-full.zip",
+"image_type": "jdk",
+"java_version": "15+36",
+"jvm_impl": "hotspot",
+"md5": "87e29baa0527e4a09c89fb5d4e2382c1",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "15",
+  "JAVA_VERSION_DATE": "2020-09-15",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:hg:fb7064dc63f9+"
+},
+"release_type": "ga",
+"sha1": "a0d4ee588066f61ea93473574931ef7a358a2dc4",
+"sha256": "a5d4d45f1cee8bcf49b157ed196e5a64c1313794d33883ba5d8e3604c75c0eb4",
+"sha512": "e698926a247351011f5bdea9be27e40ac98b7e0272b63768120fe8755aab21deec45c8cd573c6bdb44bfd19af0826c820531c60a180a9708c40313baebc60480",
+"size": 259033872,
+"url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-full.zip",
+"vendor": "bellsoft",
+"version": "15+36"
 }

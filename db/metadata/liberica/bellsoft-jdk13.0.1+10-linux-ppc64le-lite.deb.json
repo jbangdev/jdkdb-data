@@ -1,22 +1,31 @@
 {
-  "architecture": "ppc64le",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk13.0.1+10-linux-ppc64le-lite.deb",
-  "image_type": "jdk",
-  "java_version": "13.0.1+10",
-  "jvm_impl": "hotspot",
-  "md5": "cf60a154e780eb2ae04bf477df4efa6f",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "9c6c989a8449f86b1fc1c89bbab637f49e7637d3",
-  "sha256": "d3071be270fad62003b03b863bc01af8477d1b0fd0d3e2cc7967a97959a73cea",
-  "sha512": "213622e97896264fa68265f12f75a9543609d1b5ad2f94860f040c5af87a93d6d73d0471af43ce2309dc145f40ccf2a29047e1ecc37ae151fdcee761a87e62f2",
-  "size": 65916154,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/13.0.1+10/bellsoft-jdk13.0.1+10-linux-ppc64le-lite.deb",
-  "vendor": "bellsoft",
-  "version": "13.0.1+10"
+"architecture": "ppc64le",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk13.0.1+10-linux-ppc64le-lite.deb",
+"image_type": "jdk",
+"java_version": "13.0.1+10",
+"jvm_impl": "hotspot",
+"md5": "cf60a154e780eb2ae04bf477df4efa6f",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "13.0.1",
+  "JAVA_VERSION_DATE": "2019-10-15",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:3e0ca8719afa+"
+},
+"release_type": "ga",
+"sha1": "9c6c989a8449f86b1fc1c89bbab637f49e7637d3",
+"sha256": "d3071be270fad62003b03b863bc01af8477d1b0fd0d3e2cc7967a97959a73cea",
+"sha512": "213622e97896264fa68265f12f75a9543609d1b5ad2f94860f040c5af87a93d6d73d0471af43ce2309dc145f40ccf2a29047e1ecc37ae151fdcee761a87e62f2",
+"size": 65916154,
+"url": "https://github.com/bell-sw/Liberica/releases/download/13.0.1+10/bellsoft-jdk13.0.1+10-linux-ppc64le-lite.deb",
+"vendor": "bellsoft",
+"version": "13.0.1+10"
 }

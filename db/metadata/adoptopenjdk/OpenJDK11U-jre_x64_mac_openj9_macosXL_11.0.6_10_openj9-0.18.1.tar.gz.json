@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "adoptopenjdk",
-  "features": [
-    "large_heap"
-  ],
-  "file_type": "tar.gz",
-  "filename": "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.6_10_openj9-0.18.1.tar.gz",
-  "image_type": "jre",
-  "java_version": "11.0.6+10",
-  "jvm_impl": "openj9",
-  "md5": "54c34d45dc824632ec2da73bfdf4e948",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "2bca077f135c903792699199ed320bb7c3eb2e2f",
-  "sha256": "8c58f5127acb25fd556f45cf2a1f4ae405156063a9de74c432471199d90c75f4",
-  "sha512": "9c280a62e46cef4bf298e95e6b2a423cf48be0016d7414d545c32dc52db9f72e8e7328aed1a35373959f24aebd095c43add36d7f50af7323b26f5fad0836e779",
-  "size": 39925150,
-  "url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.6%2B10_openj9-0.18.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.6_10_openj9-0.18.1.tar.gz",
-  "vendor": "adoptopenjdk",
-  "version": "11.0.6+10.1.openj9-0.18.1"
+"architecture": "x86_64",
+"distro": "adoptopenjdk",
+"features": [
+  "large_heap"
+],
+"file_type": "tar.gz",
+"filename": "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.6_10_openj9-0.18.1.tar.gz",
+"image_type": "jre",
+"java_version": "11.0.6+10",
+"jvm_impl": "openj9",
+"md5": "54c34d45dc824632ec2da73bfdf4e948",
+"os": "macosx",
+"release_info": {
+  "IMPLEMENTOR": "Eclipse OpenJ9",
+  "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+  "JAVA_VERSION": "11.0.6",
+  "JAVA_VERSION_DATE": "2020-01-14",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Darwin",
+  "SOURCE": "OpenJDK:da35e0c380 OpenJ9:51a5857d2 OMR:7a1b0239a"
+},
+"release_type": "ga",
+"sha1": "2bca077f135c903792699199ed320bb7c3eb2e2f",
+"sha256": "8c58f5127acb25fd556f45cf2a1f4ae405156063a9de74c432471199d90c75f4",
+"sha512": "9c280a62e46cef4bf298e95e6b2a423cf48be0016d7414d545c32dc52db9f72e8e7328aed1a35373959f24aebd095c43add36d7f50af7323b26f5fad0836e779",
+"size": 39925150,
+"url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.6%2B10_openj9-0.18.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.6_10_openj9-0.18.1.tar.gz",
+"vendor": "adoptopenjdk",
+"version": "11.0.6+10.1.openj9-0.18.1"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk11.0.25+11-linux-aarch64-lite.rpm",
-  "image_type": "jdk",
-  "java_version": "11.0.25+11",
-  "jvm_impl": "hotspot",
-  "md5": "39592d38a04a1045f74821a7b9161fc8",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "32a5b863fa043b6080330d32599a28eaa8b62eb1",
-  "sha256": "a7e16dc1cf6c5b06d7313828337859242527c92dd449a0f7af8fa94e42af3de3",
-  "sha512": "c264abf5dddf6cc8daa5850df1df25b3c3cd8e4184395d9f784dc158d2c3c662719ee810e21f614ee079d60e2fd9be6e1a93f489a9df806810a93d4cdddc089c",
-  "size": 71060400,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.25+11/bellsoft-jdk11.0.25+11-linux-aarch64-lite.rpm",
-  "vendor": "bellsoft",
-  "version": "11.0.25+11"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk11.0.25+11-linux-aarch64-lite.rpm",
+"image_type": "jdk",
+"java_version": "11.0.25+11",
+"jvm_impl": "hotspot",
+"md5": "39592d38a04a1045f74821a7b9161fc8",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "11.0.25+11-LTS",
+  "JAVA_VERSION": "11.0.25",
+  "JAVA_VERSION_DATE": "2024-10-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:613adc5f6aa0+"
+},
+"release_type": "ga",
+"sha1": "32a5b863fa043b6080330d32599a28eaa8b62eb1",
+"sha256": "a7e16dc1cf6c5b06d7313828337859242527c92dd449a0f7af8fa94e42af3de3",
+"sha512": "c264abf5dddf6cc8daa5850df1df25b3c3cd8e4184395d9f784dc158d2c3c662719ee810e21f614ee079d60e2fd9be6e1a93f489a9df806810a93d4cdddc089c",
+"size": 71060400,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.25+11/bellsoft-jdk11.0.25+11-linux-aarch64-lite.rpm",
+"vendor": "bellsoft",
+"version": "11.0.25+11"
 }

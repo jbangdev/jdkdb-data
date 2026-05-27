@@ -1,22 +1,31 @@
 {
-  "architecture": "ppc64le",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk11.0.9.1+1-linux-ppc64le-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "11.0.9.1+1",
-  "jvm_impl": "hotspot",
-  "md5": "11fb0ce1cab2de4cd5c5669dc7443eaf",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a7f4f8ef8fac87e0ff200efdc4438380e79108b9",
-  "sha256": "9102dd537a0dce002f363eb418ffce0cb505bb057855377a2c83aa492dc6acc7",
-  "sha512": "1268e4fde0e94d6f862d89e1db7db84f9dc67c158f5d1ae9fb3900dc37eaa21f2972bd8903c9e0fc168caf91cc963b2c7d3c08aad7757cd6fd026da3ebbb47bf",
-  "size": 68915238,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.9.1+1/bellsoft-jdk11.0.9.1+1-linux-ppc64le-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "11.0.9.1+1"
+"architecture": "ppc64le",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk11.0.9.1+1-linux-ppc64le-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "11.0.9.1+1",
+"jvm_impl": "hotspot",
+"md5": "11fb0ce1cab2de4cd5c5669dc7443eaf",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "11.0.9.1",
+  "JAVA_VERSION_DATE": "2020-11-04",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:6ac1b68e7c00+"
+},
+"release_type": "ga",
+"sha1": "a7f4f8ef8fac87e0ff200efdc4438380e79108b9",
+"sha256": "9102dd537a0dce002f363eb418ffce0cb505bb057855377a2c83aa492dc6acc7",
+"sha512": "1268e4fde0e94d6f862d89e1db7db84f9dc67c158f5d1ae9fb3900dc37eaa21f2972bd8903c9e0fc168caf91cc963b2c7d3c08aad7757cd6fd026da3ebbb47bf",
+"size": 68915238,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.9.1+1/bellsoft-jdk11.0.9.1+1-linux-ppc64le-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "11.0.9.1+1"
 }

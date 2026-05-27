@@ -1,24 +1,35 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk17.0.3+7-linux-arm32-vfp-hflt-full.deb",
-  "image_type": "jdk",
-  "java_version": "17.0.3+7",
-  "jvm_impl": "hotspot",
-  "md5": "875cddb25cec0d9b27c194fcf6828685",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "35290e26c1e838d42c63cd30d44570b1234032d5",
-  "sha256": "4c32cd07ef17178a4becad3171de92e994b2eef279145f3eadc94e6419516eb8",
-  "sha512": "05eb9f8009a286d03933b5da4b4aaa42e09d623f77e42bd76526aa4665f445ad364487b5ffffc0221e997dd046cea45d9c42484dd6c78139250f8a14bf943dcd",
-  "size": 186131552,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.3+7/bellsoft-jdk17.0.3+7-linux-arm32-vfp-hflt-full.deb",
-  "vendor": "bellsoft",
-  "version": "17.0.3+7"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk17.0.3+7-linux-arm32-vfp-hflt-full.deb",
+"image_type": "jdk",
+"java_version": "17.0.3+7",
+"jvm_impl": "hotspot",
+"md5": "875cddb25cec0d9b27c194fcf6828685",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "17.0.3",
+  "JAVA_VERSION_DATE": "2022-04-19",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:a0d99d70f3da+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "35290e26c1e838d42c63cd30d44570b1234032d5",
+"sha256": "4c32cd07ef17178a4becad3171de92e994b2eef279145f3eadc94e6419516eb8",
+"sha512": "05eb9f8009a286d03933b5da4b4aaa42e09d623f77e42bd76526aa4665f445ad364487b5ffffc0221e997dd046cea45d9c42484dd6c78139250f8a14bf943dcd",
+"size": 186131552,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.3+7/bellsoft-jdk17.0.3+7-linux-arm32-vfp-hflt-full.deb",
+"vendor": "bellsoft",
+"version": "17.0.3+7"
 }

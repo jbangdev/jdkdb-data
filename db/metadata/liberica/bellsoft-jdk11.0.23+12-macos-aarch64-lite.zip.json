@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk11.0.23+12-macos-aarch64-lite.zip",
-  "image_type": "jdk",
-  "java_version": "11.0.23+12",
-  "jvm_impl": "hotspot",
-  "md5": "a9eb2ae370bc7dd20445a3a7c7b329f1",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "028036e860a08751aa1d92d85f9ca9a450ade8f9",
-  "sha256": "0ff500d1740ce43df77389f9af47935bd32698bab42011c1526ede07bfbbd7b0",
-  "sha512": "1061bafaa2a8b7daeef7e0c6988e65856d0cdb35889ebbc32c33cb3b4fb4f6f9417ee594dd8e2cef2716d72bcec8d618b5b15f2795ac0aa680761c02db970d66",
-  "size": 72989178,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-macos-aarch64-lite.zip",
-  "vendor": "bellsoft",
-  "version": "11.0.23+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk11.0.23+12-macos-aarch64-lite.zip",
+"image_type": "jdk",
+"java_version": "11.0.23+12",
+"jvm_impl": "hotspot",
+"md5": "a9eb2ae370bc7dd20445a3a7c7b329f1",
+"os": "macosx",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "11.0.23+12-LTS",
+  "JAVA_VERSION": "11.0.23",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Darwin",
+  "SOURCE": ".:git:aa645648b022+"
+},
+"release_type": "ga",
+"sha1": "028036e860a08751aa1d92d85f9ca9a450ade8f9",
+"sha256": "0ff500d1740ce43df77389f9af47935bd32698bab42011c1526ede07bfbbd7b0",
+"sha512": "1061bafaa2a8b7daeef7e0c6988e65856d0cdb35889ebbc32c33cb3b4fb4f6f9417ee594dd8e2cef2716d72bcec8d618b5b15f2795ac0aa680761c02db970d66",
+"size": 72989178,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-macos-aarch64-lite.zip",
+"vendor": "bellsoft",
+"version": "11.0.23+12"
 }

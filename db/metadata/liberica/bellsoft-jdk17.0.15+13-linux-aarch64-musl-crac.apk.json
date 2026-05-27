@@ -1,23 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "musl",
-    "crac"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jdk17.0.15+13-linux-aarch64-musl-crac.apk",
-  "image_type": "jdk",
-  "java_version": "17.0.15+13",
-  "jvm_impl": "hotspot",
-  "md5": "778dea97bae63ddbba9c4ab94e36ed65",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "c4b4fabfecb17d05e38bb33ece7ff83daccbabb0",
-  "sha256": "2cf9703416ed7385664f9a7729de9d029ab83423de6d564def8c89445335df0a",
-  "sha512": "a2837b7c03dac36f76f42edc8e1f2116a85e780c8b7848e469ddd33293c506a6aeff64dea69c60a96be0cd2379164fad8710788c18d7d0093156b4872e46d6cf",
-  "size": 194779261,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+13/bellsoft-jdk17.0.15+13-linux-aarch64-musl-crac.apk",
-  "vendor": "bellsoft",
-  "version": "17.0.15+13"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "musl",
+  "crac"
+],
+"file_type": "apk",
+"filename": "bellsoft-jdk17.0.15+13-linux-aarch64-musl-crac.apk",
+"image_type": "jdk",
+"java_version": "17.0.15+13",
+"jvm_impl": "hotspot",
+"md5": "778dea97bae63ddbba9c4ab94e36ed65",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.15+13-LTS",
+  "JAVA_VERSION": "17.0.15",
+  "JAVA_VERSION_DATE": "2025-04-15",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:47671a6537ed+"
+},
+"release_type": "ga",
+"sha1": "c4b4fabfecb17d05e38bb33ece7ff83daccbabb0",
+"sha256": "2cf9703416ed7385664f9a7729de9d029ab83423de6d564def8c89445335df0a",
+"sha512": "a2837b7c03dac36f76f42edc8e1f2116a85e780c8b7848e469ddd33293c506a6aeff64dea69c60a96be0cd2379164fad8710788c18d7d0093156b4872e46d6cf",
+"size": 194779261,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+13/bellsoft-jdk17.0.15+13-linux-aarch64-musl-crac.apk",
+"vendor": "bellsoft",
+"version": "17.0.15+13"
 }

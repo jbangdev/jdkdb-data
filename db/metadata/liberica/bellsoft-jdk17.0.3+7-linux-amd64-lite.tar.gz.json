@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk17.0.3+7-linux-amd64-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.3+7",
-  "jvm_impl": "hotspot",
-  "md5": "97d435c645e5240938c436b09478ddda",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "4b3563ccf8e7f202c3a2f38afa7ca25639bd5d86",
-  "sha256": "40aa18952ea2752e70e68a782083964ebb4748e49058668c65d44b82dae2f668",
-  "sha512": "6670fd8a1a3004048940da5acd3282f2b0bedbd4e52bfa20c151b6de90697aa8addd5d959023118416da132d359ae56ed50109bef3cfe11394d22495c1650b2e",
-  "size": 71366945,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.3+7/bellsoft-jdk17.0.3+7-linux-amd64-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "17.0.3+7"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk17.0.3+7-linux-amd64-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.3+7",
+"jvm_impl": "hotspot",
+"md5": "97d435c645e5240938c436b09478ddda",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "17.0.3",
+  "JAVA_VERSION_DATE": "2022-04-19",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:d076f23b090b+"
+},
+"release_type": "ga",
+"sha1": "4b3563ccf8e7f202c3a2f38afa7ca25639bd5d86",
+"sha256": "40aa18952ea2752e70e68a782083964ebb4748e49058668c65d44b82dae2f668",
+"sha512": "6670fd8a1a3004048940da5acd3282f2b0bedbd4e52bfa20c151b6de90697aa8addd5d959023118416da132d359ae56ed50109bef3cfe11394d22495c1650b2e",
+"size": 71366945,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.3+7/bellsoft-jdk17.0.3+7-linux-amd64-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "17.0.3+7"
 }

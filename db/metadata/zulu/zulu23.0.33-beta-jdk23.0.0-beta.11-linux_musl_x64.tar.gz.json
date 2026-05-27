@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu23.0.33-beta-jdk23.0.0-beta.11-linux_musl_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "23.0.0-beta.11",
-  "jvm_impl": "hotspot",
-  "md5": "8d0db1759a01f1efd745bb7632167dfb",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "f8656927a4b0c7dd1067ef37a1e7c16c93556045",
-  "sha256": "399fae3d220257cd7bef29e5f13dc8a36e37a4e47073ee49690ba1c939e93479",
-  "sha512": "c0856872b3f922b07ddef78edb9dc737a410d7611b410269016e8fce09558e6d67a53be5e7ccd2d562466a55e95b1af9b0eb911f1a23c38bc373ca9742b9d890",
-  "size": 213019803,
-  "url": "https://static.azul.com/zulu/bin/zulu23.0.33-beta-jdk23.0.0-beta.11-linux_musl_x64.tar.gz",
-  "vendor": "azul",
-  "version": "23.0.33"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu23.0.33-beta-jdk23.0.0-beta.11-linux_musl_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "23.0.0-beta.11",
+"jvm_impl": "hotspot",
+"md5": "8d0db1759a01f1efd745bb7632167dfb",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu23+33-CA",
+  "JAVA_RUNTIME_VERSION": "23-beta+11",
+  "JAVA_VERSION": "23",
+  "JAVA_VERSION_DATE": "2024-09-17",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:354b5d9fa5a1"
+},
+"release_type": "ea",
+"sha1": "f8656927a4b0c7dd1067ef37a1e7c16c93556045",
+"sha256": "399fae3d220257cd7bef29e5f13dc8a36e37a4e47073ee49690ba1c939e93479",
+"sha512": "c0856872b3f922b07ddef78edb9dc737a410d7611b410269016e8fce09558e6d67a53be5e7ccd2d562466a55e95b1af9b0eb911f1a23c38bc373ca9742b9d890",
+"size": 213019803,
+"url": "https://static.azul.com/zulu/bin/zulu23.0.33-beta-jdk23.0.0-beta.11-linux_musl_x64.tar.gz",
+"vendor": "azul",
+"version": "23.0.33"
 }
