@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jre21.0.9+11-macos-aarch64-full.zip",
-  "image_type": "jre",
-  "java_version": "21.0.9+11",
-  "jvm_impl": "hotspot",
-  "md5": "2ad03e370f636fa5551b759582812893",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "943caaf4809d4b85c944e479b171245318aa2298",
-  "sha256": "9c08b3e1bf7cf2d4a6c1cb84f4790e771e68a297fd6851188789687fb6a8568d",
-  "sha512": "e39b90746357e5fbcb00e705d9f4131fc9fe70d359175bcb27d0425224e5adc71c2ca269920af55212975ef7fff6e706f38daa0d8d4ecd4dec5ff1329a569ded",
-  "size": 104893584,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-macos-aarch64-full.zip",
-  "vendor": "bellsoft",
-  "version": "21.0.9+11"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jre21.0.9+11-macos-aarch64-full.zip",
+"image_type": "jre",
+"java_version": "21.0.9+11",
+"jvm_impl": "hotspot",
+"md5": "2ad03e370f636fa5551b759582812893",
+"os": "macosx",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.9+11-LTS",
+  "JAVA_VERSION": "21.0.9",
+  "JAVA_VERSION_DATE": "2025-10-21",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Darwin",
+  "SOURCE": ".:git:26bfbbb39f44+"
+},
+"release_type": "ga",
+"sha1": "943caaf4809d4b85c944e479b171245318aa2298",
+"sha256": "9c08b3e1bf7cf2d4a6c1cb84f4790e771e68a297fd6851188789687fb6a8568d",
+"sha512": "e39b90746357e5fbcb00e705d9f4131fc9fe70d359175bcb27d0425224e5adc71c2ca269920af55212975ef7fff6e706f38daa0d8d4ecd4dec5ff1329a569ded",
+"size": 104893584,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-macos-aarch64-full.zip",
+"vendor": "bellsoft",
+"version": "21.0.9+11"
 }

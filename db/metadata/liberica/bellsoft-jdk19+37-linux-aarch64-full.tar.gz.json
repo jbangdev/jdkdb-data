@@ -1,24 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk19+37-linux-aarch64-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "19+37",
-  "jvm_impl": "hotspot",
-  "md5": "a72209ce62cf9ed158d5c41764942f0a",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "5d01d54dbc78577f139e8733e5c06f42132a1923",
-  "sha256": "a50d333aab0d1b4c83939a942d2751d3312be24b7392afe915f6ef874b05b43a",
-  "sha512": "60939670727e245a9121ed6ffd0597805af7003f3723cc8b137f5c4590d5d666080f6c51167c257e97d260e9d0f84856961e242e25e6352d7d9e658dda23f61d",
-  "size": 299539475,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-aarch64-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "19+37"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk19+37-linux-aarch64-full.tar.gz",
+"image_type": "jdk",
+"java_version": "19+37",
+"jvm_impl": "hotspot",
+"md5": "a72209ce62cf9ed158d5c41764942f0a",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "19",
+  "JAVA_VERSION_DATE": "2022-09-20",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:a7f7bac7bf8b+"
+},
+"release_type": "ga",
+"sha1": "5d01d54dbc78577f139e8733e5c06f42132a1923",
+"sha256": "a50d333aab0d1b4c83939a942d2751d3312be24b7392afe915f6ef874b05b43a",
+"sha512": "60939670727e245a9121ed6ffd0597805af7003f3723cc8b137f5c4590d5d666080f6c51167c257e97d260e9d0f84856961e242e25e6352d7d9e658dda23f61d",
+"size": 299539475,
+"url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-aarch64-full.tar.gz",
+"vendor": "bellsoft",
+"version": "19+37"
 }

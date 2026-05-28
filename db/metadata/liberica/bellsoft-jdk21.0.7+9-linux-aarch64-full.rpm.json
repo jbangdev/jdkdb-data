@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk21.0.7+9-linux-aarch64-full.rpm",
-  "image_type": "jdk",
-  "java_version": "21.0.7+9",
-  "jvm_impl": "hotspot",
-  "md5": "c7213323a55d6555827bc4fb08ab6fe5",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "c1dfc3d522857c69a475acb8d1565a88e686b32d",
-  "sha256": "2b20abaf7c0f01fa2c8b799b0a015c3382b20a205109da6a5fbde1a86b4f0b94",
-  "sha512": "30996682e56d34fd764fa22471ab4da5000fc68b84172b907bef482ffb9d620d28d68f6a508a1790e1ddb2c79fbdee39c5aeab45f7c96a20ef445dff8bb7a596",
-  "size": 303862488,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.7+9/bellsoft-jdk21.0.7+9-linux-aarch64-full.rpm",
-  "vendor": "bellsoft",
-  "version": "21.0.7+9"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk21.0.7+9-linux-aarch64-full.rpm",
+"image_type": "jdk",
+"java_version": "21.0.7+9",
+"jvm_impl": "hotspot",
+"md5": "c7213323a55d6555827bc4fb08ab6fe5",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.7+9-LTS",
+  "JAVA_VERSION": "21.0.7",
+  "JAVA_VERSION_DATE": "2025-04-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:02d0dbbbb02b+"
+},
+"release_type": "ga",
+"sha1": "c1dfc3d522857c69a475acb8d1565a88e686b32d",
+"sha256": "2b20abaf7c0f01fa2c8b799b0a015c3382b20a205109da6a5fbde1a86b4f0b94",
+"sha512": "30996682e56d34fd764fa22471ab4da5000fc68b84172b907bef482ffb9d620d28d68f6a508a1790e1ddb2c79fbdee39c5aeab45f7c96a20ef445dff8bb7a596",
+"size": 303862488,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.7+9/bellsoft-jdk21.0.7+9-linux-aarch64-full.rpm",
+"vendor": "bellsoft",
+"version": "21.0.7+9"
 }

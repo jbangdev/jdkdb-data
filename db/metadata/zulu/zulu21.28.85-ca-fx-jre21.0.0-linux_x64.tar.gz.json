@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu21.28.85-ca-fx-jre21.0.0-linux_x64.tar.gz",
-  "image_type": "jre",
-  "java_version": "21.0.0",
-  "jvm_impl": "hotspot",
-  "md5": "525c4eebd3997313dc3971a0c686b0d9",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "82ea97a44a47d2a295879b9d10b36bb5ddfc198d",
-  "sha256": "4a3a5531fce35f29750f6d2deffb3735d9dedeb26110867254e990f5a930cea8",
-  "sha512": "2292eb3488246e9430cb6b6b124b861b16cf92d81aaa1e73f4d8a9a5c88e51a7cda4c20ced0484c4b89bd453db900f3bc71c5401f8cace283b58ed242ea3e736",
-  "size": 96299175,
-  "url": "https://static.azul.com/zulu/bin/zulu21.28.85-ca-fx-jre21.0.0-linux_x64.tar.gz",
-  "vendor": "azul",
-  "version": "21.28.85"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu21.28.85-ca-fx-jre21.0.0-linux_x64.tar.gz",
+"image_type": "jre",
+"java_version": "21.0.0",
+"jvm_impl": "hotspot",
+"md5": "525c4eebd3997313dc3971a0c686b0d9",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu21.28+85-CA",
+  "JAVA_RUNTIME_VERSION": "21+35",
+  "JAVA_VERSION": "21",
+  "JAVA_VERSION_DATE": "2023-09-19",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:4f90a3f647dd"
+},
+"release_type": "ga",
+"sha1": "82ea97a44a47d2a295879b9d10b36bb5ddfc198d",
+"sha256": "4a3a5531fce35f29750f6d2deffb3735d9dedeb26110867254e990f5a930cea8",
+"sha512": "2292eb3488246e9430cb6b6b124b861b16cf92d81aaa1e73f4d8a9a5c88e51a7cda4c20ced0484c4b89bd453db900f3bc71c5401f8cace283b58ed242ea3e736",
+"size": 96299175,
+"url": "https://static.azul.com/zulu/bin/zulu21.28.85-ca-fx-jre21.0.0-linux_x64.tar.gz",
+"vendor": "azul",
+"version": "21.28.85"
 }

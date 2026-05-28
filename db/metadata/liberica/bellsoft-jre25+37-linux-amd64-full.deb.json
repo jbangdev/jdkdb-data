@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jre25+37-linux-amd64-full.deb",
-  "image_type": "jre",
-  "java_version": "25+37",
-  "jvm_impl": "hotspot",
-  "md5": "cfb5d7dcbd3e6ac48ea6f3603bdffb4d",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "8ac9eabf651561809451d9f54ba0d5c14fe9f8d0",
-  "sha256": "638dc34e0b74ac4ca89ad6f63f81aa44653085fe8d105cc26284016dca023d63",
-  "sha512": "c5a84dd99ee75417879fda1bee28e4da514cb50273861cb44be5c1b65006bc15416325a524f5e06024fe3e758626528a8bcb3bc742a5b59993c759852ba8666f",
-  "size": 91319816,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/25+37/bellsoft-jre25+37-linux-amd64-full.deb",
-  "vendor": "bellsoft",
-  "version": "25+37"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jre25+37-linux-amd64-full.deb",
+"image_type": "jre",
+"java_version": "25+37",
+"jvm_impl": "hotspot",
+"md5": "cfb5d7dcbd3e6ac48ea6f3603bdffb4d",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "25+37-LTS",
+  "JAVA_VERSION": "25",
+  "JAVA_VERSION_DATE": "2025-09-16",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:e25d1a5e8234+"
+},
+"release_type": "ga",
+"sha1": "8ac9eabf651561809451d9f54ba0d5c14fe9f8d0",
+"sha256": "638dc34e0b74ac4ca89ad6f63f81aa44653085fe8d105cc26284016dca023d63",
+"sha512": "c5a84dd99ee75417879fda1bee28e4da514cb50273861cb44be5c1b65006bc15416325a524f5e06024fe3e758626528a8bcb3bc742a5b59993c759852ba8666f",
+"size": 91319816,
+"url": "https://github.com/bell-sw/Liberica/releases/download/25+37/bellsoft-jre25+37-linux-amd64-full.deb",
+"vendor": "bellsoft",
+"version": "25+37"
 }

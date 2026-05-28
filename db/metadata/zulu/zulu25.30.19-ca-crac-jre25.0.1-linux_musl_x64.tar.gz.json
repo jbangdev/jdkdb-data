@@ -1,23 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "crac",
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu25.30.19-ca-crac-jre25.0.1-linux_musl_x64.tar.gz",
-  "image_type": "jre",
-  "java_version": "25.0.1",
-  "jvm_impl": "hotspot",
-  "md5": "1fa124da8ff0a8bd0c190bb577da0261",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "89d1edf9b9f003fd106dbcc145b8e07a588d1257",
-  "sha256": "ef97f9114a946a1762077f954a8475584e8ebcb2524b0efbc292dbd377f1aef4",
-  "sha512": "0388d118d0723f6839ff47ef81d29a281465c3b7ed090612a9f222643df9373ab2a285b229f9981f613797c9c4a8ceee545cd65b187f07a6fd7882d01836d2b3",
-  "size": 65681518,
-  "url": "https://static.azul.com/zulu/bin/zulu25.30.19-ca-crac-jre25.0.1-linux_musl_x64.tar.gz",
-  "vendor": "azul",
-  "version": "25.30.19"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "crac",
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu25.30.19-ca-crac-jre25.0.1-linux_musl_x64.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.1",
+"jvm_impl": "hotspot",
+"md5": "1fa124da8ff0a8bd0c190bb577da0261",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu25.30+19-CRaC-CA",
+  "JAVA_RUNTIME_VERSION": "25.0.1+8-LTS",
+  "JAVA_VERSION": "25.0.1",
+  "JAVA_VERSION_DATE": "2025-10-21",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crac jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:4732e97a941e"
+},
+"release_type": "ga",
+"sha1": "89d1edf9b9f003fd106dbcc145b8e07a588d1257",
+"sha256": "ef97f9114a946a1762077f954a8475584e8ebcb2524b0efbc292dbd377f1aef4",
+"sha512": "0388d118d0723f6839ff47ef81d29a281465c3b7ed090612a9f222643df9373ab2a285b229f9981f613797c9c4a8ceee545cd65b187f07a6fd7882d01836d2b3",
+"size": 65681518,
+"url": "https://static.azul.com/zulu/bin/zulu25.30.19-ca-crac-jre25.0.1-linux_musl_x64.tar.gz",
+"vendor": "azul",
+"version": "25.30.19"
 }

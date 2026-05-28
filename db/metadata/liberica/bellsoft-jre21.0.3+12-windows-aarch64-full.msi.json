@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jre21.0.3+12-windows-aarch64-full.msi",
-  "image_type": "jre",
-  "java_version": "21.0.3+12",
-  "jvm_impl": "hotspot",
-  "md5": "87b14b241188926106072f911d3fa9b6",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "1aff4e00db217ce4630e34450bd9682f043ca9ad",
-  "sha256": "6330250b520f529ac56116853aefe8479aaa2845e5c93e3554a2d5f2a7d557b8",
-  "sha512": "16a533ca1d5a3199c4f04d833904165568467a294f6a09879e0bbb58215924f3f3e14e66ac4a39427eef5ca57fe6382c7ab348d42ea8915fe07ac7b14ebeaa6c",
-  "size": 48422912,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-aarch64-full.msi",
-  "vendor": "bellsoft",
-  "version": "21.0.3+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "msi",
+"filename": "bellsoft-jre21.0.3+12-windows-aarch64-full.msi",
+"image_type": "jre",
+"java_version": "21.0.3+12",
+"jvm_impl": "hotspot",
+"md5": "87b14b241188926106072f911d3fa9b6",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.3+12-LTS",
+  "JAVA_VERSION": "21.0.3",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:718046d42f79+"
+},
+"release_type": "ga",
+"sha1": "1aff4e00db217ce4630e34450bd9682f043ca9ad",
+"sha256": "6330250b520f529ac56116853aefe8479aaa2845e5c93e3554a2d5f2a7d557b8",
+"sha512": "16a533ca1d5a3199c4f04d833904165568467a294f6a09879e0bbb58215924f3f3e14e66ac4a39427eef5ca57fe6382c7ab348d42ea8915fe07ac7b14ebeaa6c",
+"size": 48422912,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-aarch64-full.msi",
+"vendor": "bellsoft",
+"version": "21.0.3+12"
 }

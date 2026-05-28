@@ -1,22 +1,32 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk11.0.8+10-linux-arm32-vfp-hflt-lite.deb",
-  "image_type": "jdk",
-  "java_version": "11.0.8+10",
-  "jvm_impl": "hotspot",
-  "md5": "2af832ac699c9b11a3899c876214445e",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "830f69924fcb8f58b7054d3da47ebff3ab5c79ad",
-  "sha256": "0b12a34c9d5ee5777869a5eff5617b9dbca0f1258a613862a4d75069ebb15185",
-  "sha512": "81f486369444233450821ca124595d0cdea7311220698bdd626474d97fc49129d1e21c84a0550e820da580111c0dc1f5d330bfd98733ab7057094f293be1652a",
-  "size": 63274316,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.8+10/bellsoft-jdk11.0.8+10-linux-arm32-vfp-hflt-lite.deb",
-  "vendor": "bellsoft",
-  "version": "11.0.8+10"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk11.0.8+10-linux-arm32-vfp-hflt-lite.deb",
+"image_type": "jdk",
+"java_version": "11.0.8+10",
+"jvm_impl": "hotspot",
+"md5": "2af832ac699c9b11a3899c876214445e",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "11.0.8",
+  "JAVA_VERSION_DATE": "2020-07-14",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:030bc020dc04+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "830f69924fcb8f58b7054d3da47ebff3ab5c79ad",
+"sha256": "0b12a34c9d5ee5777869a5eff5617b9dbca0f1258a613862a4d75069ebb15185",
+"sha512": "81f486369444233450821ca124595d0cdea7311220698bdd626474d97fc49129d1e21c84a0550e820da580111c0dc1f5d330bfd98733ab7057094f293be1652a",
+"size": 63274316,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.8+10/bellsoft-jdk11.0.8+10-linux-arm32-vfp-hflt-lite.deb",
+"vendor": "bellsoft",
+"version": "11.0.8+10"
 }

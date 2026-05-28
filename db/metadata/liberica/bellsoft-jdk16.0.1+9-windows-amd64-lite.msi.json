@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk16.0.1+9-windows-amd64-lite.msi",
-  "image_type": "jdk",
-  "java_version": "16.0.1+9",
-  "jvm_impl": "hotspot",
-  "md5": "bfb9f0c6b1bf771b89bd6ff29f4cc497",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "bb869ad176d210974cf665c2f8bf09c622cc6d33",
-  "sha256": "9a94e2f2041d269c2cedaee33b24b10516a42ccc79357e2efa1d882122c7753a",
-  "sha512": "fbd94a44e6a15c9665fe71c6f3e6d3e0c6ead2ab07c43ed43be6f2e7a10aaaba0afce90a4566a8f99bb8be31f4f8b2b80b6d239f97d92e8bab6449925d4d6b5b",
-  "size": 77324288,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-windows-amd64-lite.msi",
-  "vendor": "bellsoft",
-  "version": "16.0.1+9"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk16.0.1+9-windows-amd64-lite.msi",
+"image_type": "jdk",
+"java_version": "16.0.1+9",
+"jvm_impl": "hotspot",
+"md5": "bfb9f0c6b1bf771b89bd6ff29f4cc497",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "16.0.1",
+  "JAVA_VERSION_DATE": "2021-04-20",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:ba7c640201ba+"
+},
+"release_type": "ga",
+"sha1": "bb869ad176d210974cf665c2f8bf09c622cc6d33",
+"sha256": "9a94e2f2041d269c2cedaee33b24b10516a42ccc79357e2efa1d882122c7753a",
+"sha512": "fbd94a44e6a15c9665fe71c6f3e6d3e0c6ead2ab07c43ed43be6f2e7a10aaaba0afce90a4566a8f99bb8be31f4f8b2b80b6d239f97d92e8bab6449925d4d6b5b",
+"size": 77324288,
+"url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-windows-amd64-lite.msi",
+"vendor": "bellsoft",
+"version": "16.0.1+9"
 }

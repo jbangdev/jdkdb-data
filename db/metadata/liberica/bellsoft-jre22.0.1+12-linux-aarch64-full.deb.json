@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jre22.0.1+12-linux-aarch64-full.deb",
-  "image_type": "jre",
-  "java_version": "22.0.1+12",
-  "jvm_impl": "hotspot",
-  "md5": "fdb50766ea0dc39c7db0d81b72fc2300",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "2512b554926f7958cc7950ef8d3c834920e6b318",
-  "sha256": "b6ef475a5c64f499ac42984d53b08ece2328f64c70e408f1140ebd27f610c8db",
-  "sha512": "6ec327a4150195aab1615a32f0a1566adef829b41e219e2fb8ba6b809243d28cde73957520c295092c0abf8e1d4dc22e0e18d777ff4d18f2aa4f9350bf87d23f",
-  "size": 70654016,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-aarch64-full.deb",
-  "vendor": "bellsoft",
-  "version": "22.0.1+12"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jre22.0.1+12-linux-aarch64-full.deb",
+"image_type": "jre",
+"java_version": "22.0.1+12",
+"jvm_impl": "hotspot",
+"md5": "fdb50766ea0dc39c7db0d81b72fc2300",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "22.0.1+12",
+  "JAVA_VERSION": "22.0.1",
+  "JAVA_VERSION_DATE": "2024-04-16",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:4b3e1f9d12a0+"
+},
+"release_type": "ga",
+"sha1": "2512b554926f7958cc7950ef8d3c834920e6b318",
+"sha256": "b6ef475a5c64f499ac42984d53b08ece2328f64c70e408f1140ebd27f610c8db",
+"sha512": "6ec327a4150195aab1615a32f0a1566adef829b41e219e2fb8ba6b809243d28cde73957520c295092c0abf8e1d4dc22e0e18d777ff4d18f2aa4f9350bf87d23f",
+"size": 70654016,
+"url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-aarch64-full.deb",
+"vendor": "bellsoft",
+"version": "22.0.1+12"
 }

@@ -1,24 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jre18.0.1+12-linux-amd64-full.rpm",
-  "image_type": "jre",
-  "java_version": "18.0.1+12",
-  "jvm_impl": "hotspot",
-  "md5": "cc59f4d7c680b3f0b95618470f58368f",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "0984dec4061f64badfecd3f430582f7001a47a85",
-  "sha256": "c222af607cacd8ac8bb27d8d0005cfa33220c874107d37eeb7460715a80892ba",
-  "sha512": "5dc54afbe0079e3fb16f4a162ad66bff9d9ad437051bed7dd84259dd64e8b9f39cb2fcf05fc3483d8de5a7212945783debba91b183b04663f7c57251483a114a",
-  "size": 69045356,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/18.0.1+12/bellsoft-jre18.0.1+12-linux-amd64-full.rpm",
-  "vendor": "bellsoft",
-  "version": "18.0.1+12"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jre18.0.1+12-linux-amd64-full.rpm",
+"image_type": "jre",
+"java_version": "18.0.1+12",
+"jvm_impl": "hotspot",
+"md5": "cc59f4d7c680b3f0b95618470f58368f",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "18.0.1",
+  "JAVA_VERSION_DATE": "2022-04-19",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:18d2c4f3b276+"
+},
+"release_type": "ga",
+"sha1": "0984dec4061f64badfecd3f430582f7001a47a85",
+"sha256": "c222af607cacd8ac8bb27d8d0005cfa33220c874107d37eeb7460715a80892ba",
+"sha512": "5dc54afbe0079e3fb16f4a162ad66bff9d9ad437051bed7dd84259dd64e8b9f39cb2fcf05fc3483d8de5a7212945783debba91b183b04663f7c57251483a114a",
+"size": 69045356,
+"url": "https://github.com/bell-sw/Liberica/releases/download/18.0.1+12/bellsoft-jre18.0.1+12-linux-amd64-full.rpm",
+"vendor": "bellsoft",
+"version": "18.0.1+12"
 }

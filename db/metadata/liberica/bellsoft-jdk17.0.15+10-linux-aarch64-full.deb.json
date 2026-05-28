@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk17.0.15+10-linux-aarch64-full.deb",
-  "image_type": "jdk",
-  "java_version": "17.0.15+10",
-  "jvm_impl": "hotspot",
-  "md5": "00e79fc7b1fd262417950908fc6cd0c6",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "ee453943709450e85d55fc437a1f6de19bc578b6",
-  "sha256": "680954d6bad3ca8cf16840691d70826f673ccc669053822abcc30024bf514bb7",
-  "sha512": "d4dde2a562e89e3ccc0d33671ae771ecb4f1962ac8a114677fa99c1e51dc409515f93785085e8d479346076225afe09e9569a41d6d3a7955b3c9a859c3b76bda",
-  "size": 277238218,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+10/bellsoft-jdk17.0.15+10-linux-aarch64-full.deb",
-  "vendor": "bellsoft",
-  "version": "17.0.15+10"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk17.0.15+10-linux-aarch64-full.deb",
+"image_type": "jdk",
+"java_version": "17.0.15+10",
+"jvm_impl": "hotspot",
+"md5": "00e79fc7b1fd262417950908fc6cd0c6",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.15+10-LTS",
+  "JAVA_VERSION": "17.0.15",
+  "JAVA_VERSION_DATE": "2025-04-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:2b15a2843928+"
+},
+"release_type": "ga",
+"sha1": "ee453943709450e85d55fc437a1f6de19bc578b6",
+"sha256": "680954d6bad3ca8cf16840691d70826f673ccc669053822abcc30024bf514bb7",
+"sha512": "d4dde2a562e89e3ccc0d33671ae771ecb4f1962ac8a114677fa99c1e51dc409515f93785085e8d479346076225afe09e9569a41d6d3a7955b3c9a859c3b76bda",
+"size": 277238218,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+10/bellsoft-jdk17.0.15+10-linux-aarch64-full.deb",
+"vendor": "bellsoft",
+"version": "17.0.15+10"
 }

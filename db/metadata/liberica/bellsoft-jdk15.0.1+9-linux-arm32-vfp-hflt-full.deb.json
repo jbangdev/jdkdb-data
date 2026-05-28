@@ -1,24 +1,34 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk15.0.1+9-linux-arm32-vfp-hflt-full.deb",
-  "image_type": "jdk",
-  "java_version": "15.0.1+9",
-  "jvm_impl": "hotspot",
-  "md5": "184296bdb6c3aab63bd3bb4db8a286d6",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "821db788d225df0aa5f636be79209ec3ff30f108",
-  "sha256": "6e9182222e0ee4d216aa73a8562c7a050d00e31b183dd30f8a5708a34de1d69c",
-  "sha512": "059db65bf58043ee2b6a1c5bfd8224513a55f77c931e72599fdbd8d5be007ef4f367576f2022a2220ab07a46d5474871e8559c859aea498cd5c876ba0bdfdd6f",
-  "size": 182011136,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.1+9/bellsoft-jdk15.0.1+9-linux-arm32-vfp-hflt-full.deb",
-  "vendor": "bellsoft",
-  "version": "15.0.1+9"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk15.0.1+9-linux-arm32-vfp-hflt-full.deb",
+"image_type": "jdk",
+"java_version": "15.0.1+9",
+"jvm_impl": "hotspot",
+"md5": "184296bdb6c3aab63bd3bb4db8a286d6",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "15.0.1",
+  "JAVA_VERSION_DATE": "2020-10-20",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:d9b7c0759310+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "821db788d225df0aa5f636be79209ec3ff30f108",
+"sha256": "6e9182222e0ee4d216aa73a8562c7a050d00e31b183dd30f8a5708a34de1d69c",
+"sha512": "059db65bf58043ee2b6a1c5bfd8224513a55f77c931e72599fdbd8d5be007ef4f367576f2022a2220ab07a46d5474871e8559c859aea498cd5c876ba0bdfdd6f",
+"size": 182011136,
+"url": "https://github.com/bell-sw/Liberica/releases/download/15.0.1+9/bellsoft-jdk15.0.1+9-linux-arm32-vfp-hflt-full.deb",
+"vendor": "bellsoft",
+"version": "15.0.1+9"
 }

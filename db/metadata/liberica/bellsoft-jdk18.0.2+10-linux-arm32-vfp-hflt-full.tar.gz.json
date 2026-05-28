@@ -1,24 +1,35 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk18.0.2+10-linux-arm32-vfp-hflt-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "18.0.2+10",
-  "jvm_impl": "hotspot",
-  "md5": "282d2ccd58e3085f938da4cf06aeb494",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "812f6e4fc4958ef44dbada5d4ab81943cecb1f9c",
-  "sha256": "3872f2a8a5593f59f03d551dd69ca2841a58155ce746a59214728b06e6c2bf37",
-  "sha512": "c3cbae4b31de1d9d7b8df61c31756b501029680733b6def529422c00b4e2e93ea7cc5afd8c54131ce4fff78835b703152bf8c61936373ffd6434756700f03fc8",
-  "size": 217078690,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/18.0.2+10/bellsoft-jdk18.0.2+10-linux-arm32-vfp-hflt-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "18.0.2+10"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk18.0.2+10-linux-arm32-vfp-hflt-full.tar.gz",
+"image_type": "jdk",
+"java_version": "18.0.2+10",
+"jvm_impl": "hotspot",
+"md5": "282d2ccd58e3085f938da4cf06aeb494",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "18.0.2",
+  "JAVA_VERSION_DATE": "2022-07-19",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:0e73b3911f20+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "812f6e4fc4958ef44dbada5d4ab81943cecb1f9c",
+"sha256": "3872f2a8a5593f59f03d551dd69ca2841a58155ce746a59214728b06e6c2bf37",
+"sha512": "c3cbae4b31de1d9d7b8df61c31756b501029680733b6def529422c00b4e2e93ea7cc5afd8c54131ce4fff78835b703152bf8c61936373ffd6434756700f03fc8",
+"size": 217078690,
+"url": "https://github.com/bell-sw/Liberica/releases/download/18.0.2+10/bellsoft-jdk18.0.2+10-linux-arm32-vfp-hflt-full.tar.gz",
+"vendor": "bellsoft",
+"version": "18.0.2+10"
 }

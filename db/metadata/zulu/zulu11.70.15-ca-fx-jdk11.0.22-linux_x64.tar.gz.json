@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu11.70.15-ca-fx-jdk11.0.22-linux_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "11.0.22",
-  "jvm_impl": "hotspot",
-  "md5": "eb39e8d7643ee19150fdcaef78a09421",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "269785e07865eaa5f39ef458219b2cb038cf2ca2",
-  "sha256": "1714c782783bfe80d8de7deacbc8f5ced6e90507a819c10125b117a9a13866be",
-  "sha512": "4866f44300213756cbb9b5b5443991614881307099ac6a2ab5f40e25892c9380cb8b5495fe5d134c79f45a085bd44fada57550cc114ce30b64615229eb93c626",
-  "size": 302215552,
-  "url": "https://static.azul.com/zulu/bin/zulu11.70.15-ca-fx-jdk11.0.22-linux_x64.tar.gz",
-  "vendor": "azul",
-  "version": "11.70.15"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu11.70.15-ca-fx-jdk11.0.22-linux_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "11.0.22",
+"jvm_impl": "hotspot",
+"md5": "eb39e8d7643ee19150fdcaef78a09421",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu11.70+15-CA",
+  "JAVA_RUNTIME_VERSION": "11.0.22+7-LTS",
+  "JAVA_VERSION": "11.0.22",
+  "JAVA_VERSION_DATE": "2024-01-16",
+  "LIBC": "gnu",
+  "MODULES": "java.base com.azul.tooling java.management java.logging java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:9947735d077f"
+},
+"release_type": "ga",
+"sha1": "269785e07865eaa5f39ef458219b2cb038cf2ca2",
+"sha256": "1714c782783bfe80d8de7deacbc8f5ced6e90507a819c10125b117a9a13866be",
+"sha512": "4866f44300213756cbb9b5b5443991614881307099ac6a2ab5f40e25892c9380cb8b5495fe5d134c79f45a085bd44fada57550cc114ce30b64615229eb93c626",
+"size": 302215552,
+"url": "https://static.azul.com/zulu/bin/zulu11.70.15-ca-fx-jdk11.0.22-linux_x64.tar.gz",
+"vendor": "azul",
+"version": "11.70.15"
 }

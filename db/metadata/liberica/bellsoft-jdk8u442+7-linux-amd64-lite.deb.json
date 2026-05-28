@@ -1,22 +1,29 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk8u442+7-linux-amd64-lite.deb",
-  "image_type": "jdk",
-  "java_version": "8u442+7",
-  "jvm_impl": "hotspot",
-  "md5": "1c38428ef3f7bbcb235b2d787f641918",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "2f0fc112381bffa320608d54d13a0eb8530de264",
-  "sha256": "a41a5cad973fe997013e4bb882f3426ba47d22e4bb6570f5d5f1676630cb77dc",
-  "sha512": "159c9b47007a0492008ac2dcb89a00d96f988425e8ed5eab74d3853ae75dbd52b18374a70d8e67bab5410bf26ff25efd097384ceb955a0c15883a9d990d99e85",
-  "size": 37772832,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-linux-amd64-lite.deb",
-  "vendor": "bellsoft",
-  "version": "8u442+7"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk8u442+7-linux-amd64-lite.deb",
+"image_type": "jdk",
+"java_version": "8u442+7",
+"jvm_impl": "hotspot",
+"md5": "1c38428ef3f7bbcb235b2d787f641918",
+"os": "linux",
+"release_info": {
+  "JAVA_VERSION": "1.8.0_442",
+  "OS_ARCH": "amd64",
+  "OS_NAME": "Linux",
+  "OS_VERSION": "2.6",
+  "SOURCE": ".:git:b9c90c3381ce+"
+},
+"release_type": "ga",
+"sha1": "2f0fc112381bffa320608d54d13a0eb8530de264",
+"sha256": "a41a5cad973fe997013e4bb882f3426ba47d22e4bb6570f5d5f1676630cb77dc",
+"sha512": "159c9b47007a0492008ac2dcb89a00d96f988425e8ed5eab74d3853ae75dbd52b18374a70d8e67bab5410bf26ff25efd097384ceb955a0c15883a9d990d99e85",
+"size": 37772832,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-linux-amd64-lite.deb",
+"vendor": "bellsoft",
+"version": "8u442+7"
 }

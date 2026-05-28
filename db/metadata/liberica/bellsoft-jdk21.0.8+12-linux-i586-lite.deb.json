@@ -1,22 +1,33 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk21.0.8+12-linux-i586-lite.deb",
-  "image_type": "jdk",
-  "java_version": "21.0.8+12",
-  "jvm_impl": "hotspot",
-  "md5": "c3c2c64bb3bae316dee20bda8a39d959",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "72f19a90b80b902fb5becaf8d84e404fa7b9fe57",
-  "sha256": "7688b83acdbdacf183cb335ea2b3ec1c020a38ca344e414b34bbaab164049286",
-  "sha512": "b363364252a25802a7dd45a94bc30853754210cd09c96967cc23eb26f280d58b7b69d36116d1aced7dd0c8ca94d0c94183c651acc6de29dc91d78ddf2b997c70",
-  "size": 71745160,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.8+12/bellsoft-jdk21.0.8+12-linux-i586-lite.deb",
-  "vendor": "bellsoft",
-  "version": "21.0.8+12"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk21.0.8+12-linux-i586-lite.deb",
+"image_type": "jdk",
+"java_version": "21.0.8+12",
+"jvm_impl": "hotspot",
+"md5": "c3c2c64bb3bae316dee20bda8a39d959",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.8+12-LTS",
+  "JAVA_VERSION": "21.0.8",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "x86",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:18815433a85f+"
+},
+"release_type": "ga",
+"sha1": "72f19a90b80b902fb5becaf8d84e404fa7b9fe57",
+"sha256": "7688b83acdbdacf183cb335ea2b3ec1c020a38ca344e414b34bbaab164049286",
+"sha512": "b363364252a25802a7dd45a94bc30853754210cd09c96967cc23eb26f280d58b7b69d36116d1aced7dd0c8ca94d0c94183c651acc6de29dc91d78ddf2b997c70",
+"size": 71745160,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.8+12/bellsoft-jdk21.0.8+12-linux-i586-lite.deb",
+"vendor": "bellsoft",
+"version": "21.0.8+12"
 }

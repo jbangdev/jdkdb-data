@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-25.0.1-ea.2_linux-x64-musl_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "25.0.1-ea.2",
-  "jvm_impl": "hotspot",
-  "md5": "f69e687589a6d9848170f3ab68a02e63",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "ad81bb6484582967859325cfc1bf652a085abd8d",
-  "sha256": "f161248527f38aeed010b7e80a2cc6cc44f0ea488c257192d551177750e16405",
-  "sha512": "f069fa1873f2f6017a4834c6065af5ae7138e9698f78e15436c8619a38beb2c5ff93774b15b1f98fc6761c7763983667e7f041e6231d1e60054085cefeb2efa8",
-  "size": 50371168,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.1+2/sapmachine-jre-25.0.1-ea.2_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "25.0.1-ea.2"
+"architecture": "x86_64",
+"distro": "sapmachine",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-25.0.1-ea.2_linux-x64-musl_bin.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.1-ea.2",
+"jvm_impl": "hotspot",
+"md5": "f69e687589a6d9848170f3ab68a02e63",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "25.0.1-ea+2",
+  "JAVA_VERSION": "25.0.1",
+  "JAVA_VERSION_DATE": "2025-10-21",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:3e54c6cc1322"
+},
+"release_type": "ea",
+"sha1": "ad81bb6484582967859325cfc1bf652a085abd8d",
+"sha256": "f161248527f38aeed010b7e80a2cc6cc44f0ea488c257192d551177750e16405",
+"sha512": "f069fa1873f2f6017a4834c6065af5ae7138e9698f78e15436c8619a38beb2c5ff93774b15b1f98fc6761c7763983667e7f041e6231d1e60054085cefeb2efa8",
+"size": 50371168,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.1+2/sapmachine-jre-25.0.1-ea.2_linux-x64-musl_bin.tar.gz",
+"vendor": "sap",
+"version": "25.0.1-ea.2"
 }

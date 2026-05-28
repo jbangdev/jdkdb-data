@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu11.2.3-ca-jdk11.0.1-linux_musl_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "11.0.1",
-  "jvm_impl": "hotspot",
-  "md5": "36c003c6dbd05c8e8faecdece3b45754",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "4ffefb998f8744021c15b270beb8645a4d90f2da",
-  "sha256": "871d176655466de8d460d8f1c1d24182609818056e3e892086e0312c58f1626b",
-  "sha512": "49b32f81c03e31fa37da5cbca6c2e9e6ff87319bb48be3f98038bf114d571c46e32de48c18c44f6009f366a126d6a394f117cf202cdffb5f5752ac79dd81e3d3",
-  "size": 195607198,
-  "url": "https://static.azul.com/zulu/bin/zulu11.2.3-ca-jdk11.0.1-linux_musl_x64.tar.gz",
-  "vendor": "azul",
-  "version": "11.2.3"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu11.2.3-ca-jdk11.0.1-linux_musl_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "11.0.1",
+"jvm_impl": "hotspot",
+"md5": "36c003c6dbd05c8e8faecdece3b45754",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "N/A",
+  "IMPLEMENTOR_VERSION": "Zulu11.2+3",
+  "JAVA_VERSION": "11.0.1",
+  "JAVA_VERSION_DATE": "2018-10-16",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:a886e43ae340"
+},
+"release_type": "ga",
+"sha1": "4ffefb998f8744021c15b270beb8645a4d90f2da",
+"sha256": "871d176655466de8d460d8f1c1d24182609818056e3e892086e0312c58f1626b",
+"sha512": "49b32f81c03e31fa37da5cbca6c2e9e6ff87319bb48be3f98038bf114d571c46e32de48c18c44f6009f366a126d6a394f117cf202cdffb5f5752ac79dd81e3d3",
+"size": 195607198,
+"url": "https://static.azul.com/zulu/bin/zulu11.2.3-ca-jdk11.0.1-linux_musl_x64.tar.gz",
+"vendor": "azul",
+"version": "11.2.3"
 }

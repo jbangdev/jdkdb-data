@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-23-ea.22_linux-ppc64le_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "23-ea.22",
-  "jvm_impl": "hotspot",
-  "md5": "e5987fc5eb01120dd6b7a94445b0aacc",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "1ccf25289f5e5b9a59d7d5fdf6bcc006c71079cf",
-  "sha256": "1436bb12b7e4662a1d1ee6024770a578ed4cba5fb8931657ed76fe1b5e3d00a8",
-  "sha512": "3d49bf1e4571d1bb9627bd505fca5aaeb08ab4368e8f42aa5e79f5c11f5de1fa83a41874ed821146a50c8c55844a05b687016b20b6d1b9a20bd17ea3513b7080",
-  "size": 52013416,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "23-ea.22"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-23-ea.22_linux-ppc64le_bin.tar.gz",
+"image_type": "jre",
+"java_version": "23-ea.22",
+"jvm_impl": "hotspot",
+"md5": "e5987fc5eb01120dd6b7a94445b0aacc",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "23-ea+22",
+  "JAVA_VERSION": "23",
+  "JAVA_VERSION_DATE": "2024-09-17",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:63670bdbb31a"
+},
+"release_type": "ea",
+"sha1": "1ccf25289f5e5b9a59d7d5fdf6bcc006c71079cf",
+"sha256": "1436bb12b7e4662a1d1ee6024770a578ed4cba5fb8931657ed76fe1b5e3d00a8",
+"sha512": "3d49bf1e4571d1bb9627bd505fca5aaeb08ab4368e8f42aa5e79f5c11f5de1fa83a41874ed821146a50c8c55844a05b687016b20b6d1b9a20bd17ea3513b7080",
+"size": 52013416,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "23-ea.22"
 }

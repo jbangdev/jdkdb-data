@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-17.0.14-ea.1_linux-ppc64le_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "17.0.14-ea.1",
-  "jvm_impl": "hotspot",
-  "md5": "84a2ddd3f04b08decc7443e29e871b5a",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "c9dc2aa3e38ff596d05f5c3aa36b7ca410afd963",
-  "sha256": "65c17021e3f9da914c1a4bfe57204c1a6fbfdb88b9fa0f3508c79dd19e52a2fc",
-  "sha512": "dd70624032fbdafab819bde990179e4b5d62e8c9f396011a33db970b63c62ed386ac123de00a3b0ffa01710f1091ec546a9cf39b1a13cfb75b718af97b5d148e",
-  "size": 47247891,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.14+1/sapmachine-jre-17.0.14-ea.1_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "17.0.14-ea.1"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-17.0.14-ea.1_linux-ppc64le_bin.tar.gz",
+"image_type": "jre",
+"java_version": "17.0.14-ea.1",
+"jvm_impl": "hotspot",
+"md5": "84a2ddd3f04b08decc7443e29e871b5a",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "17.0.14-ea+1",
+  "JAVA_VERSION": "17.0.14",
+  "JAVA_VERSION_DATE": "2025-01-21",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:216f51b8c383"
+},
+"release_type": "ea",
+"sha1": "c9dc2aa3e38ff596d05f5c3aa36b7ca410afd963",
+"sha256": "65c17021e3f9da914c1a4bfe57204c1a6fbfdb88b9fa0f3508c79dd19e52a2fc",
+"sha512": "dd70624032fbdafab819bde990179e4b5d62e8c9f396011a33db970b63c62ed386ac123de00a3b0ffa01710f1091ec546a9cf39b1a13cfb75b718af97b5d148e",
+"size": 47247891,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.14+1/sapmachine-jre-17.0.14-ea.1_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "17.0.14-ea.1"
 }

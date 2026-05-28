@@ -1,23 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite",
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jdk18+37-linux-x64-musl-lite.apk",
-  "image_type": "jdk",
-  "java_version": "18+37",
-  "jvm_impl": "hotspot",
-  "md5": "c3dd27dfd5073e5c54df0ce08682f206",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "0074ab0a4b667292842b1fc5fbd5fcb2ab44200b",
-  "sha256": "48d341d63ba5f414e7a30dc1930169ab4e6a279c038b7a3d42b243673dd2ee0b",
-  "sha512": "561d41461e3d4e8e877c5594ed57d4fe5a2c6357960a5f93822f98884a10fa5a1c8c0b320b81af5eb5476cee0e6abfe5cf3c7778eed45e1476c4730acc5220d4",
-  "size": 71924658,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-x64-musl-lite.apk",
-  "vendor": "bellsoft",
-  "version": "18+37"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "lite",
+  "musl"
+],
+"file_type": "apk",
+"filename": "bellsoft-jdk18+37-linux-x64-musl-lite.apk",
+"image_type": "jdk",
+"java_version": "18+37",
+"jvm_impl": "hotspot",
+"md5": "c3dd27dfd5073e5c54df0ce08682f206",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "18",
+  "JAVA_VERSION_DATE": "2022-03-22",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:0f2113cee79b+"
+},
+"release_type": "ga",
+"sha1": "0074ab0a4b667292842b1fc5fbd5fcb2ab44200b",
+"sha256": "48d341d63ba5f414e7a30dc1930169ab4e6a279c038b7a3d42b243673dd2ee0b",
+"sha512": "561d41461e3d4e8e877c5594ed57d4fe5a2c6357960a5f93822f98884a10fa5a1c8c0b320b81af5eb5476cee0e6abfe5cf3c7778eed45e1476c4730acc5220d4",
+"size": 71924658,
+"url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-x64-musl-lite.apk",
+"vendor": "bellsoft",
+"version": "18+37"
 }

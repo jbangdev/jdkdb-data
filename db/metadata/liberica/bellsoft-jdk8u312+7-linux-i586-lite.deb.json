@@ -1,22 +1,29 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "deb",
-  "filename": "bellsoft-jdk8u312+7-linux-i586-lite.deb",
-  "image_type": "jdk",
-  "java_version": "8u312+7",
-  "jvm_impl": "hotspot",
-  "md5": "008ce193e8a2f9b4aee7cfa49ef73696",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "37fdfd1a5479a6475657d730780f630831b47bb6",
-  "sha256": "38b6a777e136869e278a1e5b11df68194fbfa1187122fd172fde603d9e3c4045",
-  "sha512": "c0271a9111d42d0ebd3b605458690fd0236bb930e8e1d9b8c7829ca22273610960162efc636a7337f91d60beb222ad8425bce69d34bf7e7cd26926ea6fd74918",
-  "size": 40451140,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u312+7/bellsoft-jdk8u312+7-linux-i586-lite.deb",
-  "vendor": "bellsoft",
-  "version": "8u312+7"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "deb",
+"filename": "bellsoft-jdk8u312+7-linux-i586-lite.deb",
+"image_type": "jdk",
+"java_version": "8u312+7",
+"jvm_impl": "hotspot",
+"md5": "008ce193e8a2f9b4aee7cfa49ef73696",
+"os": "linux",
+"release_info": {
+  "JAVA_VERSION": "1.8.0_312",
+  "OS_ARCH": "i586",
+  "OS_NAME": "Linux",
+  "OS_VERSION": "2.6",
+  "SOURCE": " .:dcb218f54ca1+ corba:fc16e4d4edb4 hotspot:a0ac8080b1cf+ jaxp:0a8784c38f09 jaxws:c31b33f7a368 jdk:17af892dee62+ langtools:67e50991d2ff nashorn:a3ee9cc1edc5"
+},
+"release_type": "ga",
+"sha1": "37fdfd1a5479a6475657d730780f630831b47bb6",
+"sha256": "38b6a777e136869e278a1e5b11df68194fbfa1187122fd172fde603d9e3c4045",
+"sha512": "c0271a9111d42d0ebd3b605458690fd0236bb930e8e1d9b8c7829ca22273610960162efc636a7337f91d60beb222ad8425bce69d34bf7e7cd26926ea6fd74918",
+"size": 40451140,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u312+7/bellsoft-jdk8u312+7-linux-i586-lite.deb",
+"vendor": "bellsoft",
+"version": "8u312+7"
 }

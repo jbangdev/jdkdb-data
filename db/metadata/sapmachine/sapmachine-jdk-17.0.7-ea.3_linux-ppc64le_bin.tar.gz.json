@@ -1,22 +1,33 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jdk-17.0.7-ea.3_linux-ppc64le_bin.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.7-ea.3",
-  "jvm_impl": "hotspot",
-  "md5": "f4936f0f716568a73bb07e81fa294442",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "5c48f87e9733c047cb9d4fc0367267f1943bd147",
-  "sha256": "dc9b058a646e84c0f980d88e94f8714ff81edaf9dd5dd3171f5fbe0a669a1bcb",
-  "sha512": "a4578afcf6366a20052e9c29a2f4cb1bb33e195c2af821d455bde3edd4a1bd673686b058ab444244dba09788ed52465ca4d7f79b6371bca0d88ebf5f3bce2e0f",
-  "size": 192524711,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.7+3/sapmachine-jdk-17.0.7-ea.3_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "17.0.7-ea.3"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jdk-17.0.7-ea.3_linux-ppc64le_bin.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.7-ea.3",
+"jvm_impl": "hotspot",
+"md5": "f4936f0f716568a73bb07e81fa294442",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_VERSION": "17.0.7",
+  "JAVA_VERSION_DATE": "2023-04-18",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:1da388f28b72"
+},
+"release_type": "ea",
+"sha1": "5c48f87e9733c047cb9d4fc0367267f1943bd147",
+"sha256": "dc9b058a646e84c0f980d88e94f8714ff81edaf9dd5dd3171f5fbe0a669a1bcb",
+"sha512": "a4578afcf6366a20052e9c29a2f4cb1bb33e195c2af821d455bde3edd4a1bd673686b058ab444244dba09788ed52465ca4d7f79b6371bca0d88ebf5f3bce2e0f",
+"size": 192524711,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.7+3/sapmachine-jdk-17.0.7-ea.3_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "17.0.7-ea.3"
 }

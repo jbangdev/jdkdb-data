@@ -1,24 +1,31 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk8u442+7-macos-amd64-full.zip",
-  "image_type": "jdk",
-  "java_version": "8u442+7",
-  "jvm_impl": "hotspot",
-  "md5": "0a5ce9380bfecb6371e1fba0317c6e36",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "f60b935bfda41af21aab111d0ef420dfb9a5677d",
-  "sha256": "e5cba54a1b46169baf2b22b0367246b9ec4438fa848d88daeb6bf80e9675bba6",
-  "sha512": "d190e845c7b59414a27a686d7e3bc485a8a530cd0e6f2ee5e1e2b51d1d5a5b255ef7479044203c5e604a47dee043d7635b0eec4273274fb9e4d1e196ebd8210c",
-  "size": 157988236,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-amd64-full.zip",
-  "vendor": "bellsoft",
-  "version": "8u442+7"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk8u442+7-macos-amd64-full.zip",
+"image_type": "jdk",
+"java_version": "8u442+7",
+"jvm_impl": "hotspot",
+"md5": "0a5ce9380bfecb6371e1fba0317c6e36",
+"os": "macosx",
+"release_info": {
+  "JAVA_VERSION": "1.8.0_442",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Darwin",
+  "OS_VERSION": "11.2",
+  "SOURCE": ".:git:ae817c38d061+"
+},
+"release_type": "ga",
+"sha1": "f60b935bfda41af21aab111d0ef420dfb9a5677d",
+"sha256": "e5cba54a1b46169baf2b22b0367246b9ec4438fa848d88daeb6bf80e9675bba6",
+"sha512": "d190e845c7b59414a27a686d7e3bc485a8a530cd0e6f2ee5e1e2b51d1d5a5b255ef7479044203c5e604a47dee043d7635b0eec4273274fb9e4d1e196ebd8210c",
+"size": 157988236,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-amd64-full.zip",
+"vendor": "bellsoft",
+"version": "8u442+7"
 }

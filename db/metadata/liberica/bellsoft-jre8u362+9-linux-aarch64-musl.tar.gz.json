@@ -1,22 +1,29 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jre8u362+9-linux-aarch64-musl.tar.gz",
-  "image_type": "jre",
-  "java_version": "8u362+9",
-  "jvm_impl": "hotspot",
-  "md5": "ff65e951f8c60518e54a1ae095d8140d",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a4eca67976e3f4c808795fe1e0bf271003bb4dcc",
-  "sha256": "27aef13af45367e1941cf0c9ab2b1a0fa0e0290b03c69c4778815768e477ba9e",
-  "sha512": "db80c815e2da740d806711cbcddfca81fd383854aa7975042a026873c64c9266fddbf89824cb04199bf2dc05490c68a33fa4d1cf2840bf156bc68033d20f75d0",
-  "size": 41559136,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jre8u362+9-linux-aarch64-musl.tar.gz",
-  "vendor": "bellsoft",
-  "version": "8u362+9"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jre8u362+9-linux-aarch64-musl.tar.gz",
+"image_type": "jre",
+"java_version": "8u362+9",
+"jvm_impl": "hotspot",
+"md5": "ff65e951f8c60518e54a1ae095d8140d",
+"os": "linux",
+"release_info": {
+  "JAVA_VERSION": "1.8.0_362",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "OS_VERSION": "2.6",
+  "SOURCE": ".:git:52bb5f4a2139+"
+},
+"release_type": "ga",
+"sha1": "a4eca67976e3f4c808795fe1e0bf271003bb4dcc",
+"sha256": "27aef13af45367e1941cf0c9ab2b1a0fa0e0290b03c69c4778815768e477ba9e",
+"sha512": "db80c815e2da740d806711cbcddfca81fd383854aa7975042a026873c64c9266fddbf89824cb04199bf2dc05490c68a33fa4d1cf2840bf156bc68033d20f75d0",
+"size": 41559136,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jre8u362+9-linux-aarch64-musl.tar.gz",
+"vendor": "bellsoft",
+"version": "8u362+9"
 }

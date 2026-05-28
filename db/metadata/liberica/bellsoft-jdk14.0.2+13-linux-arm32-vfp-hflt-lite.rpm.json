@@ -1,22 +1,32 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk14.0.2+13-linux-arm32-vfp-hflt-lite.rpm",
-  "image_type": "jdk",
-  "java_version": "14.0.2+13",
-  "jvm_impl": "hotspot",
-  "md5": "372733269e935d085efbaa8a1f5a64c4",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "91fee0660dee06e6e5840ee4a933fe1485bcceef",
-  "sha256": "43dc90e45fefff81a8eb6911e91f1f71d46c7d22c166ae3f4d352226e6bf64a8",
-  "sha512": "3b81c02881517fa99636da8ba641d1a0f119957663004fd5742ec5d89c264ec9df755ca84ff1039a8d31fcf219f1624c755fc6d3efb4cc021519ad6c3e41c53c",
-  "size": 68358720,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/14.0.2+13/bellsoft-jdk14.0.2+13-linux-arm32-vfp-hflt-lite.rpm",
-  "vendor": "bellsoft",
-  "version": "14.0.2+13"
+"architecture": "arm32-vfp-hflt",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk14.0.2+13-linux-arm32-vfp-hflt-lite.rpm",
+"image_type": "jdk",
+"java_version": "14.0.2+13",
+"jvm_impl": "hotspot",
+"md5": "b7747e6d9eaf7461ebef5d69f0ec1e13",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "14.0.2",
+  "JAVA_VERSION_DATE": "2020-07-14",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "arm",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:20ae659e3cc6+",
+  "SUN_ARCH_ABI": "gnueabihf"
+},
+"release_type": "ga",
+"sha1": "1976f3e19d9e9adf8a4f7dfdd73bafc622bb3a55",
+"sha256": "834f21cd8ca36e2d453429bcc1794c5b833eeb28895b24f200dc7de6367c2d2d",
+"sha512": "a4dd5baf40f7908dbf37519951a5b8426c123aa4dea937d02f4f073433ef1a2f7380db72e0c84ad4d80ed925562b39583eba872066b1505fd52924505ec551f0",
+"size": 68360964,
+"url": "https://github.com/bell-sw/Liberica/releases/download/14.0.2+13/bellsoft-jdk14.0.2+13-linux-arm32-vfp-hflt-lite.rpm",
+"vendor": "bellsoft",
+"version": "14.0.2+13"
 }

@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk21.0.8+12-macos-amd64-full.zip",
-  "image_type": "jdk",
-  "java_version": "21.0.8+12",
-  "jvm_impl": "hotspot",
-  "md5": "6282b17809778574ed5205d74946b206",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "dc459fdbd858ab30bc18da5c94da5a186b0d5997",
-  "sha256": "8fdbd3b41d2a7731ac5ad267b5493fe98338ba50f158c7866bb82eb388a1e474",
-  "sha512": "4a51d1935c9cf57446fc0abf89aad5c17ee197743300405e9a8a1fd8ddf936a38ad6a38304889ad4a619394d21a26121ed8d2393b57cea8de7a8ef754566acc3",
-  "size": 327779226,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.8+12/bellsoft-jdk21.0.8+12-macos-amd64-full.zip",
-  "vendor": "bellsoft",
-  "version": "21.0.8+12"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk21.0.8+12-macos-amd64-full.zip",
+"image_type": "jdk",
+"java_version": "21.0.8+12",
+"jvm_impl": "hotspot",
+"md5": "6282b17809778574ed5205d74946b206",
+"os": "macosx",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "21.0.8+12-LTS",
+  "JAVA_VERSION": "21.0.8",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Darwin",
+  "SOURCE": ".:git:1b853ce716e6+"
+},
+"release_type": "ga",
+"sha1": "dc459fdbd858ab30bc18da5c94da5a186b0d5997",
+"sha256": "8fdbd3b41d2a7731ac5ad267b5493fe98338ba50f158c7866bb82eb388a1e474",
+"sha512": "4a51d1935c9cf57446fc0abf89aad5c17ee197743300405e9a8a1fd8ddf936a38ad6a38304889ad4a619394d21a26121ed8d2393b57cea8de7a8ef754566acc3",
+"size": 327779226,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.8+12/bellsoft-jdk21.0.8+12-macos-amd64-full.zip",
+"vendor": "bellsoft",
+"version": "21.0.8+12"
 }

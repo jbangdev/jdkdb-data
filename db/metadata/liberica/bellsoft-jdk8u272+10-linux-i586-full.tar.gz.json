@@ -1,24 +1,31 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk8u272+10-linux-i586-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "8u272+10",
-  "jvm_impl": "hotspot",
-  "md5": "039367a6d4b708d32cee5cec1397c327",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "5053f97552c2ddd5bcfdc4520ccb71e8eb88ee52",
-  "sha256": "1de2b92f7870552e9bbfb54a3ff63b5e601915021ad2272aa4df34a0396f3190",
-  "sha512": "061c953ca7c97193c0a4cdb998daf554ad9a505849a4ba1d7d3c8ad1cb1c60b223597a2ed01c11f0e4a0daf12877a4a238c6833781e376639db350cc6c771430",
-  "size": 149627424,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u272+10/bellsoft-jdk8u272+10-linux-i586-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "8u272+10"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk8u272+10-linux-i586-full.tar.gz",
+"image_type": "jdk",
+"java_version": "8u272+10",
+"jvm_impl": "hotspot",
+"md5": "039367a6d4b708d32cee5cec1397c327",
+"os": "linux",
+"release_info": {
+  "JAVA_VERSION": "1.8.0_272",
+  "OS_ARCH": "i586",
+  "OS_NAME": "Linux",
+  "OS_VERSION": "2.6",
+  "SOURCE": " .:0080765dcdd2+ corba:4da61571ef68 hotspot:73f624a2488d+ jaxp:560ea469eecd jaxws:49de3fc91f8c jdk:eb7f437285a1+ langtools:c4260ce5d069 nashorn:b16b18e4d2f6"
+},
+"release_type": "ga",
+"sha1": "5053f97552c2ddd5bcfdc4520ccb71e8eb88ee52",
+"sha256": "1de2b92f7870552e9bbfb54a3ff63b5e601915021ad2272aa4df34a0396f3190",
+"sha512": "061c953ca7c97193c0a4cdb998daf554ad9a505849a4ba1d7d3c8ad1cb1c60b223597a2ed01c11f0e4a0daf12877a4a238c6833781e376639db350cc6c771430",
+"size": 149627424,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u272+10/bellsoft-jdk8u272+10-linux-i586-full.tar.gz",
+"vendor": "bellsoft",
+"version": "8u272+10"
 }

@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu21.44.17-ca-fx-jdk21.0.8-win_x64.zip",
-  "image_type": "jdk",
-  "java_version": "21.0.8",
-  "jvm_impl": "hotspot",
-  "md5": "353cc174b8d81f5519bbddaee0c479ae",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "1a9d52d03b9c790055aa2bcf11a8a9a0d49b3975",
-  "sha256": "c4d4d91c7135fd505f6bab6bd3ea7f28782c4724786cd1bcc4c1357e50e1d1b8",
-  "sha512": "8c14faa199bc773d9d4fbbfea88bce99d62cf29765b242b8e97d5a1a4b082456c77bd44374538717ed46bc05c9e3ef759f5db47c5552421499ddbfb5d26b3d5e",
-  "size": 302345959,
-  "url": "https://static.azul.com/zulu/bin/zulu21.44.17-ca-fx-jdk21.0.8-win_x64.zip",
-  "vendor": "azul",
-  "version": "21.44.17"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "zip",
+"filename": "zulu21.44.17-ca-fx-jdk21.0.8-win_x64.zip",
+"image_type": "jdk",
+"java_version": "21.0.8",
+"jvm_impl": "hotspot",
+"md5": "353cc174b8d81f5519bbddaee0c479ae",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu21.44+17-CA",
+  "JAVA_RUNTIME_VERSION": "21.0.8+9-LTS",
+  "JAVA_VERSION": "21.0.8",
+  "JAVA_VERSION_DATE": "2025-07-15",
+  "LIBC": "default",
+  "MODULES": "java.base com.azul.tooling java.logging java.management java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:718ed0caa731+"
+},
+"release_type": "ga",
+"sha1": "1a9d52d03b9c790055aa2bcf11a8a9a0d49b3975",
+"sha256": "c4d4d91c7135fd505f6bab6bd3ea7f28782c4724786cd1bcc4c1357e50e1d1b8",
+"sha512": "8c14faa199bc773d9d4fbbfea88bce99d62cf29765b242b8e97d5a1a4b082456c77bd44374538717ed46bc05c9e3ef759f5db47c5552421499ddbfb5d26b3d5e",
+"size": 302345959,
+"url": "https://static.azul.com/zulu/bin/zulu21.44.17-ca-fx-jdk21.0.8-win_x64.zip",
+"vendor": "azul",
+"version": "21.44.17"
 }

@@ -1,22 +1,32 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jdk11.0.19+7-linux-aarch64-musl.apk",
-  "image_type": "jdk",
-  "java_version": "11.0.19+7",
-  "jvm_impl": "hotspot",
-  "md5": "8cca1febf07813cb1e7ff2bb0b912dee",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "f1a28de06f3ac494ec14b6c79f633576692dbab4",
-  "sha256": "99efca19267eaff30ffcc4c88d218d2fba076f61c2a017675560bd496023a322",
-  "sha512": "60e321fd1279f77f864553d4213fe96fb7ddd8278fe54586c58cb97918bc49968aaa4d7c0b0a9ce9419cfacc287a0dd1133e6bfb306386cb2a73d03e39b00a05",
-  "size": 204546516,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.19+7/bellsoft-jdk11.0.19+7-linux-aarch64-musl.apk",
-  "vendor": "bellsoft",
-  "version": "11.0.19+7"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "apk",
+"filename": "bellsoft-jdk11.0.19+7-linux-aarch64-musl.apk",
+"image_type": "jdk",
+"java_version": "11.0.19+7",
+"jvm_impl": "hotspot",
+"md5": "8cca1febf07813cb1e7ff2bb0b912dee",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "11.0.19",
+  "JAVA_VERSION_DATE": "2023-04-18",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:46bef86ad1b2+"
+},
+"release_type": "ga",
+"sha1": "f1a28de06f3ac494ec14b6c79f633576692dbab4",
+"sha256": "99efca19267eaff30ffcc4c88d218d2fba076f61c2a017675560bd496023a322",
+"sha512": "60e321fd1279f77f864553d4213fe96fb7ddd8278fe54586c58cb97918bc49968aaa4d7c0b0a9ce9419cfacc287a0dd1133e6bfb306386cb2a73d03e39b00a05",
+"size": 204546516,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.19+7/bellsoft-jdk11.0.19+7-linux-aarch64-musl.apk",
+"vendor": "bellsoft",
+"version": "11.0.19+7"
 }

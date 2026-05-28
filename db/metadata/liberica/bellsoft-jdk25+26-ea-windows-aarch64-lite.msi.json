@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk25+26-ea-windows-aarch64-lite.msi",
-  "image_type": "jdk",
-  "java_version": "25+26-ea",
-  "jvm_impl": "hotspot",
-  "md5": "2b79acc4800cb10df69aaa694956b723",
-  "os": "windows",
-  "release_type": "ea",
-  "sha1": "cd977b63f747fc632831e34277dc917884cb8510",
-  "sha256": "27913b9d03e20aa91ad289247349ed43ea340976f5e7bcd3e59c57756573a3cd",
-  "sha512": "c08ea0e4d6cb1d5c2a2b627f1525074564f86c9d62042910c1eda0bb7bc0c0335689c382b235dadae9b853a03cc5afcd7e1cf5bdf2789ddae19fe7c1dc461eeb",
-  "size": 80990208,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/25+26-ea/bellsoft-jdk25+26-ea-windows-aarch64-lite.msi",
-  "vendor": "bellsoft",
-  "version": "25+26-ea"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "lite"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk25+26-ea-windows-aarch64-lite.msi",
+"image_type": "jdk",
+"java_version": "25+26-ea",
+"jvm_impl": "hotspot",
+"md5": "2b79acc4800cb10df69aaa694956b723",
+"os": "windows",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "25+26-ea",
+  "JAVA_VERSION": "25",
+  "JAVA_VERSION_DATE": "2025-06-11",
+  "LIBC": "default",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Windows",
+  "SOURCE": ".:git:440ace9a9b92+"
+},
+"release_type": "ea",
+"sha1": "cd977b63f747fc632831e34277dc917884cb8510",
+"sha256": "27913b9d03e20aa91ad289247349ed43ea340976f5e7bcd3e59c57756573a3cd",
+"sha512": "c08ea0e4d6cb1d5c2a2b627f1525074564f86c9d62042910c1eda0bb7bc0c0335689c382b235dadae9b853a03cc5afcd7e1cf5bdf2789ddae19fe7c1dc461eeb",
+"size": 80990208,
+"url": "https://github.com/bell-sw/Liberica/releases/download/25+26-ea/bellsoft-jdk25+26-ea-windows-aarch64-lite.msi",
+"vendor": "bellsoft",
+"version": "25+26-ea"
 }

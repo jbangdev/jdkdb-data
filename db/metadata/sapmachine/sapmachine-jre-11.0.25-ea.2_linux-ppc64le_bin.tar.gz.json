@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-11.0.25-ea.2_linux-ppc64le_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "11.0.25-ea.2",
-  "jvm_impl": "hotspot",
-  "md5": "22684a9aa9a18069729e1af35146cefe",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "c94344ef92e890ac9a978ec40cb81401fa5b184e",
-  "sha256": "0479c1438a1d5a37a9f9f99073e7f26781ca36339d5149edc9e571af76d56dbe",
-  "sha512": "410f2e4e267812009f9e7473ab7eebc2fc27008a7ae9231b4823bf00139840b038b8282492a903d0d02c2e8d5f22e0e233652ddec08930f2fc18af3b2b821490",
-  "size": 40474927,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.25+2/sapmachine-jre-11.0.25-ea.2_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "11.0.25-ea.2"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+  "le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-11.0.25-ea.2_linux-ppc64le_bin.tar.gz",
+"image_type": "jre",
+"java_version": "11.0.25-ea.2",
+"jvm_impl": "hotspot",
+"md5": "22684a9aa9a18069729e1af35146cefe",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "SAP SE",
+  "IMPLEMENTOR_VERSION": "SapMachine",
+  "JAVA_RUNTIME_VERSION": "11.0.25-ea+2-sapmachine",
+  "JAVA_VERSION": "11.0.25",
+  "JAVA_VERSION_DATE": "2024-10-15",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "ppc64le",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:d5f7b367df2a"
+},
+"release_type": "ea",
+"sha1": "c94344ef92e890ac9a978ec40cb81401fa5b184e",
+"sha256": "0479c1438a1d5a37a9f9f99073e7f26781ca36339d5149edc9e571af76d56dbe",
+"sha512": "410f2e4e267812009f9e7473ab7eebc2fc27008a7ae9231b4823bf00139840b038b8282492a903d0d02c2e8d5f22e0e233652ddec08930f2fc18af3b2b821490",
+"size": 40474927,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.25+2/sapmachine-jre-11.0.25-ea.2_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "11.0.25-ea.2"
 }

@@ -1,24 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk17.0.6+10-linux-aarch64-full.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.6+10",
-  "jvm_impl": "hotspot",
-  "md5": "3be2a08eb8a3b1615951cd116b0f68b4",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "b7f047acb86182bb2b0a802b6e32770ed3563bad",
-  "sha256": "edb7e6e8edfccc3a67f98dbd11ce44100b61ce3df63813db4e72c21f04b42679",
-  "sha512": "72e96fa7778347d05a4fd6e6a80d9b121d462835013a3aad9b5d6b1132f6e81ab8e3dd98f43b8ae15918710314e4c1b42008d15a218992ded51804ba7d0d5067",
-  "size": 301955372,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.6+10/bellsoft-jdk17.0.6+10-linux-aarch64-full.tar.gz",
-  "vendor": "bellsoft",
-  "version": "17.0.6+10"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+  "libericafx",
+  "minimal-vm",
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk17.0.6+10-linux-aarch64-full.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.6+10",
+"jvm_impl": "hotspot",
+"md5": "3be2a08eb8a3b1615951cd116b0f68b4",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_VERSION": "17.0.6",
+  "JAVA_VERSION_DATE": "2023-01-17",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "aarch64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:44d4e2c1aba2+"
+},
+"release_type": "ga",
+"sha1": "b7f047acb86182bb2b0a802b6e32770ed3563bad",
+"sha256": "edb7e6e8edfccc3a67f98dbd11ce44100b61ce3df63813db4e72c21f04b42679",
+"sha512": "72e96fa7778347d05a4fd6e6a80d9b121d462835013a3aad9b5d6b1132f6e81ab8e3dd98f43b8ae15918710314e4c1b42008d15a218992ded51804ba7d0d5067",
+"size": 301955372,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.6+10/bellsoft-jdk17.0.6+10-linux-aarch64-full.tar.gz",
+"vendor": "bellsoft",
+"version": "17.0.6+10"
 }

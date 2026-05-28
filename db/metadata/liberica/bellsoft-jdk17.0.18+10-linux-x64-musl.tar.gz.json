@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk17.0.18+10-linux-x64-musl.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.18+10",
-  "jvm_impl": "hotspot",
-  "md5": "70365eb1fda4558c284352916e0b701b",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a6960bec2c6c7ec5ebf93ca9df91cab2a6edea3c",
-  "sha256": "4f13055cc2bae9396e78e0a451cb29174134a21db92d1be70275f537154af1b5",
-  "sha512": "95330b51b04ea45321eb9e85791fa82657496c0e3ccd0a1db265317fcf019e48af5fc3744ffc3c7f02ec3bf9c13f59bf39bf534220897e6b471232249dc75cba",
-  "size": 213915925,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.18+10/bellsoft-jdk17.0.18+10-linux-x64-musl.tar.gz",
-  "vendor": "bellsoft",
-  "version": "17.0.18+10"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+  "musl"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk17.0.18+10-linux-x64-musl.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.18+10",
+"jvm_impl": "hotspot",
+"md5": "70365eb1fda4558c284352916e0b701b",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "BellSoft",
+  "JAVA_RUNTIME_VERSION": "17.0.18+10-LTS",
+  "JAVA_VERSION": "17.0.18",
+  "JAVA_VERSION_DATE": "2026-01-20",
+  "LIBC": "musl",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:a0e9fd6c8a04+"
+},
+"release_type": "ga",
+"sha1": "a6960bec2c6c7ec5ebf93ca9df91cab2a6edea3c",
+"sha256": "4f13055cc2bae9396e78e0a451cb29174134a21db92d1be70275f537154af1b5",
+"sha512": "95330b51b04ea45321eb9e85791fa82657496c0e3ccd0a1db265317fcf019e48af5fc3744ffc3c7f02ec3bf9c13f59bf39bf534220897e6b471232249dc75cba",
+"size": 213915925,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.18+10/bellsoft-jdk17.0.18+10-linux-x64-musl.tar.gz",
+"vendor": "bellsoft",
+"version": "17.0.18+10"
 }

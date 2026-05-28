@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu14.29.23-ca-fx-jdk14.0.2-linux_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "14.0.2",
-  "jvm_impl": "hotspot",
-  "md5": "95e25d62427b21973f36ac07a63b4b4d",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "1cd4d7dca3d6cae2ba5335532908401ff5f0fcb4",
-  "sha256": "502f7c9b93affb46eed532b5c18277bb5747987ce7356c21514ef630634788cc",
-  "sha512": "00585d4f83393ebb713e003e3c91f74bb7d66b6b3cc2d03621946d503ca196cc7b0c6b3f0d29cb06a3f272e51947545e15f5fe60006aa31bbaeaf795ecb5bd84",
-  "size": 296124300,
-  "url": "https://static.azul.com/zulu/bin/zulu14.29.23-ca-fx-jdk14.0.2-linux_x64.tar.gz",
-  "vendor": "azul",
-  "version": "14.29.23"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu14.29.23-ca-fx-jdk14.0.2-linux_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "14.0.2",
+"jvm_impl": "hotspot",
+"md5": "95e25d62427b21973f36ac07a63b4b4d",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu14.29+23-CA",
+  "JAVA_VERSION": "14.0.2",
+  "JAVA_VERSION_DATE": "2020-07-14",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:hg:420a5d8eae15"
+},
+"release_type": "ga",
+"sha1": "1cd4d7dca3d6cae2ba5335532908401ff5f0fcb4",
+"sha256": "502f7c9b93affb46eed532b5c18277bb5747987ce7356c21514ef630634788cc",
+"sha512": "00585d4f83393ebb713e003e3c91f74bb7d66b6b3cc2d03621946d503ca196cc7b0c6b3f0d29cb06a3f272e51947545e15f5fe60006aa31bbaeaf795ecb5bd84",
+"size": 296124300,
+"url": "https://static.azul.com/zulu/bin/zulu14.29.23-ca-fx-jdk14.0.2-linux_x64.tar.gz",
+"vendor": "azul",
+"version": "14.29.23"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu18.28.13-ca-fx-jdk18.0.0-linux_x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "18.0.0",
-  "jvm_impl": "hotspot",
-  "md5": "92f58ae8462bf55929315c76c9a9bf8e",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "4c85b3b337ef72a48a25393267aa785b692d4bea",
-  "sha256": "2fa9b210e7fb53d87c3c5a1bc1ac16eb11e11c775fa49b42b058d6e1b8b27a5c",
-  "sha512": "8a11edcd055b64bd3c3d86360dba862e2b9ccb872a041adb5f943030c75824f70b78515ae6cadf62ee85862525195d3015114df3023db21bf3c9cd3539fb8009",
-  "size": 284658717,
-  "url": "https://static.azul.com/zulu/bin/zulu18.28.13-ca-fx-jdk18.0.0-linux_x64.tar.gz",
-  "vendor": "azul",
-  "version": "18.28.13"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+  "javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu18.28.13-ca-fx-jdk18.0.0-linux_x64.tar.gz",
+"image_type": "jdk",
+"java_version": "18.0.0",
+"jvm_impl": "hotspot",
+"md5": "92f58ae8462bf55929315c76c9a9bf8e",
+"os": "linux",
+"release_info": {
+  "IMPLEMENTOR": "Azul Systems, Inc.",
+  "IMPLEMENTOR_VERSION": "Zulu18.28+13-CA",
+  "JAVA_VERSION": "18",
+  "JAVA_VERSION_DATE": "2022-03-22",
+  "LIBC": "gnu",
+  "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+  "OS_ARCH": "x86_64",
+  "OS_NAME": "Linux",
+  "SOURCE": ".:git:643d3eceb51c"
+},
+"release_type": "ga",
+"sha1": "4c85b3b337ef72a48a25393267aa785b692d4bea",
+"sha256": "2fa9b210e7fb53d87c3c5a1bc1ac16eb11e11c775fa49b42b058d6e1b8b27a5c",
+"sha512": "8a11edcd055b64bd3c3d86360dba862e2b9ccb872a041adb5f943030c75824f70b78515ae6cadf62ee85862525195d3015114df3023db21bf3c9cd3539fb8009",
+"size": 284658717,
+"url": "https://static.azul.com/zulu/bin/zulu18.28.13-ca-fx-jdk18.0.0-linux_x64.tar.gz",
+"vendor": "azul",
+"version": "18.28.13"
 }
