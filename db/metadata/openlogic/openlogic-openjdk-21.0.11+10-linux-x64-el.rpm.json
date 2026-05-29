@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "openlogic-openjdk-21.0.11+10-linux-x64-el.rpm",
+  "image_type": "jdk",
+  "java_version": "21.0.11+10",
+  "jvm_impl": "hotspot",
+  "md5": "652d8eeb6a11fc824b958a9ce2d9bd86",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic-OpenJDK",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-adhoc.root.jdk21u",
+    "JAVA_VERSION": "21.0.11",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d8615be99208+"
+  },
+  "release_type": "ga",
+  "sha1": "2d5ae00caf4273bb0519241c674560a830204e14",
+  "sha256": "88c2fba315ede7ba01d704b16ead9efdfd589f7629b082af7c62a59f2c7b5238",
+  "sha512": "39e57740d5b6a010b260f83ff4f2fb85a92aec8fbdb3184ae1d3c3c86c7c48a3a9f6673ce14458f22a5580ad3396e550f116cd89286a64ab3b9d6ce7536551de",
+  "size": 253416574,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/21.0.11+10/openlogic-openjdk-21.0.11+10-linux-x64-el.rpm",
+  "vendor": "openlogic",
+  "version": "21.0.11+10"
+}

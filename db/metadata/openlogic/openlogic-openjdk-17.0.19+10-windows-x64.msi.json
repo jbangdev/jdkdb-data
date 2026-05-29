@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [],
+  "file_type": "msi",
+  "filename": "openlogic-openjdk-17.0.19+10-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.19+10",
+  "jvm_impl": "hotspot",
+  "md5": "2074d7617532810c9a35ba3aab751418",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.19+10-adhoc..jdk17u",
+    "JAVA_VERSION": "17.0.19",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:982d53c22794"
+  },
+  "release_type": "ga",
+  "sha1": "bb4259eef7937bec0961046b9a83e061aea703b3",
+  "sha256": "b13a170dabb36ce24f453be15d7e930ba76304c1c9e766c88209bca83c9bb204",
+  "sha512": "10087aab25fc8956dfac57a2494c5cd822fa3b22e911e84fe3abca596c3e92c5909e22d3ea9e421ea570e628de11e0debd5da510f69506ea559f7ccf983cf19a",
+  "size": 193556480,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.19+10/openlogic-openjdk-17.0.19+10-windows-x64.msi",
+  "vendor": "openlogic",
+  "version": "17.0.19+10"
+}

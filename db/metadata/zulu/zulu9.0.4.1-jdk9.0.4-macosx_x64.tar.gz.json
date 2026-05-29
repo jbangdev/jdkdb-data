@@ -9,6 +9,14 @@
   "jvm_impl": "hotspot",
   "md5": "3dfb91fd3751666e52c55a8586b6db62",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "N/A",
+    "JAVA_VERSION": "9.0.4.1",
+    "MODULES": "java.base java.logging java.datatransfer java.activation java.compiler java.rmi java.transaction java.xml java.prefs java.desktop jdk.unsupported java.security.sasl java.naming java.corba java.instrument java.management java.management.rmi java.scripting java.xml.bind jdk.httpserver java.xml.ws.annotation java.xml.ws java.sql java.sql.rowset java.security.jgss java.xml.crypto java.se java.se.ee java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.incubator.httpclient jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.management jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.security.jgss jdk.policytool jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.xml.bind jdk.xml.dom jdk.xml.ws jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:20a642374445 corba:35f67a24119c hotspot:1f053f913501 jaxp:4172a741adf5 jaxws:dd05a455b8ab jdk:3dab92cbcfef langtools:1fe69c5dd8ba nashorn:1885d7a468db"
+  },
   "release_type": "ga",
   "sha1": "ff3a44385f5374688258cabb788e87d68bcbb0e2",
   "sha256": "746442da703498a36db9b825eb8c83380a62c47579a6b778f166dfee76502e4f",
