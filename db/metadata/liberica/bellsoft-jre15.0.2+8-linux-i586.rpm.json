@@ -9,6 +9,15 @@
   "jvm_impl": "hotspot",
   "md5": "5b1ba7997697a9d351bad8d5696ec095",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_VERSION": "15.0.2",
+    "JAVA_VERSION_DATE": "2021-01-19",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:hg:efc85fd35d2f+"
+  },
   "release_type": "ga",
   "sha1": "f102408a9fad09768e3e011fb16ebd40bedf99f5",
   "sha256": "08a31bef9a6977c71d6c70d6f5a3310a6a3338ea7a7d5ab325261d48c49e253f",

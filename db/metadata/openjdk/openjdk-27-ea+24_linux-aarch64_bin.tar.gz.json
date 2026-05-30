@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+24_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+24",
+  "jvm_impl": "hotspot",
+  "md5": "b6f31532db59ab00eaa6c440109de9d4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+24-2138",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2c7efc088052"
+  },
+  "release_type": "ea",
+  "sha1": "0764cc54a4ef20ef72f0b8896105b8574b6d1de4",
+  "sha256": "832ef5a271052b9065f2b5b7a63ecdbbd0363edd74228736bab7227b45b21a66",
+  "sha512": "e3512b1093cef6cbbb51babb47b7f29e0f9906ac2488a3ed6b18b6c71b56a433fe5798bc585db7f004f583af1d175d4885d79ab184db174e3b88f432f01cb371",
+  "size": 224207548,
+  "url": "https://download.java.net/java/early_access/jdk27/24/GPL/openjdk-27-ea+24_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+24"
+}
