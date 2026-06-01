@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "b406aaddcaeb16595b89b43b249028e8",
   "os": "linux",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"graal-js\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748427, \"commit.rev\": \"0370f03e62b02fb9bb25925bbb0dca3c3cbeb717\"}, \"graal-nodejs\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748427, \"commit.rev\": \"0370f03e62b02fb9bb25925bbb0dca3c3cbeb717\"}, \"regex\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"sdk\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"substratevm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"sulong\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"tools\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"truffle\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}, \"vm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1610748575, \"commit.rev\": \"2371e0163d1a4bc8ac11fe47f2226a6219602959\"}}",
+    "GRAALVM_VERSION": "19.3.5",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "linux",
+    "SOURCE": "compiler:2371e0163d1a4bc8ac11fe47f2226a6219602959 graal-js:0370f03e62b02fb9bb25925bbb0dca3c3cbeb717 graal-nodejs:0370f03e62b02fb9bb25925bbb0dca3c3cbeb717 regex:2371e0163d1a4bc8ac11fe47f2226a6219602959 sdk:2371e0163d1a4bc8ac11fe47f2226a6219602959 substratevm:2371e0163d1a4bc8ac11fe47f2226a6219602959 sulong:2371e0163d1a4bc8ac11fe47f2226a6219602959 tools:2371e0163d1a4bc8ac11fe47f2226a6219602959 truffle:2371e0163d1a4bc8ac11fe47f2226a6219602959 vm:2371e0163d1a4bc8ac11fe47f2226a6219602959",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog-java11.properties"
+  },
   "release_type": "ga",
   "sha1": "d320f2d033066fd2eed66ffda54b39ff48511805",
   "sha256": "4936cdf48cd501e9df7ff41929774bd1cd88aecb41c3fbf2c970b29c340bbc95",
