@@ -12,6 +12,18 @@
   "jvm_impl": "graalvm",
   "md5": "71dbec2afb016ece45fe576a5c69d7e4",
   "os": "macosx",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}, \"java-benchmarks\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}, \"sdk\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}, \"substratevm\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}, \"truffle\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}, \"vm\": {\"commit.committer\": \"jose.pereda <jose.pereda@gluonhq.com>\", \"commit.committer-ts\": 1643202449, \"commit.rev\": \"995ac09f018cb9fefd9c8560d022eb5b50293eb2\"}}",
+    "GRAALVM_VERSION": "22.0.0.2",
+    "IMPLEMENTOR": "GraalVM Community",
+    "JAVA_VERSION": "17.0.2",
+    "JAVA_VERSION_DATE": "2022-01-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.logging jdk.internal.vm.ci jdk.jfr jdk.unsupported org.graalvm.sdk java.datatransfer java.xml java.prefs java.desktop java.management java.transaction.xa java.sql org.graalvm.truffle jdk.internal.vm.compiler com.oracle.graal.graal_enterprise com.oracle.svm.svm_enterprise com.oracle.truffle.regex com.oracle.truffle.truffle_nfi com.oracle.truffle.truffle_nfi_libffi java.compiler java.instrument java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.management jdk.internal.vm.compiler.management jdk.internal.vm.compiler.truffle.jfr jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs org.graalvm.locator",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:13e2a145487d+ labsjdk-builder:ff547a7064d94ffa7cb25777667427d756836cb9 compiler:995ac09f018cb9fefd9c8560d022eb5b50293eb2 java-benchmarks:995ac09f018cb9fefd9c8560d022eb5b50293eb2 sdk:995ac09f018cb9fefd9c8560d022eb5b50293eb2 substratevm:995ac09f018cb9fefd9c8560d022eb5b50293eb2 truffle:995ac09f018cb9fefd9c8560d022eb5b50293eb2 vm:995ac09f018cb9fefd9c8560d022eb5b50293eb2"
+  },
   "release_type": "ga",
   "sha1": "413212165efa360fbbc5ca3b63cb49e15ff15df5",
   "sha256": "30554f199040d9e32c1fbfbdb8b68d30b4572bb59aa293b46876abb67a2672db",

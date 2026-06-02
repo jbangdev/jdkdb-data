@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-21.0.12-ea.4_aix-ppc64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.12-ea.4",
+  "jvm_impl": "hotspot",
+  "md5": "f127c9e229bf35d1b818fe5e5d82afcb",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.12-ea+4",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:eb2854456fe4"
+  },
+  "release_type": "ea",
+  "sha1": "5629f8b1c58ceb816e347abe643319f034045c9c",
+  "sha256": "6ecfe6f2dd627e7694290cfac48a2a10ef52b1ae5fb2be496697110f5fca174a",
+  "sha512": "4989e30ff1a393b87267d62ef9964375f9b8c506e62b0ea11f367af2a9acc9af79119fc899e7a549ef930364e74f34fe8047af80c3a57efaab0b37d4cfbb7917",
+  "size": 42343222,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.12%2B4/sapmachine-jre-21.0.12-ea.4_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.12-ea.4"
+}
