@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "5c6bf35cea4b54535148ef83d87b726a",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"graal-js\": {\"commit.committer\": \"Jan Stola <jan.stola@oracle.com>\", \"commit.committer-ts\": 1563468513, \"commit.rev\": \"65f28d2f20afeec545f19075a89db5fd7c0ccfe0\"}, \"regex\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"sdk\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"substratevm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"tools\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"truffle\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}, \"vm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1565252893, \"commit.rev\": \"a9233dcb006ca6834021e227825749672ebb7643\"}}",
+    "GRAALVM_VERSION": "19.2.0-dev",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:a9233dcb006ca6834021e227825749672ebb7643 graal-js:65f28d2f20afeec545f19075a89db5fd7c0ccfe0 regex:a9233dcb006ca6834021e227825749672ebb7643 sdk:a9233dcb006ca6834021e227825749672ebb7643 substratevm:a9233dcb006ca6834021e227825749672ebb7643 tools:a9233dcb006ca6834021e227825749672ebb7643 truffle:a9233dcb006ca6834021e227825749672ebb7643 vm:a9233dcb006ca6834021e227825749672ebb7643",
+    "component_catalog": "https://graal.us.oracle.com/catalog/ce/a9233dcb006ca6834021e227825749672ebb7643"
+  },
   "release_type": "ea",
   "sha1": "d761ef2512104df8b15f5b10bca6e219f1f975b4",
   "sha256": "3fe00897033885182aac2598eca9bf62d5e344888a80b9661e659829af06f8ea",

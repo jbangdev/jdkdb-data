@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.20-ea.4_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.20-ea.4",
+  "jvm_impl": "hotspot",
+  "md5": "9a1ffa8c8094439a1f26813cc0a70a4d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+4",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:4cdc8dc4c31a"
+  },
+  "release_type": "ea",
+  "sha1": "ee3c7663e67f9e9c586334d59a79c867a681fc52",
+  "sha256": "7fc68ce17430f6556e98a921f5932b2c346f5b14fe2a748a8d4077c9b8bfd657",
+  "sha512": "8705c05d92014507765755aa6a97ae775e4b74e0746a6200f6c861d3f235e449ab43b609d44f40e373f0563819bfd32278260a3bb775239745b45f5c481fb67b",
+  "size": 47815901,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20%2B4/sapmachine-jre-17.0.20-ea.4_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.20-ea.4"
+}
