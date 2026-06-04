@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.24_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.24",
+  "jvm_impl": "hotspot",
+  "md5": "72c0d96f4cdf4140dd48705a03d59fa4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+24",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cbb3a3d841cf"
+  },
+  "release_type": "ea",
+  "sha1": "f5177c3d595ef3ca9fe7b2da2606c5a8df166c9d",
+  "sha256": "d8bd096bf4480119f5d202d1ced9f6fe00736289e4f26871612b1bb020e3ce8b",
+  "sha512": "7e4ec6f3d2b8c04ec295a10ebd01ccf35f8cee6442ff4c5240c67732dd60210b5c6a19fedb9b3ac57730f68141d42c55a32ba60a22f13fcff59e490a4ed261c3",
+  "size": 129696687,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B24/sapmachine-jdk-27-ea.24_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.24"
+}

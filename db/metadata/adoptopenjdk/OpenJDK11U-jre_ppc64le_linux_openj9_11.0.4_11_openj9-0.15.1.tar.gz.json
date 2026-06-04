@@ -9,6 +9,16 @@
   "jvm_impl": "openj9",
   "md5": "9b05aa18d228e44c446fdc5a4c518adc",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Eclipse OpenJ9",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "11.0.4",
+    "JAVA_VERSION_DATE": "2019-07-16",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": "OpenJDK:fa49279450 OpenJ9:0f66c6431 OMR:ec782f26"
+  },
   "release_type": "ga",
   "sha1": "6705b288fea550b2ef61b6799f09364f0dd826fd",
   "sha256": "fa56a9697dc172a43805b4219780aebe23e5498154fd3e1ce1ddcfd5c1db4ddc",
