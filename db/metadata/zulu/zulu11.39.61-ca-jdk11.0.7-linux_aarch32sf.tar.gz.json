@@ -9,6 +9,18 @@
   "jvm_impl": "hotspot",
   "md5": "25a66ddd6fd560db92900cde860058af",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.39+61-CA",
+    "JAVA_VERSION": "11.0.7",
+    "JAVA_VERSION_DATE": "2020-04-14",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs org.openjsse",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:hg:beb8837f4856",
+    "SUN_ARCH_ABI": "gnueabi"
+  },
   "release_type": "ga",
   "sha1": "78514da6ab4d23f1eec6f8f32afb78c5516e99c9",
   "sha256": "514408971d574178d6d8f880253f6675aa1f53d99dbfa98ab2b5697559f9c735",

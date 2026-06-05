@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "pkg",
-  "filename": "bellsoft-jdk17.0.18+10-macos-aarch64-lite.pkg",
-  "image_type": "jdk",
-  "java_version": "17.0.18+10",
-  "jvm_impl": "hotspot",
-  "md5": "6203dd1185c0bb527d6531f95a5d5842",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "b662ba4a2b435dfc83e65870eaf3598f425e8249",
-  "sha256": "18a4df541ab342b65748f7ec4023e2559061171b06f71d31d377c50098ab9f2f",
-  "sha512": "de1fcf611a6255c1dff7fcab7ac217a0d6154424b7c525a7916e6ba468a96fcdfda2121117f0810ccae115c9f377e8d95c82437833f7b967d8872dad987a774d",
-  "size": 70574811,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.18+10/bellsoft-jdk17.0.18+10-macos-aarch64-lite.pkg",
-  "vendor": "bellsoft",
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "pkg",
+    "filename": "bellsoft-jdk17.0.18+10-macos-aarch64-lite.pkg",
+    "image_type": "jdk",
+    "java_version": "17.0.18+10",
+    "jvm_impl": "hotspot",
+    "md5": "6203dd1185c0bb527d6531f95a5d5842",
+    "os": "macosx",
+    "release_info": {
+      "IMPLEMENTOR": "BellSoft",
+      "JAVA_RUNTIME_VERSION": "17.0.18+10-LTS",
+      "JAVA_VERSION": "17.0.18",
+      "JAVA_VERSION_DATE": "2026-01-20",
+      "LIBC": "default",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Darwin",
+      "SOURCE": ".:git:671fc83d2673+"
+    },
+    "release_type": "ga",
+    "sha1": "b662ba4a2b435dfc83e65870eaf3598f425e8249",
+    "sha256": "18a4df541ab342b65748f7ec4023e2559061171b06f71d31d377c50098ab9f2f",
+    "sha512": "de1fcf611a6255c1dff7fcab7ac217a0d6154424b7c525a7916e6ba468a96fcdfda2121117f0810ccae115c9f377e8d95c82437833f7b967d8872dad987a774d",
+    "size": 70574811,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.18+10/bellsoft-jdk17.0.18+10-macos-aarch64-lite.pkg",
+    "vendor": "bellsoft",
   "version": "17.0.18+10"
 }
