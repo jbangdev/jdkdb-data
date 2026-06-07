@@ -1,0 +1,33 @@
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.1+8-2_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "26.0.1+8",
+  "jvm_impl": "hotspot",
+  "md5": "ecae0677de2792c0ea89524e05d4297a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.1+8-2-Debian",
+    "JAVA_VERSION": "26.0.1",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "95fbb8098032f9d66e495a81657dfe6c65545b2c",
+  "sha256": "5ce5bc4426f86c0e61ea047fe83f95073a85bfa55a691d7b51678f84204da2f5",
+  "sha512": "05754fb5ed92abb998be88c5f8ee6b49e6d7d920b01415c8d162f76f87262aa2886280dd511ae9adf8b282cd3be18fc35fc04f2ecfaf7954e0a8cb8b6dd4f10d",
+  "size": 54325892,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.1+8-2_riscv64.deb",
+  "vendor": "debian",
+  "version": "26.0.1+8-2"
+}

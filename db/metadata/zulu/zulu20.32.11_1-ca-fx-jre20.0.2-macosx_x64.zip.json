@@ -11,6 +11,18 @@
   "jvm_impl": "hotspot",
   "md5": "928d381fd5a502f76f3238ec43454190",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu20.32+11-CA",
+    "JAVA_RUNTIME_VERSION": "20.0.2+9",
+    "JAVA_VERSION": "20.0.2",
+    "JAVA_VERSION_DATE": "2023-07-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:2281ee86700f"
+  },
   "release_type": "ga",
   "sha1": "08dbdb65e2e140018dc6efa020ba760c3d7cf50c",
   "sha256": "8e8f5a042f36994cfb1dc9327f708129a3e0d665ec5cb8ac703945d07dc4b089",
