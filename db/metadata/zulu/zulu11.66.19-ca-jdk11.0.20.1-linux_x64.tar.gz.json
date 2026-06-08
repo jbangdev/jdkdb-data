@@ -9,6 +9,18 @@
   "jvm_impl": "hotspot",
   "md5": "c7a998f1fb928296efc108f281cee143",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.66+19-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.20.1+1-LTS",
+    "JAVA_VERSION": "11.0.20.1",
+    "JAVA_VERSION_DATE": "2023-08-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base com.azul.tooling java.management java.logging java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:5a316f5eb90c"
+  },
   "release_type": "ga",
   "sha1": "66e7da7de6329ea8b8ab6bcc59f2e8382f7ed167",
   "sha256": "7c2c50f93d460b09005bb29dd38808b4aa56e473036897f348396430764c3e98",
