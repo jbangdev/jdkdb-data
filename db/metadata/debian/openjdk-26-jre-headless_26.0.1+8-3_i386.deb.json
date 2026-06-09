@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.1+8-3_i386.deb",
+  "image_type": "jre",
+  "java_version": "26.0.1+8",
+  "jvm_impl": "hotspot",
+  "md5": "1cca13724724138cdd40d2d0f29bc177",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.1+8-3-Debian",
+    "JAVA_VERSION": "26.0.1",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "5e49759e1e0d83ac61575b7ccfdb6444dec8c211",
+  "sha256": "85930ef09c1c0bb623e656055c622755da3a9f9fb503d50ff7fe167b70d02ecf",
+  "sha512": "b489799a44b0004f771ba44b8210de872f463e8963a22456654bdd4de81999a13b4be9b42881d1d9e34dd6222815562900faddecbdf487b55294f290babd5335",
+  "size": 39114632,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.1+8-3_i386.deb",
+  "vendor": "debian",
+  "version": "26.0.1+8-3"
+}

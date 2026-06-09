@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.20~5ea-1_i386.deb",
+  "image_type": "jre",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "7c02930795c496612ff7c28370ade1f5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+5-1-Debian",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "e653c71a0f664042a1f4cb572c28ffa7a9c99681",
+  "sha256": "eab51d51c85d21dfeb85d290ba25095a9ee579c945a5b310b0cccec85f345f57",
+  "sha512": "cd5412d96758a441a39ab11bff0658c8098d5e1d5c0a121eb2362961770b9df40ae035e32c1131f80bf93f497b1cf639040f90b75f912e77a011ae5fc08eab9f",
+  "size": 43067072,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20~5ea-1_i386.deb",
+  "vendor": "debian",
+  "version": "17.0.20~5ea-1"
+}

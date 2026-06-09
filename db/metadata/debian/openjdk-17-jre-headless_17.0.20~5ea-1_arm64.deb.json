@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.20~5ea-1_arm64.deb",
+  "image_type": "jre",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "f1db7c9aa40eb77876954870dea141a1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+5-1-Debian",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "ca8dadcb4fecf40f33827dc500ccff1426c06f47",
+  "sha256": "d04d930f3d97f612ca2c5e255bb885791a224ef67635188c79308b69e0961612",
+  "sha512": "e6840224d5e8021aa8e2e923dd470500b60722ffc4182de2f9b42237283b26599834e18596bed9c5030a5011475692a4d5383f768c8b02f2c322728fa1897fa4",
+  "size": 43163192,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20~5ea-1_arm64.deb",
+  "vendor": "debian",
+  "version": "17.0.20~5ea-1"
+}

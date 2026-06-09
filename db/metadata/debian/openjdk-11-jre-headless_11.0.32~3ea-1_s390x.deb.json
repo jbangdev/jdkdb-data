@@ -1,0 +1,33 @@
+{
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-11-jre-headless_11.0.32~3ea-1_s390x.deb",
+  "image_type": "jre",
+  "java_version": "11.0.32",
+  "jvm_impl": "hotspot",
+  "md5": "231c5e4977ebe4d2ff9b30ceb8f5a3e7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "11.0.32-ea+3-post-1-Debian",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "b2a33f4434cea9975c112ca29e8bd420eb6b1da3",
+  "sha256": "cf5155d512a890734a1785ff49e0521259242ff9cdd11d59ffb8cbd0dd83cba4",
+  "sha512": "f7a808f0d97119bb81c2bf53cc6833d93c5cbe4242a969eb5e6891a17ea5cee403c71c79de5518804dc981c9ea72d97e5a9da5e47800867bc4171f15ec83d404",
+  "size": 33889008,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.32~3ea-1_s390x.deb",
+  "vendor": "debian",
+  "version": "11.0.32~3ea-1"
+}

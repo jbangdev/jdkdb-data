@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-25.0.4-ea.4_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4-ea.4",
+  "jvm_impl": "hotspot",
+  "md5": "ab74c007dd7751df5548e3b15cc43d6d",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "25.0.4-ea+4",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:"
+  },
+  "release_type": "ea",
+  "sha1": "26854c2e14ac3d6c77a87c0f4b547cb5c57bce1f",
+  "sha256": "6f4f2c29c221477ece2dec357c45cd4dc8788e5d00080c3d020eda046a1b4d12",
+  "sha512": "c9c7e36ef44d57c8ed5f5505c38275eb838f2c76e4b7706a6f4e08bdbc389e251629b5c2eca2c0ac87bfd485c805e3e69aa799283e267f6a54878dcb3db7b734",
+  "size": 195870525,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.4%2B4/sapmachine-jdk-25.0.4-ea.4_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "25.0.4-ea.4"
+}

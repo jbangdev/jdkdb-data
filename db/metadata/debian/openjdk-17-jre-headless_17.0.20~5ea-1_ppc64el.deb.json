@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc64le",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.20~5ea-1_ppc64el.deb",
+  "image_type": "jre",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "a1977c4ffb02674b66d72b8acc0fc978",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+5-1-Debian",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "9b02ff8b3723b15026195cf2f45f771c20092c3b",
+  "sha256": "3bb5e449b80f23a15241d7252c0c40eab9a50e6d43589afe14723b2238fc904d",
+  "sha512": "57d4b1f5af0a3b98fa05ed734aab8b32f3ae7ce50be3f1e32ccdad1d18a51f2075e962e949018eae4917226c1250587e26b3f4ab9a72f0d17fdb5361ba8bb0f5",
+  "size": 43188956,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20~5ea-1_ppc64el.deb",
+  "vendor": "debian",
+  "version": "17.0.20~5ea-1"
+}

@@ -1,0 +1,43 @@
+{
+  "architecture": "aarch64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK17U-jdk_aarch64_alpine-linux_hotspot_17.0.20_5-ea.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17",
+  "jvm_impl": "hotspot",
+  "md5": "4511176ecff9aae61f3613c3b7e0028c",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-101-generic",
+    "BUILD_SOURCE": "git:625ade1c5a0cf7f9e3c59b2df4398ca09d77813b",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "17.0.20-beta+5-ea",
+    "IMAGE_TYPE": "JDK",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-17.0.20+5-202606030742",
+    "JAVA_RUNTIME_VERSION": "17.0.20-beta+5-ea",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "17.0.20-beta+5-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "17.0.20+5",
+    "SOURCE": ".:git:7b407b30436c",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk17u.git"
+  },
+  "release_type": "ea",
+  "sha1": "1e955bc5d2c62a9ad75f964777fd4feff84a7ce4",
+  "sha256": "7e1a2d8959b37ea13f459f34200536a6799c5c22087569734db1189393d10b83",
+  "sha512": "d4aa657e1974279270e2f2b86025b28b9691983e2f175d88a7bbafdc6f45fee27d7b204429db64a34b8c4d2044c7d61c703f1e5fde221a14e89bd31439d34f2b",
+  "size": 190807705,
+  "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B5-ea-beta/OpenJDK17U-jdk_aarch64_alpine-linux_hotspot_17.0.20_5-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "17.0.20+5-ea-beta"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.1+8-3_amd64.deb",
+  "image_type": "jre",
+  "java_version": "26.0.1+8",
+  "jvm_impl": "hotspot",
+  "md5": "55c1cd9bd770f900678d7ff735da596a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.1+8-3-Debian",
+    "JAVA_VERSION": "26.0.1",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "61a41ea7eb5a5a454d2d0d5d0ca44aaa4ff7eba3",
+  "sha256": "f5a01dd809aeb5b9a76c59f8442ee38b33cd4be59f339c7640613da74a341d82",
+  "sha512": "0d77655e710fdaaba11b6aafe4e02e1932b0fd3ae899d7c40a181a809d3f91a9b208b6e9ac1d2687d6a3fa51c9b1ca859a5764e80297e8aa2ad2eef6b6cfd1c2",
+  "size": 54789280,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.1+8-3_amd64.deb",
+  "vendor": "debian",
+  "version": "26.0.1+8-3"
+}
