@@ -1,0 +1,34 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": [
+    "le"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-17.0.20-ea.5_linux-ppc64le_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20-ea.5",
+  "jvm_impl": "hotspot",
+  "md5": "478370f7b403fce1ddd3113e5ebcab2f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+5",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a23d6b538565"
+  },
+  "release_type": "ea",
+  "sha1": "832ee24dc1581384dbcadf6bf2861b61b14dd47b",
+  "sha256": "ac2bb1e5c8b0cd5e8f01dd51a3abb06efa4bb00c990f7b9b4c5514542c0f1500",
+  "sha512": "a629e7cf418b936ebc83b767ed72ccfd4d65db73101a6b17e4ed476611f2919a80af75d999fab946f6699017f433cbf017832132df0e9ab34a0a5b81d1819a07",
+  "size": 194351141,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20%2B5/sapmachine-jdk-17.0.20-ea.5_linux-ppc64le_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.20-ea.5"
+}

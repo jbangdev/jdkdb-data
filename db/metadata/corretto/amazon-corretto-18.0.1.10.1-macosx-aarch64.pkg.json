@@ -9,6 +9,17 @@
   "jvm_impl": "hotspot",
   "md5": "c0da36e3a5bbb20a6574fd9a13a585d5",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-18.0.1.10.1",
+    "JAVA_VERSION": "18.0.1",
+    "JAVA_VERSION_DATE": "2022-04-19",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:1839a5d95aeb+"
+  },
   "release_type": "ga",
   "sha1": "1e8419672a75fcd36f94acc80242f563c9c47f66",
   "sha256": "bfdd9b2c41f51e1f536ac57f9416190a238fe56b5ff5dcbae2f8f5bcf941ddaf",

@@ -1,0 +1,33 @@
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.12~5ea-1_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "aa07ac6110dded2b1fd9f2f313c4b348",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.11-ea+5-1-Debian",
+    "JAVA_VERSION": "21.0.11",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "622ac2aa3bd1986220e427f56fd33bc5bc7874bb",
+  "sha256": "0106802131e596268bcf88a98294b119c298f28b016889daf57932573aceff59",
+  "sha512": "2da19c99b555c6762146996a835c37bf6b9b79c93fe2c8aa2218771e468e3576c79cd1d63a8793beda7c453c7137bd42b7164253910891ba47fc7ab6e7c15c25",
+  "size": 41444392,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.12~5ea-1_riscv64.deb",
+  "vendor": "debian",
+  "version": "21.0.12~5ea-1"
+}
