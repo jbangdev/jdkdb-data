@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk17.0.8+7-windows-amd64-full.zip",
-  "image_type": "jdk",
-  "java_version": "17.0.8+7",
-  "jvm_impl": "hotspot",
-  "md5": "74ee7c7da2e4948fe56cfedc86d35866",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "baa6b1776bc5e2d48818891c70b7cf1d21c3a2b3",
-  "sha256": "70ec2fe2475ed0976b36cc6f7f14470c5a5b85067748356276b297e8869ecac5",
-  "sha512": "e83476fab5b986a87e0847afe775eec4b224b54724352bd60753b556b4921495b928e40a9a54fcc068139085d4fab2f9ba4f94ca51be29f933005c93acaddc7e",
-  "size": 276765375,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.8+7/bellsoft-jdk17.0.8+7-windows-amd64-full.zip",
-  "vendor": "bellsoft",
-  "version": "17.0.8+7"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk17.0.8+7-windows-amd64-full.zip",
+"image_type": "jdk",
+"java_version": "17.0.8+7",
+"jvm_impl": "hotspot",
+"md5": "74ee7c7da2e4948fe56cfedc86d35866",
+"os": "windows",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_RUNTIME_VERSION": "17.0.8+7-LTS",
+"JAVA_VERSION": "17.0.8",
+"JAVA_VERSION_DATE": "2023-07-18",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Windows",
+"SOURCE": ".:git:812c6bcd802f+"
+},
+"release_type": "ga",
+"sha1": "baa6b1776bc5e2d48818891c70b7cf1d21c3a2b3",
+"sha256": "70ec2fe2475ed0976b36cc6f7f14470c5a5b85067748356276b297e8869ecac5",
+"sha512": "e83476fab5b986a87e0847afe775eec4b224b54724352bd60753b556b4921495b928e40a9a54fcc068139085d4fab2f9ba4f94ca51be29f933005c93acaddc7e",
+"size": 276765375,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.8+7/bellsoft-jdk17.0.8+7-windows-amd64-full.zip",
+"vendor": "bellsoft",
+"version": "17.0.8+7"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu15.42.15-ca-jre15.0.8-linux_musl_x64.tar.gz",
-  "image_type": "jre",
-  "java_version": "15.0.8",
-  "jvm_impl": "hotspot",
-  "md5": "cd2f9bf806025a28e20cba9c20f43835",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a50e0fabfd79eed09a609407ae8f8f6c412b3f2a",
-  "sha256": "f5694cd010811bacc34c14bebdd2075c316e08c355889abb60e0e34aba3e03c4",
-  "sha512": "38d18c10a9119da6bfc39125c995407a3e0374f79470ad34f7818e2f273432a722afeb0b0af9e3e2784ee0abd83944747ea2d95eda8b2ba892551435221b450f",
-  "size": 48170342,
-  "url": "https://static.azul.com/zulu/bin/zulu15.42.15-ca-jre15.0.8-linux_musl_x64.tar.gz",
-  "vendor": "azul",
-  "version": "15.42.15"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu15.42.15-ca-jre15.0.8-linux_musl_x64.tar.gz",
+"image_type": "jre",
+"java_version": "15.0.8",
+"jvm_impl": "hotspot",
+"md5": "cd2f9bf806025a28e20cba9c20f43835",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu15.42+15-CA",
+"JAVA_VERSION": "15.0.8",
+"JAVA_VERSION_DATE": "2022-07-19",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:ddf931167fff"
+},
+"release_type": "ga",
+"sha1": "a50e0fabfd79eed09a609407ae8f8f6c412b3f2a",
+"sha256": "f5694cd010811bacc34c14bebdd2075c316e08c355889abb60e0e34aba3e03c4",
+"sha512": "38d18c10a9119da6bfc39125c995407a3e0374f79470ad34f7818e2f273432a722afeb0b0af9e3e2784ee0abd83944747ea2d95eda8b2ba892551435221b450f",
+"size": 48170342,
+"url": "https://static.azul.com/zulu/bin/zulu15.42.15-ca-jre15.0.8-linux_musl_x64.tar.gz",
+"vendor": "azul",
+"version": "15.42.15"
 }

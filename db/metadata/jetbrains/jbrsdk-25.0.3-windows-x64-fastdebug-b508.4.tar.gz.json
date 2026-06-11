@@ -1,0 +1,33 @@
+{
+"architecture": "x86_64",
+"distro": "jetbrains",
+"features": [
+"fastdebug"
+],
+"file_type": "tar.gz",
+"filename": "jbrsdk-25.0.3-windows-x64-fastdebug-b508.4.tar.gz",
+"image_type": "jdk",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "ed7caf903ac9f76ee67440af870d01a4",
+"os": "windows",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBRSDK-25.0.3+9-508.4-fd",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Windows",
+"SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+},
+"release_type": "ga",
+"sha1": "2c4d39551299199da7731266576d54a0dce90b52",
+"sha256": "2dd59c7b0590d0bfd2a322fedeb9ee6f19933a635914be91b37b810da4b260ff",
+"sha512": "c8553326746d1517100257bb7a729720a6983a4eea030e0ff8248d675a61418b07d6de925229f64e25e19d138807de0e250f8ed1590eb382b56419cb5352d65a",
+"size": 316430641,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.3-windows-x64-fastdebug-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

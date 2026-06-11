@@ -1,0 +1,36 @@
+{
+"architecture": "aarch64",
+"distro": "jetbrains",
+"features": [
+"jcef"
+],
+"file_type": "tar.gz",
+"filename": "jbr_jcef-25.0.3-windows-aarch64-b508.4.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "cf2ae061959fd12a8ff5631b1894685a",
+"os": "windows",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBR-25.0.3+9-508.4-jcef",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"JCEF_COMMIT_HASH": "fa677024a129747bd8cb05447af8918c494e4af7",
+"JCEF_VERSION": "144.0.15.1197+gfa67702",
+"JCEF_VERSION_DETAILED": "144.0.15-g72717cf-chromium-144.0.7559.172-api-1.21-262-b47",
+"LIBC": "default",
+"MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Windows",
+"SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+},
+"release_type": "ga",
+"sha1": "f0cc9bf2b2f55c1c1394e93ff46f1336c3e6d503",
+"sha256": "d42440a15a65bd9cbd68a43a26ea4f5fe8de6d208daf9693203b03e04c8cb51b",
+"sha512": "66ed9e6857636ca22b15ad6e16e272f77e8f862bb33a5287d58122b59ce5315b03d1dea8d059a7702b6366c14494b1c7e6f5edd9e70f6be92cb646899af66e61",
+"size": 242972411,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.3-windows-aarch64-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

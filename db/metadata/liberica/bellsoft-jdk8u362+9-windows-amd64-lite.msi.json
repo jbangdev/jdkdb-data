@@ -1,22 +1,29 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk8u362+9-windows-amd64-lite.msi",
-  "image_type": "jdk",
-  "java_version": "8u362+9",
-  "jvm_impl": "hotspot",
-  "md5": "8a9db54d1741031027a44990db96d590",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "d0125269a861510bd6738435801d5b0fe6ab0cbb",
-  "sha256": "0c0bfd73a6764784941ea78260474147717bc092bda2f446a47534369df16051",
-  "sha512": "0bd97102dc205c49f228d29f62680fd4bbf1e71190d561d24bf7e8845ed39f104e5b95f490e54ca0a095ebc4c56d62eed76259c562ce58d82509d36013f6e1dc",
-  "size": 51871744,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jdk8u362+9-windows-amd64-lite.msi",
-  "vendor": "bellsoft",
-  "version": "8u362+9"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"lite"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk8u362+9-windows-amd64-lite.msi",
+"image_type": "jdk",
+"java_version": "8u362+9",
+"jvm_impl": "hotspot",
+"md5": "8a9db54d1741031027a44990db96d590",
+"os": "windows",
+"release_info": {
+"JAVA_VERSION": "1.8.0_362",
+"OS_ARCH": "amd64",
+"OS_NAME": "Windows",
+"OS_VERSION": "5.2",
+"SOURCE": ".:git:becd0a752b5e+"
+},
+"release_type": "ga",
+"sha1": "d0125269a861510bd6738435801d5b0fe6ab0cbb",
+"sha256": "0c0bfd73a6764784941ea78260474147717bc092bda2f446a47534369df16051",
+"sha512": "0bd97102dc205c49f228d29f62680fd4bbf1e71190d561d24bf7e8845ed39f104e5b95f490e54ca0a095ebc4c56d62eed76259c562ce58d82509d36013f6e1dc",
+"size": 51871744,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jdk8u362+9-windows-amd64-lite.msi",
+"vendor": "bellsoft",
+"version": "8u362+9"
 }

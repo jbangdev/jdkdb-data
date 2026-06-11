@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk11.0.29+10-linux-amd64-full.rpm",
-  "image_type": "jdk",
-  "java_version": "11.0.29+10",
-  "jvm_impl": "hotspot",
-  "md5": "702e131939d2fb10e9044624e6236868",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "b96c1fa2d8a72b9bd767befc434c005f69ac89c5",
-  "sha256": "8fb502c4f9e70d25008cffbcfdf9553bcd8dc0b4408f8b20567c8e569aec1f30",
-  "sha512": "80c2870fa2c9c5c94933b4063d558a4de80285417ea4fd69b87858dd334f45e1703f214f383a534e3e957eccb42066541c9cf9f5b9aaf72c5b42840a03ece791",
-  "size": 321565924,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.29+10/bellsoft-jdk11.0.29+10-linux-amd64-full.rpm",
-  "vendor": "bellsoft",
-  "version": "11.0.29+10"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk11.0.29+10-linux-amd64-full.rpm",
+"image_type": "jdk",
+"java_version": "11.0.29+10",
+"jvm_impl": "hotspot",
+"md5": "702e131939d2fb10e9044624e6236868",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_RUNTIME_VERSION": "11.0.29+10-LTS",
+"JAVA_VERSION": "11.0.29",
+"JAVA_VERSION_DATE": "2025-10-21",
+"LIBC": "gnu",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.packager jdk.packager.services jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:71e623ab0063+"
+},
+"release_type": "ga",
+"sha1": "b96c1fa2d8a72b9bd767befc434c005f69ac89c5",
+"sha256": "8fb502c4f9e70d25008cffbcfdf9553bcd8dc0b4408f8b20567c8e569aec1f30",
+"sha512": "80c2870fa2c9c5c94933b4063d558a4de80285417ea4fd69b87858dd334f45e1703f214f383a534e3e957eccb42066541c9cf9f5b9aaf72c5b42840a03ece791",
+"size": 321565924,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.29+10/bellsoft-jdk11.0.29+10-linux-amd64-full.rpm",
+"vendor": "bellsoft",
+"version": "11.0.29+10"
 }

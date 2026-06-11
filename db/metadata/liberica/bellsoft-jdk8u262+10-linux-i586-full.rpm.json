@@ -1,24 +1,31 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk8u262+10-linux-i586-full.rpm",
-  "image_type": "jdk",
-  "java_version": "8u262+10",
-  "jvm_impl": "hotspot",
-  "md5": "30e6914f9318d5cebc555690a12c568c",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "19a4e5b159f815f241b7e8d5a0c2b50fa52c6644",
-  "sha256": "feabf77c409b1bf1fe5d533ed068d7b970882d3318acaac3debfd8dd6f32dc66",
-  "sha512": "13cc8884c79cdf86c77df94616fc7b11f68ffc8a8a84d3f4c0df8b1fb140fe42b6941660a2b0ec2803a42708b180a0b430c4f83884e214e2cd150e103b3bfd25",
-  "size": 123392468,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u262+10/bellsoft-jdk8u262+10-linux-i586-full.rpm",
-  "vendor": "bellsoft",
-  "version": "8u262+10"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk8u262+10-linux-i586-full.rpm",
+"image_type": "jdk",
+"java_version": "8u262+10",
+"jvm_impl": "hotspot",
+"md5": "9a55aa2e2e5e2f268e4d0f8b17e2609c",
+"os": "linux",
+"release_info": {
+"JAVA_VERSION": "1.8.0_262",
+"OS_ARCH": "i586",
+"OS_NAME": "Linux",
+"OS_VERSION": "2.6",
+"SOURCE": " .:6d223f436353+ corba:35994a206cd0 hotspot:f9693cc545b4+ jaxp:2d0ad8acfa69 jaxws:c40ea39b627c jdk:833691f5d8b5+ langtools:7055edca396a nashorn:0708b03140d8"
+},
+"release_type": "ga",
+"sha1": "1341b29c38e7a759451d03bcccac095c0de720a0",
+"sha256": "57a09a00690ee92293efce8c986f3f90ed9996dc683f03447a5c79f94bae7ac2",
+"sha512": "6ccbbea7d1915059d78ef8b7081a8978cce7741bc9c8fa33faa7f2b91737e561cfafdbf5bd916ea068e060c996e0051eab45be88a7af4337e84c284f51703ba9",
+"size": 123392304,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u262+10/bellsoft-jdk8u262+10-linux-i586-full.rpm",
+"vendor": "bellsoft",
+"version": "8u262+10"
 }

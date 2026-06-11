@@ -1,22 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu15.29.15-ca-fx-jre15.0.2-macosx_aarch64.tar.gz",
-  "image_type": "jre",
-  "java_version": "15.0.2",
-  "jvm_impl": "hotspot",
-  "md5": "144298d603e5d3b2ff3e71be85c87768",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "6a72bea97d14d7d2cae13f6b1e1819ba8ee5c3da",
-  "sha256": "c42cc7914663190acc57a8332cc5e73e279f9708ec8af87ed99eb89ce58e0525",
-  "sha512": "9dd31ac3f230acc2907a1b6969f6be5edabb64aa507f3692da40a6fcfc12f0dd8ea5031da7e98e5e4654ba38dc531bddcd4bff112302c6fd6672855b9b16568c",
-  "size": 65340092,
-  "url": "https://static.azul.com/zulu/bin/zulu15.29.15-ca-fx-jre15.0.2-macosx_aarch64.tar.gz",
-  "vendor": "azul",
-  "version": "15.29.15"
+"architecture": "aarch64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu15.29.15-ca-fx-jre15.0.2-macosx_aarch64.tar.gz",
+"image_type": "jre",
+"java_version": "15.0.2",
+"jvm_impl": "hotspot",
+"md5": "144298d603e5d3b2ff3e71be85c87768",
+"os": "macosx",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu15.29+15-CA",
+"JAVA_VERSION": "15.0.2",
+"JAVA_VERSION_DATE": "2021-01-19",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.internal.vm.ci jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Darwin",
+"SOURCE": ".:hg:abc5a1a018f2"
+},
+"release_type": "ga",
+"sha1": "6a72bea97d14d7d2cae13f6b1e1819ba8ee5c3da",
+"sha256": "c42cc7914663190acc57a8332cc5e73e279f9708ec8af87ed99eb89ce58e0525",
+"sha512": "9dd31ac3f230acc2907a1b6969f6be5edabb64aa507f3692da40a6fcfc12f0dd8ea5031da7e98e5e4654ba38dc531bddcd4bff112302c6fd6672855b9b16568c",
+"size": 65340092,
+"url": "https://static.azul.com/zulu/bin/zulu15.29.15-ca-fx-jre15.0.2-macosx_aarch64.tar.gz",
+"vendor": "azul",
+"version": "15.29.15"
 }

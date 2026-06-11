@@ -1,22 +1,29 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu8.64.0.15-ca-fx-jdk8.0.342-macosx_x64.zip",
-  "image_type": "jdk",
-  "java_version": "8.0.342",
-  "jvm_impl": "hotspot",
-  "md5": "dca7ba322d24ae6bf674225138545d17",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "2e1d0413d8c9c8d76964e6541250b3d5c8263b58",
-  "sha256": "1c27c5365c7b7f118dcd1a81a1085c6d1f806f5f5955be7bda3b03ba476ac283",
-  "sha512": "66fea0980902310d0d9ea01d17881519172aafac50bf49b3fa739422b17bf224f1e072af30c18add16ed929da5d06047dc2dba5df1c926d35aef486f2235b982",
-  "size": 162436552,
-  "url": "https://static.azul.com/zulu/bin/zulu8.64.0.15-ca-fx-jdk8.0.342-macosx_x64.zip",
-  "vendor": "azul",
-  "version": "8.64.0.15"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "zip",
+"filename": "zulu8.64.0.15-ca-fx-jdk8.0.342-macosx_x64.zip",
+"image_type": "jdk",
+"java_version": "8.0.342",
+"jvm_impl": "hotspot",
+"md5": "dca7ba322d24ae6bf674225138545d17",
+"os": "macosx",
+"release_info": {
+"JAVA_VERSION": "1.8.0_342",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Darwin",
+"OS_VERSION": "11.2",
+"SOURCE": ".:git:cc6b9e5604d1"
+},
+"release_type": "ga",
+"sha1": "2e1d0413d8c9c8d76964e6541250b3d5c8263b58",
+"sha256": "1c27c5365c7b7f118dcd1a81a1085c6d1f806f5f5955be7bda3b03ba476ac283",
+"sha512": "66fea0980902310d0d9ea01d17881519172aafac50bf49b3fa739422b17bf224f1e072af30c18add16ed929da5d06047dc2dba5df1c926d35aef486f2235b982",
+"size": 162436552,
+"url": "https://static.azul.com/zulu/bin/zulu8.64.0.15-ca-fx-jdk8.0.342-macosx_x64.zip",
+"vendor": "azul",
+"version": "8.64.0.15"
 }

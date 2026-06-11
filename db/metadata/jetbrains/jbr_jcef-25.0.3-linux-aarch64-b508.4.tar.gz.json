@@ -1,0 +1,36 @@
+{
+"architecture": "aarch64",
+"distro": "jetbrains",
+"features": [
+"jcef"
+],
+"file_type": "tar.gz",
+"filename": "jbr_jcef-25.0.3-linux-aarch64-b508.4.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "09bd0c0bc547eb850688aedc94f2de55",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBR-25.0.3+9-508.4-jcef",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"JCEF_COMMIT_HASH": "fa677024a129747bd8cb05447af8918c494e4af7",
+"JCEF_VERSION": "144.0.15.1197+gfa67702",
+"JCEF_VERSION_DETAILED": "144.0.15-g72717cf-chromium-144.0.7559.172-api-1.21-262-b47",
+"LIBC": "gnu",
+"MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+},
+"release_type": "ga",
+"sha1": "e70f9cd12615d95af4c48458057a43f5ca27efd4",
+"sha256": "bc259b58b5b7a807b2099e17deea31fe73faef2fdd83612627f8e4e54411bf4c",
+"sha512": "0163a45e83aec1bc6cf12283305d85429e88e7a19db272132b4a11ddcebfc5369455a36a368484d7339da2f1b85e1d72a7e15631a4db52c7480cbbb67829fe78",
+"size": 251113359,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.3-linux-aarch64-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

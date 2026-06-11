@@ -1,0 +1,43 @@
+{
+"architecture": "x86_64",
+"distro": "temurin",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.32_4-ea.tar.gz",
+"image_type": "jdk",
+"java_version": "11",
+"jvm_impl": "hotspot",
+"md5": "645286c79df40f0f71e9023ba0ee4922",
+"os": "linux",
+"release_info": {
+"BUILD_INFO": "OS: Linux Version: 6.8.0-1052-azure",
+"BUILD_SOURCE": "git:783c795f663d38d147d58749cb0037c0039aad55",
+"BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+"FULL_VERSION": "11.0.32-beta+4-ea",
+"IMAGE_TYPE": "JDK",
+"IMPLEMENTOR": "Eclipse Adoptium",
+"IMPLEMENTOR_VERSION": "Temurin-11.0.32+4-202606090207",
+"JAVA_RUNTIME_VERSION": "11.0.32-beta+4-ea",
+"JAVA_VERSION": "11.0.32",
+"JAVA_VERSION_DATE": "2026-07-21",
+"JVM_VARIANT": "Hotspot",
+"JVM_VERSION": "11.0.32-beta+4-ea",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SEMANTIC_VERSION": "11.0.32+4",
+"SOURCE": ".:git:1b9dcd6ec08a",
+"SOURCE_REPO": "https://github.com/adoptium/jdk11u.git"
+},
+"release_type": "ea",
+"sha1": "2cde46155af04bd8b7e6d91b6dac3d2d3127c571",
+"sha256": "493254cf647aa998913a6de960dceed37f5520868f18a780cb09466881bfec62",
+"sha512": "ade8615bf1ba27b1b78e9f59c30a6064322ae09051f8828a18764f2d834b99303f2de23b84144181aadd0ecebc10298f63ada7a2b4a838abcbc6c3bfec3f5525",
+"size": 194384217,
+"url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B4-ea-beta/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.32_4-ea.tar.gz",
+"vendor": "eclipse",
+"version": "11.0.32+4-ea-beta"
+}

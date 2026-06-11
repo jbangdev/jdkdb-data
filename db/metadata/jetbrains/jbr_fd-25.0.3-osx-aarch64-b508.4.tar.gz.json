@@ -1,0 +1,34 @@
+{
+"architecture": "aarch64",
+"distro": "jetbrains",
+"features": [
+"fastdebug",
+"jcef"
+],
+"file_type": "tar.gz",
+"filename": "jbr_fd-25.0.3-osx-aarch64-b508.4.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "b06c39eda693cc629d189af3b9e38a82",
+"os": "macosx",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBR-25.0.3+9-508.4-fd",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Darwin",
+"SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+},
+"release_type": "ga",
+"sha1": "189806d1a33347912eea514c42ccea55792f54e8",
+"sha256": "812bd57830f6596fcf8ca3123fe88edfb20e1c5a0b8ec9a8d40ed213ed4ec8d9",
+"sha512": "5de5b8d7408e1c875ee14f115890e88aa86bc1f90f8aa8c9eed66a38ea8ed15422e03ac1b39d19b9b48f66e6398af34783a8baf50b690bcdfecb2c903dfd68a2",
+"size": 231949300,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.3-osx-aarch64-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

@@ -1,24 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk11.0.16+8-windows-aarch64-full.zip",
-  "image_type": "jdk",
-  "java_version": "11.0.16+8",
-  "jvm_impl": "hotspot",
-  "md5": "4d274d990bbaa0ece0d0ad1b47b62b24",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "cc1f3a092ff88412f7b8d6a567f138497f1e64db",
-  "sha256": "cfd26e448aca476f83fb9f54da397999883591e1d75284601e31aa0d9bee9375",
-  "sha512": "e491ff65953e71f9c0210d71d06703d6de253e24551ff02661f65efdaf005b78602938a7f783f4d4fbcf18bd521377d772b2d88b5500dccb0d8d83464b170a80",
-  "size": 217637498,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.16+8/bellsoft-jdk11.0.16+8-windows-aarch64-full.zip",
-  "vendor": "bellsoft",
-  "version": "11.0.16+8"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jdk11.0.16+8-windows-aarch64-full.zip",
+"image_type": "jdk",
+"java_version": "11.0.16+8",
+"jvm_impl": "hotspot",
+"md5": "4d274d990bbaa0ece0d0ad1b47b62b24",
+"os": "windows",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_VERSION": "11.0.16",
+"JAVA_VERSION_DATE": "2022-07-19",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.packager jdk.packager.services jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Windows",
+"SOURCE": ".:git:ce7ddbb9c422+"
+},
+"release_type": "ga",
+"sha1": "cc1f3a092ff88412f7b8d6a567f138497f1e64db",
+"sha256": "cfd26e448aca476f83fb9f54da397999883591e1d75284601e31aa0d9bee9375",
+"sha512": "e491ff65953e71f9c0210d71d06703d6de253e24551ff02661f65efdaf005b78602938a7f783f4d4fbcf18bd521377d772b2d88b5500dccb0d8d83464b170a80",
+"size": 217637498,
+"url": "https://github.com/bell-sw/Liberica/releases/download/11.0.16+8/bellsoft-jdk11.0.16+8-windows-aarch64-full.zip",
+"vendor": "bellsoft",
+"version": "11.0.16+8"
 }

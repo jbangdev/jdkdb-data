@@ -1,22 +1,33 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk17.0.15+10-linux-i586-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.15+10",
-  "jvm_impl": "hotspot",
-  "md5": "c90480f35023e6aede00e8d4f156608c",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "5f19d7f0d5427bf70612a381ba675c4645773f03",
-  "sha256": "d045c7b834d08ab1f53fb45247b8e6290a47017881884aa483fcd71e88e844fc",
-  "sha512": "6114cf09fa3834f2f53fd6ce81c11790cf5564ff872adda90b565f9cc5d886f2d2ef5623ffeb8c2c6da0ead4f21b34b285aa387c70fd518f13d609f42ee26e2d",
-  "size": 72008395,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+10/bellsoft-jdk17.0.15+10-linux-i586-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "17.0.15+10"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+"lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk17.0.15+10-linux-i586-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.15+10",
+"jvm_impl": "hotspot",
+"md5": "c90480f35023e6aede00e8d4f156608c",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_RUNTIME_VERSION": "17.0.15+10-LTS",
+"JAVA_VERSION": "17.0.15",
+"JAVA_VERSION_DATE": "2025-04-15",
+"LIBC": "gnu",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "x86",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:4b042be7d276+"
+},
+"release_type": "ga",
+"sha1": "5f19d7f0d5427bf70612a381ba675c4645773f03",
+"sha256": "d045c7b834d08ab1f53fb45247b8e6290a47017881884aa483fcd71e88e844fc",
+"sha512": "6114cf09fa3834f2f53fd6ce81c11790cf5564ff872adda90b565f9cc5d886f2d2ef5623ffeb8c2c6da0ead4f21b34b285aa387c70fd518f13d609f42ee26e2d",
+"size": 72008395,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.15+10/bellsoft-jdk17.0.15+10-linux-i586-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "17.0.15+10"
 }

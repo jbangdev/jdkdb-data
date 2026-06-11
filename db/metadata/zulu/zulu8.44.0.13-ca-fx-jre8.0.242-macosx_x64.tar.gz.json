@@ -1,22 +1,29 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu8.44.0.13-ca-fx-jre8.0.242-macosx_x64.tar.gz",
-  "image_type": "jre",
-  "java_version": "8.0.242",
-  "jvm_impl": "hotspot",
-  "md5": "146ecd7eabcaf1057fc568fda7b18ba8",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "ff345cba6b533143d4928f100ef3a91b86657efb",
-  "sha256": "87fdc1ecbb3099cd06c8f1a03c2f29f7b90396bb28d69612ff764cd8e7d17d1e",
-  "sha512": "2f981083b69c91bcb68c869f193912dccbe6d1e4b32e3005e3469ca5520a3c409ba8fe4bd01a53a94e4bd376dd1ca91947f51cbdf229ace55c286a31f1cb59dc",
-  "size": 79632084,
-  "url": "https://static.azul.com/zulu/bin/zulu8.44.0.13-ca-fx-jre8.0.242-macosx_x64.tar.gz",
-  "vendor": "azul",
-  "version": "8.44.0.13"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu8.44.0.13-ca-fx-jre8.0.242-macosx_x64.tar.gz",
+"image_type": "jre",
+"java_version": "8.0.242",
+"jvm_impl": "hotspot",
+"md5": "146ecd7eabcaf1057fc568fda7b18ba8",
+"os": "macosx",
+"release_info": {
+"JAVA_VERSION": "1.8.0_242",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Darwin",
+"OS_VERSION": "11.2",
+"SOURCE": " .:323f0f8859ab corba:e27f49fb943b hotspot:7e78d9d7ff4d jaxp:122c6d0f7d85 jaxws:a68ebb6499e7 jdk:5c81bc33e901 langtools:fe3a4820a887 nashorn:e7332f556f60"
+},
+"release_type": "ga",
+"sha1": "ff345cba6b533143d4928f100ef3a91b86657efb",
+"sha256": "87fdc1ecbb3099cd06c8f1a03c2f29f7b90396bb28d69612ff764cd8e7d17d1e",
+"sha512": "2f981083b69c91bcb68c869f193912dccbe6d1e4b32e3005e3469ca5520a3c409ba8fe4bd01a53a94e4bd376dd1ca91947f51cbdf229ace55c286a31f1cb59dc",
+"size": 79632084,
+"url": "https://static.azul.com/zulu/bin/zulu8.44.0.13-ca-fx-jre8.0.242-macosx_x64.tar.gz",
+"vendor": "azul",
+"version": "8.44.0.13"
 }

@@ -1,22 +1,29 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk8u302+8-linux-aarch64-lite.tar.gz",
-  "image_type": "jdk",
-  "java_version": "8u302+8",
-  "jvm_impl": "hotspot",
-  "md5": "55072bc4d9ca23b14b1db0a8bacca49e",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "a40f4580f0d7d4fc79fa29f47587462dcbcbff4e",
-  "sha256": "fdbfb57a6157b6ee9eb5a8d5152d74d57e694404af2a211cdb068771479d87cf",
-  "sha512": "38f7c484cff78a5164a7d13af273696563c2e37a848af91ef1e7c65935f9b77e735be1884202f42b117b45cb3d855bbb73ba5ce7ca20481cf723f38e2ef848c4",
-  "size": 53109546,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u302+8/bellsoft-jdk8u302+8-linux-aarch64-lite.tar.gz",
-  "vendor": "bellsoft",
-  "version": "8u302+8"
+"architecture": "aarch64",
+"distro": "liberica",
+"features": [
+"lite"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk8u302+8-linux-aarch64-lite.tar.gz",
+"image_type": "jdk",
+"java_version": "8u302+8",
+"jvm_impl": "hotspot",
+"md5": "55072bc4d9ca23b14b1db0a8bacca49e",
+"os": "linux",
+"release_info": {
+"JAVA_VERSION": "1.8.0_302",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Linux",
+"OS_VERSION": "2.6",
+"SOURCE": " .:26920b304bf9+ corba:c9effa70be0a hotspot:84845b538345+ jaxp:05e56bdbc5c1 jaxws:29ad7b133014 jdk:561bb8d1911d+ langtools:dccbf90608eb nashorn:1a5a89139fa0"
+},
+"release_type": "ga",
+"sha1": "a40f4580f0d7d4fc79fa29f47587462dcbcbff4e",
+"sha256": "fdbfb57a6157b6ee9eb5a8d5152d74d57e694404af2a211cdb068771479d87cf",
+"sha512": "38f7c484cff78a5164a7d13af273696563c2e37a848af91ef1e7c65935f9b77e735be1884202f42b117b45cb3d855bbb73ba5ce7ca20481cf723f38e2ef848c4",
+"size": 53109546,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u302+8/bellsoft-jdk8u302+8-linux-aarch64-lite.tar.gz",
+"vendor": "bellsoft",
+"version": "8u302+8"
 }

@@ -1,24 +1,31 @@
 {
-  "architecture": "i686",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "msi",
-  "filename": "bellsoft-jdk8u392+9-windows-i586-full.msi",
-  "image_type": "jdk",
-  "java_version": "8u392+9",
-  "jvm_impl": "hotspot",
-  "md5": "722bd8bde581c7d6c52c278a9a73cadc",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "a616c7ba6e97e19f5b8a3786bc8ec24b848efbf1",
-  "sha256": "18556f32b1830a76248071bd78f231bb1d75776c6223ab0dd3d2a6b2bf535ae1",
-  "sha512": "b30e1009ad7534a878acd4e341739d708d86255e53f0b469810870991ee3e1674026020e298a1318de13fc496880284036dbd5750c2ef56db0b998df6cfe60b5",
-  "size": 138321920,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u392+9/bellsoft-jdk8u392+9-windows-i586-full.msi",
-  "vendor": "bellsoft",
-  "version": "8u392+9"
+"architecture": "i686",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "msi",
+"filename": "bellsoft-jdk8u392+9-windows-i586-full.msi",
+"image_type": "jdk",
+"java_version": "8u392+9",
+"jvm_impl": "hotspot",
+"md5": "722bd8bde581c7d6c52c278a9a73cadc",
+"os": "windows",
+"release_info": {
+"JAVA_VERSION": "1.8.0_392",
+"OS_ARCH": "i586",
+"OS_NAME": "Windows",
+"OS_VERSION": "5.1",
+"SOURCE": ".:git:45052a6222a3+"
+},
+"release_type": "ga",
+"sha1": "a616c7ba6e97e19f5b8a3786bc8ec24b848efbf1",
+"sha256": "18556f32b1830a76248071bd78f231bb1d75776c6223ab0dd3d2a6b2bf535ae1",
+"sha512": "b30e1009ad7534a878acd4e341739d708d86255e53f0b469810870991ee3e1674026020e298a1318de13fc496880284036dbd5750c2ef56db0b998df6cfe60b5",
+"size": 138321920,
+"url": "https://github.com/bell-sw/Liberica/releases/download/8u392+9/bellsoft-jdk8u392+9-windows-i586-full.msi",
+"vendor": "bellsoft",
+"version": "8u392+9"
 }

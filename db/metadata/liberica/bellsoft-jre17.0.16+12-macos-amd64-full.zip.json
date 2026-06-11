@@ -1,24 +1,35 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jre17.0.16+12-macos-amd64-full.zip",
-  "image_type": "jre",
-  "java_version": "17.0.16+12",
-  "jvm_impl": "hotspot",
-  "md5": "9d594fd146907d4943cdf1708b09c96d",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "747d9936523209347f64ca28d2e53bd0a2131a72",
-  "sha256": "19a96341ab6f90a8ab58d3f83d980d085d13e6dc6b460a74ea741eebb857b3ce",
-  "sha512": "2f463c06eef49734a8b9a3c83d70c806624fbed21f3c22d5865f67775a8bdbb0dab1efb94b326a936318a48b741bde56049a1dd9d794dbdf98f78c17cf1c7c90",
-  "size": 100706288,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.16+12/bellsoft-jre17.0.16+12-macos-amd64-full.zip",
-  "vendor": "bellsoft",
-  "version": "17.0.16+12"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"libericafx",
+"minimal-vm",
+"javafx"
+],
+"file_type": "zip",
+"filename": "bellsoft-jre17.0.16+12-macos-amd64-full.zip",
+"image_type": "jre",
+"java_version": "17.0.16+12",
+"jvm_impl": "hotspot",
+"md5": "9d594fd146907d4943cdf1708b09c96d",
+"os": "macosx",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_RUNTIME_VERSION": "17.0.16+12-LTS",
+"JAVA_VERSION": "17.0.16",
+"JAVA_VERSION_DATE": "2025-07-15",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Darwin",
+"SOURCE": ".:git:d06593ce27d8+"
+},
+"release_type": "ga",
+"sha1": "747d9936523209347f64ca28d2e53bd0a2131a72",
+"sha256": "19a96341ab6f90a8ab58d3f83d980d085d13e6dc6b460a74ea741eebb857b3ce",
+"sha512": "2f463c06eef49734a8b9a3c83d70c806624fbed21f3c22d5865f67775a8bdbb0dab1efb94b326a936318a48b741bde56049a1dd9d794dbdf98f78c17cf1c7c90",
+"size": 100706288,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.16+12/bellsoft-jre17.0.16+12-macos-amd64-full.zip",
+"vendor": "bellsoft",
+"version": "17.0.16+12"
 }

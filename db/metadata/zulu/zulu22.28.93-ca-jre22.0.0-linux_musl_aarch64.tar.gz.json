@@ -1,22 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "zulu",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu22.28.93-ca-jre22.0.0-linux_musl_aarch64.tar.gz",
-  "image_type": "jre",
-  "java_version": "22.0.0",
-  "jvm_impl": "hotspot",
-  "md5": "a413d7ae0466ad49868fcad99da6edfc",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "86fc7aa5b9f7228f22d7ab6f210c78ae3ed808a8",
-  "sha256": "5c86d2f80584c06887d3c047227e29996770c408532053c00e76ce257225cac4",
-  "sha512": "1b9d54bd2b4d25b54d33013daf1ebe26ec20934a59240bd6d6ef2de7b861ac391ad2393467ceb835f580d68e4ad219d6bdb802923e158dba7e7e300e91f07eb4",
-  "size": 51756932,
-  "url": "https://static.azul.com/zulu/bin/zulu22.28.93-ca-jre22.0.0-linux_musl_aarch64.tar.gz",
-  "vendor": "azul",
-  "version": "22.28.93"
+"architecture": "aarch64",
+"distro": "zulu",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "zulu22.28.93-ca-jre22.0.0-linux_musl_aarch64.tar.gz",
+"image_type": "jre",
+"java_version": "22.0.0",
+"jvm_impl": "hotspot",
+"md5": "a413d7ae0466ad49868fcad99da6edfc",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu22.28+93-CA",
+"JAVA_RUNTIME_VERSION": "22+36",
+"JAVA_VERSION": "22",
+"JAVA_VERSION_DATE": "2024-03-19",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "aarch64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:76d1491a0775"
+},
+"release_type": "ga",
+"sha1": "86fc7aa5b9f7228f22d7ab6f210c78ae3ed808a8",
+"sha256": "5c86d2f80584c06887d3c047227e29996770c408532053c00e76ce257225cac4",
+"sha512": "1b9d54bd2b4d25b54d33013daf1ebe26ec20934a59240bd6d6ef2de7b861ac391ad2393467ceb835f580d68e4ad219d6bdb802923e158dba7e7e300e91f07eb4",
+"size": 51756932,
+"url": "https://static.azul.com/zulu/bin/zulu22.28.93-ca-jre22.0.0-linux_musl_aarch64.tar.gz",
+"vendor": "azul",
+"version": "22.28.93"
 }

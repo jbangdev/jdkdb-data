@@ -1,22 +1,34 @@
 {
-  "architecture": "ppc64",
-  "distro": "sapmachine",
-  "features": [
-    "le"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jdk-11.0.24-ea.6_linux-ppc64le_bin.tar.gz",
-  "image_type": "jdk",
-  "java_version": "11.0.24-ea.6",
-  "jvm_impl": "hotspot",
-  "md5": "73afd52da11edf989331b74e642e3e03",
-  "os": "linux",
-  "release_type": "ea",
-  "sha1": "a89918056262bff90d51b39e286442730b9dc5cc",
-  "sha256": "15e3ee3ad9494cdc59eefe212fa70132bf776694594b27fe77138bd5157ac4bf",
-  "sha512": "835eabc6f5f8d1fcb4e81a17b05060a07e28a958131fd62e444905d568bfb5a49c147a177bd1ce7a9142c76d5cf14866305f4a917614132884e92ebb03f41425",
-  "size": 179788776,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+6/sapmachine-jdk-11.0.24-ea.6_linux-ppc64le_bin.tar.gz",
-  "vendor": "sap",
-  "version": "11.0.24-ea.6"
+"architecture": "ppc64",
+"distro": "sapmachine",
+"features": [
+"le"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jdk-11.0.24-ea.6_linux-ppc64le_bin.tar.gz",
+"image_type": "jdk",
+"java_version": "11.0.24-ea.6",
+"jvm_impl": "hotspot",
+"md5": "73afd52da11edf989331b74e642e3e03",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "SAP SE",
+"IMPLEMENTOR_VERSION": "SapMachine",
+"JAVA_RUNTIME_VERSION": "11.0.24-ea+6-sapmachine",
+"JAVA_VERSION": "11.0.24",
+"JAVA_VERSION_DATE": "2024-07-16",
+"LIBC": "gnu",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "ppc64le",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:8ae1fb8b95cf"
+},
+"release_type": "ea",
+"sha1": "a89918056262bff90d51b39e286442730b9dc5cc",
+"sha256": "15e3ee3ad9494cdc59eefe212fa70132bf776694594b27fe77138bd5157ac4bf",
+"sha512": "835eabc6f5f8d1fcb4e81a17b05060a07e28a958131fd62e444905d568bfb5a49c147a177bd1ce7a9142c76d5cf14866305f4a917614132884e92ebb03f41425",
+"size": 179788776,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+6/sapmachine-jdk-11.0.24-ea.6_linux-ppc64le_bin.tar.gz",
+"vendor": "sap",
+"version": "11.0.24-ea.6"
 }

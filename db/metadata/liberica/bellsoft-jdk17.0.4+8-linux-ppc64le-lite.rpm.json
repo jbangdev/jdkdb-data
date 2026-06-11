@@ -1,22 +1,32 @@
 {
-  "architecture": "ppc64le",
-  "distro": "liberica",
-  "features": [
-    "lite"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jdk17.0.4+8-linux-ppc64le-lite.rpm",
-  "image_type": "jdk",
-  "java_version": "17.0.4+8",
-  "jvm_impl": "hotspot",
-  "md5": "55a547a74ae00d1f439bf29d28e9f8dc",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "503f7130d46c978b773fde8708e1a878f9c82e15",
-  "sha256": "9e842aecb826cdd3923b03877274f554088519710401714c0e18859fdab588d6",
-  "sha512": "b2a5cb64b40bbc91db45fc818307083f7d041b56867a4493af47ba51493c94b1d5ae895309781f7588fc44dc5a1fdedb119ebcf61b40db01191e7af7ebc12bf9",
-  "size": 68665056,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.4+8/bellsoft-jdk17.0.4+8-linux-ppc64le-lite.rpm",
-  "vendor": "bellsoft",
-  "version": "17.0.4+8"
+"architecture": "ppc64le",
+"distro": "liberica",
+"features": [
+"lite"
+],
+"file_type": "rpm",
+"filename": "bellsoft-jdk17.0.4+8-linux-ppc64le-lite.rpm",
+"image_type": "jdk",
+"java_version": "17.0.4+8",
+"jvm_impl": "hotspot",
+"md5": "55a547a74ae00d1f439bf29d28e9f8dc",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_VERSION": "17.0.4",
+"JAVA_VERSION_DATE": "2022-07-19",
+"LIBC": "gnu",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "ppc64le",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:4099a7aec252+"
+},
+"release_type": "ga",
+"sha1": "503f7130d46c978b773fde8708e1a878f9c82e15",
+"sha256": "9e842aecb826cdd3923b03877274f554088519710401714c0e18859fdab588d6",
+"sha512": "b2a5cb64b40bbc91db45fc818307083f7d041b56867a4493af47ba51493c94b1d5ae895309781f7588fc44dc5a1fdedb119ebcf61b40db01191e7af7ebc12bf9",
+"size": 68665056,
+"url": "https://github.com/bell-sw/Liberica/releases/download/17.0.4+8/bellsoft-jdk17.0.4+8-linux-ppc64le-lite.rpm",
+"vendor": "bellsoft",
+"version": "17.0.4+8"
 }

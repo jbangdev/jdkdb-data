@@ -1,22 +1,32 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk20+37-linux-x64-musl.tar.gz",
-  "image_type": "jdk",
-  "java_version": "20+37",
-  "jvm_impl": "hotspot",
-  "md5": "72c4b2a0b971a657fd641c1839817465",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "464cd646a6269fde5bd87333c7a85badb45dcc1e",
-  "sha256": "95efaaea58878d370d97588c139789749606ef50d6bc4f21c91e3901fb03c676",
-  "sha512": "28298ae1307917906e265279bd03155f733ff055a633e692eee0ab78e13bc485e33f87faf0895d5165d62b94806b2c57f7c7c9c94a67610b5efa9e5e066dca6e",
-  "size": 224973419,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-x64-musl.tar.gz",
-  "vendor": "bellsoft",
-  "version": "20+37"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk20+37-linux-x64-musl.tar.gz",
+"image_type": "jdk",
+"java_version": "20+37",
+"jvm_impl": "hotspot",
+"md5": "72c4b2a0b971a657fd641c1839817465",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_VERSION": "20",
+"JAVA_VERSION_DATE": "2023-03-21",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:dca02d0c8f83"
+},
+"release_type": "ga",
+"sha1": "464cd646a6269fde5bd87333c7a85badb45dcc1e",
+"sha256": "95efaaea58878d370d97588c139789749606ef50d6bc4f21c91e3901fb03c676",
+"sha512": "28298ae1307917906e265279bd03155f733ff055a633e692eee0ab78e13bc485e33f87faf0895d5165d62b94806b2c57f7c7c9c94a67610b5efa9e5e066dca6e",
+"size": 224973419,
+"url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-x64-musl.tar.gz",
+"vendor": "bellsoft",
+"version": "20+37"
 }

@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jre-18.0.2-beta_linux-x64-musl_bin.tar.gz",
-  "image_type": "jre",
-  "java_version": "18.0.2-beta",
-  "jvm_impl": "hotspot",
-  "md5": "29b708b02fd72465d1f48e7f76c4c475",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "577e507228f4d3a8760d4beb30d2439e38ecefd8",
-  "sha256": "453b18240a58ddddd6b5fc684537c71d0ed6886c42b05ad965c94f1f1d1409f8",
-  "sha512": "95ad560c867ff5e86b9dfea83c9c9ab0f7ccceafe13c61fa563d223b9ba6781828a40d39e7820b54adea3fc4df258a84028da4120024947bc3f5aab199b54289",
-  "size": 46645822,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.2/sapmachine-jre-18.0.2-beta_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "18.0.2-beta"
+"architecture": "x86_64",
+"distro": "sapmachine",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "sapmachine-jre-18.0.2-beta_linux-x64-musl_bin.tar.gz",
+"image_type": "jre",
+"java_version": "18.0.2-beta",
+"jvm_impl": "hotspot",
+"md5": "29b708b02fd72465d1f48e7f76c4c475",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "SAP SE",
+"IMPLEMENTOR_VERSION": "SapMachine",
+"JAVA_VERSION": "18.0.2",
+"JAVA_VERSION_DATE": "2022-07-19",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:1f9c6e5d6eb3"
+},
+"release_type": "ga",
+"sha1": "577e507228f4d3a8760d4beb30d2439e38ecefd8",
+"sha256": "453b18240a58ddddd6b5fc684537c71d0ed6886c42b05ad965c94f1f1d1409f8",
+"sha512": "95ad560c867ff5e86b9dfea83c9c9ab0f7ccceafe13c61fa563d223b9ba6781828a40d39e7820b54adea3fc4df258a84028da4120024947bc3f5aab199b54289",
+"size": 46645822,
+"url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.2/sapmachine-jre-18.0.2-beta_linux-x64-musl_bin.tar.gz",
+"vendor": "sap",
+"version": "18.0.2-beta"
 }

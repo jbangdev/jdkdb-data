@@ -1,0 +1,33 @@
+{
+"architecture": "x86_64",
+"distro": "jetbrains",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "jbr-25.0.3-linux-musl-x64-b508.4.tar.gz",
+"image_type": "jre",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "cc601d9b5c6e6d1b012f7174b80477a9",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBR-25.0.3+9-508.4-nomod",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:bd0ad409cbc4+"
+},
+"release_type": "ga",
+"sha1": "ce7d6a49bec3b6bf97cae23265399842aa60138f",
+"sha256": "1fdc547c6bdd873311fdc12f3542053e57afc1575c07c5890c1534c11f6ee1ed",
+"sha512": "de8b46b4dfd385611a92b5b595df1819e9dce40757b14236e71a1f0dcc9a16d2bd62c98c1289bf3ccb1dd4c124732524c6945c48c7d7a5c053f6e5e861c917b5",
+"size": 104230657,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.3-linux-musl-x64-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

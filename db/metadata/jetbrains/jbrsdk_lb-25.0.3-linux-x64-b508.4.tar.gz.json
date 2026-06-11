@@ -1,0 +1,36 @@
+{
+"architecture": "x86_64",
+"distro": "jetbrains",
+"features": [
+"legacy"
+],
+"file_type": "tar.gz",
+"filename": "jbrsdk_lb-25.0.3-linux-x64-b508.4.tar.gz",
+"image_type": "jdk",
+"java_version": "25.0.3",
+"jvm_impl": "hotspot",
+"md5": "721c68936686f0e42a51184ed4b71d7e",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "JetBrains s.r.o.",
+"IMPLEMENTOR_VERSION": "JBRSDK-25.0.3+9-508.4-lb",
+"JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+"JAVA_VERSION": "25.0.3",
+"JCEF_COMMIT_HASH": "fa677024a129747bd8cb05447af8918c494e4af7",
+"JCEF_VERSION": "144.0.15.1197+gfa67702",
+"JCEF_VERSION_DETAILED": "144.0.15-g72717cf-chromium-144.0.7559.172-api-1.21-unknown-SNAPSHOT",
+"LIBC": "gnu",
+"MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+},
+"release_type": "ga",
+"sha1": "a76677e2a619e561169d8c62f7bdbe1eca9972f0",
+"sha256": "a159e958fec74a5e7defcfc243c7d399c1b33904082740ff6b7f27aa079e2c20",
+"sha512": "2da9fafcd415578a269f65e64ee7a97a2a725945cfe187dc385b8665690daf596e5d86a967d95ceb62fa0139cec97e93dd9b39e8ff235916d88ac51cfb46a942",
+"size": 536168136,
+"url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_lb-25.0.3-linux-x64-b508.4.tar.gz",
+"vendor": "jetbrains",
+"version": "25.0.3b508.4"
+}

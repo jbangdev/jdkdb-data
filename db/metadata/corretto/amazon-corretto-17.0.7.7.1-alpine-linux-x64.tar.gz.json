@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "corretto",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "amazon-corretto-17.0.7.7.1-alpine-linux-x64.tar.gz",
-  "image_type": "jdk",
-  "java_version": "17.0.7.7.1",
-  "jvm_impl": "hotspot",
-  "md5": "07726051e587e4870c03afdafa5b8eb8",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "0be1a26ccae924496b73f0d2d429e0199b07d89a",
-  "sha256": "a1f86d303e510617440f51b74d83a75dcb64ae26c149457dd611882fcc8fba60",
-  "sha512": "fde32f0fee30d1bdff17973fc7bc6cf2fe3f98837d470d6b31714230fc858601e8d04ae63d53a7467abdc822dbc808345316cf91f1f622302fc661cb32af43f3",
-  "size": 192917468,
-  "url": "https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-alpine-linux-x64.tar.gz",
-  "vendor": "amazon",
-  "version": "17.0.7.7.1"
+"architecture": "x86_64",
+"distro": "corretto",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "amazon-corretto-17.0.7.7.1-alpine-linux-x64.tar.gz",
+"image_type": "jdk",
+"java_version": "17.0.7.7.1",
+"jvm_impl": "hotspot",
+"md5": "07726051e587e4870c03afdafa5b8eb8",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "Amazon.com Inc.",
+"IMPLEMENTOR_VERSION": "Corretto-17.0.7.7.1",
+"JAVA_VERSION": "17.0.7",
+"JAVA_VERSION_DATE": "2023-04-18",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:4dcc0eebb7ef+"
+},
+"release_type": "ga",
+"sha1": "0be1a26ccae924496b73f0d2d429e0199b07d89a",
+"sha256": "a1f86d303e510617440f51b74d83a75dcb64ae26c149457dd611882fcc8fba60",
+"sha512": "fde32f0fee30d1bdff17973fc7bc6cf2fe3f98837d470d6b31714230fc858601e8d04ae63d53a7467abdc822dbc808345316cf91f1f622302fc661cb32af43f3",
+"size": 192917468,
+"url": "https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-alpine-linux-x64.tar.gz",
+"vendor": "amazon",
+"version": "17.0.7.7.1"
 }

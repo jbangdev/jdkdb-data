@@ -1,22 +1,31 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "msi",
-  "filename": "zulu8.72.0.17-ca-fx-jdk8.0.382-win_x64.msi",
-  "image_type": "jdk",
-  "java_version": "8.0.382",
-  "jvm_impl": "hotspot",
-  "md5": "051c34eadf1de2e64a9ef4336229d2d2",
-  "os": "windows",
-  "release_type": "ga",
-  "sha1": "a6d064f080bbabd3403315a5f8624a38c13c24fd",
-  "sha256": "a457ffea230acb13ce11367c0cc5e8e9e30a7226d0784b021b2e45484f0e2eab",
-  "sha512": "61a473b35b12f7fde86da60708c161840613e5a0c7b7ee764bb470b692127b42bb1dec089c5b6f2859ec2bec9d271d86e5d86ab027792a29974c43b0e13e3fd2",
-  "size": 130465792,
-  "url": "https://static.azul.com/zulu/bin/zulu8.72.0.17-ca-fx-jdk8.0.382-win_x64.msi",
-  "vendor": "azul",
-  "version": "8.72.0.17"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "msi",
+"filename": "zulu8.72.0.17-ca-fx-jdk8.0.382-win_x64.msi",
+"image_type": "jdk",
+"java_version": "8.0.382",
+"jvm_impl": "hotspot",
+"md5": "051c34eadf1de2e64a9ef4336229d2d2",
+"os": "windows",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu8.72.0.17-CA-win64",
+"JAVA_VERSION": "1.8.0_382",
+"OS_ARCH": "amd64",
+"OS_NAME": "Windows",
+"OS_VERSION": "5.2",
+"SOURCE": ".:git:1bc0593d05e7"
+},
+"release_type": "ga",
+"sha1": "a6d064f080bbabd3403315a5f8624a38c13c24fd",
+"sha256": "a457ffea230acb13ce11367c0cc5e8e9e30a7226d0784b021b2e45484f0e2eab",
+"sha512": "61a473b35b12f7fde86da60708c161840613e5a0c7b7ee764bb470b692127b42bb1dec089c5b6f2859ec2bec9d271d86e5d86ab027792a29974c43b0e13e3fd2",
+"size": 130465792,
+"url": "https://static.azul.com/zulu/bin/zulu8.72.0.17-ca-fx-jdk8.0.382-win_x64.msi",
+"vendor": "azul",
+"version": "8.72.0.17"
 }

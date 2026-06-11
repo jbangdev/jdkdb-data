@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "pkg",
+  "filename": "jbr_jcef-25.0.3-osx-x64-b508.4.pkg",
+  "image_type": "jre",
+  "java_version": "25.0.3",
+  "jvm_impl": "hotspot",
+  "md5": "21503c5f67b27fd61e561b01457f9c93",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.3+9-508.4-jcef",
+    "JAVA_RUNTIME_VERSION": "25.0.3+9-b508.4",
+    "JAVA_VERSION": "25.0.3",
+    "JCEF_COMMIT_HASH": "fa677024a129747bd8cb05447af8918c494e4af7",
+    "JCEF_VERSION": "144.0.15.1197+gfa67702",
+    "JCEF_VERSION_DETAILED": "144.0.15-g72717cf-chromium-144.0.7559.172-api-1.21-262-b47",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bd0ad409cbc4+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "2b12293f982e781cf00ee093978c32f92635f6bf",
+  "sha256": "01d373391989624b490c521d146a62218f51c392d6ee07ab25b78079b0784e9d",
+  "sha512": "de7d28fe0b834aba53448d988badc7b505e7aaedcbb96ed2470e7d890aaaeb2417211e5b584b19c8f39964eda7df92179fbe3c38ea252b95b87b6c037747cf15",
+  "size": 246631000,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.3-osx-x64-b508.4.pkg",
+  "vendor": "jetbrains",
+  "version": "25.0.3b508.4"
+}

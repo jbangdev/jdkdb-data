@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "bellsoft-jdk21.0.2+14-linux-x64-musl.tar.gz",
-  "image_type": "jdk",
-  "java_version": "21.0.2+14",
-  "jvm_impl": "hotspot",
-  "md5": "a8dc055fffe7ca8d3b616e838e94c7b9",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "d3b1f668d8f287f99d86157b73499120085dfc99",
-  "sha256": "9071e2868b21c5fb9d2ea8df3f9b65588ce3422e37a802872781d5d371741e07",
-  "sha512": "567e5d8bccd74ce9cb658acc4fe89ef1c92ac43600fe64cfcaeaa94460edfa505ba27cc641f01b3f57a77d82304e2f0d314f0c00ffd617140856d6116a180764",
-  "size": 231992262,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.2+14/bellsoft-jdk21.0.2+14-linux-x64-musl.tar.gz",
-  "vendor": "bellsoft",
-  "version": "21.0.2+14"
+"architecture": "x86_64",
+"distro": "liberica",
+"features": [
+"musl"
+],
+"file_type": "tar.gz",
+"filename": "bellsoft-jdk21.0.2+14-linux-x64-musl.tar.gz",
+"image_type": "jdk",
+"java_version": "21.0.2+14",
+"jvm_impl": "hotspot",
+"md5": "a8dc055fffe7ca8d3b616e838e94c7b9",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "BellSoft",
+"JAVA_RUNTIME_VERSION": "21.0.2+14-LTS",
+"JAVA_VERSION": "21.0.2",
+"JAVA_VERSION_DATE": "2024-01-16",
+"LIBC": "musl",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:0927ebb533cf+"
+},
+"release_type": "ga",
+"sha1": "d3b1f668d8f287f99d86157b73499120085dfc99",
+"sha256": "9071e2868b21c5fb9d2ea8df3f9b65588ce3422e37a802872781d5d371741e07",
+"sha512": "567e5d8bccd74ce9cb658acc4fe89ef1c92ac43600fe64cfcaeaa94460edfa505ba27cc641f01b3f57a77d82304e2f0d314f0c00ffd617140856d6116a180764",
+"size": 231992262,
+"url": "https://github.com/bell-sw/Liberica/releases/download/21.0.2+14/bellsoft-jdk21.0.2+14-linux-x64-musl.tar.gz",
+"vendor": "bellsoft",
+"version": "21.0.2+14"
 }

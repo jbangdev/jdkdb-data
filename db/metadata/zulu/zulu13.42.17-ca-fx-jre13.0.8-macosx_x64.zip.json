@@ -1,22 +1,33 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu13.42.17-ca-fx-jre13.0.8-macosx_x64.zip",
-  "image_type": "jre",
-  "java_version": "13.0.8",
-  "jvm_impl": "hotspot",
-  "md5": "d49e10585be9ef9601fdd4c7c723e3ba",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "0195575f6c38b4b0e6b22784fc001272241e232d",
-  "sha256": "c45f475e8fbf5705b7f4f694577b27fffff1a54bd29a7591db37c821a484195a",
-  "sha512": "3fb20cdcbaceb2dca94e9315e1164c64994c065a41226397b058b9bbed4ec9539098d305adac829d8bc8eb80629c0f516317b931b763c5ea022fd44954ccdef9",
-  "size": 78824759,
-  "url": "https://static.azul.com/zulu/bin/zulu13.42.17-ca-fx-jre13.0.8-macosx_x64.zip",
-  "vendor": "azul",
-  "version": "13.42.17"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "zip",
+"filename": "zulu13.42.17-ca-fx-jre13.0.8-macosx_x64.zip",
+"image_type": "jre",
+"java_version": "13.0.8",
+"jvm_impl": "hotspot",
+"md5": "d49e10585be9ef9601fdd4c7c723e3ba",
+"os": "macosx",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu13.42+17-CA",
+"JAVA_VERSION": "13.0.8",
+"JAVA_VERSION_DATE": "2021-07-20",
+"LIBC": "default",
+"MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Darwin",
+"SOURCE": ".:git:d695b753c4f8"
+},
+"release_type": "ga",
+"sha1": "0195575f6c38b4b0e6b22784fc001272241e232d",
+"sha256": "c45f475e8fbf5705b7f4f694577b27fffff1a54bd29a7591db37c821a484195a",
+"sha512": "3fb20cdcbaceb2dca94e9315e1164c64994c065a41226397b058b9bbed4ec9539098d305adac829d8bc8eb80629c0f516317b931b763c5ea022fd44954ccdef9",
+"size": 78824759,
+"url": "https://static.azul.com/zulu/bin/zulu13.42.17-ca-fx-jre13.0.8-macosx_x64.zip",
+"vendor": "azul",
+"version": "13.42.17"
 }

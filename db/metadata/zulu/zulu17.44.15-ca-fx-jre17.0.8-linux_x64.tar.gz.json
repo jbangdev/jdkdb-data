@@ -1,22 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "tar.gz",
-  "filename": "zulu17.44.15-ca-fx-jre17.0.8-linux_x64.tar.gz",
-  "image_type": "jre",
-  "java_version": "17.0.8",
-  "jvm_impl": "hotspot",
-  "md5": "5943c528b429c9e5cccd13d1c055e4f3",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "320035dfec400b898667a03e70d9d5db6681dfe8",
-  "sha256": "32b338d4c0c9750da54075f1c90eda3697c8d169c206223916c9e91f0019d256",
-  "sha512": "7f01c736b9026ba92b2833ecf638fcb27c578f887a3cbfb4ce700e9854ea7e93298c9b76f9adb6ecd2a7ed2bb1b08c8d36ec9245e86a05b1dbc9e1d0b41ad0bc",
-  "size": 90225384,
-  "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-linux_x64.tar.gz",
-  "vendor": "azul",
-  "version": "17.44.15"
+"architecture": "x86_64",
+"distro": "zulu",
+"features": [
+"javafx"
+],
+"file_type": "tar.gz",
+"filename": "zulu17.44.15-ca-fx-jre17.0.8-linux_x64.tar.gz",
+"image_type": "jre",
+"java_version": "17.0.8",
+"jvm_impl": "hotspot",
+"md5": "5943c528b429c9e5cccd13d1c055e4f3",
+"os": "linux",
+"release_info": {
+"IMPLEMENTOR": "Azul Systems, Inc.",
+"IMPLEMENTOR_VERSION": "Zulu17.44+15-CA",
+"JAVA_RUNTIME_VERSION": "17.0.8+7-LTS",
+"JAVA_VERSION": "17.0.8",
+"JAVA_VERSION_DATE": "2023-07-18",
+"LIBC": "gnu",
+"MODULES": "java.base com.azul.tooling java.management java.logging java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+"OS_ARCH": "x86_64",
+"OS_NAME": "Linux",
+"SOURCE": ".:git:38b8d62ec5dd"
+},
+"release_type": "ga",
+"sha1": "320035dfec400b898667a03e70d9d5db6681dfe8",
+"sha256": "32b338d4c0c9750da54075f1c90eda3697c8d169c206223916c9e91f0019d256",
+"sha512": "7f01c736b9026ba92b2833ecf638fcb27c578f887a3cbfb4ce700e9854ea7e93298c9b76f9adb6ecd2a7ed2bb1b08c8d36ec9245e86a05b1dbc9e1d0b41ad0bc",
+"size": 90225384,
+"url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-linux_x64.tar.gz",
+"vendor": "azul",
+"version": "17.44.15"
 }
