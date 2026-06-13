@@ -1,0 +1,43 @@
+{
+  "architecture": "x86_64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.12_6-ea.tar.gz",
+  "image_type": "jre",
+  "java_version": "21",
+  "jvm_impl": "hotspot",
+  "md5": "b683d1f01e97816c34627cf6f790fb7c",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-1052-azure",
+    "BUILD_SOURCE": "git:dedd49f6745a1874d70dcaf75fa9d6bca2fd98f5",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "21.0.12-beta+6-ea",
+    "IMAGE_TYPE": "JRE",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-21.0.12+6-202606101409",
+    "JAVA_RUNTIME_VERSION": "21.0.12-beta+6-ea",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "21.0.12-beta+6-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "21.0.12+6",
+    "SOURCE": ".:git:769ad0086f42",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk21u.git"
+  },
+  "release_type": "ea",
+  "sha1": "92b46018345edaf27bf2fbe90055b5451d3dadd6",
+  "sha256": "9624e450427bb542d9dae1c1bfa187478fd871160841b9699d51aba2e044e3b0",
+  "sha512": "edf76db5bed296746cf78b798463587400a40e1d7ea777c7728c1051a3b5e1f4c5e8302a84dd038f0fe3fc0e8fe567282667ce9590b825711cd90aa27c118f49",
+  "size": 52241099,
+  "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B6-ea-beta/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.12_6-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "21.0.12+6-ea-beta"
+}

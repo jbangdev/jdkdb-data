@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "7fba8ebb0d3fb2235f971efbe09cfb2b",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"graal-js\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557368632, \"commit.rev\": \"48b356e89f4f4f1b396509e4b70624ba2c699fa7\"}, \"regex\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"sdk\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"substratevm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"tools\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"truffle\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}, \"vm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1557386187, \"commit.rev\": \"0721d343872c6e7e036402547d9a76ed43f69637\"}}",
+    "GRAALVM_VERSION": "19.0.0",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:0721d343872c6e7e036402547d9a76ed43f69637 graal-js:48b356e89f4f4f1b396509e4b70624ba2c699fa7 regex:0721d343872c6e7e036402547d9a76ed43f69637 sdk:0721d343872c6e7e036402547d9a76ed43f69637 substratevm:0721d343872c6e7e036402547d9a76ed43f69637 tools:0721d343872c6e7e036402547d9a76ed43f69637 truffle:0721d343872c6e7e036402547d9a76ed43f69637 vm:0721d343872c6e7e036402547d9a76ed43f69637",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog.properties"
+  },
   "release_type": "ga",
   "sha1": "4685b03db0fe0748c64645bfa24e4ee51217b4a3",
   "sha256": "c60094dffbf1a8dda3a6901c3ed60f30e03bdfb88d9258f1ef32223d48c94817",

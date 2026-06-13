@@ -9,6 +9,15 @@
   "jvm_impl": "openj9",
   "md5": "f445d3a453e731df904fbefb41d65a08",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Eclipse OpenJ9",
+    "JAVA_VERSION": "10.0.2",
+    "JAVA_VERSION_DATE": "2018-07-17",
+    "MODULES": "java.base java.datatransfer java.logging java.activation java.compiler java.xml java.prefs java.desktop java.security.sasl java.naming java.rmi java.transaction jdk.unsupported java.corba java.instrument java.management java.management.rmi java.scripting java.security.jgss java.sql java.sql.rowset java.xml.crypto java.se java.xml.bind java.xml.ws.annotation jdk.httpserver java.xml.ws java.se.ee java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.incubator.httpclient jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.bind jdk.xml.dom jdk.xml.ws jdk.zipfs openj9.cuda openj9.dataaccess openj9.dtfj openj9.dtfjview openj9.gpu openj9.jvm openj9.sharedclasses openj9.traceformat openj9.zosconditionhandling",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": "OpenJDK:7db90eda56 OpenJ9:24e53631 OMR:fad6bf6e"
+  },
   "release_type": "ga",
   "sha1": "25850ccaa5736fda11390e004f6dd8d43770fe44",
   "sha256": "fa03436ac08541e9ebdc952f7099dfe36d364236c0f780352cf79e20ad40ba2b",
