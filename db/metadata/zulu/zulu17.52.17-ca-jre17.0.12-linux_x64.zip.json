@@ -9,6 +9,18 @@
   "jvm_impl": "hotspot",
   "md5": "b749769cf70b3f40fec86dae5d6adae5",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.52+17-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.12+7-LTS",
+    "JAVA_VERSION": "17.0.12",
+    "JAVA_VERSION_DATE": "2024-07-16",
+    "LIBC": "gnu",
+    "MODULES": "java.base com.azul.tooling java.management java.logging java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7aa0f878b508"
+  },
   "release_type": "ga",
   "sha1": "c5777fb016146aa37258c6f6db40e06413d7662b",
   "sha256": "826b5bc2ec4317c4a9b823dc50fdc2dd05e64d0e191a6a5635deeb739790f6f6",
