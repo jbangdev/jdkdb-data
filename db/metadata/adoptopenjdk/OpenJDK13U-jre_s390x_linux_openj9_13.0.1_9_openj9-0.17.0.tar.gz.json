@@ -9,6 +9,16 @@
   "jvm_impl": "openj9",
   "md5": "ad1ea390a954a948b332565c00c18ca9",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "AdoptOpenJDK",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "13.0.1",
+    "JAVA_VERSION_DATE": "2019-10-15",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": "OpenJDK:74a8738189 OpenJ9:77c1cf708 OMR:20db4fbc"
+  },
   "release_type": "ga",
   "sha1": "f5c5d88cb8760199e2f98de8be25866608dcf2a2",
   "sha256": "b4119b73db66d4af8d2b6412567ef482055ef8591ee4288fe6ac47b18789ffae",

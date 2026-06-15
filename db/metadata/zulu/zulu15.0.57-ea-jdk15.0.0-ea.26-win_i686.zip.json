@@ -9,6 +9,17 @@
   "jvm_impl": "hotspot",
   "md5": "e794785886d99e0b4ae2470f0438b7fa",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu15+57-CA",
+    "JAVA_VERSION": "15",
+    "JAVA_VERSION_DATE": "2020-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.internal.opt jdk.jdeps jdk.jlink jdk.incubator.jpackage jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:hg:f9535efa2466"
+  },
   "release_type": "ea",
   "sha1": "5b111bf3a3e04af476fc7b7972b0bfd37478233a",
   "sha256": "bd2e91c1d51ac973bb896210f6726142543d2c231969df167ad055a88e93b1a1",
