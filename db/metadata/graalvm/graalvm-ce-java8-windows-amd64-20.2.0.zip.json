@@ -9,6 +9,16 @@
   "jvm_impl": "graalvm",
   "md5": "f30a4851790d7dd6cd6c88dec3d8cb61",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"graal-js\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597401820, \"commit.rev\": \"0882405fd20de7c3bf66a35140ed213396704b9e\"}, \"graal-nodejs\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597401820, \"commit.rev\": \"0882405fd20de7c3bf66a35140ed213396704b9e\"}, \"java-benchmarks\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"regex\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"sdk\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"substratevm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"tools\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"truffle\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}, \"vm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1597563512, \"commit.rev\": \"968c592cc6c1b3e6ee6b23b086adbc3c5007e6be\"}}",
+    "GRAALVM_VERSION": "20.2.0",
+    "JAVA_VERSION": "1.8.0_262",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.2",
+    "SOURCE": " jvmci:c5e1beff7e1c compiler:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be graal-js:0882405fd20de7c3bf66a35140ed213396704b9e graal-nodejs:0882405fd20de7c3bf66a35140ed213396704b9e java-benchmarks:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be regex:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be sdk:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be substratevm:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be tools:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be truffle:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be vm:968c592cc6c1b3e6ee6b23b086adbc3c5007e6be",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog-java8.properties"
+  },
   "release_type": "ga",
   "sha1": "93eda76dc88e96904e53a18a0f82ca3514facf51",
   "sha256": "9dbf11b3f7f54d6fdbdfed4a1d141447f8b576a6bc1c6ad0bfdde42d15452d9b",

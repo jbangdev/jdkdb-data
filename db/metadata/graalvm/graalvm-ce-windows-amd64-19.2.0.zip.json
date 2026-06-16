@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "0748281c592ab2da6378a86140fb3401",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"graal-js\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566208818, \"commit.rev\": \"6620d153388df059930500c744beaf554b1639e3\"}, \"regex\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"sdk\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"substratevm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"tools\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"truffle\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}, \"vm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1566209237, \"commit.rev\": \"bea1f627630bcb11c03e4df1e2d24e86ef32ee42\"}}",
+    "GRAALVM_VERSION": "19.2.0",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 graal-js:6620d153388df059930500c744beaf554b1639e3 regex:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 sdk:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 substratevm:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 tools:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 truffle:bea1f627630bcb11c03e4df1e2d24e86ef32ee42 vm:bea1f627630bcb11c03e4df1e2d24e86ef32ee42",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog.properties"
+  },
   "release_type": "ga",
   "sha1": "b426d0403d374dcd102a7ca731993f03938f2d01",
   "sha256": "059754f78afccbac3ae8c8bc4ff895c591655b378001dbdc7e90de8b0cb783f1",
