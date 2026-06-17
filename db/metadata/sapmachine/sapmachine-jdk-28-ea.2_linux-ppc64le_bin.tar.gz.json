@@ -1,0 +1,34 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": [
+    "le"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.2_linux-ppc64le_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.2",
+  "jvm_impl": "hotspot",
+  "md5": "e21d3b684f549001e95aad1f12c8e510",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+2",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:33de314e4242"
+  },
+  "release_type": "ea",
+  "sha1": "7e5851517108b7ddb2130c032132bebf7e024752",
+  "sha256": "bbf1b3d0c313534095c856af0e877c00fcfe32d6bdbf755bac8e132ff3278cec",
+  "sha512": "9bffb9ced335b9d7f7f377dbda7c0aa01f3a13fc8838ee9710dbbd01fe6e9e279f416cd3b6bbda3ae1f3aacf0857604a0cef9f73c6f225c50876dc973bdce64d",
+  "size": 128965279,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B2/sapmachine-jdk-28-ea.2_linux-ppc64le_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.2"
+}

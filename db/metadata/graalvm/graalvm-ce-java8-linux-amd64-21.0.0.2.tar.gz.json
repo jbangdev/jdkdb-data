@@ -9,6 +9,16 @@
   "jvm_impl": "graalvm",
   "md5": "143b19bb51ddf4901c32a262d5606d89",
   "os": "linux",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"graal-js\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812384, \"commit.rev\": \"56834db6dc185e96f73136c39c06b8e07f7b6f17\"}, \"graal-nodejs\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812384, \"commit.rev\": \"56834db6dc185e96f73136c39c06b8e07f7b6f17\"}, \"java-benchmarks\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"regex\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"sdk\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"substratevm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"sulong\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"tools\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"truffle\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}, \"vm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1612812765, \"commit.rev\": \"f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037\"}}",
+    "GRAALVM_VERSION": "21.0.0.2",
+    "JAVA_VERSION": "1.8.0_282",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": " jvmci:5a392551261f compiler:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 graal-js:56834db6dc185e96f73136c39c06b8e07f7b6f17 graal-nodejs:56834db6dc185e96f73136c39c06b8e07f7b6f17 java-benchmarks:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 regex:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 sdk:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 substratevm:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 sulong:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 tools:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 truffle:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037 vm:f4a5093b6f89df5ab2bfcf3fbcd3d048c2a5d037",
+    "component_catalog": "https://www.graalvm.org/component-catalog/v2/graal-updater-component-catalog-java8.properties|{ee=GraalVM Enterprise Edition}gds://oca.opensource.oracle.com/gds/meta-data.json"
+  },
   "release_type": "ga",
   "sha1": "85e3257a5b1e26f9dfec3cffc13e7f402ed3f179",
   "sha256": "a10a7632bf0afdb162ed1419311540af93c95ad659eb391a709743bb6e457d5c",
