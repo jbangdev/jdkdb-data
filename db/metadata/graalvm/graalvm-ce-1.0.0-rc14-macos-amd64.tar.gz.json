@@ -9,6 +9,13 @@
   "jvm_impl": "graalvm",
   "md5": "c7cf78c2c1d19779308088b306440ea4",
   "os": "macosx",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"graal-js\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552673931, \"commit.rev\": \"301d8804261c2326097a25543ecd0ca98ccf74ab\"}, \"graal-nodejs\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552673931, \"commit.rev\": \"301d8804261c2326097a25543ecd0ca98ccf74ab\"}, \"regex\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"sdk\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"substratevm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"sulong\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"tools\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"truffle\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}, \"vm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1552674608, \"commit.rev\": \"1b9ef745ae8fa19416e405f8eec43156e36d6a5c\"}}",
+    "GRAALVM_VERSION": "1.0.0-rc14",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "macos",
+    "SOURCE": "compiler:1b9ef745ae8fa19416e405f8eec43156e36d6a5c graal-js:301d8804261c2326097a25543ecd0ca98ccf74ab graal-nodejs:301d8804261c2326097a25543ecd0ca98ccf74ab regex:1b9ef745ae8fa19416e405f8eec43156e36d6a5c sdk:1b9ef745ae8fa19416e405f8eec43156e36d6a5c substratevm:1b9ef745ae8fa19416e405f8eec43156e36d6a5c sulong:1b9ef745ae8fa19416e405f8eec43156e36d6a5c tools:1b9ef745ae8fa19416e405f8eec43156e36d6a5c truffle:1b9ef745ae8fa19416e405f8eec43156e36d6a5c vm:1b9ef745ae8fa19416e405f8eec43156e36d6a5c"
+  },
   "release_type": "ea",
   "sha1": "41b1f53f00f1852c38920fb09486bb3b2922ac4c",
   "sha256": "e808adc49cba9e1f378d887c7723b1134e2c67520ae69ff6ffd9c261d536c036",
