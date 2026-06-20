@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+27_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+27",
+  "jvm_impl": "hotspot",
+  "md5": "d5b576a10f62bc019ce2ca96e70047e2",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+27-2262",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:10bee9cecaaf"
+  },
+  "release_type": "ea",
+  "sha1": "89c58a87ddd0a06701a660d8fc9a14a15109be2c",
+  "sha256": "a3439a5ea7102fac453cacf8b41adb29debda74975b555a84fb599a3f6154ad7",
+  "sha512": "252ddd5d139401aaea057f0cb8f3d68905d886fad21269f59f503b4dede71bc60555afa825ddab4eca581b30c200e0af27d7221b8a1616d341ab56598e5ee7ff",
+  "size": 219513889,
+  "url": "https://download.java.net/java/early_access/jdk27/27/GPL/openjdk-27-ea+27_macos-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+27"
+}

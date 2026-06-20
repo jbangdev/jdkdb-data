@@ -11,6 +11,18 @@
   "jvm_impl": "hotspot",
   "md5": "6562af03d41de8e2bfab53d905bcad2d",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.56+15-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.14+7-LTS",
+    "JAVA_VERSION": "17.0.14",
+    "JAVA_VERSION_DATE": "2025-01-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base com.azul.tooling java.logging java.management java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:0006607c90ac"
+  },
   "release_type": "ga",
   "sha1": "e486cafcac5be11d8810ad50e49229cc6373a48b",
   "sha256": "4b347d74ba943ab1091431611dc31a1c0f04a425c534400471642499ac29522b",

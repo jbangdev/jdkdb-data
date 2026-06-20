@@ -11,6 +11,18 @@
   "jvm_impl": "hotspot",
   "md5": "0fcdd375d22cd4a442125aef075cb79a",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "24.0.1+9",
+    "JAVA_VERSION": "24.0.1",
+    "JAVA_VERSION_DATE": "2025-04-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:20715dbc8168"
+  },
   "release_type": "ga",
   "sha1": "4c523f0db2c69beea3c1ff0c9113fdf794e19eaa",
   "sha256": "e3e21d88cd83feae39e1230877aaf37122834e6bd3af163842ea3d8af0d66d23",
