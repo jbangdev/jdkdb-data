@@ -1,0 +1,43 @@
+{
+  "architecture": "x86_64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK-jre_x64_alpine-linux_hotspot_28_3-ea.tar.gz",
+  "image_type": "jre",
+  "java_version": "28",
+  "jvm_impl": "hotspot",
+  "md5": "e102edf672f64bc234dfae0fd1749122",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-1059-azure",
+    "BUILD_SOURCE": "git:8af1008ee7747d701b27f2e20efd966bdf9b31af",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "28-beta+3-ea",
+    "IMAGE_TYPE": "JRE",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-28+3-202606181655",
+    "JAVA_RUNTIME_VERSION": "28-beta+3-ea",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "28-beta+3-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "28+3",
+    "SOURCE": ".:git:f033e84a9a20",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk.git"
+  },
+  "release_type": "ea",
+  "sha1": "1d3e7cf44f9633e42e490b6f71f539e84993de73",
+  "sha256": "2ad079a81bf6f6c9f1367145894aba679d5040fe014352facc48236d507b1c37",
+  "sha512": "7237a2bf840a24c8ecbf3848d09dfdd801cfde4a6c262934a4a6f9ddef13dc1cadd7fbfd09e10dcc5da43b3baf1ff79a0a6574ecc5890558e70d79f04614657f",
+  "size": 61589268,
+  "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B3-ea-beta/OpenJDK-jre_x64_alpine-linux_hotspot_28_3-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "28+3-ea-beta"
+}
