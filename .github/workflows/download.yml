@@ -83,6 +83,7 @@ jobs:
       uses: jbangdev/setup-jbang@312c53a4221283f9c8e4aa84d8261b82f0c680fb # main
 
     - name: Run downloader
+      continue-on-error: true
       env:
         GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
