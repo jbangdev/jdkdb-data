@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.29-beta-jdk27.0.0-beta.24-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.24",
+  "jvm_impl": "hotspot",
+  "md5": "14a4abd2a3290c313dd112572c73029c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+29-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+24",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:5aceda5aaa5a"
+  },
+  "release_type": "ea",
+  "sha1": "e0e6f0c97e62e691e3912fa66edbbeeadd556fd5",
+  "sha256": "a7e1330d15d7af24599adea3063eef1c22296ea6dc994b84f03d293233058971",
+  "sha512": "ce582690499d856fd17b48cdfd7ec75109697a403462190ef092c1916bbe6451277b26bb5a75842e8b37272a1b4a8a11098f796f69c5105d5c619cba280489ab",
+  "size": 233352556,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.29-beta-jdk27.0.0-beta.24-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.29"
+}

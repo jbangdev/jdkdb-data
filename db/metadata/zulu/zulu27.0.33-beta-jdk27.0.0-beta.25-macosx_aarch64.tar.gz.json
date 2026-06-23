@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.33-beta-jdk27.0.0-beta.25-macosx_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.25",
+  "jvm_impl": "hotspot",
+  "md5": "858d8abd1b4a841b78be4180183cb43e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+33-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+25",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d951e80d0095"
+  },
+  "release_type": "ea",
+  "sha1": "09215446f444e5b428f75a5cdbd00cf11603b1fb",
+  "sha256": "5208902ecb20a9e0e283a2eb76d81803fcb40be5c583ca10718e9f62b72efc1a",
+  "sha512": "aa937c74cdfaf53895bb94aad6d1f8e9d7d213979eab323490ce708cbe7003a840f25e49e244b2b0a36c833bc77876594f934ec5623ce63edb26c8e3fa903fa1",
+  "size": 226661139,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.33-beta-jdk27.0.0-beta.25-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.33"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu27.0.33-beta-jdk27.0.0-beta.25-macosx_aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.25",
+  "jvm_impl": "hotspot",
+  "md5": "9efb944258e11bfbfd1af5e7f71fb36f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+33-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+25",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d951e80d0095"
+  },
+  "release_type": "ea",
+  "sha1": "44c983ec9acba070fcbf8fa7497322caaef84bc0",
+  "sha256": "2cf237490e2e340890b56d08d7af9531659d9222e9c7ef7ae37aad3db6b458a0",
+  "sha512": "a65f9839f6f13260a3bb7b3354e20718f45a17e1cb17fdde7b9688f3be691f8f4873b0d6c5845e97bc49c20d4bf96cbb9eff7c35667cb72a6d004f80df716a8c",
+  "size": 230075684,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.33-beta-jdk27.0.0-beta.25-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "27.0.33"
+}

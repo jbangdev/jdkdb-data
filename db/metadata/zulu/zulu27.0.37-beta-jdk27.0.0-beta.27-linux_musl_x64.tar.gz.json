@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.37-beta-jdk27.0.0-beta.27-linux_musl_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.27",
+  "jvm_impl": "hotspot",
+  "md5": "adeac8a1c4a9115d457e4533f28b15b6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+37-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+27",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:3b6575db7548"
+  },
+  "release_type": "ea",
+  "sha1": "0cc47de346db352b0f73290bb1bce8ad291a22d0",
+  "sha256": "f3e8003444828778070200d6ba09c27cd178309b0217be2682759cf192f8eaff",
+  "sha512": "5cbadc31096d632e28eae74e3bda1fdbc158043ce239ebdf997c85755f10cdc771336394d9726330c06d3cc18cb7345353a33f061d96ba036d09c3b84ad2a0e5",
+  "size": 235632321,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.37-beta-jdk27.0.0-beta.27-linux_musl_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.37"
+}

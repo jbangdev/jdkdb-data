@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu27.0.29-beta-jdk27.0.0-beta.24-macosx_x64.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.24",
+  "jvm_impl": "hotspot",
+  "md5": "f849466c9bcc6d7033f2d3e4b8a827b0",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+29-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+24",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:5aceda5aaa5a"
+  },
+  "release_type": "ea",
+  "sha1": "c03a8494c9fa026a2e5edf3cdbf1f8ebdd8b435f",
+  "sha256": "331e787c8efac30c12f9f399cf3f04a46375c9b56cfc4e28d71f397ba6d75d8d",
+  "sha512": "c3d22a305e870cf56365cc6ad1f64574998d761c80237adc13534af98a773ef1113f9383154e6eb32fedd9a5f2bcea9bbd8c189a39abf9db150126b219229c90",
+  "size": 232537514,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.29-beta-jdk27.0.0-beta.24-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "27.0.29"
+}
