@@ -1,0 +1,31 @@
+{
+  "architecture": "x86_64",
+  "distro": "openjdk",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27-ea+28_linux-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea+28",
+  "jvm_impl": "hotspot",
+  "md5": "84bc0d4aaca8347cc52fab7bf5a98909",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27-ea+28-2279",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:f42ad10d170f"
+  },
+  "release_type": "ea",
+  "sha1": "993a4e6073f5a944a9f4f0f860818c253379eaea",
+  "sha256": "45707add322e7be16c9eaf4e6f15febf5bd06baeab88aea73d3a89fae0d7bcd7",
+  "sha512": "06f3f8f050a94b5ca673e70d975adbbb8fc1a38750b4bf13913ec33b4b42efb91883f34a2e18e5cd35e4aaa519be2fb88c6b9a0d22d988bfaadee82a2acc098a",
+  "size": 226396340,
+  "url": "https://download.java.net/java/early_access/jdk27/28/GPL/openjdk-27-ea+28_linux-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27-ea+28"
+}

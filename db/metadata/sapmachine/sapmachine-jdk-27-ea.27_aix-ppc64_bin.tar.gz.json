@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.27_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.27",
+  "jvm_impl": "hotspot",
+  "md5": "f0fc2194818b3bf1badcf3e7526f6a59",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+27",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:acea775ac5d1"
+  },
+  "release_type": "ea",
+  "sha1": "85d2fa31d487e9a36280391fe0b8ae585022120a",
+  "sha256": "4eb26277ffc3e92c7d1678267863bd18f9c9034ebdf2f9d8f11d9b9d0c9f12b2",
+  "sha512": "ae8d6c25a523934d41b57280d08d1d99081c03f749e45d14913d9247c3af048f51df36549f68666bab0f5f8caba716b9a9bf1a170375dfad2b14c137ed4830b8",
+  "size": 117991806,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B27/sapmachine-jdk-27-ea.27_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.27"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-17.0.20-ea.7_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20-ea.7",
+  "jvm_impl": "hotspot",
+  "md5": "83b8e215ebc73674b828b855b1e73039",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+7",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:40a1a898d63a"
+  },
+  "release_type": "ea",
+  "sha1": "c5d4de637dc70cc0d8a54bb935d054bb8cc40960",
+  "sha256": "b19227e1adff09428f6db98d4b00c9827f8f08e1dba0cb5637269b1b086dac3c",
+  "sha512": "c29934bdafeb5712c4598d813e1959fd80435e89500cf695e7e1a420eee5f6d5848d4c62d50b4d2b03e8daf0083d621c85b7ab0c8d741fb84b6993bb14573300",
+  "size": 187805724,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20%2B7/sapmachine-jdk-17.0.20-ea.7_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.20-ea.7"
+}

@@ -9,6 +9,16 @@
   "jvm_impl": "openj9",
   "md5": "8ec137c25c840636fb99d578545b27b3",
   "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "Eclipse OpenJ9",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "11.0.5",
+    "JAVA_VERSION_DATE": "2019-10-15",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": "OpenJDK:2a7af56 OpenJ9:77c1cf7 OMR:20db4fb"
+  },
   "release_type": "ga",
   "sha1": "35bf8c5bd0fc5b15be04fae23718b51d2f3dd793",
   "sha256": "a91944f78d904c939a0d383c81f4de30fa3a21bac2868d143967709b23702a10",
