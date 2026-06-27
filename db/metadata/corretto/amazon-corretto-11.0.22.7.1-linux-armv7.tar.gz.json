@@ -9,6 +9,18 @@
   "jvm_impl": "hotspot",
   "md5": "f45e828a46fbdeb0603ead00ef312ac0",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-11.0.22.7.1",
+    "JAVA_RUNTIME_VERSION": "11.0.22+7-LTS",
+    "JAVA_VERSION": "11.0.22",
+    "JAVA_VERSION_DATE": "2024-01-16",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:55719b706d21+"
+  },
   "release_type": "ga",
   "sha1": "05f1d06d4d6c48365342c3efa3367d31f9d15365",
   "sha256": "90c1a1bb56dab1e09ed39082074d4f1ab2d0df7cbe661dfdb4d4f1929b2d2ec1",

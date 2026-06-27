@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-27-ea.28_linux-x64-musl_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27-ea.28",
+  "jvm_impl": "hotspot",
+  "md5": "7edd05671a2080d0e03d64a18e655210",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27-ea+28",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8ffd9a7720dd"
+  },
+  "release_type": "ea",
+  "sha1": "d367ed0330cd98bc2cc28d48e741928383d9cf9d",
+  "sha256": "ab4b7f112a56575ef561becdfb331fd3a00a6bee8255379e284261972a075af3",
+  "sha512": "88f25c3e855783ceb7e322861a612b94692667db9fcfb8658b3af32fd34b096bae3824fbb0db0e9666b3de965a879109a65d4661580f579addd03dfbb662ed04",
+  "size": 130084894,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B28/sapmachine-jdk-27-ea.28_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "27-ea.28"
+}

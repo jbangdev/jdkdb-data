@@ -1,0 +1,35 @@
+{
+  "architecture": "i686",
+  "distro": "liberica-native",
+  "features": [
+    "native-image"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-liberica-vm-full-openjdk25.0.3+12-25.0.3+2-macos-amd64.pkg",
+  "image_type": "jdk",
+  "java_version": "25.0.3+12",
+  "jvm_impl": "graalvm",
+  "md5": "57e205caff3239e91f66b8fcc81f9b97",
+  "os": "macosx",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"espresso-shared\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"regex\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"sdk\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"substratevm\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"truffle\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}, \"vm\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1782393574, \"commit.rev\": \"45072d2af97b2ad8e7ab9be94692416bd124aeae\"}}",
+    "GRAALVM_VERSION": "25.0.3",
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.3+12-LTS",
+    "JAVA_VERSION": "25.0.3",
+    "JAVA_VERSION_DATE": "2026-04-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.logging jdk.internal.vm.ci org.graalvm.collections java.management jdk.management jdk.unsupported org.graalvm.truffle.compiler org.graalvm.word jdk.graal.compiler com.oracle.graal.graal_enterprise org.graalvm.nativeimage com.oracle.svm.enterprise.truffle com.oracle.svm.extraimage_enterprise com.oracle.svm.svm_enterprise com.oracle.svm_enterprise.ml_dataset com.oracle.truffle.enterprise.svm java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jfx.incubator.input jfx.incubator.richtext org.graalvm.extraimage.builder org.graalvm.extraimage.librarysupport org.graalvm.nativeimage.libgraal org.graalvm.webimage.api",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:32fa8df8a898+ compiler:45072d2af97b2ad8e7ab9be94692416bd124aeae espresso-shared:45072d2af97b2ad8e7ab9be94692416bd124aeae regex:45072d2af97b2ad8e7ab9be94692416bd124aeae sdk:45072d2af97b2ad8e7ab9be94692416bd124aeae substratevm:45072d2af97b2ad8e7ab9be94692416bd124aeae truffle:45072d2af97b2ad8e7ab9be94692416bd124aeae vm:45072d2af97b2ad8e7ab9be94692416bd124aeae"
+  },
+  "release_type": "ga",
+  "sha1": "42da2ebbd2190b9a9edd6051a109dd7dd07316ee",
+  "sha256": "b791f7191ddc1dabfc9f27c443f2078dceeecf1d0f259e24dcb9c8c3965a0e5d",
+  "sha512": "821fca6c389ccd9fd4484e6dca2cd73232d277f8d8a7658dbb901ec2e8861a9de6a553217f1d9b7bbeeeb4ee7d45c413567c15c2dde3370352c3ca8f1a4b56b9",
+  "size": 341559376,
+  "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.3+2-25.0.3+12/bellsoft-liberica-vm-full-openjdk25.0.3+12-25.0.3+2-macos-amd64.pkg",
+  "vendor": "bellsoft",
+  "version": "25.0.3+2"
+}
