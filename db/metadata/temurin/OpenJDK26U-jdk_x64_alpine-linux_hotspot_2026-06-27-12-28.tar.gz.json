@@ -1,0 +1,43 @@
+{
+  "architecture": "x86_64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK26U-jdk_x64_alpine-linux_hotspot_2026-06-27-12-28.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26",
+  "jvm_impl": "hotspot",
+  "md5": "ef84d9eb1ba955c0732615ea2bce3e05",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-1059-azure",
+    "BUILD_SOURCE": "git:501e77df36b642c000c9a9db0744731edf105fda",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "26.0.2-beta-ea",
+    "IMAGE_TYPE": "JDK",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-26.0.2+0-202606270815",
+    "JAVA_RUNTIME_VERSION": "26.0.2-beta-ea",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "26.0.2-beta-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "26.0.2+0",
+    "SOURCE": ".:git:a7e4d57c8574",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk26u.git"
+  },
+  "release_type": "ea",
+  "sha1": "8cee01604b25d23504ceed39de4b82772b0bf7a3",
+  "sha256": "5679104579da8e17e95416a5bc2b2bf9eb9fd4be68705d3b844e56ecf7b9b1e5",
+  "sha512": "f5dcfa9c97e0240716da503197d7f1adc4d298f0c2fdaa65480666a9cc3ebf47f507fa755dbf53952f7a5b06dd080da4f06f623361c1de974289392b4b056321",
+  "size": 143677621,
+  "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-06-27-12-28-beta/OpenJDK26U-jdk_x64_alpine-linux_hotspot_2026-06-27-12-28.tar.gz",
+  "vendor": "eclipse",
+  "version": "26u-2026-06-27-12-28-beta"
+}
