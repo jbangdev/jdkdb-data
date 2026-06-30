@@ -9,6 +9,18 @@
   "jvm_impl": "hotspot",
   "md5": "dd1fcc0daa6ccd17d385c95ddcb5eddc",
   "os": "solaris",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.68+17-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.21+9-LTS",
+    "JAVA_VERSION": "11.0.21",
+    "JAVA_VERSION_DATE": "2023-10-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.ucrypto jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "sparcv9",
+    "OS_NAME": "SunOS",
+    "SOURCE": ".:git:a92e2c0cb9ae"
+  },
   "release_type": "ga",
   "sha1": "73ca927e7340cf8435c7faaa4bed5062fda2cc2c",
   "sha256": "d6fbf3603f54b6fb8c2960bb494ec0db7e74f71ddb607ae3c7e08d294993d18b",
