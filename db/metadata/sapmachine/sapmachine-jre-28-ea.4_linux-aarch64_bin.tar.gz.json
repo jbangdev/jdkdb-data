@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-28-ea.4_linux-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "28-ea.4",
+  "jvm_impl": "hotspot",
+  "md5": "b18bab4496482f055e0eeb89fe278524",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+4",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ee273c9e5e07"
+  },
+  "release_type": "ea",
+  "sha1": "292b091b227859f04519507724137a994810697c",
+  "sha256": "b88acb0afcb0b6847c6e036212ad27b4631cbda34024df8a183d7b14c963a341",
+  "sha512": "116561df17598df15575bfc5b7eb7c9c5bd331878978f0f7060d90dad5bdea69275403c21206cfe10d4e96aec0e94e405b3b25f51969515d29913297bdfffbd7",
+  "size": 51167673,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B4/sapmachine-jre-28-ea.4_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.4"
+}

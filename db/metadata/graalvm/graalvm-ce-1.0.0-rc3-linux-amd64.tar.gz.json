@@ -9,6 +9,13 @@
   "jvm_impl": "graalvm",
   "md5": "9308f4a76b88bdb12d562aecd8409507",
   "os": "linux",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"graal-js\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530191909, \"commit.rev\": \"9e4769b6929db6892078b81c9183e27122697369\"}, \"graal-nodejs\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530191909, \"commit.rev\": \"9e4769b6929db6892078b81c9183e27122697369\"}, \"regex\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"sdk\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"substratevm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"sulong\": {\"commit.committer\": \"Roland Schatz <roland.schatz@oracle.com>\", \"commit.committer-ts\": 1530017673, \"commit.rev\": \"dce3293049293f9dc46bc5fa5dde8e74fb43006b\"}, \"tools\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"truffle\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}, \"vm\": {\"commit.committer\": \"Danilo Ansaloni <danilo.ansaloni@oracle.com>\", \"commit.committer-ts\": 1530270946, \"commit.rev\": \"d399174fd8286d471c3525ead42ba840f5b69df6\"}}",
+    "GRAALVM_VERSION": "1.0.0-rc3",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "linux",
+    "SOURCE": "compiler:d399174fd8286d471c3525ead42ba840f5b69df6 graal-js:9e4769b6929db6892078b81c9183e27122697369 graal-nodejs:9e4769b6929db6892078b81c9183e27122697369 regex:d399174fd8286d471c3525ead42ba840f5b69df6 sdk:d399174fd8286d471c3525ead42ba840f5b69df6 substratevm:d399174fd8286d471c3525ead42ba840f5b69df6 sulong:dce3293049293f9dc46bc5fa5dde8e74fb43006b tools:d399174fd8286d471c3525ead42ba840f5b69df6 truffle:d399174fd8286d471c3525ead42ba840f5b69df6 vm:d399174fd8286d471c3525ead42ba840f5b69df6"
+  },
   "release_type": "ea",
   "sha1": "cbcccb56f6d68bb5d66d280916404ae1fe1af91c",
   "sha256": "7c890e041e66bbc3ea5a9481ad8a5973e043f5a7b3823a3ecc46b6a2e0676f5c",

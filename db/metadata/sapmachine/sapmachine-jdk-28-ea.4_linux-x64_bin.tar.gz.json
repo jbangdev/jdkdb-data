@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.4_linux-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.4",
+  "jvm_impl": "hotspot",
+  "md5": "d8bc721cbc905222d3bebcdd3d690318",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+4",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ee273c9e5e07"
+  },
+  "release_type": "ea",
+  "sha1": "ba71e184026403593d59396ed82bf480d54289a7",
+  "sha256": "e0ee9f78d3ead152600984deb0458f7c9ef2504bb04780f428f77924fcfe269f",
+  "sha512": "59daa232476085c514126e17f0657b88e1dfc41ecc4f289ef7e87dbf8d0efe02f4f61d6da9dc250026b404fe1866d11749d5ef1824917f371ed7adebe9a47a4d",
+  "size": 131113485,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B4/sapmachine-jdk-28-ea.4_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.4"
+}

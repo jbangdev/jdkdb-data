@@ -9,6 +9,14 @@
   "jvm_impl": "hotspot",
   "md5": "24bedc07021b010a29da1f066190a32c",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "N/A",
+    "JAVA_VERSION": "9",
+    "MODULES": "java.base java.datatransfer java.logging java.activation java.compiler java.xml java.prefs java.desktop java.rmi java.transaction jdk.unsupported java.security.sasl java.naming java.corba java.instrument java.management java.management.rmi java.scripting java.xml.bind java.xml.ws.annotation jdk.httpserver java.xml.ws java.security.jgss java.sql java.sql.rowset java.xml.crypto java.se java.se.ee java.smartcardio jdk.accessibility jdk.management jdk.internal.vm.ci jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.incubator.httpclient jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.security.jgss jdk.policytool jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.xml.bind jdk.xml.dom jdk.xml.ws jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": "corba:5666eba44ac6 hotspot:b756e7a2ec33 jaxp:364631d8ff2e jaxws:a1d64f45f9d5 jdk:65464a307408 langtools:65bfdabaab9c nashorn:17cc754c8936 .:a08cbfc0e4ec"
+  },
   "release_type": "ga",
   "sha1": "ce6b38b77c18558c9dd3458d5e8be33ab59566e4",
   "sha256": "f908e31b6185e11b322825809172dcbb7ac0dce64061c9cf154cb1b0df884480",
