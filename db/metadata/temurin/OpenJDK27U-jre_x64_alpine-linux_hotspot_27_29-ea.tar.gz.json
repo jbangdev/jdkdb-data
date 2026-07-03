@@ -1,0 +1,43 @@
+{
+  "architecture": "x86_64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK27U-jre_x64_alpine-linux_hotspot_27_29-ea.tar.gz",
+  "image_type": "jre",
+  "java_version": "27",
+  "jvm_impl": "hotspot",
+  "md5": "2cea855f85655cdca8eae1fa098229f2",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-1059-azure",
+    "BUILD_SOURCE": "git:9f93f2e5029e0eecb5b92af633db94a18036b8b6",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "27-beta+29-ea",
+    "IMAGE_TYPE": "JRE",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-27+29-202607021655",
+    "JAVA_RUNTIME_VERSION": "27-beta+29-ea",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "27-beta+29-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "27+29",
+    "SOURCE": ".:git:bb8ab1584522",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk.git"
+  },
+  "release_type": "ea",
+  "sha1": "6663650a17b0e085f034e609deb7e28b856af0ed",
+  "sha256": "e8b518cd79954280281f50afa8ae49c45af756b1f241354ecd2a87add897add4",
+  "sha512": "1076bc26150fb82cb54c208a004a970f36adbf3e720272be8331565e7a6f710b3d1e971901545f06eee9735892cd296714b12acae7e448b45f1c13aace759bc7",
+  "size": 61538811,
+  "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B29-ea-beta/OpenJDK27U-jre_x64_alpine-linux_hotspot_27_29-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "27+29-ea-beta"
+}
