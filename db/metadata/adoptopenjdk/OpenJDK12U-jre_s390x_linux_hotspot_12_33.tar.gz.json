@@ -9,6 +9,16 @@
   "jvm_impl": "hotspot",
   "md5": "ec419dbab7429bacca0fd699e1ca1623",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "AdoptOpenJDK",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "12",
+    "JAVA_VERSION_DATE": "2019-03-19",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:e6bc1435ac21"
+  },
   "release_type": "ga",
   "sha1": "39c251fef6cf76bf783f28bb49185c85bffc1fb2",
   "sha256": "ffea19222b5fa0b9b07c72070a6a82fbea6171608d9c5f5d70259964cf7f30d2",

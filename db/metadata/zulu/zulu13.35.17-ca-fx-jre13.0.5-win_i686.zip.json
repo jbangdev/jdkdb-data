@@ -11,6 +11,17 @@
   "jvm_impl": "hotspot",
   "md5": "564a6a9f8032fd984c6a47da0d7b0bb4",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu13.35+17-CA",
+    "JAVA_VERSION": "13.0.5",
+    "JAVA_VERSION_DATE": "2020-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:hg:90c2544029c8"
+  },
   "release_type": "ga",
   "sha1": "5f7211655269dfdf82130bf57429b9252cf34500",
   "sha256": "772f5b0450322ceb03fd5c2e5cc07c0350b8656e98538770c62f5e2022992924",
