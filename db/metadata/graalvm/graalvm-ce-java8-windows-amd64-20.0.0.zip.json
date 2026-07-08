@@ -9,6 +9,16 @@
   "jvm_impl": "graalvm",
   "md5": "80720349cd6aa505b4a12badd7327a8a",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"graal-js\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962651, \"commit.rev\": \"b3c99f1c1a90e72c14543711976ea169d56bef8c\"}, \"regex\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"sdk\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"substratevm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"tools\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"truffle\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}, \"vm\": {\"commit.committer\": \"Gilles Duboscq <gilles.m.duboscq@oracle.com>\", \"commit.committer-ts\": 1581962885, \"commit.rev\": \"57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3\"}}",
+    "GRAALVM_VERSION": "20.0.0",
+    "JAVA_VERSION": "1.8.0_242",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.2",
+    "SOURCE": " jvmci:cdad8513c20f compiler:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 graal-js:b3c99f1c1a90e72c14543711976ea169d56bef8c regex:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 sdk:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 substratevm:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 tools:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 truffle:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3 vm:57da8a55e31a8369fbceeedf75a5e4f2fa4c37d3",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog-java8.properties"
+  },
   "release_type": "ga",
   "sha1": "a56978226f4c831cf28559fac64bdc96302fb8fb",
   "sha256": "afe4a78bf94c4d7ef9903f42c909f9fd193f73665089d4473ca67de0847ed76a",
