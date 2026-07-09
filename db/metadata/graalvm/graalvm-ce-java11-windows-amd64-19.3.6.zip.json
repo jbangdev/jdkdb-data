@@ -9,6 +9,14 @@
   "jvm_impl": "graalvm",
   "md5": "4f8669b3ccdff1c488d47386b1195111",
   "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"graal-js\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618408862, \"commit.rev\": \"5e5df2b3d6f8df3b719fe85be2ff044ad3f13a46\"}, \"regex\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"sdk\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"substratevm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"tools\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"truffle\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}, \"vm\": {\"commit.committer\": \"Taha BASRI <taha.basri@oracle.com>\", \"commit.committer-ts\": 1618571743, \"commit.rev\": \"b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a\"}}",
+    "GRAALVM_VERSION": "19.3.6",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "windows",
+    "SOURCE": "compiler:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a graal-js:5e5df2b3d6f8df3b719fe85be2ff044ad3f13a46 regex:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a sdk:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a substratevm:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a tools:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a truffle:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a vm:b4b0ab3598edfdb73c6c50c51fcb76c6ce44107a",
+    "component_catalog": "https://www.graalvm.org/component-catalog/graal-updater-component-catalog-java11.properties"
+  },
   "release_type": "ga",
   "sha1": "cb81ae2d1b47c84ddb4ae445bdc9eb83c87b0a6a",
   "sha256": "115d273158bb62370be65f0052eb76e2a719d42e896ea43c36a08401b3369826",
