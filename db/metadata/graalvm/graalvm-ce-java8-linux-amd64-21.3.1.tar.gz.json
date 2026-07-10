@@ -9,6 +9,16 @@
   "jvm_impl": "graalvm",
   "md5": "a0884951854df46ead3c9c9a0ad35609",
   "os": "linux",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"graal-js\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642146980, \"commit.rev\": \"95193849fed2dad6064b09bb3d4b55668ba87503\"}, \"java-benchmarks\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"regex\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"sdk\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"substratevm\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"sulong\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"tools\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"truffle\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}, \"vm\": {\"commit.committer\": \"Mohaned Ez-zarghili <mohamed.ez.zarghili@oracle.com>\", \"commit.committer-ts\": 1642373738, \"commit.rev\": \"400184b79bb940b3001dad1176efc4b3c4edd765\"}}",
+    "GRAALVM_VERSION": "21.3.1",
+    "JAVA_VERSION": "1.8.0_302",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": " jvmci:2a83d559d487 labsjdk-builder:486b4262f89a40a1795775a1da8fbc82d3f3fc21 compiler:400184b79bb940b3001dad1176efc4b3c4edd765 graal-js:95193849fed2dad6064b09bb3d4b55668ba87503 java-benchmarks:400184b79bb940b3001dad1176efc4b3c4edd765 regex:400184b79bb940b3001dad1176efc4b3c4edd765 sdk:400184b79bb940b3001dad1176efc4b3c4edd765 substratevm:400184b79bb940b3001dad1176efc4b3c4edd765 sulong:400184b79bb940b3001dad1176efc4b3c4edd765 tools:400184b79bb940b3001dad1176efc4b3c4edd765 truffle:400184b79bb940b3001dad1176efc4b3c4edd765 vm:400184b79bb940b3001dad1176efc4b3c4edd765",
+    "component_catalog": "{ee=GraalVM Enterprise Edition}gds://oca.opensource.oracle.com/gds/meta-data.json|https://www.graalvm.org/component-catalog/v2/graal-updater-component-catalog-java8.properties"
+  },
   "release_type": "ga",
   "sha1": "1cde13af670bb1ed0197f334d8a38e48ea2efe14",
   "sha256": "b9ecbd542de1ed0a3da46a629f2266a882032698f5fcbc54d892372b9189b0ed",
