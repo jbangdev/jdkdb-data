@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "jdk-21.0.12_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "97c115e62c20b8d20ec9c0ac24211ef5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "21.0.12+7-LTS-205",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:72b69278198e open:git:499490d36a68"
+  },
+  "release_type": "ga",
+  "sha1": "27a69ea67b3318c59730202a0d3990fcf0120982",
+  "sha256": "a666a601e229215642e8dbd060d866d4925b58b68c0f7f1bd475765bab94e193",
+  "sha512": "4ceb64134f4279595c90d6179d5d777eb399f177400b748452a11c8c2ab5265bc98f7160dedd8299ce0f4c616654c18649ac47f62deae2a5c922d23bb37d7173",
+  "size": 197075585,
+  "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.12_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "21.0.12"
+}

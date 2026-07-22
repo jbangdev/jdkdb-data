@@ -1,0 +1,31 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "jdk-21.0.12_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "fcb8ffa52013f0888978572a88d81391",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "21.0.12+7-LTS-205",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:72b69278198e open:git:499490d36a68"
+  },
+  "release_type": "ga",
+  "sha1": "e11e8a2f4e6279851d3c31ce28a96deee2a58df1",
+  "sha256": "73943c130e0e064a7d4674f81e397b097f1a6bf2f35b5db6a4123d6d1f17b703",
+  "sha512": "92478521e07c7ed933ccb51808280b550a58e9fec598fe2d8fb63bac2ed08a1213d3af20228c7a1e7999bc08347a74bdde17de5df736682dffe566f5cde91dee",
+  "size": 194032563,
+  "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.12_macos-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "21.0.12"
+}

@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "jdk-26.0.2_linux-aarch64_bin.rpm",
+  "image_type": "jdk",
+  "java_version": "26.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "7d6e9437f3d85c0a833d13884524f9d6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10-55",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:28b9aeff05f1 open:git:fa67dfdcec4b"
+  },
+  "release_type": "ga",
+  "sha1": "2b92ca5cecf3e77d294666c94c1d34b0ca9d03b5",
+  "sha256": "59600a0d76ed941f9d3a80cc5d70ab305dfe1b0abb1a744e54bd82bcb69f4f27",
+  "sha512": "40c945c1924fc4a23acd200a9cbdaab5d8761a524fa106554df725df05190bd6ca818fdb9b1adf0a0a98a0fcf403dfe4e2be4c3c61ac18961ea72c542a4c4750",
+  "size": 218776952,
+  "url": "https://java.oraclecloud.com/java/26/archive/jdk-26.0.2_linux-aarch64_bin.rpm",
+  "vendor": "oracle",
+  "version": "26.0.2"
+}

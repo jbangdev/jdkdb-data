@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "jdk-25.0.4_linux-aarch64_bin.rpm",
+  "image_type": "jdk",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "17eb2a5dde38ecdfcefb0702539daf2d",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS-189",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7b4fc1077dc7 open:git:cf56d410b63b"
+  },
+  "release_type": "ga",
+  "sha1": "c6246b6c24c8c4cbbd315dc1473be02dbde0a9d4",
+  "sha256": "bb1aa3cfa0e876c16e21fd7b6b12adad4c155181926f4d28129a40cd9c00f5f1",
+  "sha512": "877af4fcff45972dc413fa1b4b182dc918eb7fa1a2a926427896195921357375f3a3f182961aeb442285ad8ce8a6ad48d885591094e969273478699ebf49d3d1",
+  "size": 214312171,
+  "url": "https://java.oraclecloud.com/java/25/archive/jdk-25.0.4_linux-aarch64_bin.rpm",
+  "vendor": "oracle",
+  "version": "25.0.4"
+}
