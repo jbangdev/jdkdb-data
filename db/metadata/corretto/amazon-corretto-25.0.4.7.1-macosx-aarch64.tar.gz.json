@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-25.0.4.7.1-macosx-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.7.1",
+  "jvm_impl": "hotspot",
+  "md5": "895122377f0a35679fb9d76a0495c1be",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.4.7.1",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:671e86e0184e+"
+  },
+  "release_type": "ga",
+  "sha1": "b2e8abdb711e4e95f6aec16653d7d79a4ae6d9a0",
+  "sha256": "41e185be6b230cff4e9c85d33f9b092274a32e42113087f26d3b2e4f7909ab78",
+  "sha512": "2e5f26032893689bbe221bdda59170866bbe70f1deddcf890c20e76c09c60935aa42da49f59b145feb33cb112d66e13400f83f1d42f71c043bd639437736562d",
+  "size": 218317899,
+  "url": "https://corretto.aws/downloads/resources/25.0.4.7.1/amazon-corretto-25.0.4.7.1-macosx-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "25.0.4.7.1"
+}

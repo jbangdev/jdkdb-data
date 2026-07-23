@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "zip",
+  "filename": "microsoft-jdk-17.0.20-windows-aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "9e7ab5f446f68e0dd6f82a68c1b69cdb",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-14653904",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:86816d517259"
+  },
+  "release_type": "ea",
+  "sha1": "c832eae73de02589f4099d7458d2189140b19572",
+  "sha256": "4e54b188ae1d7faec33ea81c315efafb32824d23e2babf5abf586b7656432646",
+  "sha512": "7228326211f53f4cd09345c45199a24caea043d023cb6b5150242798ec81731cae3266a7c3c0838ccf2d35536671a791476f1ff98fd4b190d24e2773e858ce35",
+  "size": 179010876,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.20-windows-aarch64.zip",
+  "vendor": "microsoft",
+  "version": "17.0.20"
+}

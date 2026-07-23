@@ -1,0 +1,33 @@
+{
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-11-jre-headless_11.0.32+9-2_s390x.deb",
+  "image_type": "jre",
+  "java_version": "11.0.32+9",
+  "jvm_impl": "hotspot",
+  "md5": "4fe22abdcc900f9861b91eeed14a7e9e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-post-2-Debian",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "166ce1be0ce9d4e08d44691e0c148dcb80df8382",
+  "sha256": "ad4423b41b4fbd500d16b994a72c89ca0b013bc01665519a1fec42afce77880e",
+  "sha512": "a1cc34c3bc8351d35e10c374f1a55cb99709c8f53a3dc0b25ee1120cae7a738ee9917f43b0d6b996a3e1c28dcbcd128a5f5444daab0d47c2e9c1b3d30601b955",
+  "size": 33894104,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.32+9-2_s390x.deb",
+  "vendor": "debian",
+  "version": "11.0.32+9-2"
+}

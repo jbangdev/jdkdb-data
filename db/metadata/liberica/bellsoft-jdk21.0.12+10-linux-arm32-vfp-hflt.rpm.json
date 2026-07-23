@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk21.0.12+10-linux-arm32-vfp-hflt.rpm",
+  "image_type": "jdk",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "f334f94e11c00549f56ffdca34ec3e38",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:997873bd357e+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "22399f0fe9670ed30ce4dc3ddd58d67f39a3b89c",
+  "sha256": "7c87e624d666da1fd42d3a1ed08fad972c3b86206cceb9ef60da2dd5bd7aff10",
+  "sha512": "e38451eb6b06f20d87869e2d2f48b3503c10b39fb15f86e723823520555d5077ed86bd8be2bdae18e29cf0b5c73fa7bf4c88cfcde81d4c7d4e4089cbd398679c",
+  "size": 182082628,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jdk21.0.12+10-linux-arm32-vfp-hflt.rpm",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

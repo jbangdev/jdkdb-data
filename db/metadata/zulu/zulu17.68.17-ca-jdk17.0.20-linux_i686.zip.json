@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu17.68.17-ca-jdk17.0.20-linux_i686.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "5db9c05ac3e68d3c4aada78783a6ce08",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+17-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:0a017aa91907"
+  },
+  "release_type": "ga",
+  "sha1": "0240226c48cba1a7bb47baef47b465347a6b86f0",
+  "sha256": "12c60eda8dcc275c9396f834e9bb093e25c3685ae31955923750abc575c681f5",
+  "sha512": "d182eb7697760c0e8fef2598f55e21543a66977371e1203bee352d231f247011f9cf40bb940b50a104deeae6c0d2deef30136199bec4b4ee638dc6b2cac33af4",
+  "size": 193842250,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.17-ca-jdk17.0.20-linux_i686.zip",
+  "vendor": "azul",
+  "version": "17.68.17"
+}

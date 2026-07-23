@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "deb",
+  "filename": "bellsoft-jdk11.0.32+11-linux-arm32-vfp-hflt.deb",
+  "image_type": "jdk",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "f097c1ad7cc5a22761cb1f6991c42370",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1bf0fbf9fa18+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "a2ad1b7b87ef41fa81b44688222b234e9fd27d83",
+  "sha256": "0b76799b6a23726db42c190ef511409033377a5daa258578b112a0c9385d8fbf",
+  "sha512": "3f484a8ae83791de567f268d37a3d705e8d4275551c146d2e88a92c5b4a8b546ca968c3cc5c64847b335333c43d70180708db5c8f5d32f64ef242578480dcb70",
+  "size": 159911160,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jdk11.0.32+11-linux-arm32-vfp-hflt.deb",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

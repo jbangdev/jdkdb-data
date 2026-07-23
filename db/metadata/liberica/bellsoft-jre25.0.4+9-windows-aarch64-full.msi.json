@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jre25.0.4+9-windows-aarch64-full.msi",
+  "image_type": "jre",
+  "java_version": "25.0.4+9",
+  "jvm_impl": "hotspot",
+  "md5": "9417e6c660efd4dfac70ae98e7cd576c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.4+9-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:e051c4ae3698+"
+  },
+  "release_type": "ga",
+  "sha1": "8769ce8ccb41d05b15c86f2d5cb0e4a8adaca425",
+  "sha256": "8874147dc77736205fd23080108598ce7cc76c5b61f60de1624868a20b62d528",
+  "sha512": "d23048b760ddbb42339305163ddae3db62ee2062ec531614ba02f148b78f5ef6ad1fbde97995af331101ecd142d24474891fcce13b6027b65771b9fe59b10e60",
+  "size": 49786880,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4+9/bellsoft-jre25.0.4+9-windows-aarch64-full.msi",
+  "vendor": "bellsoft",
+  "version": "25.0.4+9"
+}

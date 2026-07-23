@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk11.0.32+11-windows-amd64-lite.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "894edf955c5ada4a84c953f1193b90d9",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:70820055aabb+"
+  },
+  "release_type": "ga",
+  "sha1": "9dc4c4ce565a9607a437ad0fe1cb3ee4904065ca",
+  "sha256": "8e124b40bccf9a8968f21559c35b1e0b2f04033cb877cf431429e942fbb29ca0",
+  "sha512": "7a435b63ff3f237d5d02cc85ca642cb7c8fffcc848e5c8026a80b884627a095088d81ef079f18b7dd77c04d4c44598875a8275cb90111579ade99a4ca11d97b5",
+  "size": 75272192,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jdk11.0.32+11-windows-amd64-lite.msi",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

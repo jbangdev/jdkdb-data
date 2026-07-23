@@ -1,0 +1,31 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk25.0.4+9-windows-aarch64.msi",
+  "image_type": "jdk",
+  "java_version": "25.0.4+9",
+  "jvm_impl": "hotspot",
+  "md5": "c1b17b59d2c80da5a5aa6c995cbb777b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.4+9-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:e051c4ae3698+"
+  },
+  "release_type": "ga",
+  "sha1": "ec4a395dad38aca214bbd05b436ef432b5ed7516",
+  "sha256": "381e5e9419acfb96514fcd3e17e5dbeeb24c7aa3c5dbd34ceb4b1a4fe90e4591",
+  "sha512": "e9b2db71c9edea5324052ea5674ecaedceaa8f1b6a41077c66e67265d48089812b13416a9aec6f262475834edabadec43f01d42e2b2a10b66929ddf0bf0f84d4",
+  "size": 205291520,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4+9/bellsoft-jdk25.0.4+9-windows-aarch64.msi",
+  "vendor": "bellsoft",
+  "version": "25.0.4+9"
+}

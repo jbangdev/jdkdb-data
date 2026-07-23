@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu8.96.0.19-ca-jdk8.0.502-linux_musl_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8.0.502",
+  "jvm_impl": "hotspot",
+  "md5": "402982829c404b90da0b8804bc232c0d",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu8.96.0.19-CA-linux-musl-aarch64",
+    "JAVA_VERSION": "1.8.0_502",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:787226606464"
+  },
+  "release_type": "ga",
+  "sha1": "3c4da9c3d81b8621e043073809549da4803281cc",
+  "sha256": "abe8da158c4ebf34844ea3a530f9abf36d53231893d1478397ae8613e132a087",
+  "sha512": "6121312d02d62abbc2fcf4d2ca4a585d8392ae43a002ff5f9cf55a8fc5bdc830942ec8128960035ddb6ad9ec435c86f33a02ba16315dc3bc3857ab4bffc69a9b",
+  "size": 106656868,
+  "url": "https://static.azul.com/zulu/bin/zulu8.96.0.19-ca-jdk8.0.502-linux_musl_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "8.96.0.19"
+}

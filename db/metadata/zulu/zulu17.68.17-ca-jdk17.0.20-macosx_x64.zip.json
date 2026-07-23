@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu17.68.17-ca-jdk17.0.20-macosx_x64.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "914468074e180ee828321a43d53b1713",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+17-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:0a017aa91907"
+  },
+  "release_type": "ga",
+  "sha1": "32202fc0e828215ceb2c4fb670aa10c20542c84a",
+  "sha256": "5aa35cb341abb3aa18e3af80f9d03de61c6b561626e3f778e6fc261afe1462e6",
+  "sha512": "78b5ce4a1c9c9ed7971142b212996f9a4c9770a9b3b9fd941a29ba14988c713dafd24fde695620175865bea8e2083de2dcd77d44a05a4b6ce011d70ef3d8cc23",
+  "size": 197561754,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.17-ca-jdk17.0.20-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "17.68.17"
+}

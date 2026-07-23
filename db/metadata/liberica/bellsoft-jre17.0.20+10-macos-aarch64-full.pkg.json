@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre17.0.20+10-macos-aarch64-full.pkg",
+  "image_type": "jre",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "6fc68dab9b3ca51e3a9801eb5c4ed8a1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:5ed2031a9b4d+"
+  },
+  "release_type": "ga",
+  "sha1": "e275228c1546b10ebc2af305ecbccbb346420d86",
+  "sha256": "fd21b0fdca31bdd7b68fe78c030db984d64de251ea36352ea5b518c67ccbfd68",
+  "sha512": "339ec12ca7e50aa11984a3efc4ecf2ac973e7816f2287f99742cbb482ee03098e6d92dd467e914a753d25e8b98325cbc14a3adab6a939ea089829e35f5dc1200",
+  "size": 100927803,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jre17.0.20+10-macos-aarch64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

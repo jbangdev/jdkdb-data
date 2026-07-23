@@ -1,0 +1,33 @@
+{
+  "architecture": "riscv64",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk25.0.4+9-linux-riscv64-lite.rpm",
+  "image_type": "jdk",
+  "java_version": "25.0.4+9",
+  "jvm_impl": "hotspot",
+  "md5": "71af41e7d224a06108055dfb3ffc8b79",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.4+9-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:092361d3ac19+"
+  },
+  "release_type": "ga",
+  "sha1": "a04255f130c90e740127d1f0d908d78248490054",
+  "sha256": "5edbe9ab6c9ebfc5d870c4561a925a1a34c6513718895d7f7bb6150c086e519d",
+  "sha512": "c8d3be567a5fc0857e8c5c797d4ad03ea0c292c5f5a9c4dfd5a4db8ee193fd865fb6125864e4de753595f9b955aaffd56d8d65aba1a73cd08a3498151470b94e",
+  "size": 79506724,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4+9/bellsoft-jdk25.0.4+9-linux-riscv64-lite.rpm",
+  "vendor": "bellsoft",
+  "version": "25.0.4+9"
+}

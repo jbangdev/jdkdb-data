@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "apk",
+  "filename": "bellsoft-jdk21.0.12+10-linux-x64-musl.apk",
+  "image_type": "jdk",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "4998713d83a896064ff50eda7bd38a69",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ee08527636a9+"
+  },
+  "release_type": "ga",
+  "sha1": "1e333f25f7c5c6531777b3bb80d675d4429c53d1",
+  "sha256": "e61864f46a71794f52c3850e4b7de5b357c2892925f33420a7cd9b13d4de469e",
+  "sha512": "4baf20b13ee9c8b02210e135873d4703821b3f1df673844b8cbfffc9187e13f6edbaf5713831d6c8e536877ea47d2fea2363941afa26ef0f038fab246b378059",
+  "size": 230537876,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jdk21.0.12+10-linux-x64-musl.apk",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

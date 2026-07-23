@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre25.0.4+9-linux-x64-musl.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4+9",
+  "jvm_impl": "hotspot",
+  "md5": "80af05707103e63d2e95fe0e41b3c33c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.4+9-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:e5036b76d475+"
+  },
+  "release_type": "ga",
+  "sha1": "c7cc7e5a54124e9ec21b1894b40dfd2c9bd74ace",
+  "sha256": "f84a95b63cf570fcc973a4204d21f98632b828b6fbb5bc05705962a5f09d2cf9",
+  "sha512": "6e80a0cf135553b3d2c8ec20e32d56554a1455d50b8355eb5a4155fc33b56ee0b4fc797e196a7ce81549e062ad304e173c17dc19c96a74670a639b539e364f2d",
+  "size": 84161456,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4+9/bellsoft-jre25.0.4+9-linux-x64-musl.tar.gz",
+  "vendor": "bellsoft",
+  "version": "25.0.4+9"
+}

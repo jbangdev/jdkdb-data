@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "musl",
+    "lite"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk11.0.32+11-linux-aarch64-musl-lite.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "bc585089888117e6eecf642473e08455",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:992c80f17392+"
+  },
+  "release_type": "ga",
+  "sha1": "b432b1041127e93edd000517826851128d5ee251",
+  "sha256": "f4c1f69fe5563551a000e6f4365a6e65cbd47ac475e3513fad95da277834d875",
+  "sha512": "7a12a774c1ca07f6d51663bd73bfdfcc8de2d0ebbd3ab3702befec32a4675fa8840232a60272744b527194a1e97d94ff9f2ae3b7648fe2efba5c0b191050d246",
+  "size": 74255776,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jdk11.0.32+11-linux-aarch64-musl-lite.tar.gz",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

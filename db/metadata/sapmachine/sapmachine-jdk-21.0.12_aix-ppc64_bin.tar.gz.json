@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-21.0.12_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "7757f5612c7844419d5270aa60c9124f",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.12+8-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:2603c7e6640d"
+  },
+  "release_type": "ga",
+  "sha1": "4c31296a4764222a2a130865bc1d6edaa88cdb52",
+  "sha256": "c9f24362c5d65ef45822819bd390624084d366d4052f368313761a7cb4671313",
+  "sha512": "227220b66de6f6c18644af608edb90823d8d2a98f3bdc8d6b60811bf3394218d51d257aa738ad48124851d8f174bba7fbdef7988d6e27c1ebbfc40aa1c1f3b14",
+  "size": 187958670,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.12/sapmachine-jdk-21.0.12_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.12"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jre11.0.32+11-windows-amd64-full.msi",
+  "image_type": "jre",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "b5f5cb8535c63c2e446cee5010511589",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:70820055aabb+"
+  },
+  "release_type": "ga",
+  "sha1": "52cc2f2c7c8d3295f98a61c9e1db323d61e0682f",
+  "sha256": "713a49fce2f0a87be861ba0322fdf86bfa0ed6307d15cc2444ffa626c5df1397",
+  "sha512": "42ab93fb642588b6f55df0a62302eb5d10088af564544f6e27bb2fb4b8de7b132eef2158a39748b33c09ab5175bee1f23e73dd134d1ecdb62b0a9c105f419d4a",
+  "size": 90726400,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jre11.0.32+11-windows-amd64-full.msi",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

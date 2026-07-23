@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "apk",
+  "filename": "bellsoft-jre26.0.2+13-linux-aarch64-musl.apk",
+  "image_type": "jre",
+  "java_version": "26.0.2+13",
+  "jvm_impl": "hotspot",
+  "md5": "d1a7f8c68252579b3dd83dc0f1a64d18",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2+13",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:78c324a1f362+"
+  },
+  "release_type": "ga",
+  "sha1": "1c85cfdf23e3228f383aca22dacaa9ac37fe15ec",
+  "sha256": "422548bd7272efef9cb7a1bd51662a20c5a8ad546d06a9336e0b852545b8a7a7",
+  "sha512": "9084f38b0ed60916eb214eda44457906b33a2c0919bbf860a4315a736633b3b210b6120eebafc0c2d93f9e37f7750c05f9be7f268bc3d3ab5d6d80a896e4ee10",
+  "size": 83622799,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2+13/bellsoft-jre26.0.2+13-linux-aarch64-musl.apk",
+  "vendor": "bellsoft",
+  "version": "26.0.2+13"
+}

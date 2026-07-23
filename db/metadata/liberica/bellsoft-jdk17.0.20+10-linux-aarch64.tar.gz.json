@@ -1,0 +1,31 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk17.0.20+10-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "1f48570032842ac291a8c9ee566ad122",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:753ce856c50a+"
+  },
+  "release_type": "ga",
+  "sha1": "6f1b75a819f51f47d96c6a8bb110fa9580e5ff25",
+  "sha256": "64cd56df447bfe50e8d9655180326333c9e223bfc0c41e267f7d5af3091728b5",
+  "sha512": "6e61bd9c03710ac3bcdc511852b4c8f7391f90395ca611b56b68ccf6b17006ac06e7d777b80f73f26c0f18043ce01b5b969443e776e972f3ee6ac98e1572bae8",
+  "size": 209543881,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jdk17.0.20+10-linux-aarch64.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

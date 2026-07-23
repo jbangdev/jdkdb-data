@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk17.0.20+10-linux-arm32-vfp-hflt.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "1cdc08b5bc22ef9f35b289bf61f8b955",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:481d786fca42+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "2bbd79914e2b6de66ae762f0ce45f24141150d78",
+  "sha256": "0807685f9284c2d7c43a9d835a24af644e367a9577587f7600e14ce45b0fb3bf",
+  "sha512": "8cc2a9e1d4d5d7421fe02ae52f6bb4555789949cdf2d4024fde62dc70a3b4703f8c5c7408091320bd2ffdac0b4a01445819f90d1cd688851484a386465b2d8bf",
+  "size": 190694312,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jdk17.0.20+10-linux-arm32-vfp-hflt.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

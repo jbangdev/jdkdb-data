@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-17.0.20-ea.8_linux-x64-musl_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20-ea.8",
+  "jvm_impl": "hotspot",
+  "md5": "f3a642b9a3ae22d4d2adb2f4d9b65e70",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.20-ea+8",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:17ffd926ed08"
+  },
+  "release_type": "ea",
+  "sha1": "32512162e4da4c75d9975899dba509575e421218",
+  "sha256": "9461b9b4631704beac04d240fc0a3addbdb53a6b265b7f984d6bf3bb0a10b8c4",
+  "sha512": "f9cc1cf4cb19ad9b9c848cb75b88ceb445de52606e81de0ded4d1935ff7d0f7ce38eb7b3803d278080e7ec4ad3da00b01cdff84d6ddbbab3a481920e227a9f99",
+  "size": 195292467,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20%2B8/sapmachine-jdk-17.0.20-ea.8_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.20-ea.8"
+}

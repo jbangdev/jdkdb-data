@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre17.0.20+10-linux-amd64-full.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "b638c19ff9a51d0bb206ee08bb1f0de6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1b8bbd149675+"
+  },
+  "release_type": "ga",
+  "sha1": "c92258abbb9ec160c5c9850a3b9c936374a65e0a",
+  "sha256": "99770dce4d8b370a8e3cf0baea1610ce2e4180d884536fa13ac35298148f6e25",
+  "sha512": "d46844c4ac747dc57242316f67b6fdbb7e7b78a7574724f248498b562f005dcd283542dde22b6d61452ac3be80d13bae6ca8aad7229f65e4945d351539525c1d",
+  "size": 117383224,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jre17.0.20+10-linux-amd64-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

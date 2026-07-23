@@ -1,0 +1,31 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "pkg",
+  "filename": "bellsoft-jdk21.0.12+10-macos-amd64.pkg",
+  "image_type": "jdk",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "e05936ef1d1d0d0cbd7f60e657730217",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:095e5323f6f0+"
+  },
+  "release_type": "ga",
+  "sha1": "f0d3a5d863b8906d2b8156dc884c6e9e0c634e4e",
+  "sha256": "fb70f5f7732a66a7f11c24defd601f1a7e17b7d17ad999b9c55b9d06c4517b17",
+  "sha512": "ff9e1f00d754e963b66886cdf1966b11a0bedbfbf69898d44833b4a4af65d8c22d0ff8676ffd48be31862df7e18529a027b7b442c2219dcf6dda71657f0ecd35",
+  "size": 218878879,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jdk21.0.12+10-macos-amd64.pkg",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

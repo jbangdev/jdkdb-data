@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "zip",
+  "filename": "microsoft-jdk-25.0.4-windows-aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "874784f854a4845dc97bbae06b271e14",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-14670796",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:02f2f8ab961b"
+  },
+  "release_type": "ea",
+  "sha1": "1ac015518f47ca5c2b39d68498b41e8acc0e9ef1",
+  "sha256": "9496942df521995517b86a0148912b250e503e30660a1ff3feb37a76013e505a",
+  "sha512": "ac3de9ad9d5d7b37ddeac7df093aa18648fdfcff89699c14e612d5f48f9d893fbed6f78557c00a4941b3bc68e82e71528c734dad387c170643e51229ac857eb5",
+  "size": 215698874,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.4-windows-aarch64.zip",
+  "vendor": "microsoft",
+  "version": "25.0.4"
+}

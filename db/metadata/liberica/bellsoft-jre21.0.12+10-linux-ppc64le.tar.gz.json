@@ -1,0 +1,31 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre21.0.12+10-linux-ppc64le.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "6ebd82acbf742516822eeb5a9664e0a5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8a5cdb6e596d+"
+  },
+  "release_type": "ga",
+  "sha1": "40b4aff64c7f187ad62b79d7fab98663442831ee",
+  "sha256": "6a4552febd42774a5570995de89664631fc69db4edac40aaf15e7aef9ef3562e",
+  "sha512": "15e9192cfed59a72d408a2935c09ef04f772ec14563818dbb834600a6197fb714cefbfa095b6fa01fc1b07977f55c75aaf7682ff3e6e8ed4bacf6fa39b81ccc7",
+  "size": 51618006,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jre21.0.12+10-linux-ppc64le.tar.gz",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

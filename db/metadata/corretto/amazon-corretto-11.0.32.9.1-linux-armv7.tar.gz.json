@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-11.0.32.9.1-linux-armv7.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32.9.1",
+  "jvm_impl": "hotspot",
+  "md5": "d63a4ebdf4f1a100a0fea4b0dc4167f2",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-11.0.32.9.1",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a964d8aafab5+"
+  },
+  "release_type": "ga",
+  "sha1": "a5f4e2e9e6d2e8ce16c5beedd38dcf1f3f74f5e7",
+  "sha256": "7e4c113943f73e9ff53dc9ee2cb86e206ce1d89f6acb5b985184964cd9c7e021",
+  "sha512": "3df16a91b6b15c2002514e4b58a1fa62e4c03e02ea66d096bc7952dd17b0c7e555716e3ff1a496773ad955e9a7ee7cd0b18b964852bcb9912ef70cd7c0ded939",
+  "size": 173262209,
+  "url": "https://corretto.aws/downloads/resources/11.0.32.9.1/amazon-corretto-11.0.32.9.1-linux-armv7.tar.gz",
+  "vendor": "amazon",
+  "version": "11.0.32.9.1"
+}

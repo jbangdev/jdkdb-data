@@ -1,0 +1,31 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "zip",
+  "filename": "bellsoft-jdk21.0.12+10-windows-aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "b67fd72db983f122f0fed69f34631ea6",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:547a3adf9d42+"
+  },
+  "release_type": "ga",
+  "sha1": "318711417b78757933ce7b86ef438f05f515118b",
+  "sha256": "907e543f743e33ec2b2c3c5d542e612b78589363833792df29d8d028779d72bd",
+  "sha512": "b79940ce8048038e6c926e89805e5658e13e7ac994655da4106d4f952a33dea72b6c22773a72977f339f9d88bb8a5d3bab0c7aba2cc00afa7f63828d02ff2750",
+  "size": 198012923,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jdk21.0.12+10-windows-aarch64.zip",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

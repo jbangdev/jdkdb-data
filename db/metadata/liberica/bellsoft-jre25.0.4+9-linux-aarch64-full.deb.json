@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jre25.0.4+9-linux-aarch64-full.deb",
+  "image_type": "jre",
+  "java_version": "25.0.4+9",
+  "jvm_impl": "hotspot",
+  "md5": "e224840c6bfbad9056c1b302d077ccf5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.4+9-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:061d7336ed0f+"
+  },
+  "release_type": "ga",
+  "sha1": "b4224b5fb8eacdcb4b9035fdeca6e5a0c468d433",
+  "sha256": "6bc89529eabc867d6b967134b9cf8c40e172d92358429ccc40efcd25c3c08609",
+  "sha512": "af644c84e87eaa109f6ad502774e6c4c60a95bd8a584023946be159f7f14c65a5dee84e137b3a41ea81cdbe67296e80acca20da36cb6a3c103dc6fc876dcb58d",
+  "size": 93556496,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4+9/bellsoft-jre25.0.4+9-linux-aarch64-full.deb",
+  "vendor": "bellsoft",
+  "version": "25.0.4+9"
+}

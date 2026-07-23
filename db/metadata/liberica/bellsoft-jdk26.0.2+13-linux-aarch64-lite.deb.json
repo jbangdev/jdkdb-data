@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jdk26.0.2+13-linux-aarch64-lite.deb",
+  "image_type": "jdk",
+  "java_version": "26.0.2+13",
+  "jvm_impl": "hotspot",
+  "md5": "6129bbd56bd290c944f3a5dfdb24c4eb",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2+13",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:78c324a1f362+"
+  },
+  "release_type": "ga",
+  "sha1": "5b93aa85f8402957b5410401714aa3106cd9049b",
+  "sha256": "ff939d6a66dd07e2fa7dc414a0c47881ab4091ea2036302d3ca4768b284ac0c2",
+  "sha512": "6cbf482069e6b15a6399bfff2f83654326425bc3e84f6292d3c07bd8802efa0ed89560b79d2a42b75a47f0419588abb3abc2da62d6f6f7960a3765abbb131b93",
+  "size": 78618036,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2+13/bellsoft-jdk26.0.2+13-linux-aarch64-lite.deb",
+  "vendor": "bellsoft",
+  "version": "26.0.2+13"
+}

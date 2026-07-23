@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-11-jre-headless_11.0.32+9-2_armhf.deb",
+  "image_type": "jre",
+  "java_version": "11.0.32+9",
+  "jvm_impl": "hotspot",
+  "md5": "19a1f7a9ca9c9be95336e76865a2651c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-post-2-Debian",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "8cc64150d8e3f20367d499bcf1a8f0064a88753f",
+  "sha256": "573612a3bd02d572a21a9cc223e61ee7d5063f1b04bda429d009ec9278274a85",
+  "sha512": "54b2d286375ffba1805287864dfdddec34976909419405dc9f7efb2e686f4170fe73329d608acd5270879037636c0dcb2e9b736a5b6eba09f1bf13c1c0321e4f",
+  "size": 33991844,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.32+9-2_armhf.deb",
+  "vendor": "debian",
+  "version": "11.0.32+9-2"
+}

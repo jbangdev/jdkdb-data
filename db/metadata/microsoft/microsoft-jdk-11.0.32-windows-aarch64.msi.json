@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "msi",
+  "filename": "microsoft-jdk-11.0.32-windows-aarch64.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.32",
+  "jvm_impl": "hotspot",
+  "md5": "3572385530463b0c296b370e2417d8f9",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-14631663",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:64c2f6e5d090"
+  },
+  "release_type": "ea",
+  "sha1": "2d4d09063606f41f0a224f670d4e3820e6c3d43b",
+  "sha256": "b8788d0ea84fc413bc1c60a2b79f725131f42a2d3e501d413c7988a59212f097",
+  "sha512": "805bb867866f73dfacec83399cec41bc031dfc5837079e5b9f805798a280af0482d78816c9bc8bcb25ce1ac7fde250cfe378fb43c4141525bf5f2f8ab1f1448c",
+  "size": 168148992,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.32-windows-aarch64.msi",
+  "vendor": "microsoft",
+  "version": "11.0.32"
+}

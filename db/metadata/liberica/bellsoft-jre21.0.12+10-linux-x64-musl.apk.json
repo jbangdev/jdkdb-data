@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "apk",
+  "filename": "bellsoft-jre21.0.12+10-linux-x64-musl.apk",
+  "image_type": "jre",
+  "java_version": "21.0.12+10",
+  "jvm_impl": "hotspot",
+  "md5": "2da2d9b90eb9be274371a81fbe41f761",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.12+10-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ee08527636a9+"
+  },
+  "release_type": "ga",
+  "sha1": "7490d0bdf1b8331af7eaa5343e7776ed1a6f4971",
+  "sha256": "a3291555b497c9d9c6b2131515a73ec3dc2584820b9ec48bfb69437ddd81280d",
+  "sha512": "633c2b1690ed7ec7b3c14f06d1e82ce7587cc016a327a662fc636ed83c77d950980e1e86566e99a07b8c29a187ebb7aa9313c0f84832dd5a4f26117fcf13a245",
+  "size": 65398682,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12+10/bellsoft-jre21.0.12+10-linux-x64-musl.apk",
+  "vendor": "bellsoft",
+  "version": "21.0.12+10"
+}

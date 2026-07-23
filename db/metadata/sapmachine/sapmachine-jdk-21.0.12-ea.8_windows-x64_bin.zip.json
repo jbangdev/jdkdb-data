@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jdk-21.0.12-ea.8_windows-x64_bin.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.12-ea.8",
+  "jvm_impl": "hotspot",
+  "md5": "753dc4733e3c4a1ce4f40f9ba74d27b0",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.12-ea+8",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2603c7e6640d"
+  },
+  "release_type": "ea",
+  "sha1": "a5c27cb7ee16d8fa6942f32f6900e0207b1e21e7",
+  "sha256": "c0c7c03e0a53d4d10cd4fe9e5b754548c238828dc1c3aba6b2d316d9d997a0d6",
+  "sha512": "2bd813693224bf719d56d8d4c8027fe34c7abd57ff43443e2b691979113a43832732835c5920b4ea5b76651a7e7f7bda3ba89f3a46ccf892e70d549cc396e539",
+  "size": 214963828,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.12%2B8/sapmachine-jdk-21.0.12-ea.8_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "21.0.12-ea.8"
+}

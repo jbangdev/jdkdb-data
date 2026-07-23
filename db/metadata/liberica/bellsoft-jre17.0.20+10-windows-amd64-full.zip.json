@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "bellsoft-jre17.0.20+10-windows-amd64-full.zip",
+  "image_type": "jre",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "c9b2069e91fd6651f7004afdbbe1630d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:be48e001daf9+"
+  },
+  "release_type": "ga",
+  "sha1": "f34e6aa7053f62c56dd31173230ae784b8c4cfc7",
+  "sha256": "b6ff084ee44606163a1a4c0829df06cf73eacd589cf87e827bcc2c32a604ff44",
+  "sha512": "ca69833e99c0ba51a1bad012c9b773559cef09da8fdefddd15ad8ee7d55d25555097268278737c034074e1d97741da19655c18a51ac0574f2b985806323757fa",
+  "size": 93909612,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jre17.0.20+10-windows-amd64-full.zip",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

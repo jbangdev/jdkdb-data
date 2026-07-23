@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "bellsoft-jre11.0.32+11-macos-amd64-full.zip",
+  "image_type": "jre",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "f5ab653c6a711829b21760b964ba5be2",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:397daa8190e8+"
+  },
+  "release_type": "ga",
+  "sha1": "b968aacb37f75ccbe84f6b9f194ead7869927bdd",
+  "sha256": "2d96b3ad15436d8b353203282af5f769e4f0bc1b468193a2e583ed2be6fd3856",
+  "sha512": "d2808d9ae6378b6435d0b01e65e05070fbb83b97d55d9ff373b5a66ff203a4ae1bfa08f25778f4e71d747c0b01de3573652c1a36dd8ef2e58aefbc2bb8859e29",
+  "size": 98628908,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jre11.0.32+11-macos-amd64-full.zip",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

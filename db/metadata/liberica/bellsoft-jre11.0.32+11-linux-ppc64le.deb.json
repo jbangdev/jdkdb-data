@@ -1,0 +1,31 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "deb",
+  "filename": "bellsoft-jre11.0.32+11-linux-ppc64le.deb",
+  "image_type": "jre",
+  "java_version": "11.0.32+11",
+  "jvm_impl": "hotspot",
+  "md5": "d01e15c6ced40d58fff2464e909c0d69",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32+11-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:997f182d4ce3+"
+  },
+  "release_type": "ga",
+  "sha1": "fe4e562a09a97d35fd1093d31ff94ee26e0d2e4c",
+  "sha256": "018da9f80548098d88e29d07834bcdfd80c1e6dfbab1657fc8c0108dd665c59d",
+  "sha512": "f9dbe67f0b6d18566234ba01703e0dd16530e3bf0df4da1649f858fb703d51d88fe27997930cf53d8c980e778c4887f1d2732effbc8b113178cf678502ce9d68",
+  "size": 25745612,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jre11.0.32+11-linux-ppc64le.deb",
+  "vendor": "bellsoft",
+  "version": "11.0.32+11"
+}

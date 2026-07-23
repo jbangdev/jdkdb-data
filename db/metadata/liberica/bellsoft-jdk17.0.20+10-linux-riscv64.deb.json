@@ -1,0 +1,31 @@
+{
+  "architecture": "riscv64",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "deb",
+  "filename": "bellsoft-jdk17.0.20+10-linux-riscv64.deb",
+  "image_type": "jdk",
+  "java_version": "17.0.20+10",
+  "jvm_impl": "hotspot",
+  "md5": "f04b5c7625b87aae876bcaaa843b9478",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+10-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:f9566a3682fe+"
+  },
+  "release_type": "ga",
+  "sha1": "068690620faf8d82cd66bf787e1ee595899592dc",
+  "sha256": "8004ad88a23856e5a431f727594596d50bac13423386f4983a487ef1dacbecd0",
+  "sha512": "af7ac9fcd1f905642a092867134b59ca34af319da95a018ad2b0957a817eb81049976e079657c29358ebaf492362155bc4dc0a3d5395210115a0f82b36313b3c",
+  "size": 156637524,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jdk17.0.20+10-linux-riscv64.deb",
+  "vendor": "bellsoft",
+  "version": "17.0.20+10"
+}

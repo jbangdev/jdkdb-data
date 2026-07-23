@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "msi",
+  "filename": "zulu17.68.17-ca-jdk17.0.20-win_i686.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "771864def9061f6c5b16822e1431e486",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+17-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:0a017aa91907+"
+  },
+  "release_type": "ga",
+  "sha1": "3ecee959ab611c8ec5f583dc1b118f0a92178490",
+  "sha256": "e0b7f29b0dd8c44081b4bfcd5cdf1d3a69abe1f4df1d646495b42c1dc1a59f7e",
+  "sha512": "ae8eae2025a0b0b7b03d69c5e7bd4a98f2c1ce719cef91366b3e5e8adad4c99fe4b81b8f5e30585e4290674e2efabad4976a0134fecdefbd75b4d1473df74611",
+  "size": 171032576,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.17-ca-jdk17.0.20-win_i686.msi",
+  "vendor": "azul",
+  "version": "17.68.17"
+}

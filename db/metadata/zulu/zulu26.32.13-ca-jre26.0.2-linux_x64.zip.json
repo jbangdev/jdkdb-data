@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu26.32.13-ca-jre26.0.2-linux_x64.zip",
+  "image_type": "jre",
+  "java_version": "26.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "5180d88fa4d44c200c1af675eadc82cb",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+13-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:942b63e1c8ff"
+  },
+  "release_type": "ga",
+  "sha1": "23bb91098bdd7c047b151ec8aba02b40895a0bf4",
+  "sha256": "b54017633163f83fad83ec41251b74385eb63632df29b9042842dcde4fc8152b",
+  "sha512": "cc5834f062801b8b5704c5b4fa94aa8d8efcdd38490d4da48461b8dcd2b815b0f550988bd03ed790b48ce858a41d8fefefc4fab94421787a602807362e77270a",
+  "size": 62561656,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.13-ca-jre26.0.2-linux_x64.zip",
+  "vendor": "azul",
+  "version": "26.32.13"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "msi",
+  "filename": "amazon-corretto-26.0.2.10.1-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "26.0.2.10.1",
+  "jvm_impl": "hotspot",
+  "md5": "10bf676584fba496126de6f4027a4bf3",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-26.0.2.10.1",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10-FR",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "885bf699ede642744b509381c72ee14f8ddf861a",
+  "sha256": "e5bf4c5879cd76ec53e70c74375f9a3fddcb27df32aeaa9ee6f941a954c6c346",
+  "sha512": "8b3fd1e5058db5b8f4b54bec9a04cd43105d0584365364ada65ab85ddc18195e1b02515cc3b8022aa2db746e9ef19cf41951612bb71e90b967266e5c105191c2",
+  "size": 202997760,
+  "url": "https://corretto.aws/downloads/resources/26.0.2.10.1/amazon-corretto-26.0.2.10.1-windows-x64.msi",
+  "vendor": "amazon",
+  "version": "26.0.2.10.1"
+}

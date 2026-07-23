@@ -1,0 +1,31 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk26.0.2+13-linux-ppc64le.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2+13",
+  "jvm_impl": "hotspot",
+  "md5": "14e95479f6d1286e01322e0320e2bde7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2+13",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:78c324a1f362+"
+  },
+  "release_type": "ga",
+  "sha1": "4798c0fa3bbf6eb335ade2afc7a9176f1cf0a06b",
+  "sha256": "b532d00e0d4f61ae35127a340088393348ad86ad00ab34ce20ae314bd31ee3d0",
+  "sha512": "a1d627c5b07c965b609bfb902d72c8ac865d4272f98f13bc4ce3d5f384e241decb94458b2e8ea1621b0c50838a6d6264c4c5190f83ee6c3ec3e59ae22489e5e1",
+  "size": 229620043,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2+13/bellsoft-jdk26.0.2+13-linux-ppc64le.tar.gz",
+  "vendor": "bellsoft",
+  "version": "26.0.2+13"
+}

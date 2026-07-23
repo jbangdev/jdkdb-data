@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc64le",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.20+8-1_ppc64el.deb",
+  "image_type": "jre",
+  "java_version": "17.0.20+8",
+  "jvm_impl": "hotspot",
+  "md5": "a042076fc97054b67aa2ee9e1e20d6bb",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-1-Debian",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "fd60e139971619f43ea5b645aac9c2cfc960187f",
+  "sha256": "bfdefc5d7f1d47a86969c2e4dc3d452d483f4949852036b16e7cc4f4bed26f5d",
+  "sha512": "68ac1a8dfc0e8f7202bfa3dddb2613eef8f82d162e240d1224d0d499fe7ce07519739a612ecb031ad82cf37f933373ec3a057ad3507520394a7cca107940f02d",
+  "size": 43189120,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20+8-1_ppc64el.deb",
+  "vendor": "debian",
+  "version": "17.0.20+8-1"
+}

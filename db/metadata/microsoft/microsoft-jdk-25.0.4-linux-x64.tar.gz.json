@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-25.0.4-linux-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "a255ebd06d0a404fea02fc1dd75e806c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-14670795",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:02f2f8ab961b"
+  },
+  "release_type": "ga",
+  "sha1": "b7a4b5fe432f89fdf89f524390948368c82742b6",
+  "sha256": "75894d107e474ffb6c947ab050e3893e0a1d3d40d36f107d42936ac6088769c1",
+  "sha512": "d5fc040dadfad1fbc1a8f5fb441638c89752997ae02e56a094f104bb0f00c6d722fb1ee749bae6635f05792fea0695f67e0a12083dfb8ae49f84fe71296176e4",
+  "size": 224595604,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.4-linux-x64.tar.gz",
+  "vendor": "microsoft",
+  "version": "25.0.4"
+}

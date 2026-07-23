@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "musl",
+    "lite"
+  ],
+  "file_type": "apk",
+  "filename": "bellsoft-jdk26.0.2+13-linux-x64-musl-lite.apk",
+  "image_type": "jdk",
+  "java_version": "26.0.2+13",
+  "jvm_impl": "hotspot",
+  "md5": "336c4b6f45a99b59f2f59c41a0ebcfd8",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2+13",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:78c324a1f362+"
+  },
+  "release_type": "ga",
+  "sha1": "c175ae727851d579ecd038b579e4c96c6a809913",
+  "sha256": "fbdb4e0dcc239337a6c6f00e71625df381a58d668621362a0877a78127b3bfd1",
+  "sha512": "81a53c64ccd21eee0566ba42453a398f7c9e1c8450a4c9891a284de0300e531df062b94141fd369eee1ce0e3979a8af396cc6d5a1df13504f662e1ca9c8b0828",
+  "size": 84882664,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2+13/bellsoft-jdk26.0.2+13-linux-x64-musl-lite.apk",
+  "vendor": "bellsoft",
+  "version": "26.0.2+13"
+}

@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-26.0.2-ea.10_linux-x64-musl_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2-ea.10",
+  "jvm_impl": "hotspot",
+  "md5": "43d90f4162b2deaf3c5c2a2d376a1f0c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "26.0.2-ea+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8761b715bc05"
+  },
+  "release_type": "ea",
+  "sha1": "8d73c703c70b997d7d39b99649d0b61b9f2e71a8",
+  "sha256": "a3c8acbf314e97736c66573ca8d9804282273d0cf890baac2430983b77d27038",
+  "sha512": "957ba21d7519ae933a23f4d2299a4ee74453a83f959f320b38b47a7cae58fa86380327070d97da02f46720f0eae21cf02cdb920e7af95294f6c82eb2b8912a4f",
+  "size": 131814165,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26.0.2%2B10/sapmachine-jdk-26.0.2-ea.10_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "26.0.2-ea.10"
+}

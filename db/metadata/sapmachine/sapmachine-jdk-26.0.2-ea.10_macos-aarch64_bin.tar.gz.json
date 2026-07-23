@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-26.0.2-ea.10_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2-ea.10",
+  "jvm_impl": "hotspot",
+  "md5": "7df17897c30dd5032e4e6eb155730e26",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "26.0.2-ea+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:8761b715bc05"
+  },
+  "release_type": "ea",
+  "sha1": "fd2a953104fcf7e7958b066da8215cf93ccb400a",
+  "sha256": "76dc9c1583e91117df10f49b48fe84c44dac5b67cd9d5312936776955619bc5d",
+  "sha512": "8739c7fed33002c77020b1a4c5f1f56f00a7aaf0bcc85356876aa64c1352f141e2340b739887d7fae40669f4c059f78a78ad789442345f404f5c42a4c9939e57",
+  "size": 127046571,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26.0.2%2B10/sapmachine-jdk-26.0.2-ea.10_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "26.0.2-ea.10"
+}
