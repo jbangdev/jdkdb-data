@@ -1,0 +1,33 @@
+{
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.2+10-2_s390x.deb",
+  "image_type": "jre",
+  "java_version": "26.0.2+10",
+  "jvm_impl": "hotspot",
+  "md5": "9b084809da6aa93686645deddcb7bbd7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10-2-Debian",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "s390x",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "4baf4cc4118b4d18b93e29dacb309b2974b8ebf3",
+  "sha256": "2abe835c278745dd825a47d9af2c710e9a4f329cf0b096450af2694213d31a40",
+  "sha512": "855e339ccb714f5c970d70402c1cc674d62f86e8f4ecf8185b658f2aac54c4add560cda89f5980826987423fab7b41dffc183e37206050ee27004e2c8b53c87e",
+  "size": 51619640,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.2+10-2_s390x.deb",
+  "vendor": "debian",
+  "version": "26.0.2+10-2"
+}

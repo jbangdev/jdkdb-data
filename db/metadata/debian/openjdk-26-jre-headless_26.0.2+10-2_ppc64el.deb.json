@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc64le",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.2+10-2_ppc64el.deb",
+  "image_type": "jre",
+  "java_version": "26.0.2+10",
+  "jvm_impl": "hotspot",
+  "md5": "2575053e5398d9f248fabd8b6b41ebd1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10-2-Debian",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "258134a55eec742d72f4e560d3004b09fdaa6d3c",
+  "sha256": "cb4418fbb7537b2cefcfdad644485d2329c72644398e15eb90a3c2099cdcca13",
+  "sha512": "fe7b3c840b5b26ca8da464d71e0263a2b0e662a172bedc179d2f4873ab986e0d2df75265855f498d59ae49bc99fb35386d23da873658fcbff7de623186011174",
+  "size": 53555224,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.2+10-2_ppc64el.deb",
+  "vendor": "debian",
+  "version": "26.0.2+10-2"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "i686",
+  "distro": "liberica-native",
+  "features": [
+    "native-image"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-liberica-vm-full-openjdk17.0.20+11-23.0.13+1-linux-amd64.deb",
+  "image_type": "jdk",
+  "java_version": "17.0.20+11",
+  "jvm_impl": "graalvm",
+  "md5": "079ee9a82332f2a422cdbff4e5d2a344",
+  "os": "linux",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"java-benchmarks\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"regex\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"sdk\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"substratevm\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"truffle\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}, \"vm\": {\"commit.committer\": \"Marouane El Hallaoui <marouane.el.hallaoui@oracle.com>\", \"commit.committer-ts\": 1710531425, \"commit.rev\": \"0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f\"}}",
+    "GRAALVM_VERSION": "23.0.12",
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20+11-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.instrument java.logging java.management jdk.internal.vm.ci jdk.jfr jdk.unsupported org.graalvm.sdk java.datatransfer java.xml java.prefs java.desktop java.transaction.xa java.sql jdk.management org.graalvm.truffle jdk.internal.vm.compiler com.oracle.graal.graal_enterprise com.oracle.svm.extraimage_enterprise com.oracle.svm.svm_enterprise com.oracle.svm_enterprise.ml_dataset java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.internal.vm.compiler.truffle.jfr jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs org.graalvm.extraimage.builder org.graalvm.locator",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:6012ed88c99e+ compiler:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f java-benchmarks:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f regex:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f sdk:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f substratevm:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f truffle:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f vm:0ab0b8ee4f1e6e17156f91a9897c061512cb2a9f"
+  },
+  "release_type": "ga",
+  "sha1": "138c5dcb18e4fbd712c29387a1f0286d296cda39",
+  "sha256": "9dca511c67c48df4931273cbbcb35d648d22abfbd2f856c99cda1a52c8bccc7b",
+  "sha512": "2388039b75d72599547a4fc3cafa4f25a95c0808b88623308518cab94332513a1b8e56146b668c05bbdc8f794bdcf0ab3252d67e488bc15c6f62eacbd3b29d73",
+  "size": 247711752,
+  "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.13+1-17.0.20+11/bellsoft-liberica-vm-full-openjdk17.0.20+11-23.0.13+1-linux-amd64.deb",
+  "vendor": "bellsoft",
+  "version": "23.0.13+1"
+}
