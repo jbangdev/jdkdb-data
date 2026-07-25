@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu17.68.17-ca-fx-jre17.0.20-macosx_x64.zip",
+  "image_type": "jre",
+  "java_version": "17.0.20",
+  "jvm_impl": "hotspot",
+  "md5": "6883e944ff9ef9a48b4597457cdd1cac",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+17-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:0a017aa91907"
+  },
+  "release_type": "ga",
+  "sha1": "7811cc54488e7001365f36204572b3d0b3cb66fa",
+  "sha256": "f25bc1df5130ca6728280d2ae16eee58065399d27e3eb6946811cfe1872fe781",
+  "sha512": "72c53de872fe6b8361e70578e267abae46a3a16f91a415bda5cc47c67638b98ccf6a13936b0bdd7bb5bbcfcc95e07ddbf680fccb4a23a820051956858bf0efeb",
+  "size": 89398675,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.17-ca-fx-jre17.0.20-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "17.68.17"
+}

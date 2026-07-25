@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu25.36.15-ca-fx-jre25.0.4-macosx_x64.zip",
+  "image_type": "jre",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "0d8640ead451240876843ad65fd0cb21",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.36+15-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:9f5a367f7629"
+  },
+  "release_type": "ga",
+  "sha1": "789018033c09f73fe66747cf2855183dadf9bb5b",
+  "sha256": "06e1eaaf407b107dbc5225bd8cb3468de0ea9444b0cf8d44dfe44823f50f3e7e",
+  "sha512": "4ff8865bb57060b5801a07459b8d654c71f43cbcda6de69c8230694f900445241766a01d243a4a85ebf99ad36451e94c63db42cc513782d1ef509ec3d0e1ad2c",
+  "size": 104264362,
+  "url": "https://static.azul.com/zulu/bin/zulu25.36.15-ca-fx-jre25.0.4-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "25.36.15"
+}

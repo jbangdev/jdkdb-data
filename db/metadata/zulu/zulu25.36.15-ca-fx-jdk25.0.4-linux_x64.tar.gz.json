@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu25.36.15-ca-fx-jdk25.0.4-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "f327ad85a7eb5661e910f811e2b41075",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.36+15-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:9f5a367f7629"
+  },
+  "release_type": "ga",
+  "sha1": "b47d2ce24e129517c2a25eb0da6f120496e5c6ce",
+  "sha256": "f70d7ebb9d1d2164f3afbe195655657b013231e36934933de3b8fc30802ec533",
+  "sha512": "8ae626f59a0171c8f0dabb4ed24786c380295ff917cf1c735a37baddecd6191cf5754b925aa97e1833277764e8f7c9919532ac9190e4b91a002b0eaee8761f98",
+  "size": 349277884,
+  "url": "https://static.azul.com/zulu/bin/zulu25.36.15-ca-fx-jdk25.0.4-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "25.36.15"
+}

@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu11.90.19-ca-fx-jre11.0.32-win_i686.zip",
+  "image_type": "jre",
+  "java_version": "11.0.32",
+  "jvm_impl": "hotspot",
+  "md5": "ac73abbdefd983d63b77fbb0adff63db",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.90+19-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1174aebc1b42+"
+  },
+  "release_type": "ga",
+  "sha1": "88bcf4dbd75b9008882812ab3a7dec19c36ad841",
+  "sha256": "ef1e356e1e83916da8b1d19f7245a1d38dcd690d069679256164fc5e429f0a1b",
+  "sha512": "5fda1288ecb5ceaed2ed943fc40d72710833e7e4d6dbc1d086780bafce54ec8f03fd62cec95bb88a1d0266a5a7a07b45d44396b13ca01bfa496c005c624ed9a3",
+  "size": 78663788,
+  "url": "https://static.azul.com/zulu/bin/zulu11.90.19-ca-fx-jre11.0.32-win_i686.zip",
+  "vendor": "azul",
+  "version": "11.90.19"
+}

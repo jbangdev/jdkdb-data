@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu25.36.15-ca-fx-jre25.0.4-linux_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "f0cb3902aa3363be9acd6cdbae68ae9b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.36+15-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:9f5a367f7629"
+  },
+  "release_type": "ga",
+  "sha1": "6af597fa7b1544e9ed5a73a323e41bafbdb1e53e",
+  "sha256": "e74b4f27faaeb40af83197830b2508d2f3c26f053e42b9c1baaba7002c617175",
+  "sha512": "833ae7105278736c8b7dc3f632fc93611729c4f17c4a77e057c94ae22dc5ed5e803e762037910cb48755238e175e7e7c5807f7b99306a313871025ea180c356a",
+  "size": 112390330,
+  "url": "https://static.azul.com/zulu/bin/zulu25.36.15-ca-fx-jre25.0.4-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "25.36.15"
+}

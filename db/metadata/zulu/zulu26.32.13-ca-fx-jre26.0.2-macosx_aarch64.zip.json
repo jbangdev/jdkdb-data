@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu26.32.13-ca-fx-jre26.0.2-macosx_aarch64.zip",
+  "image_type": "jre",
+  "java_version": "26.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "0cac84138d5e5de2e62645b81b845ecf",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+13-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:942b63e1c8ff"
+  },
+  "release_type": "ga",
+  "sha1": "1bc145de22447aed6767346644b7509a08e67bf9",
+  "sha256": "578e54a650bd618c33e7a1b3553ffcf24a54ab518c345faa81afe2ba1fbf4973",
+  "sha512": "e48e510b54f1872d9a43bd9a98230c4f4450a1aaeb74c737857ef64ecec1331def30b47d46716bb013860004bc26f4863349cd3017d4f16364b5b2245667c142",
+  "size": 103574683,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.13-ca-fx-jre26.0.2-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "26.32.13"
+}

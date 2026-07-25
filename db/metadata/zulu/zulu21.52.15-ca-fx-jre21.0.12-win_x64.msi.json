@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "zulu21.52.15-ca-fx-jre21.0.12-win_x64.msi",
+  "image_type": "jre",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "3faaa6351214f66333181b2b864c037b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.52+15-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.12+8-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:ede9fbcdb26b+"
+  },
+  "release_type": "ga",
+  "sha1": "1dc8276e0c8cf8db5722d252f55d00950181c98e",
+  "sha256": "b144a13e0687a3374e59a50886170aebb7b3a1c447e4b814df99eab77cb3c695",
+  "sha512": "0a489df4e524239789974686d5503d23d29e4e2f65a79d2c3f3b52dd1d7534368099263d11c86dd718c95ad686c1637cda876fa1144b7be950139f69dff8e993",
+  "size": 66793472,
+  "url": "https://static.azul.com/zulu/bin/zulu21.52.15-ca-fx-jre21.0.12-win_x64.msi",
+  "vendor": "azul",
+  "version": "21.52.15"
+}

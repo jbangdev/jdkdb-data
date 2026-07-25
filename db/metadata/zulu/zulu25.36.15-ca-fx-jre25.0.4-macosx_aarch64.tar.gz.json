@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu25.36.15-ca-fx-jre25.0.4-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4",
+  "jvm_impl": "hotspot",
+  "md5": "fa698f703816f4a13961f626997a8b07",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.36+15-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.4+7-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:9f5a367f7629"
+  },
+  "release_type": "ga",
+  "sha1": "41aec77fac7ff637003aae7cd0f5d1aa6eaf3365",
+  "sha256": "f9b2077e0f84908d1bef23a0ec1689b6dd8ef1e80b7b47d070d3416b31cc0193",
+  "sha512": "8602b547f263b1336d669d3486c305c0ed0ab6f71cacc33f18d9b6f79dc3b08a16a1fbd91f85084d98086f8a9d41e0998b0089e43146494a7fdbb1589a8d8ddd",
+  "size": 101565730,
+  "url": "https://static.azul.com/zulu/bin/zulu25.36.15-ca-fx-jre25.0.4-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "25.36.15"
+}

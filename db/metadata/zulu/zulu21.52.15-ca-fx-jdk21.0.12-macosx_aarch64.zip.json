@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu21.52.15-ca-fx-jdk21.0.12-macosx_aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.12",
+  "jvm_impl": "hotspot",
+  "md5": "6b518f5302e8d1151135006eb08adf83",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.52+15-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.12+8-LTS",
+    "JAVA_VERSION": "21.0.12",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ede9fbcdb26b"
+  },
+  "release_type": "ga",
+  "sha1": "1c2722939f313ff330335cdd7bc57f94fb4fc50f",
+  "sha256": "510a168ab49b33f2d80d3cdfeedeb5664d51b3fdf387eea620fd9c5f95904108",
+  "sha512": "d36b076093c7de20d74a960be55a3537764fcfbe7cbc6082c35b2d9d35203cbc7ec4b5fd866e631fa203aa53fa375b4733d0241fe587c45fec1d017830aacf62",
+  "size": 309241071,
+  "url": "https://static.azul.com/zulu/bin/zulu21.52.15-ca-fx-jdk21.0.12-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "21.52.15"
+}

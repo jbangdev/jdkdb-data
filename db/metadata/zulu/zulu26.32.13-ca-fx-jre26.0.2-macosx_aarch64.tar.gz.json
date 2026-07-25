@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu26.32.13-ca-fx-jre26.0.2-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "26.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "1d89efaf10b1ef666a6c9ab46bec58c6",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+13-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:942b63e1c8ff"
+  },
+  "release_type": "ga",
+  "sha1": "46b788a61ca01d0a21393b98db23edd48234ee93",
+  "sha256": "037630f67ffd474ae6238c100d38e8c7d837217df2f84af8177f38776e482c2e",
+  "sha512": "fe7a630351f6cf4a83a24e83af0e4f39a07a7cf22cf04ff7177b34c7fd09245289dab39ceb5961c37330c52c13df1ca0a1bc742a612d5700619fe4ca91e9cc5b",
+  "size": 103219007,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.13-ca-fx-jre26.0.2-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "26.32.13"
+}

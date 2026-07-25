@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu26.32.13-ca-fx-jdk26.0.2-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2",
+  "jvm_impl": "hotspot",
+  "md5": "2df5606eeb1eb225e3fbc93d92d1aba5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+13-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2+10",
+    "JAVA_VERSION": "26.0.2",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:942b63e1c8ff"
+  },
+  "release_type": "ga",
+  "sha1": "e446c3400eda7b8205af194807e1b156ba7d8796",
+  "sha256": "161a79219415c5b31eb89900f68bb521c2e49d5f9149c86f292674aaf9271008",
+  "sha512": "60b273a5008336557c42f68d3ce5204a2d1ae7b41f584ed5ea3c021ec67fb0c291032c7699bec33952b436e3df52ccc56d055a73831945ffc08c7ce1db664c25",
+  "size": 354134953,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.13-ca-fx-jdk26.0.2-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "26.32.13"
+}
