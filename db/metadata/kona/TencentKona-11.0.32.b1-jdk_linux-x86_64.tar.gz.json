@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "TencentKona-11.0.32.b1-jdk_linux-x86_64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32.b1",
+  "jvm_impl": "hotspot",
+  "md5": "bcfde2ab38f3db57c1da729fbe4289ce",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "11.0.32+1",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-25",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:636fb9308237"
+  },
+  "release_type": "ga",
+  "sha1": "dd1b4c9f61442b12d75d7346270aa80be0fef082",
+  "sha256": "ebf18397c06a5c36bc6f3a6b5ddd8e71cc2b8300e3a259e2d614a6dcecefbf23",
+  "sha512": "cc19443d7501a83f4a48a1dc6f27527ca22d6025e9d0a491cae3a91dc44ecc9537e3d903f36abf0d44f2fba52bf939aa6b72e2a087cb68d627c6ae5bc28fd9ba",
+  "size": 199784881,
+  "url": "https://github.com/Tencent/TencentKona-11/releases/download/kona11.0.32/TencentKona-11.0.32.b1-jdk_linux-x86_64.tar.gz",
+  "vendor": "tencent",
+  "version": "11.0.32.b1"
+}

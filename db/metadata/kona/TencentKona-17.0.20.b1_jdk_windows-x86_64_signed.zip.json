@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [],
+  "file_type": "zip",
+  "filename": "TencentKona-17.0.20.b1_jdk_windows-x86_64_signed.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.20.b1",
+  "jvm_impl": "hotspot",
+  "md5": "696cf0dfa93bbf2c56f566d0e410c29d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.20+1-LTS",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:ddb5f5f1ce31"
+  },
+  "release_type": "ga",
+  "sha1": "5622d1eb1bf161ad4a7c6a079c70fe70a8635761",
+  "sha256": "3f321fd358d0b17d523a3c744ebe190c4adac4cc257e8fc35ee35d7ad6c978bf",
+  "sha512": "c40fb9304d59d07f74bac4a90f3745358a3ba28ed4f319440572115eb94b2bdebe3550bf74c728b798cc7a6a12741f2614924b1f99ecd0f096c641b7fdf10852",
+  "size": 196350464,
+  "url": "https://github.com/Tencent/TencentKona-17/releases/download/TencentKona-17.0.20/TencentKona-17.0.20.b1_jdk_windows-x86_64_signed.zip",
+  "vendor": "tencent",
+  "version": "17.0.20.b1"
+}

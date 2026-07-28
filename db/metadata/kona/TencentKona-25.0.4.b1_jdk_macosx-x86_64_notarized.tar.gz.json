@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "TencentKona-25.0.4.b1_jdk_macosx-x86_64_notarized.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.b1",
+  "jvm_impl": "hotspot",
+  "md5": "23fb2896913362d5e115b596e9191ca7",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "25.0.4+1-LTS",
+    "JAVA_VERSION": "25.0.4",
+    "JAVA_VERSION_DATE": "2026-07-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ce9048b76405"
+  },
+  "release_type": "ga",
+  "sha1": "80cd01656c9e5f997554a79e5024c4ba419f0311",
+  "sha256": "8d734ae30ec364c82de97eec8ee0184169d8a430fd9e872904491e6152a23cdc",
+  "sha512": "accc3d295c994e01795d688dd6cf6a26e70b2364764eff978117290f69ff50aaa5e74e909b1ea148b3f4a501b36c57d9c3ff63096a7d9186c20cdc36406477d0",
+  "size": 226286397,
+  "url": "https://github.com/Tencent/TencentKona-25/releases/download/TencentKona-25.0.4/TencentKona-25.0.4.b1_jdk_macosx-x86_64_notarized.tar.gz",
+  "vendor": "tencent",
+  "version": "25.0.4.b1"
+}
