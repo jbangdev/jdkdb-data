@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu27.0.47-beta-jdk27.0.0-beta.32-win_x64.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.32",
+  "jvm_impl": "hotspot",
+  "md5": "f4cffd0536fdeb5ba6bd135d47fe52db",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+47-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+32",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:60a5b534e84f"
+  },
+  "release_type": "ea",
+  "sha1": "4d43e3fcf8ea7e9b6f44ddc6a106d728273adc7f",
+  "sha256": "1b989e407dedc1ece3388feb10e8fc3b216898ae4f6919e31949e9f61361b8a5",
+  "sha512": "0b2425d93976defc534d876b4f8aa553ca5af8ec705c663de97d592d32c0a99376cb1d6e35d07f8d695cb1854d33c7d31fb2f3aa7806c9f6ea0738e4e38206c9",
+  "size": 231778771,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.47-beta-jdk27.0.0-beta.32-win_x64.zip",
+  "vendor": "azul",
+  "version": "27.0.47"
+}
