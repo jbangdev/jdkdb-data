@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.8_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.8",
+  "jvm_impl": "hotspot",
+  "md5": "579cf73d4c2090242c54ea92efe2ae2f",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+8",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:a8194b4c0243"
+  },
+  "release_type": "ea",
+  "sha1": "e7bc1a9ee61923749e5aefd8114490687723846d",
+  "sha256": "1157f4da1220a3ba49fb2a6134c1610923b9126c43b6257e124eb7e02dd01d0f",
+  "sha512": "46d60d94845c60276801b73407958376a6efbcec397ab0bc206833048fb1ae099f70f3fdb13f62425e3041ff6ba63dab147cba20fd0a12412b446b24fb7887a9",
+  "size": 118312414,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B8/sapmachine-jdk-28-ea.8_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.8"
+}
