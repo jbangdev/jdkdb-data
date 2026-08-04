@@ -36,7 +36,7 @@ jobs:
     with:
       branch: nightly-${{ github.run_id }}
       limit-progress: 0
-      limit-total: 1000
+      limit-total: 500
       randomize: true
       do_commit: true
     secrets: inherit
