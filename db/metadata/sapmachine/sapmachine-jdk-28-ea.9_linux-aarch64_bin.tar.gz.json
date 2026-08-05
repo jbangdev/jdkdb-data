@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.9_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.9",
+  "jvm_impl": "hotspot",
+  "md5": "2835665b8f8661b64b9ac1e4c3004c2b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+9",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:fa0a1cfe4504"
+  },
+  "release_type": "ea",
+  "sha1": "9103f0b40be391e0f4c17723aeb7aaf023207cf2",
+  "sha256": "5bf80606429d0ee75a290c7c929799a76d9a3860853f31fd085e1a3a065470cd",
+  "sha512": "cbbbe28c4d7713acdc07ae4ca7d6632c322184d442e8ddc1f1a90371ffcc70ef6cc2c6d4a69420cbc9784333662b98dd235cd47231ac5c152cbfba3184ebaa54",
+  "size": 127256059,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B9/sapmachine-jdk-28-ea.9_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.9"
+}
