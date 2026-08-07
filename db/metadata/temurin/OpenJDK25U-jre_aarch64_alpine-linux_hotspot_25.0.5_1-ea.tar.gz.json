@@ -1,0 +1,43 @@
+{
+  "architecture": "aarch64",
+  "distro": "temurin",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.5_1-ea.tar.gz",
+  "image_type": "jre",
+  "java_version": "25",
+  "jvm_impl": "hotspot",
+  "md5": "46c4362e4346e07ffd81eb6f9816b53a",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 6.8.0-101-generic",
+    "BUILD_SOURCE": "git:15a30906bae88a394ac1788f4244d3a2db6f93f8",
+    "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+    "FULL_VERSION": "25.0.5-beta+1-ea",
+    "IMAGE_TYPE": "JRE",
+    "IMPLEMENTOR": "Eclipse Adoptium",
+    "IMPLEMENTOR_VERSION": "Temurin-25.0.5+1-202608050745",
+    "JAVA_RUNTIME_VERSION": "25.0.5-beta+1-ea",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "JVM_VARIANT": "Hotspot",
+    "JVM_VERSION": "25.0.5-beta+1-ea",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SEMANTIC_VERSION": "25.0.5+1",
+    "SOURCE": ".:git:990144799594",
+    "SOURCE_REPO": "https://github.com/adoptium/jdk25u.git"
+  },
+  "release_type": "ea",
+  "sha1": "0d15fc8468aee203c3c9e24aea46b153d7b1427c",
+  "sha256": "1d5ce1bed186061f183605df7d4f7dfac937f147082dd7525db842207f4e7df6",
+  "sha512": "e82582b62ffe135338e7a84ee3b2efcbaf24a1e4659f522cbb705d44353ca28ab6d9326de937b618409fc2e64a654df1fcb5c4c198001779bc8d447d57fe5617",
+  "size": 59686453,
+  "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B1-ea-beta/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.5_1-ea.tar.gz",
+  "vendor": "eclipse",
+  "version": "25.0.5+1-ea-beta"
+}
