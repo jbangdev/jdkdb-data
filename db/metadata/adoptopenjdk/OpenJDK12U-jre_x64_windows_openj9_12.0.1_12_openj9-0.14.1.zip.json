@@ -9,6 +9,16 @@
   "jvm_impl": "openj9",
   "md5": "fb2ab0c08db5a51bcbc1ff3cfa7aac37",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "AdoptOpenJDK",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "12.0.1",
+    "JAVA_VERSION_DATE": "2019-04-16",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs openj9.jvm openj9.sharedclasses",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": "OpenJDK:9fad1c64af OpenJ9:412258978 OMR:4a4278e6"
+  },
   "release_type": "ga",
   "sha1": "a158faf84fe76c1c989d33cade5361630e6b4c17",
   "sha256": "55b827dbcba370b9b527b6db1bfea485d555e1626c76389c3d635fca1d4257be",
