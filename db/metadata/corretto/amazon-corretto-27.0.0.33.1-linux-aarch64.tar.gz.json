@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-27.0.0.33.1-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0.33.1",
+  "jvm_impl": "hotspot",
+  "md5": "ddbd80a65709caff1cafea398fde9557",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.0.33.1",
+    "JAVA_RUNTIME_VERSION": "27+33-FR",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:02080cc9717a+"
+  },
+  "release_type": "ga",
+  "sha1": "0b738d3c49e28762f48a047a420c29c8722eabb9",
+  "sha256": "fd845835548d88a3174bb21e84a7dcc441f2a02fb07ca6acf39658ce0e5f92cc",
+  "sha512": "daad8be5b1a8a7fbb7270851fa43411b20cd2b7ad8c816b2c6c25848f502123db8ec6054d40c736cebfedb35e3eda972b9c0cf5a06785fd3b2c0872b0025fc83",
+  "size": 227425607,
+  "url": "https://corretto.aws/downloads/resources/27.0.0.33.1/amazon-corretto-27.0.0.33.1-linux-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "27.0.0.33.1"
+}
