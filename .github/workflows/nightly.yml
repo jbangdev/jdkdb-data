@@ -27,6 +27,7 @@ jobs:
       branch: nightly-${{ github.run_id }}
       limit-progress: 0
       limit-total: 100
+      mark-unlisted: true
       do_commit: true
     secrets: inherit
 

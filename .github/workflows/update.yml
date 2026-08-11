@@ -12,6 +12,11 @@ on:
         required: true
         type: number
         default: 100
+      mark-unlisted:
+        description: 'Mark missing releases as unlisted'
+        required: true
+        type: boolean
+        default: true
       do_commit:
         description: 'Commit the changes after updating metadata'
         required: true
@@ -29,6 +34,11 @@ on:
         required: false
         type: number
         default: 100
+      mark-unlisted:
+        description: 'Mark missing releases as unlisted'
+        required: false
+        type: boolean
+        default: true
       do_commit:
         description: 'Commit the changes after updating metadata'
         required: false
@@ -77,6 +87,9 @@ jobs:
         fi
         if [ "${{ inputs.limit-total }}" != "0" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --limit-total ${{ inputs.limit-total }}"
+        fi
+        if [ "${{ inputs.mark-unlisted }}" = "true" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --mark-unlisted"
         fi
         echo "Running update with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
