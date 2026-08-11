@@ -12,8 +12,8 @@ on:
           - release_info
           - all
         default: ''
-      remove-invalid:
-        description: 'Remove invalid data'
+      prune-invalid:
+        description: 'Prune invalid data'
         required: true
         type: boolean
         default: true
@@ -44,8 +44,8 @@ on:
         required: false
         type: string
         default: ''
-      remove-invalid:
-        description: 'Remove invalid data'
+      prune-invalid:
+        description: 'Prune invalid data'
         required: false
         type: boolean
         default: true
@@ -117,8 +117,8 @@ jobs:
         if [ -n "${{ inputs.remove-incomplete }}" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --remove-incomplete ${{ inputs.remove-incomplete }}"
         fi
-        if [ "${{ inputs.remove-invalid }}" = "true" ]; then
-          EXTRA_OPTS="$EXTRA_OPTS --remove-invalid"
+        if [ "${{ inputs.prune-invalid }}" = "true" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --prune-invalid"
         fi
         if [ "${{ inputs.remove-orphaned }}" = "true" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --remove-orphaned"
