@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openlogic-openjdk-11.0.32+9-linux-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32+9",
+  "jvm_impl": "hotspot",
+  "md5": "86331bdf4e04bbd394ad81b357e851a5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic-OpenJDK",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-adhoc.root.jdk11u",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:f67076179e1c+"
+  },
+  "release_type": "ga",
+  "sha1": "5aa26dc2c1edf1be736607e86822dad3c5f5051d",
+  "sha256": "1f8d3a21539bc2e289ae542e04ac3650c2e4ff9ea411bf2547c672cf5db0923e",
+  "sha512": "41935fd868be6bdd61f48100acfac1e660ece881ed33042babe87ffa12059b88d05daa030858150992c6123910a3976d63f043907a71beadd2046d52b6797441",
+  "size": 230587240,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.32+9/openlogic-openjdk-11.0.32+9-linux-x64.tar.gz",
+  "vendor": "openlogic",
+  "version": "11.0.32+9"
+}

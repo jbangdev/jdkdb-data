@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "openlogic-openjdk-17.0.20+8-linux-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20+8",
+  "jvm_impl": "hotspot",
+  "md5": "760a88157a05d5d67710a2147aa07db4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic-OpenJDK",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.20+8-adhoc.root.jdk17u",
+    "JAVA_VERSION": "17.0.20",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8cbbca614324+"
+  },
+  "release_type": "ga",
+  "sha1": "c1c980f3a059e4af0d1d3cafa6dce1f39d15075d",
+  "sha256": "fe647085f0c309dcf64a750a1f3d42b9ede12fc25c14d176a03d9d72f56e0dac",
+  "sha512": "5894c0a09129c4235de93c13c67e5431e17befa757aadde5aa13e9c936fe087bf683ae525d5e3ccc7367463f25aaf0129dd35740cc541d5fdad7c213b05e08e4",
+  "size": 229869973,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.20+8/openlogic-openjdk-17.0.20+8-linux-x64.tar.gz",
+  "vendor": "openlogic",
+  "version": "17.0.20+8"
+}
