@@ -4,7 +4,7 @@ on:
     inputs:
       remove-incomplete:
         description: 'Remove incomplete data (checksums, release_info, or all)'
-        required: true
+        required: false
         type: choice
         options:
           - ''
