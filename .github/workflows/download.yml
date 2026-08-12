@@ -17,6 +17,11 @@ on:
         required: true
         type: boolean
         default: true
+      mark-missing:
+        description: 'Mark entries as missing when download fails'
+        required: true
+        type: boolean
+        default: true
       do_commit:
         description: 'Commit the changes after updating checksums'
         required: true
@@ -41,6 +46,11 @@ on:
         default: true
       do_commit:
         description: 'Commit the changes after updating checksums'
+        required: false
+        type: boolean
+        default: true
+      mark-missing:
+        description: 'Mark entries as missing when download fails'
         required: false
         type: boolean
         default: true
@@ -97,6 +107,9 @@ jobs:
         fi
         if [ "${{ inputs.randomize }}" == "true" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --randomize"
+        fi
+        if [ "${{ inputs.mark-missing }}" == "true" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --mark-missing"
         fi
         echo "Running update with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
