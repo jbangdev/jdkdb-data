@@ -39,6 +39,7 @@ jobs:
       limit-progress: 0
       limit-total: 500
       randomize: true
+      mark-missing: true
       do_commit: true
     secrets: inherit
 
@@ -50,6 +51,7 @@ jobs:
       limit-progress: 0
       limit-total: 100
       randomize: true
+      mark-missing: true
       do_commit: true
     secrets: inherit
 
