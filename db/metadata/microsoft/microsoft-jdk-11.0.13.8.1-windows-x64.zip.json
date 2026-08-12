@@ -9,11 +9,22 @@
   "jvm_impl": "hotspot",
   "md5": "7b097fc82a9f345ae5d37a2eea178193",
   "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-27990",
+    "JAVA_VERSION": "11.0.13",
+    "JAVA_VERSION_DATE": "2021-10-19",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c7032e94939e"
+  },
   "release_type": "ga",
   "sha1": "cf1842bec599556f6231760431eff61b3205bbc8",
   "sha256": "bec37c34e388a43fd8f86244cb0a631d4c1345dc187a839e1616b9e851a6f127",
   "sha512": "0f13811729e5dd9723b1eda998f4d42eb323d0c551f01dda0fe948b0346142baa8f3df600f7d627252234406d0ee5f162e49b944ecd2c48cf5ad05ce0c02e118",
   "size": 186258087,
+  "unlisted_since": "2026-08-12",
   "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.13.8.1-windows-x64.zip",
   "vendor": "microsoft",
   "version": "11.0.13.8.1"

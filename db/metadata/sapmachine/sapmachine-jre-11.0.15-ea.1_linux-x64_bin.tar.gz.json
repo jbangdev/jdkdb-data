@@ -9,11 +9,22 @@
   "jvm_impl": "hotspot",
   "md5": "fc41017bf0f955af70280867d5e6b0e3",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_VERSION": "11.0.15",
+    "JAVA_VERSION_DATE": "2022-02-11",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:23e38218ebfa"
+  },
   "release_type": "ea",
   "sha1": "7ee1534f2d28b9853421524fb689fd22f5573eb7",
   "sha256": "971756b1da0f52d1f721445fba31724b212e6dd856a7d28b127b0ad9be85b82f",
   "sha512": "ca82c87879fddea4a9d2f84f48bddb1efdcc8d7c59ffc018d0a7b1b7112ef46e9b09ec24793efed4e52d2606e61e366f97205e2fd7d4380cfb785f910e9f05a2",
   "size": 42568554,
+  "unlisted_since": "2026-08-12",
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.15+1/sapmachine-jre-11.0.15-ea.1_linux-x64_bin.tar.gz",
   "vendor": "sap",
   "version": "11.0.15-ea.1"

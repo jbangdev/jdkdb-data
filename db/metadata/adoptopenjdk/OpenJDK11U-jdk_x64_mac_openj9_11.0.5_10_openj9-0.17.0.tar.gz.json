@@ -9,11 +9,22 @@
   "jvm_impl": "openj9",
   "md5": "d9d7d852f59ca112665bacefd9869dbc",
   "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Eclipse OpenJ9",
+    "IMPLEMENTOR_VERSION": "AdoptOpenJDK",
+    "JAVA_VERSION": "11.0.5",
+    "JAVA_VERSION_DATE": "2019-10-15",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs openj9.cuda openj9.dataaccess openj9.traceformat openj9.dtfj openj9.dtfjview openj9.gpu openj9.jvm openj9.sharedclasses openj9.zosconditionhandling",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": "OpenJDK:2a7af5674b OpenJ9:77c1cf708 OMR:20db4fbc"
+  },
   "release_type": "ga",
   "sha1": "3ac65c8bc0faa80783dfe081371c10209816d99b",
   "sha256": "c3b8d7de2e063e8066ca0dfcb2e1c12a2c0a11b81ba2f2af0d6bd25388d34dc8",
   "sha512": "06ec3547e1534e5ca18708226d025579a26c2c11e9fa31a909a5c57973b133c005fd3484ad3588f58270c14dfe26632f0bed54d6d921e8ea77cdd78115fcdb1a",
   "size": 196975017,
+  "unlisted_since": "2026-08-12",
   "url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.5%2B10_openj9-0.17.0/OpenJDK11U-jdk_x64_mac_openj9_11.0.5_10_openj9-0.17.0.tar.gz",
   "vendor": "adoptopenjdk",
   "version": "11.0.5+10.1.openj9-0.17.0"

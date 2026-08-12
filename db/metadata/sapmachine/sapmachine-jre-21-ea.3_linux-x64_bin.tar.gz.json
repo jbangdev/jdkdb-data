@@ -9,11 +9,23 @@
   "jvm_impl": "hotspot",
   "md5": "e12b3abb7c1784b2175f3212f6c33df3",
   "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_VERSION": "21",
+    "JAVA_VERSION_DATE": "2023-09-19",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:93df97becf6a"
+  },
   "release_type": "ea",
   "sha1": "01c7ea416f6ca72211cbfad183198d2c2cf93a18",
   "sha256": "28cf24e863cf532e58e3d67149074ff382ace5f8215749a1f2fd05020fb220c8",
   "sha512": "cc1d8f8b71058a72c28a29ea95bf7cfc2bd55657fbe3d40661207a84c56a39908bf47169a59f0d4894869efd5b0861405ab99592342fa07710ac3794fdc652cd",
   "size": 50005859,
+  "unlisted_since": "2026-08-12",
   "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_linux-x64_bin.tar.gz",
   "vendor": "sap",
   "version": "21-ea.3"
