@@ -1,19 +1,24 @@
 {
-  "architecture": "arm32-vfp-hflt",
-  "distro": "debian",
-  "features": [
-    "zero",
-    "hard-float"
-  ],
-  "file_type": "deb",
-  "filename": "openjdk-21-jre-zero_21.0.12+8-1~deb13u1_armhf.deb",
-  "image_type": "jre",
-  "java_version": "21.0.12+8",
-  "jvm_impl": "hotspot",
-  "os": "linux",
-  "release_type": "ga",
-  "size": 0,
-  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.12+8-1~deb13u1_armhf.deb",
-  "vendor": "debian",
-  "version": "21.0.12+8-1~deb13u1"
-}
+    "architecture": "arm32-vfp-hflt",
+    "distro": "debian",
+    "features": [
+      "zero",
+      "hard-float"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-21-jre-zero_21.0.12+8-1~deb13u1_armhf.deb",
+    "image_type": "jre",
+    "java_version": "21.0.12+8",
+    "jvm_impl": "hotspot",
+    "md5": "89698be3ef62e823ab318770bb7b3d06",
+    "os": "linux",
+    "release_info": {},
+    "release_type": "ga",
+    "sha1": "390d5984ef887caca0825a0c387445a0a083a5de",
+    "sha256": "4b1b8324301b3ab977199d6fe9e622c9d099ece0df6aa527b149f62d0575bd90",
+    "sha512": "e874145a7642c3c93c3adcdffc4d55d7e2b9d21aae58bbcfc624bc94b6e3d1c56c47cdde9ad823d8bebfe25c5c6a6317008223cbae7cc3b4206d8220998f9f30",
+    "size": 5016952,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.12+8-1~deb13u1_armhf.deb",
+    "vendor": "debian",
+    "version": "21.0.12+8-1~deb13u1"
+  }

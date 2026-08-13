@@ -1,22 +1,34 @@
 {
-  "architecture": "aarch64",
-  "distro": "zulu",
-  "features": [
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "zulu25.32.21-ca-fx-jre25.0.2-macosx_aarch64.zip",
-  "image_type": "jre",
-  "java_version": "25.0.2",
-  "jvm_impl": "hotspot",
-  "md5": "d79d1ef8eb9a41d91cffdb29d6eb4181",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "0f42fb811cd080568a0cf5ff97c6ee7ac841b3fd",
-  "sha256": "f8a30fc53b6ff32a0af581226906a297ea0723710e24857db01a79275510c9b2",
-  "sha512": "bd1017e9fb950314fc2200a11a6908b7f31c6579951feb9db48d80815029e1172a648a978439bd281d08d23b47db75d3a2914d364ef3a3d339bda8bed27a2063",
-  "size": 99477893,
-  "url": "https://static.azul.com/zulu/bin/zulu25.32.21-ca-fx-jre25.0.2-macosx_aarch64.zip",
-  "vendor": "azul",
-  "version": "25.32.21"
-}
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "zulu25.32.21-ca-fx-jre25.0.2-macosx_aarch64.zip",
+    "image_type": "jre",
+    "java_version": "25.0.2",
+    "jvm_impl": "hotspot",
+    "md5": "d79d1ef8eb9a41d91cffdb29d6eb4181",
+    "os": "macosx",
+    "release_info": {
+      "IMPLEMENTOR": "Azul Systems, Inc.",
+      "IMPLEMENTOR_VERSION": "Zulu25.32+21-CA",
+      "JAVA_RUNTIME_VERSION": "25.0.2+10-LTS",
+      "JAVA_VERSION": "25.0.2",
+      "JAVA_VERSION_DATE": "2026-01-20",
+      "LIBC": "default",
+      "MODULES": "java.base com.azul.tooling java.logging java.management java.security.sasl java.naming jdk.jfr com.azul.crs.client java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Darwin",
+      "SOURCE": ".:git:01de820c8b9e"
+    },
+    "release_type": "ga",
+    "sha1": "0f42fb811cd080568a0cf5ff97c6ee7ac841b3fd",
+    "sha256": "f8a30fc53b6ff32a0af581226906a297ea0723710e24857db01a79275510c9b2",
+    "sha512": "bd1017e9fb950314fc2200a11a6908b7f31c6579951feb9db48d80815029e1172a648a978439bd281d08d23b47db75d3a2914d364ef3a3d339bda8bed27a2063",
+    "size": 99477893,
+    "url": "https://static.azul.com/zulu/bin/zulu25.32.21-ca-fx-jre25.0.2-macosx_aarch64.zip",
+    "vendor": "azul",
+    "version": "25.32.21"
+  }

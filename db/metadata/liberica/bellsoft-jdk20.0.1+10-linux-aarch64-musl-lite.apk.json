@@ -1,23 +1,33 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "lite",
-    "musl"
-  ],
-  "file_type": "apk",
-  "filename": "bellsoft-jdk20.0.1+10-linux-aarch64-musl-lite.apk",
-  "image_type": "jdk",
-  "java_version": "20.0.1+10",
-  "jvm_impl": "hotspot",
-  "md5": "2e05469df89b06c5d6bb381a66417d85",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "54fc3a67f64a24ff35996475bcba1be0bea7f454",
-  "sha256": "4312a914b1ec2bac66e1e6a8691434aa9b57dbfd6602c6c9afe93cd54a39e453",
-  "sha512": "263550b20e0a262f80970338c0f6393e11625146e5a474bd7d04ece2ac9672af80c342a8c6d96144dae5743a804f669f97da119cae7835e9df2f71010b907188",
-  "size": 74774087,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/20.0.1+10/bellsoft-jdk20.0.1+10-linux-aarch64-musl-lite.apk",
-  "vendor": "bellsoft",
-  "version": "20.0.1+10"
-}
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk20.0.1+10-linux-aarch64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "20.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "2e05469df89b06c5d6bb381a66417d85",
+    "os": "linux",
+    "release_info": {
+      "IMPLEMENTOR": "BellSoft",
+      "JAVA_VERSION": "20.0.1",
+      "JAVA_VERSION_DATE": "2023-04-18",
+      "LIBC": "musl",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.concurrent jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Linux",
+      "SOURCE": ".:git:65552053b6c2+"
+    },
+    "release_type": "ga",
+    "sha1": "54fc3a67f64a24ff35996475bcba1be0bea7f454",
+    "sha256": "4312a914b1ec2bac66e1e6a8691434aa9b57dbfd6602c6c9afe93cd54a39e453",
+    "sha512": "263550b20e0a262f80970338c0f6393e11625146e5a474bd7d04ece2ac9672af80c342a8c6d96144dae5743a804f669f97da119cae7835e9df2f71010b907188",
+    "size": 74774087,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/20.0.1+10/bellsoft-jdk20.0.1+10-linux-aarch64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "20.0.1+10"
+  }

@@ -1,18 +1,34 @@
 {
-  "architecture": "x86_64",
-  "distro": "sapmachine",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "sapmachine-jdk-28-ea.10_linux-x64-musl_bin.tar.gz",
-  "image_type": "jdk",
-  "java_version": "28-ea.10",
-  "jvm_impl": "hotspot",
-  "os": "linux",
-  "release_type": "ea",
-  "size": 0,
-  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B10/sapmachine-jdk-28-ea.10_linux-x64-musl_bin.tar.gz",
-  "vendor": "sap",
-  "version": "28-ea.10"
-}
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-28-ea.10_linux-x64-musl_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28-ea.10",
+    "jvm_impl": "hotspot",
+    "md5": "9f678bd510d4e442bbeec55a68b974e4",
+    "os": "linux",
+    "release_info": {
+      "IMPLEMENTOR": "SAP SE",
+      "IMPLEMENTOR_VERSION": "SapMachine",
+      "JAVA_RUNTIME_VERSION": "28-ea+10",
+      "JAVA_VERSION": "28",
+      "JAVA_VERSION_DATE": "2027-03-23",
+      "LIBC": "musl",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+      "OS_ARCH": "x86_64",
+      "OS_NAME": "Linux",
+      "SOURCE": ".:git:9d3360b3e66a"
+    },
+    "release_type": "ea",
+    "sha1": "3eb1151447ef9b86e88a8b24f9cd120929380154",
+    "sha256": "b9a158eac221c0b063f8cc75b545778aad0a227c2daa5b585ce8bffef3b690a4",
+    "sha512": "4a7ccfe9c741aa6db3ba8f9615c9ea71d3b169e0fadf81435e9d6a54756c15b0c2e49cdd4d32b5382febbf50ed001532e0a0cbd69f80fb1f8f3ed61d352c33f7",
+    "size": 128888251,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B10/sapmachine-jdk-28-ea.10_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.10"
+  }

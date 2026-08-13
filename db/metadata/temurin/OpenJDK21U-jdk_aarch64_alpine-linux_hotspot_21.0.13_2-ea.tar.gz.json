@@ -1,18 +1,43 @@
 {
-  "architecture": "aarch64",
-  "distro": "temurin",
-  "features": [
-    "musl"
-  ],
-  "file_type": "tar.gz",
-  "filename": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.13_2-ea.tar.gz",
-  "image_type": "jdk",
-  "java_version": "21",
-  "jvm_impl": "hotspot",
-  "os": "linux",
-  "release_type": "ea",
-  "size": 0,
-  "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B2-ea-beta/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.13_2-ea.tar.gz",
-  "vendor": "eclipse",
-  "version": "21.0.13+2-ea-beta"
-}
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.13_2-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "md5": "ada39e0c7968bac42a63125cbae06abc",
+    "os": "linux",
+    "release_info": {
+      "BUILD_INFO": "OS: Linux Version: 6.8.0-71-generic",
+      "BUILD_SOURCE": "git:15a30906bae88a394ac1788f4244d3a2db6f93f8",
+      "BUILD_SOURCE_REPO": "https://github.com/adoptium/temurin-build.git",
+      "FULL_VERSION": "21.0.13-beta+2-ea",
+      "IMAGE_TYPE": "JDK",
+      "IMPLEMENTOR": "Eclipse Adoptium",
+      "IMPLEMENTOR_VERSION": "Temurin-21.0.13+2-202608121409",
+      "JAVA_RUNTIME_VERSION": "21.0.13-beta+2-ea",
+      "JAVA_VERSION": "21.0.13",
+      "JAVA_VERSION_DATE": "2026-10-20",
+      "JVM_VARIANT": "Hotspot",
+      "JVM_VERSION": "21.0.13-beta+2-ea",
+      "LIBC": "musl",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Linux",
+      "SEMANTIC_VERSION": "21.0.13+2",
+      "SOURCE": ".:git:2cd65d853bbf",
+      "SOURCE_REPO": "https://github.com/adoptium/jdk21u.git"
+    },
+    "release_type": "ea",
+    "sha1": "dea811be40b1590ce94c16940ecc7c29969fce5b",
+    "sha256": "13cfc0308add9e9a25b5cb1ed1e6de39bd9f3854d34dddf221c437094b6e1358",
+    "sha512": "b754d9f20b80397a9be9e33a78c318749f3371443968348af0041831b97f639e2b8fa89c5a4dcb91af6b84efd45b0c830c434a3e70515b1a48bfc211d17c0637",
+    "size": 205845319,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B2-ea-beta/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.13_2-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.13+2-ea-beta"
+  }

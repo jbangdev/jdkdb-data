@@ -1,18 +1,23 @@
 {
-  "architecture": "riscv64",
-  "distro": "debian",
-  "features": [
-    "headless"
-  ],
-  "file_type": "deb",
-  "filename": "openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_riscv64.deb",
-  "image_type": "jdk",
-  "java_version": "21.0.12+8",
-  "jvm_impl": "hotspot",
-  "os": "linux",
-  "release_type": "ga",
-  "size": 0,
-  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_riscv64.deb",
-  "vendor": "debian",
-  "version": "21.0.12+8-1~deb13u1"
-}
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_riscv64.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.12+8",
+    "jvm_impl": "hotspot",
+    "md5": "09b5034e0ec08e98b552befc3b2d06e5",
+    "os": "linux",
+    "release_info": {},
+    "release_type": "ga",
+    "sha1": "fd450d341f77b32c9e35645f354725cf2da9574a",
+    "sha256": "de1cec2fd8b42895d61d12dac67afca353a4ea33a9920f11932295ca633a032e",
+    "sha512": "18fe77dff84df7aa31b827c97493e23a97a925c9457ecf32f7e4f603cef1b4bc032eab39f00e031950a1a7b03f6277b89069ea238fc844dafb0e95204a9c2879",
+    "size": 82191544,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_riscv64.deb",
+    "vendor": "debian",
+    "version": "21.0.12+8-1~deb13u1"
+  }
