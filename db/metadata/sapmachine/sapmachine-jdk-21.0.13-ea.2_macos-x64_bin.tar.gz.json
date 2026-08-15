@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-21.0.13-ea.2_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.13-ea.2",
+  "jvm_impl": "hotspot",
+  "md5": "f22099a87fd7d315f6b0013c5128118f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+2",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:6aefea7eefe4"
+  },
+  "release_type": "ea",
+  "sha1": "31f648068192670e56622f98e34ae0f4d04cc3d6",
+  "sha256": "05ec12ecd0b213dc40fe711c64300e096481a02c4c57870de305376950cdeef5",
+  "sha512": "5cf951891b4b4539263070dd7de3379d96dfa916e6e0683a1b993a33e301e20253d3c7cda697ea46637bb9ef7be07c081c6467d17e9a9d28f88f7c1f058ec09a",
+  "size": 203766640,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B2/sapmachine-jdk-21.0.13-ea.2_macos-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13-ea.2"
+}

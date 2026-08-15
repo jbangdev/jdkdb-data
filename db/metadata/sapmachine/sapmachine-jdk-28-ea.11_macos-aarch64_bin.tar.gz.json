@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.11_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.11",
+  "jvm_impl": "hotspot",
+  "md5": "3852eede1fae162c472f6d877a1dfe72",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+11",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:fd06237f5c4a"
+  },
+  "release_type": "ea",
+  "sha1": "1f6f3f611d0aebb28d61ff18b9347473b8d02416",
+  "sha256": "b722593fcb36d4dadc06cfa1913814f4df67dc67249bc304f00f7a4a837dbf58",
+  "sha512": "99bbf52fd83140cd9d83ca87e6da216f545a25a0d0de0b3de51be6380c46ba68e33af32d1586de16c3b38585cd555175c1f636f7abf4eaa1e76b697464fea0fd",
+  "size": 124171413,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B11/sapmachine-jdk-28-ea.11_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.11"
+}
