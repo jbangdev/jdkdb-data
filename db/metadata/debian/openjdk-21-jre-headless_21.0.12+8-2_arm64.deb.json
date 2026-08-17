@@ -1,0 +1,33 @@
+{
+    "architecture": "aarch64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-21-jre-headless_21.0.12+8-2_arm64.deb",
+    "image_type": "jre",
+    "java_version": "21.0.12+8",
+    "jvm_impl": "hotspot",
+    "md5": "a791d246afac12254aafe4afa1ee8d4d",
+    "os": "linux",
+    "release_info": {
+      "IMPLEMENTOR": "Debian",
+      "JAVA_RUNTIME_VERSION": "21.0.12+8-2-Debian",
+      "JAVA_VERSION": "21.0.12",
+      "JAVA_VERSION_DATE": "2026-07-21",
+      "LIBC": "gnu",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Linux",
+      "SOURCE": ""
+    },
+    "release_type": "ga",
+    "sha1": "71b8f6e49246c29df99dfdbc2e8576598ddabf26",
+    "sha256": "9a33e6b2daae6818785d06ee589ac62ce109af4d6a695631ec47f76ec4cdce48",
+    "sha512": "7f0182498bcd95cabb2754a14b51f82f4a73788cfdd4c55353f1acd7f527acb29fdbb4f35e99825c0276ffc6f60d908e14f4be9777cce8aebaa8a521d3890504",
+    "size": 41059496,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.12+8-2_arm64.deb",
+    "vendor": "debian",
+    "version": "21.0.12+8-2"
+  }

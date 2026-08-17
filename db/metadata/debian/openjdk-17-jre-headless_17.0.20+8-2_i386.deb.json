@@ -1,0 +1,33 @@
+{
+    "architecture": "i686",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-headless_17.0.20+8-2_i386.deb",
+    "image_type": "jre",
+    "java_version": "17.0.20+8",
+    "jvm_impl": "hotspot",
+    "md5": "76c1b54b9026f7649617d23218a9504a",
+    "os": "linux",
+    "release_info": {
+      "IMPLEMENTOR": "Debian",
+      "JAVA_RUNTIME_VERSION": "17.0.20+8-2-Debian",
+      "JAVA_VERSION": "17.0.20",
+      "JAVA_VERSION_DATE": "2026-07-21",
+      "LIBC": "gnu",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+      "OS_ARCH": "x86",
+      "OS_NAME": "Linux",
+      "SOURCE": ""
+    },
+    "release_type": "ga",
+    "sha1": "9d23c45126ab3401ad330d92239cfdbfdab4387c",
+    "sha256": "561de7003e1be66def6d89b37f0d4f79bff1d144315bcba9d2c20abd2d7141b7",
+    "sha512": "fab77a2819bcf5d5662edd7dc7cfeba9091dc48832acaeaa00c665333573f563fe135aee3a86d77504cc74a81918d529efe3f0913c5b6c072642613fccd51025",
+    "size": 43473908,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20+8-2_i386.deb",
+    "vendor": "debian",
+    "version": "17.0.20+8-2"
+  }

@@ -1,0 +1,33 @@
+{
+    "architecture": "s390x",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-headless_17.0.20+8-2_s390x.deb",
+    "image_type": "jre",
+    "java_version": "17.0.20+8",
+    "jvm_impl": "hotspot",
+    "md5": "48a19bd122e2e3b11a2a6ad89f6c7088",
+    "os": "linux",
+    "release_info": {
+      "IMPLEMENTOR": "Debian",
+      "JAVA_RUNTIME_VERSION": "17.0.20+8-2-Debian",
+      "JAVA_VERSION": "17.0.20",
+      "JAVA_VERSION_DATE": "2026-07-21",
+      "LIBC": "gnu",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+      "OS_ARCH": "s390x",
+      "OS_NAME": "Linux",
+      "SOURCE": ""
+    },
+    "release_type": "ga",
+    "sha1": "e5fd610603d7abe91769eae658c2d3620a7e81ab",
+    "sha256": "51687aa165655a1140bbfd3085feb933b5cd9a1fdb6e4b9cabd4134a4e5a31f0",
+    "sha512": "162cfb2cf3c94437b93360e355b463f7a8f2d1bc18e945fd54d9592d9739067bb2f18f7f8a9613e49276ce5ce071e2976c11f2f5be1fcbc41c187003e1114aee",
+    "size": 41475080,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20+8-2_s390x.deb",
+    "vendor": "debian",
+    "version": "17.0.20+8-2"
+  }

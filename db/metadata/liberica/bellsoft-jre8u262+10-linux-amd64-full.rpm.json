@@ -1,24 +1,31 @@
 {
-  "architecture": "x86_64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "rpm",
-  "filename": "bellsoft-jre8u262+10-linux-amd64-full.rpm",
-  "image_type": "jre",
-  "java_version": "8u262+10",
-  "jvm_impl": "hotspot",
-  "md5": "3afac08d9ead10fa66dd2d576af8d13a",
-  "os": "linux",
-  "release_type": "ga",
-  "sha1": "47a3d188349179b8accd52f61571b7fd3261f2a2",
-  "sha256": "02172e7a303610a556f4d36958a323e4af086c774a423fdb986020a5eb39130d",
-  "sha512": "41dc60297ea0ccbe7d7ec2c52b00fc404fa92a76b98a706f5d59601acf530a3f008a2fe588eae234e3f3d29798e3318dbbb8c049adacce4abfa1bcd097d61fac",
-  "size": 61283584,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/8u262+10/bellsoft-jre8u262+10-linux-amd64-full.rpm",
-  "vendor": "bellsoft",
-  "version": "8u262+10"
-}
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre8u262+10-linux-amd64-full.rpm",
+    "image_type": "jre",
+    "java_version": "8u262+10",
+    "jvm_impl": "hotspot",
+    "md5": "a2bc5ef01bb18125f4e1d4c620e8d612",
+    "os": "linux",
+    "release_info": {
+      "JAVA_VERSION": "1.8.0_262",
+      "OS_ARCH": "amd64",
+      "OS_NAME": "Linux",
+      "OS_VERSION": "2.6",
+      "SOURCE": " .:6d223f436353+ corba:35994a206cd0 hotspot:f9693cc545b4+ jaxp:2d0ad8acfa69 jaxws:c40ea39b627c jdk:833691f5d8b5+ langtools:7055edca396a nashorn:0708b03140d8"
+    },
+    "release_type": "ga",
+    "sha1": "f874dd8a6ccf85066bd4b64e3c18fd0f6fc16467",
+    "sha256": "640f5f63f331be74428219f53c35770435abffc2a61c032a1a33d20a89e0c70a",
+    "sha512": "130c8e523cde409faae53d0c3c9a633a70fea36162c9aa6a34080980bf710fcf8809ed57f7c9e6be8e5208f3394d1c2ac34bca15c812f0a56d8b3f3fb98d2fee",
+    "size": 61283588,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u262+10/bellsoft-jre8u262+10-linux-amd64-full.rpm",
+    "vendor": "bellsoft",
+    "version": "8u262+10"
+  }

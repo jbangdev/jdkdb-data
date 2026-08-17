@@ -1,24 +1,35 @@
 {
-  "architecture": "aarch64",
-  "distro": "liberica",
-  "features": [
-    "libericafx",
-    "minimal-vm",
-    "javafx"
-  ],
-  "file_type": "zip",
-  "filename": "bellsoft-jdk21.0.6+10-macos-aarch64-full.zip",
-  "image_type": "jdk",
-  "java_version": "21.0.6+10",
-  "jvm_impl": "hotspot",
-  "md5": "bd9c97fb00670bf39db68aea9eccce55",
-  "os": "macosx",
-  "release_type": "ga",
-  "sha1": "e2a31c8483220169e705fa22f5266051abb675fc",
-  "sha256": "f4d6b349535274623e7092b00b6a473ddebc5c539a18729aaf22f6d06c9f59ab",
-  "sha512": "8c7fa9d33e8376e4b316f05dbbbcd1c4eeb204908d804783b2f70e1d3ce02d2f7cc47d002a91ef2fc6c3470bc86b02ac9ebe74896160c0d9ee94eed90490e137",
-  "size": 315344387,
-  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-aarch64-full.zip",
-  "vendor": "bellsoft",
-  "version": "21.0.6+10"
-}
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk21.0.6+10-macos-aarch64-full.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.6+10",
+    "jvm_impl": "hotspot",
+    "md5": "bd9c97fb00670bf39db68aea9eccce55",
+    "os": "macosx",
+    "release_info": {
+      "IMPLEMENTOR": "BellSoft",
+      "JAVA_RUNTIME_VERSION": "21.0.6+10-LTS",
+      "JAVA_VERSION": "21.0.6",
+      "JAVA_VERSION_DATE": "2025-01-21",
+      "LIBC": "default",
+      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+      "OS_ARCH": "aarch64",
+      "OS_NAME": "Darwin",
+      "SOURCE": ".:git:58e68859256c+"
+    },
+    "release_type": "ga",
+    "sha1": "e2a31c8483220169e705fa22f5266051abb675fc",
+    "sha256": "f4d6b349535274623e7092b00b6a473ddebc5c539a18729aaf22f6d06c9f59ab",
+    "sha512": "8c7fa9d33e8376e4b316f05dbbbcd1c4eeb204908d804783b2f70e1d3ce02d2f7cc47d002a91ef2fc6c3470bc86b02ac9ebe74896160c0d9ee94eed90490e137",
+    "size": 315344387,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-aarch64-full.zip",
+    "vendor": "bellsoft",
+    "version": "21.0.6+10"
+  }
