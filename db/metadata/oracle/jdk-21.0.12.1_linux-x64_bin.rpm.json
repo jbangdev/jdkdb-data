@@ -1,0 +1,31 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [],
+  "file_type": "rpm",
+  "filename": "jdk-21.0.12.1_linux-x64_bin.rpm",
+  "image_type": "jdk",
+  "java_version": "21.0.12.1",
+  "jvm_impl": "hotspot",
+  "md5": "1bbd6b7a7b0fb707760f45c96105281d",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "21.0.12.1+1-LTS-4",
+    "JAVA_VERSION": "21.0.12.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:86c757ff111e open:git:916e4b3a9b29"
+  },
+  "release_type": "ga",
+  "sha1": "314ff54617ffbae31872154ce50e7b2596544d30",
+  "sha256": "196d20feab06179b36cb1a956ffbeb722429f16cde267968cfd62b10d22e18b7",
+  "sha512": "3d5936f02a44dde4820c65ca08701eb49a0ac0999f1ff084cccf87c6c061f27902dc5f6f143ec37f31b6dd565babfb2191713f6cb511a85fb7d6c6416d58513e",
+  "size": 198631708,
+  "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.12.1_linux-x64_bin.rpm",
+  "vendor": "oracle",
+  "version": "21.0.12.1"
+}

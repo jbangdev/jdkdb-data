@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "pkg",
+  "filename": "amazon-corretto-21.0.12.9.1-macosx-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "21.0.12.9.1",
+  "jvm_impl": "hotspot",
+  "md5": "e21b1ea62aad36edadc3b9b5266bb048",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-21.0.12.9.1",
+    "JAVA_RUNTIME_VERSION": "21.0.12.1+9-LTS",
+    "JAVA_VERSION": "21.0.12.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:7b81f17c9673+"
+  },
+  "release_type": "ga",
+  "sha1": "d393ae0af235494f45a0860d8bbfe4a747154bd6",
+  "sha256": "3d606353c6c3fd3974121a58e035680438969a685b69b903e87b7479e88645eb",
+  "sha512": "452065e06c7fde608ce2c0d6f6f9a3665e7418437f4e85db2e713127c7fdfd1d73d03c7922cd6475af71bb4dae5e7f7296f4488659ebd4ad7f7795d255fa4628",
+  "size": 203051975,
+  "url": "https://corretto.aws/downloads/resources/21.0.12.9.1/amazon-corretto-21.0.12.9.1-macosx-x64.pkg",
+  "vendor": "amazon",
+  "version": "21.0.12.9.1"
+}

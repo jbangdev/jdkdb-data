@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "pkg",
+  "filename": "amazon-corretto-17.0.20.10.1-macosx-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "17.0.20.10.1",
+  "jvm_impl": "hotspot",
+  "md5": "9f4bcec028de14f510552beb054691a7",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-17.0.20.10.1",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+10-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:06a3568daa47+"
+  },
+  "release_type": "ga",
+  "sha1": "2f65eb75293b70b672bfc45d034e368ee23cc4ec",
+  "sha256": "a8bb7815b50ebf4387b05c089454096da61830d769b9d4af75975b9bf328d9ea",
+  "sha512": "d8fded016c8e74d0aee588b9ea67509dad8d32bd3b5e01e8d7a661c43de65a2a23c03fb3fcf2c73e99e2d1fd32eda380a6ed4b1336c5fa68187b6e370acdfd31",
+  "size": 188785319,
+  "url": "https://corretto.aws/downloads/resources/17.0.20.10.1/amazon-corretto-17.0.20.10.1-macosx-x64.pkg",
+  "vendor": "amazon",
+  "version": "17.0.20.10.1"
+}

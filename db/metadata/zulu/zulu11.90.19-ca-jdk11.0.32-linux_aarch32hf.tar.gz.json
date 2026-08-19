@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu11.90.19-ca-jdk11.0.32-linux_aarch32hf.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32",
+  "jvm_impl": "hotspot",
+  "md5": "a2c7b0bf2cb1332a8d84505c2735c263",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.90+19-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.32+9-LTS",
+    "JAVA_VERSION": "11.0.32",
+    "JAVA_VERSION_DATE": "2026-07-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1174aebc1b42"
+  },
+  "release_type": "ga",
+  "sha1": "e92a9dc7fbfcf12e2b417180a876b35af13f7148",
+  "sha256": "f6f53f75256aec14cfcd6b8cff332d63a6e842e22f96cd7257590e93a978830d",
+  "sha512": "24f1c30156ee72627cc5c6df08add0d6d089c30dce9b0a486d0b68c9cc947985057782f77ae1e265d61dd93269c8742d486f8bab1005cc329fa0af47f2807ea3",
+  "size": 177547680,
+  "url": "https://static.azul.com/zulu/bin/zulu11.90.19-ca-jdk11.0.32-linux_aarch32hf.tar.gz",
+  "vendor": "azul",
+  "version": "11.90.19"
+}

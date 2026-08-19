@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-17.0.20.10.1-macosx-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20.10.1",
+  "jvm_impl": "hotspot",
+  "md5": "7b6d3d20cd99eae0c6aaf7f8828c3587",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-17.0.20.10.1",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+10-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:06a3568daa47+"
+  },
+  "release_type": "ga",
+  "sha1": "7c94af4902679cfdb363b0279cb8d812679dbdd2",
+  "sha256": "3e328eaf6e82c5a95afc5bdfa8b65b387e18836f57e95bde31c0ad476678edf9",
+  "sha512": "6c30c58d2e1c0dcdcd81cfe6459a5b81a1aae761c8038f0edbf9c2f0cabac8a11602785dca531dbe49d1e230a196bbba4c3e964ccd4801d9c55659a70408cd36",
+  "size": 188745962,
+  "url": "https://corretto.aws/downloads/resources/17.0.20.10.1/amazon-corretto-17.0.20.10.1-macosx-x64.tar.gz",
+  "vendor": "amazon",
+  "version": "17.0.20.10.1"
+}

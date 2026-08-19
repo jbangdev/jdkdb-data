@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-25.0.4.8.1-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.8.1",
+  "jvm_impl": "hotspot",
+  "md5": "78cdb9b2f0cc0b895e247017039b1b21",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.4.8.1",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+8-LTS",
+    "JAVA_VERSION": "25.0.4.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cc595d4116dd+"
+  },
+  "release_type": "ga",
+  "sha1": "5eec423f477a0375630b5f721fe3104988dc3d25",
+  "sha256": "d4acc8a6175d6aa98bb0c27ddaa138c68553ac6c097b57f417c38f536b414113",
+  "sha512": "537d6cac43b84a2d98764711e1b4ef465969597ff6afc069e5c5941dfcb7ee107b93586feb866086cc5d61732519679d6cd204e861758e98a0dc32fb8d35f8fc",
+  "size": 225235504,
+  "url": "https://corretto.aws/downloads/resources/25.0.4.8.1/amazon-corretto-25.0.4.8.1-linux-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "25.0.4.8.1"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "msi",
+  "filename": "amazon-corretto-25.0.4.8.1-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "25.0.4.8.1",
+  "jvm_impl": "hotspot",
+  "md5": "94c3090743696e7a20cc2f3b841c28cb",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.4.8.1",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+8-LTS",
+    "JAVA_VERSION": "25.0.4.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "430f39ad15cf96cb4c13089721f17c3a0851ce74",
+  "sha256": "dd3d159ebba266016c301145340fb6523bb1943af9c6cb1ca47fa8099d986a12",
+  "sha512": "7b5c04bfca26d7fa387bb73933712df4eeeb36749f8c06dadc4964881a4edba3e3190dfe9cd7356846180d35639655dba61b999f451504d2be89338885a30f10",
+  "size": 198504448,
+  "url": "https://corretto.aws/downloads/resources/25.0.4.8.1/amazon-corretto-25.0.4.8.1-windows-x64.msi",
+  "vendor": "amazon",
+  "version": "25.0.4.8.1"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-26.0.2.11.1-macosx-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2.11.1",
+  "jvm_impl": "hotspot",
+  "md5": "bb91c51b2a0f44847b3cb315d57fbdc1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-26.0.2.11.1",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+11-FR",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:515b275a9a9a+"
+  },
+  "release_type": "ga",
+  "sha1": "037358dc78e0cafaa6f3847d5ab7239855a1515b",
+  "sha256": "328c25729dda95fdb5caead2cf39f997877acefbde356c6ce55ff2d1585d6ec5",
+  "sha512": "b80f127a5ecb55ae93310246094b7f7ea02281812aee38183b0721c37d428d9ab091a797c2b3e67d53638cebbdeef4d15cde21794dd79b28012a6fd9781c1a46",
+  "size": 223490899,
+  "url": "https://corretto.aws/downloads/resources/26.0.2.11.1/amazon-corretto-26.0.2.11.1-macosx-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "26.0.2.11.1"
+}
