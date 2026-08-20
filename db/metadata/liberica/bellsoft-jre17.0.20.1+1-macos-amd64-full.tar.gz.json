@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre17.0.20.1+1-macos-amd64-full.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.20.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "60640a9157d3465d0506c75f6606a815",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+1-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:683123031b9d+"
+  },
+  "release_type": "ga",
+  "sha1": "ab606d2d44d77f2362e5e4f217b0b2fc4a231aec",
+  "sha256": "493283b6c8b302e5d42639d9eb992e75dfc1c057e849e78963782fcd8ca13f82",
+  "sha512": "81c68bf45374347dbbcd6a431ba15a4e14c1f9169cf09b456dc5a3ab60ba5b690cbcbc5854280dfe89acaf8e661d3bebde07276f1edd6da8ef24a83460e16aa9",
+  "size": 103573620,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20.1+1/bellsoft-jre17.0.20.1+1-macos-amd64-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.20.1+1"
+}

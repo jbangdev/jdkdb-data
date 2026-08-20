@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu26.32.203-ca-jre26.0.2.1-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "26.0.2.1",
+  "jvm_impl": "hotspot",
+  "md5": "0d6ace716a263066bd8cd2dcdfd17de9",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+203-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bac6a1980d8c"
+  },
+  "release_type": "ga",
+  "sha1": "7eadfa3c291ef2f127becd75edd31932cb36e336",
+  "sha256": "68dc6b53980b51d1f020468ccd48d0b31863e2b00fbe933dfd0ee9c0ad8fdaca",
+  "sha512": "5f2aa61c057c43e088505bd6515fa6206d5223d5f2af408806bc9f8a80662db61b9d4fd9381627d56e557d6af95519d49189cdd3ac14aa6539bf4a1d3210dbb5",
+  "size": 58079401,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.203-ca-jre26.0.2.1-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "26.32.203"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu26.32.203-ca-jdk26.0.2.1-macosx_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "26.0.2.1",
+  "jvm_impl": "hotspot",
+  "md5": "fa2bd0c8712549866a93bc44950baff8",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+203-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bac6a1980d8c"
+  },
+  "release_type": "ga",
+  "sha1": "bee168f891b652e8928c652ccfc35b027bdc8035",
+  "sha256": "4074a99b7487ba0b82eecb6086ef1ae6f2992bf48510d4610bb1ee22e1ea060f",
+  "sha512": "5048738ada1813a0d40c664f96269b6653adbf834df70f379967bb8e6ad52105e0a8e850fab87e1f3459eabbfc3b01921e1a1bdeadf75b771cc1982aef7de8ef",
+  "size": 231523376,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.203-ca-jdk26.0.2.1-macosx_x64.tar.gz",
+  "vendor": "azul",
+  "version": "26.32.203"
+}

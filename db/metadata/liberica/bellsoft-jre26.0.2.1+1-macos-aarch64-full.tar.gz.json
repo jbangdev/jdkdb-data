@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre26.0.2.1+1-macos-aarch64-full.tar.gz",
+  "image_type": "jre",
+  "java_version": "26.0.2.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "b8647f000d30acd244774e35c3aafce4",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:30d6a33b5329+"
+  },
+  "release_type": "ga",
+  "sha1": "485b4055a098d2c3f513bdf0602a41ab6f6c02fe",
+  "sha256": "f8004cda41be06917d6da18e6edef1824545fb7dee7318a2876071d71d55370d",
+  "sha512": "9a64dbbf5422e28cd66c0226e09c362af8372175f2c1514921f5cf12bcf1999011bcfd7579578ee7a19bc16c0d7aaed65b830209f4b2fcd44755c0467afe6fe0",
+  "size": 128204443,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2.1+1/bellsoft-jre26.0.2.1+1-macos-aarch64-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "26.0.2.1+1"
+}

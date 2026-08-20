@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre17.0.20.1+1-macos-aarch64-full.pkg",
+  "image_type": "jre",
+  "java_version": "17.0.20.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "7fb0dc0a8f89db22e866f286e48aec1c",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+1-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d0b92021adb2+"
+  },
+  "release_type": "ga",
+  "sha1": "7ca7a2d1e3d90551db32cb600237b819dcce1347",
+  "sha256": "be8a364aec2fe85d13ea3589f7bc50cade460917e470bc942bee9b0dbb311e4a",
+  "sha512": "b7cbc5f4c76b08a42fd2f6d511ccee9a10d6f98d7c7b741419cf1a8365d31b871b3c0551fc3349f044c19942db00b38d383f57eee77347d4680dbdc687743b2c",
+  "size": 100928524,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20.1+1/bellsoft-jre17.0.20.1+1-macos-aarch64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "17.0.20.1+1"
+}

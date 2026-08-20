@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "bellsoft-jre17.0.20.1+1-macos-amd64-full.zip",
+  "image_type": "jre",
+  "java_version": "17.0.20.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "290b05fb32adcd1f3251caa29e73e988",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+1-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:683123031b9d+"
+  },
+  "release_type": "ga",
+  "sha1": "41b1564031312ee648fd523c4d98c5fea0169ca7",
+  "sha256": "f6025f1270c9698b08405732d1e9b1ae0a234109706af38acab88e909f0fbd31",
+  "sha512": "7d0fc154314bf63c948a8af3b9a9f02f876a789b5979537fde259bd6e64c25db3c25b2462cd7d10a0907f0f6dd6a2dbbc7316a832005d2cf908b3a3cf8d995ec",
+  "size": 104443643,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20.1+1/bellsoft-jre17.0.20.1+1-macos-amd64-full.zip",
+  "vendor": "bellsoft",
+  "version": "17.0.20.1+1"
+}

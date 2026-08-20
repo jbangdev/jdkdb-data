@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "zip",
+  "filename": "zulu11.90.205-ca-jdk11.0.32.1-win_x64.zip",
+  "image_type": "jdk",
+  "java_version": "11.0.32.1",
+  "jvm_impl": "hotspot",
+  "md5": "898f7236c55c4988b17fe262811f101a",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.90+205-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.32.1+1-LTS",
+    "JAVA_VERSION": "11.0.32.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c28ca4a896ab+"
+  },
+  "release_type": "ga",
+  "sha1": "96bcc661efca6108d9416c593ff94a2e4bd5ca31",
+  "sha256": "6be8ae0045404312e7e71c800cdaa03955b3b5951b0b7982de715fa03c71a1a6",
+  "sha512": "d28643691334b08e807f881dd3b05c0cc9bdb607f8b30eb97a056ee538ae7e7790c47a7a9bbe0e4950bc299e68849f21da8315234695615a56e2e38014bc2d57",
+  "size": 198236643,
+  "url": "https://static.azul.com/zulu/bin/zulu11.90.205-ca-jdk11.0.32.1-win_x64.zip",
+  "vendor": "azul",
+  "version": "11.90.205"
+}

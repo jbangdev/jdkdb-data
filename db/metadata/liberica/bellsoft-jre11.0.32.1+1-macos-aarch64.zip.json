@@ -1,0 +1,31 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [],
+  "file_type": "zip",
+  "filename": "bellsoft-jre11.0.32.1+1-macos-aarch64.zip",
+  "image_type": "jre",
+  "java_version": "11.0.32.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "404b970025250c13be9930f188ce49f1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32.1+1-LTS",
+    "JAVA_VERSION": "11.0.32.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:0b5ac8f5fca4+"
+  },
+  "release_type": "ga",
+  "sha1": "27f8ae93622cb745b65773c6057ecd76e5c12155",
+  "sha256": "47ab653d8e97098f06f2abaa826d75305f31b7b91e24c4fa7d0f430b01a47524",
+  "sha512": "6d124ea8dc2ecfa5ba6ef953373eeed0abfb05af5b7e9a61bb5781c1d3fc46a6a2a016871bf3f0de1fd01227fb47a945732152a74466082c774e67ae26c434fc",
+  "size": 41133892,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32.1+1/bellsoft-jre11.0.32.1+1-macos-aarch64.zip",
+  "vendor": "bellsoft",
+  "version": "11.0.32.1+1"
+}

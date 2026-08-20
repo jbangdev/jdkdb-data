@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jre11.0.32.1+1-linux-amd64-full.deb",
+  "image_type": "jre",
+  "java_version": "11.0.32.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "dde049581136bd23e57c65490b479772",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.32.1+1-LTS",
+    "JAVA_VERSION": "11.0.32.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:8a2e9a82456e+"
+  },
+  "release_type": "ga",
+  "sha1": "9cc570a5b71bc94e86dfeba8955aabd4382857f4",
+  "sha256": "b6d3936abe24b66854083d902ccfff1d4ad0ddf8a0033e2601e91f21cddb4c42",
+  "sha512": "a2fecae088b237f5c64f520fdaf5e9f44aa51346183fecb16c28abd13a8a9525b28a8b2fbe52d8eb6e9b09b82b532d7a63c7f91e0290ef3069b91a2b4b80e727",
+  "size": 75481044,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32.1+1/bellsoft-jre11.0.32.1+1-linux-amd64-full.deb",
+  "vendor": "bellsoft",
+  "version": "11.0.32.1+1"
+}

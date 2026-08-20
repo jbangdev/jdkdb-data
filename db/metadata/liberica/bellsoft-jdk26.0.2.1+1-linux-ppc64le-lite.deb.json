@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jdk26.0.2.1+1-linux-ppc64le-lite.deb",
+  "image_type": "jdk",
+  "java_version": "26.0.2.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "3510d7f0875ac194b3e13af8e5e15cd1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:272c8de0a4d5+"
+  },
+  "release_type": "ga",
+  "sha1": "4b182a346f60cb45c785c548b788c9afb38834f7",
+  "sha256": "4e5dc221ba01df1e22313088300c7b18233b6a42eed4857e4c5659448f28861a",
+  "sha512": "8d7da25d8e328d90a1ee5f316cf3fa8bc334341c77693cdacdf85586a234dcfa95a16d4cd6b141f5b4771942064bfd742e69a9ba2e9fa76c8de38e4daf89cc13",
+  "size": 79517576,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2.1+1/bellsoft-jdk26.0.2.1+1-linux-ppc64le-lite.deb",
+  "vendor": "bellsoft",
+  "version": "26.0.2.1+1"
+}

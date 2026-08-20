@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-21.0.12.1-macos-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.12.1",
+  "jvm_impl": "hotspot",
+  "md5": "04e8422c57baf165d3c472ecab05fe26",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-14941485",
+    "JAVA_RUNTIME_VERSION": "21.0.12.1+1-LTS",
+    "JAVA_VERSION": "21.0.12.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:6f26c6b2b098"
+  },
+  "release_type": "ga",
+  "sha1": "3f1df57e409aad263967cafd78b9822e061d4324",
+  "sha256": "7a27a750ad4aadd9256565c6b92f30befc58e8562f5d2d0e3a86fdf7695bebfc",
+  "sha512": "0587126b67c1637d45903037dd025818ff8fa45a61f87b5125cd440fea92e78f91612e901bfd60fab0c424c998d2e7b9ce146bb0d73fdabe16cbd1950bdf69df",
+  "size": 202449572,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.12.1-macos-x64.tar.gz",
+  "vendor": "microsoft",
+  "version": "21.0.12.1"
+}
