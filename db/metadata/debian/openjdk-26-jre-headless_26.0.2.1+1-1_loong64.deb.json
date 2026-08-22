@@ -1,0 +1,33 @@
+{
+  "architecture": "loong64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-26-jre-headless_26.0.2.1+1-1_loong64.deb",
+  "image_type": "jre",
+  "java_version": "26.0.2.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "588662e019dc10803c73dfd43d25dfa7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1-1-Debian",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "loongarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "f7024069fed4594d591f6ba84c07bb64a18d7715",
+  "sha256": "3fd29cfdfe2fdf41d57737d8ed9226540906e742880cd186c6efe50bc9426013",
+  "sha512": "2ced96eb80ec421a5220cc6bb4e39d6342d7dd5a6eedcafc556cf01c3444b409863d62cce2608def5bb739b689fae6a86bc7b9a307e4395e53cbf2876a81e025",
+  "size": 42736208,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26.0.2.1+1-1_loong64.deb",
+  "vendor": "debian",
+  "version": "26.0.2.1+1-1"
+}
