@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "pkg",
+  "filename": "amazon-corretto-27.0.0.34.1-macosx-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "27.0.0.34.1",
+  "jvm_impl": "hotspot",
+  "md5": "abb28d7699d51d817a4796227db6138c",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.0.34.1",
+    "JAVA_RUNTIME_VERSION": "27+34-FR",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:523ae644c894+"
+  },
+  "release_type": "ga",
+  "sha1": "a1bce7a60c26345f4cb41902da721b52a2098b8b",
+  "sha256": "56720e8882ab1f5e4a413783c725d24203ae0aa4a022f559830aee8af145d57e",
+  "sha512": "9683f636c04429898c78ea1424c22bade923e1c4ddfe2ed900e2d87bcc7d30f591399dbb41f9d5b81eb1bd1a0ddcd03809adcb2fe8875f71c288d246d4f566e5",
+  "size": 223687095,
+  "url": "https://corretto.aws/downloads/resources/27.0.0.34.1/amazon-corretto-27.0.0.34.1-macosx-x64.pkg",
+  "vendor": "amazon",
+  "version": "27.0.0.34.1"
+}

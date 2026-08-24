@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-27.0.0.34.1-macosx-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0.34.1",
+  "jvm_impl": "hotspot",
+  "md5": "9e9d366e02a4028e7a1c92eafdc7437b",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.0.34.1",
+    "JAVA_RUNTIME_VERSION": "27+34-FR",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:523ae644c894+"
+  },
+  "release_type": "ga",
+  "sha1": "9fbb8c6b310cff3234654a51e6a2edac83da7db3",
+  "sha256": "81300599163f8426aefcff8bbc419a8b92909bbf1dd9bbd812ed3d4eb3f4e790",
+  "sha512": "67cd44960681858cbb9ebf058f91843a498d2978212afde449d4a60d68d813516b72b72c3765d1db8ee78f1d9663f828fc4bdd5777c2bc600ba3e32eedf99eea",
+  "size": 223619584,
+  "url": "https://corretto.aws/downloads/resources/27.0.0.34.1/amazon-corretto-27.0.0.34.1-macosx-x64.tar.gz",
+  "vendor": "amazon",
+  "version": "27.0.0.34.1"
+}
