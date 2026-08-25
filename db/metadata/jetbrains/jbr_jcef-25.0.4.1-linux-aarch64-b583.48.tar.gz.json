@@ -1,0 +1,36 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-25.0.4.1-linux-aarch64-b583.48.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "md5": "c28d4f1d5e8729ba2f7f33bc14f903c6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-583.48-jcef",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b583.48",
+    "JAVA_VERSION": "25.0.4.1",
+    "JCEF_COMMIT_HASH": "3f4e03e099488e0e2ae264041986a9a1e19536a7",
+    "JCEF_VERSION": "150.0.14.1214+g3f4e03e",
+    "JCEF_VERSION_DETAILED": "150.0.14-g7c1aa68-chromium-150.0.7871.129-api-1.21-263-b10",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:868e6eaecc70+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "ed575d36dfe4fd0b1dadf4349514a683df3ea145",
+  "sha256": "4367a16cfd0a95ff1d309ae0b9ea9bda0ec792defa4a3696942c2778745f4a03",
+  "sha512": "13841efbae2a308cff028db229282f69fb5e94c2b0e7c5bc18f5d958f2fa8d85b4d6547609251d9c8008105035aa5c842455fbe4c7945576757b7e71f6be43c8",
+  "size": 261143323,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.4.1-linux-aarch64-b583.48.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b583.48"
+}

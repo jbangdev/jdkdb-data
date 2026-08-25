@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-25.0.5-ea.3_linux-x64-musl_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5-ea.3",
+  "jvm_impl": "hotspot",
+  "md5": "4961361738725ca400d68315b5c2d44b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "25.0.5-ea+3",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:efaa518a49e0"
+  },
+  "release_type": "ea",
+  "sha1": "42af1843477a8ddfff119f031da2e3043879a091",
+  "sha256": "670678838caaa7dfff27203a218c424d75dc1be1e3464d023554470fc254ce90",
+  "sha512": "2d6d610aa82d9f0d23325e0e3232cb7b02f84282823e6da33d3a7e06bd5b9a55ba7a278bb94daa3e1183332e4d5cd7353301c0370c93ffaa2bf1a2b2184854af",
+  "size": 51087149,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5%2B3/sapmachine-jre-25.0.5-ea.3_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "25.0.5-ea.3"
+}
