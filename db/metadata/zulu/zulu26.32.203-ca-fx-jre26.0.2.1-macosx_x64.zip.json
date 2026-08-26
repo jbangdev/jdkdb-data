@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu26.32.203-ca-fx-jre26.0.2.1-macosx_x64.zip",
+  "image_type": "jre",
+  "java_version": "26.0.2.1",
+  "jvm_impl": "hotspot",
+  "md5": "745da0ef4c28dcac0f17cc4115d560b9",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+203-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bac6a1980d8c"
+  },
+  "release_type": "ga",
+  "sha1": "9ff7c38fde300ba20b9560298021491792a2d35b",
+  "sha256": "0750dbc545a42d3d87e9597d3c0564d37d3efe7bc4ef45ac9b3f6fef1e1c7ee6",
+  "sha512": "7df1b8243e08a9a2037ddfa48e95a2c50bffd4f849bc22c0e7b9c03a1f8f4663c8e2875e28eec579b77d33dfb6e832988bf9890b269833a6ba6e1259869f0001",
+  "size": 105964870,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.203-ca-fx-jre26.0.2.1-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "26.32.203"
+}

@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu26.32.203-ca-fx-jre26.0.2.1-win_x64.zip",
+  "image_type": "jre",
+  "java_version": "26.0.2.1",
+  "jvm_impl": "hotspot",
+  "md5": "243bc80388db7376c5c179898be25534",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+203-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:bac6a1980d8c"
+  },
+  "release_type": "ga",
+  "sha1": "9b20f56f0dc553f679e99a3d59e6b8b9f6d90b7b",
+  "sha256": "312b10644c87e4346a6f79b846870fb223e7b82009368a797a03ddcf55eb7c76",
+  "sha512": "6d00611e673869f39d1b782c3aac5d6f73ddf673df358bdfeb64169bab31850190545297292c888a1a201d9248c5369413e05d787673f9f31b38d08226a03e0a",
+  "size": 102994469,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.203-ca-fx-jre26.0.2.1-win_x64.zip",
+  "vendor": "azul",
+  "version": "26.32.203"
+}

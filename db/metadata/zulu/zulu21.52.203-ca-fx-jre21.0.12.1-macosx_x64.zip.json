@@ -1,0 +1,34 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu21.52.203-ca-fx-jre21.0.12.1-macosx_x64.zip",
+  "image_type": "jre",
+  "java_version": "21.0.12.1",
+  "jvm_impl": "hotspot",
+  "md5": "6a4527c6394411a0741dc3040889222e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.52+203-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.12.1+1-LTS",
+    "JAVA_VERSION": "21.0.12.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:e4d8b5de0c3f"
+  },
+  "release_type": "ga",
+  "sha1": "f45071cddb167eb3a4076bd1c782e8557188c09e",
+  "sha256": "5b92ce3ac65c07d503a0f23123168b000f603ba200c8195cab2c853f06cba12e",
+  "sha512": "bc01c19dade5d14a65af0bb94bebd9006984373ea7d4472015076672eb10c2689f46c23cb55c365c3e2ebd8ed7d284dea524befff9c29e1479dd75966cb0368d",
+  "size": 95149271,
+  "url": "https://static.azul.com/zulu/bin/zulu21.52.203-ca-fx-jre21.0.12.1-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "21.52.203"
+}

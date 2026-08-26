@@ -1,0 +1,31 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu8.96.0.205-ca-fx-jdk8.0.504-macosx_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8.0.504",
+  "jvm_impl": "hotspot",
+  "md5": "5939846eb697b9c3a7de6d739df4f40e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu8.96.0.205-CA-macos-aarch64",
+    "JAVA_VERSION": "1.8.0_504",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "OS_VERSION": "11.2",
+    "SOURCE": ".:git:5076ddb3dd5d"
+  },
+  "release_type": "ga",
+  "sha1": "570bdc15520e14a45ecaa48c1fdd99d57834664b",
+  "sha256": "300feca3a32385d5181021c30ffd88aeaa392c83e21565ca72759f73f26d8770",
+  "sha512": "1cf2dfcc72efb7fcdf3836e380163e10a4259bbbdd920716d46503b2cd0e4f637e70ebd57dd1841f22bc100578bc51f7a4f19b2b0746e99b8634157d417f7134",
+  "size": 163321841,
+  "url": "https://static.azul.com/zulu/bin/zulu8.96.0.205-ca-fx-jdk8.0.504-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "8.96.0.205"
+}

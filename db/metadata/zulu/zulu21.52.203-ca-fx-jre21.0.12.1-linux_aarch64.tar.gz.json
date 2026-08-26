@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu21.52.203-ca-fx-jre21.0.12.1-linux_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.12.1",
+  "jvm_impl": "hotspot",
+  "md5": "2c28835e2a1c504afa1dccb487706564",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.52+203-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.12.1+1-LTS",
+    "JAVA_VERSION": "21.0.12.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:e4d8b5de0c3f"
+  },
+  "release_type": "ga",
+  "sha1": "ebbd43d480f76a92ccac112689dd78f00dcf8f62",
+  "sha256": "d797de573936bd98e547dd5fdd61455924f9fffee5a430956a521b3224c72ad5",
+  "sha512": "9e84b5d8553fed0e16e17dc2f3bc484f65ba0ab8c7d2a73625f108f9232d789e33a108d64771325a6003ab6c292ef629ccef103f75e5852b261ab8a8639ce90a",
+  "size": 103042464,
+  "url": "https://static.azul.com/zulu/bin/zulu21.52.203-ca-fx-jre21.0.12.1-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "21.52.203"
+}

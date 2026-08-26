@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu26.32.203-ca-fx-jre26.0.2.1-macosx_aarch64.zip",
+  "image_type": "jre",
+  "java_version": "26.0.2.1",
+  "jvm_impl": "hotspot",
+  "md5": "43ea3b421d461a1fc5d374f3a2d62af6",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu26.32+203-CA",
+    "JAVA_RUNTIME_VERSION": "26.0.2.1+1",
+    "JAVA_VERSION": "26.0.2.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bac6a1980d8c"
+  },
+  "release_type": "ga",
+  "sha1": "29fa6858defa060dac98b7a36ebb458f32e1893d",
+  "sha256": "c3e4c3df37c149b16046b9b57cf19165fd6ade333160e6dcc0b80d14adbd4bff",
+  "sha512": "b192b8da5842b39518c8926d5f2d593ad835e67705ce25060ce349b295d53f0892006ade8adea031bc66013e99798e100ce17915869dc5cc2b1c2e5781a8a19f",
+  "size": 103579128,
+  "url": "https://static.azul.com/zulu/bin/zulu26.32.203-ca-fx-jre26.0.2.1-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "26.32.203"
+}

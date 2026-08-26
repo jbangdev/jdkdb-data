@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "soft-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-25-jre-headless_25.0.4.1+1-1~deb13u1_armel.deb",
+  "image_type": "jre",
+  "java_version": "25.0.4.1+1",
+  "jvm_impl": "hotspot",
+  "md5": "2fbb1244080e781e69e4c9fa7e5b58e9",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-1-deb13u1-Debian",
+    "JAVA_VERSION": "25.0.4.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "45ccae13ca9ee15d090559f1b0d6f8aaa8c31649",
+  "sha256": "759643b12a7c1a0f51ba6dfc9590766acc83afbd59101d412c33519dda56d604",
+  "sha512": "83283cbe698aba9c673850353324ff1e7b2a3dc4627ccc8c6f9e7d0277e26723a37b0c49f1f9a0f30b1a2d6a6068373ed5a6e42dcd513dc8d751cdeb94d5bf83",
+  "size": 37557004,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.4.1+1-1~deb13u1_armel.deb",
+  "vendor": "debian",
+  "version": "25.0.4.1+1-1~deb13u1"
+}

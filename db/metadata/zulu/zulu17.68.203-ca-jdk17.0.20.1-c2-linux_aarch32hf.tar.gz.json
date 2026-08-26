@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "zulu",
+  "features": [],
+  "file_type": "tar.gz",
+  "filename": "zulu17.68.203-ca-jdk17.0.20.1-c2-linux_aarch32hf.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.20.1-c2",
+  "jvm_impl": "hotspot",
+  "md5": "034b7b6a9c7331d8d3987e272f6035ef",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+203-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+1-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c8d89ecf367c",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "6fb9fecc2d89b1efb1530d019e713e123ef2b3e6",
+  "sha256": "ba5ab210848b0eef35ae616aa1709776222b53612ca693e162b0833b0103afd8",
+  "sha512": "42304baecaa7a3eacc675ccda336230da284d244e9095e67aa4a14dbcd42c815ea11cc417b34082a8fecdc3fc1b6b4317ca479efad072d9a789e5b5c61e026a4",
+  "size": 183382851,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.203-ca-jdk17.0.20.1-c2-linux_aarch32hf.tar.gz",
+  "vendor": "azul",
+  "version": "17.68.203"
+}
