@@ -1,7 +1,7 @@
 {
   "architecture": "aarch64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b04-ea.tar.gz",
   "image_type": "jdk",
@@ -31,6 +31,7 @@
   "sha256": "58bff0d0e34b73d13daf3c10d6db7d8cf221870582e3b6ce2b8aea30a52b751f",
   "sha512": "1ff0d86ba5fa381958e50c43dc124644df4b9ca9c8275709cd74500858750bf1e21f6ca0a169efb11ae4c5a119321141851ad17652b4576feae8feb41b450306",
   "size": 102591338,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b04-ea-beta/OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b04-ea.tar.gz",
   "vendor": "eclipse",
   "version": "8u492-b04-ea-beta"

@@ -1,7 +1,7 @@
 {
   "architecture": "x86_64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK8U-jre_x64_mac_hotspot_8u492b04-ea.tar.gz",
   "image_type": "jre",
@@ -31,6 +31,7 @@
   "sha256": "8f987fd270e0283dde7203da6bdb41e14584d72274ee9eb0df72c492a38bcc9d",
   "sha512": "eeaf4d527b0081c3582c98c874962c72547d298b0400737d824faaf27970ee33640099836c75ce1345b5f4e23048d8aaca40f39fa496cea908be627eaf493b33",
   "size": 44351275,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b04-ea-beta/OpenJDK8U-jre_x64_mac_hotspot_8u492b04-ea.tar.gz",
   "vendor": "eclipse",
   "version": "8u492-b04-ea-beta"

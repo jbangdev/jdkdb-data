@@ -1,23 +1,24 @@
 {
-    "architecture": "s390x",
-    "distro": "debian",
-    "features": [
-      "zero"
-    ],
-    "file_type": "deb",
-    "filename": "openjdk-21-jre-zero_21.0.12+8-1~deb13u1_s390x.deb",
-    "image_type": "jre",
-    "java_version": "21.0.12+8",
-    "jvm_impl": "hotspot",
-    "md5": "3928a3f4351c5fb441adb256ca5f4525",
-    "os": "linux",
-    "release_info": {},
-    "release_type": "ga",
-    "sha1": "929bb616403570505725dad71a1ae40eeade2965",
-    "sha256": "c645ac31ad512e13ad99287d87d01e2a0bfe20e96c5a6806fe8a7c1c1b252b35",
-    "sha512": "2a4f7295254da5c227629518352b179f1a99e0eaee87014fab3a0b7220f7240a6b2500235d8d393e738af97d3c29cc51514c3839d19d08b7d1e66f574317a0af",
-    "size": 8396648,
-    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.12+8-1~deb13u1_s390x.deb",
-    "vendor": "debian",
-    "version": "21.0.12+8-1~deb13u1"
-  }
+  "architecture": "s390x",
+  "distro": "debian",
+  "features": [
+    "zero"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-zero_21.0.12+8-1~deb13u1_s390x.deb",
+  "image_type": "jre",
+  "java_version": "21.0.12+8",
+  "jvm_impl": "hotspot",
+  "md5": "3928a3f4351c5fb441adb256ca5f4525",
+  "os": "linux",
+  "release_info": { },
+  "release_type": "ga",
+  "sha1": "929bb616403570505725dad71a1ae40eeade2965",
+  "sha256": "c645ac31ad512e13ad99287d87d01e2a0bfe20e96c5a6806fe8a7c1c1b252b35",
+  "sha512": "2a4f7295254da5c227629518352b179f1a99e0eaee87014fab3a0b7220f7240a6b2500235d8d393e738af97d3c29cc51514c3839d19d08b7d1e66f574317a0af",
+  "size": 8396648,
+  "unlisted_since": "2026-08-27",
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.12+8-1~deb13u1_s390x.deb",
+  "vendor": "debian",
+  "version": "21.0.12+8-1~deb13u1"
+}

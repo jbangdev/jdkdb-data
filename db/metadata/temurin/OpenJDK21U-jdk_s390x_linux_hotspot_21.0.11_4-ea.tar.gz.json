@@ -1,7 +1,7 @@
 {
   "architecture": "s390x",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.11_4-ea.tar.gz",
   "image_type": "jdk",
@@ -35,6 +35,7 @@
   "sha256": "b8c532d1364eea0daf0970421c928a3265d2f77237e0b5b7087abc3dfe19c0d9",
   "sha512": "2c486829db00b5db44d63ba32c6ebae888b6da18a78259658a6f87ebf2a64634200ba22a95aad781f06bcdd1d248211f3958417018aa810e70d91e478b2765ca",
   "size": 194852239,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B4-ea-beta/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.11_4-ea.tar.gz",
   "vendor": "eclipse",
   "version": "21.0.11+4-ea-beta"

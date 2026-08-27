@@ -1,7 +1,7 @@
 {
   "architecture": "x86_64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "zip",
   "filename": "OpenJDK8U-jre_x64_windows_hotspot_8u492b04-ea.zip",
   "image_type": "jre",
@@ -31,6 +31,7 @@
   "sha256": "33aa7af2457fba143df8ff271c0ea7f57b71e387706626c6db721b5f094a512c",
   "sha512": "8b1bcf634855a2d67272dae8c8b39a0f33b0424c983e1daac27a0d9f781aae1e6581f2317b4bcb9bd7736863f654615dc653b27ccd4ff1396dd619f54c7d72b0",
   "size": 40112223,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b04-ea-beta/OpenJDK8U-jre_x64_windows_hotspot_8u492b04-ea.zip",
   "vendor": "eclipse",
   "version": "8u492-b04-ea-beta"

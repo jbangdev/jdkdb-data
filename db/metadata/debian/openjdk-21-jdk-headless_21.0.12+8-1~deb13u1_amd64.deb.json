@@ -1,23 +1,24 @@
 {
-    "architecture": "x86_64",
-    "distro": "debian",
-    "features": [
-      "headless"
-    ],
-    "file_type": "deb",
-    "filename": "openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_amd64.deb",
-    "image_type": "jdk",
-    "java_version": "21.0.12+8",
-    "jvm_impl": "hotspot",
-    "md5": "868c9047d29ebbebccbd49ca27d5162d",
-    "os": "linux",
-    "release_info": {},
-    "release_type": "ga",
-    "sha1": "f085d87540fb7f1da7e163c6512b4b7437f63307",
-    "sha256": "5e0626f93327bf220bfa18ae9c24c766b2b4cfc3225f8db1039152575417e539",
-    "sha512": "58a5c1bdb9f8ec9f98f4c2176acb2e7636b7882f8dd73e686639f090dc87f3fc2e03e7ae617d19b3e221a73e436ecac5aa23e374f76f44c4d0e98765c6d66912",
-    "size": 83016252,
-    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_amd64.deb",
-    "vendor": "debian",
-    "version": "21.0.12+8-1~deb13u1"
-  }
+  "architecture": "x86_64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_amd64.deb",
+  "image_type": "jdk",
+  "java_version": "21.0.12+8",
+  "jvm_impl": "hotspot",
+  "md5": "868c9047d29ebbebccbd49ca27d5162d",
+  "os": "linux",
+  "release_info": { },
+  "release_type": "ga",
+  "sha1": "f085d87540fb7f1da7e163c6512b4b7437f63307",
+  "sha256": "5e0626f93327bf220bfa18ae9c24c766b2b4cfc3225f8db1039152575417e539",
+  "sha512": "58a5c1bdb9f8ec9f98f4c2176acb2e7636b7882f8dd73e686639f090dc87f3fc2e03e7ae617d19b3e221a73e436ecac5aa23e374f76f44c4d0e98765c6d66912",
+  "size": 83016252,
+  "unlisted_since": "2026-08-27",
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.12+8-1~deb13u1_amd64.deb",
+  "vendor": "debian",
+  "version": "21.0.12+8-1~deb13u1"
+}

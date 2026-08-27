@@ -1,7 +1,7 @@
 {
   "architecture": "ppc64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.11_4-ea.tar.gz",
   "image_type": "jre",
@@ -35,6 +35,7 @@
   "sha256": "07108dda2af89bb1db198b8da3751c9d566b2eed3276e3d3d1a6203fc44000da",
   "sha512": "1e9881d5aab923e76d2d1a6c9583a2de410e5965409ccb4b7f83bbd4a67f13c4ced3fb3592ee4b872d63f0e29f7c116d9f78f9ce98d8550d74671a45fd2cc1ca",
   "size": 48329210,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B4-ea-beta/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.11_4-ea.tar.gz",
   "vendor": "eclipse",
   "version": "21.0.11+4-ea-beta"

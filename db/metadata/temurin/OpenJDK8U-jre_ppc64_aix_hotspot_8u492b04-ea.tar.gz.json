@@ -1,7 +1,7 @@
 {
   "architecture": "ppc64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK8U-jre_ppc64_aix_hotspot_8u492b04-ea.tar.gz",
   "image_type": "jre",
@@ -31,6 +31,7 @@
   "sha256": "9a4d806d7109b413169e1598db3c28c84efebbe88e1aaef08f969dfef6c89507",
   "sha512": "90ad62361096cabb5d44a1b0b6d08ab92fe04be492b4de8809ee271809d44fc464ae1ad624dc2f09692504cb0fc53291d1fca5cd585ab7a0f083504ba9047fd2",
   "size": 43610018,
+  "unlisted_since": "2026-08-27",
   "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b04-ea-beta/OpenJDK8U-jre_ppc64_aix_hotspot_8u492b04-ea.tar.gz",
   "vendor": "eclipse",
   "version": "8u492-b04-ea-beta"
