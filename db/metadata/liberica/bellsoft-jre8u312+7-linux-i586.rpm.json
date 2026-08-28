@@ -1,14 +1,22 @@
 {
   "architecture": "i686",
   "distro": "liberica",
-  "features": [],
+  "features": [ ],
   "file_type": "rpm",
   "filename": "bellsoft-jre8u312+7-linux-i586.rpm",
   "image_type": "jre",
   "java_version": "8u312+7",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-28",
   "md5": "bcdae0b3b4a6f61ac7b6b2a492d949fa",
   "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_312",
+    "OS_ARCH": "i586",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": " .:dcb218f54ca1+ corba:fc16e4d4edb4 hotspot:a0ac8080b1cf+ jaxp:0a8784c38f09 jaxws:c31b33f7a368 jdk:17af892dee62+ langtools:67e50991d2ff nashorn:a3ee9cc1edc5"
+  },
   "release_type": "ga",
   "sha1": "7a5b7c2a2eacf649b25e4bdb7548db30192e48d7",
   "sha256": "79c4a7e8f68d08beb95a47d7240970286ce30679893496718a9fec329631eaeb",
