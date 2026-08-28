@@ -55,8 +55,20 @@ jobs:
       do_commit: true
     secrets: inherit
 
+  verify:
+    needs: download-mac
+    uses: ./.github/workflows/verify.yml
+    with:
+      branch: nightly-${{ github.run_id }}
+      limit-progress: 0
+      limit-total: 5000
+      randomize: true
+      mark-missing: true
+      do_commit: true
+    secrets: inherit
+
   consolidate:
-    needs: [prepare, update, download, download-mac]
+    needs: [prepare, update, download, download-mac, verify]
     if: always() && needs.prepare.result == 'success'
     runs-on: ubuntu-latest
     permissions:
