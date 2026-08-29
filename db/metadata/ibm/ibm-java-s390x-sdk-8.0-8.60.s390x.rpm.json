@@ -1,13 +1,14 @@
 {
   "architecture": "s390x",
   "distro": "ibm",
-  "features": [],
+  "features": [ ],
   "file_type": "rpm",
   "filename": "ibm-java-s390x-sdk-8.0-8.60.s390x.rpm",
   "image_type": "jdk",
   "java_version": "8.0.8.60",
   "jvm_impl": "openj9",
   "md5": "eb02545840abdde7e3880359bcfa1de0",
+  "missing_since": "2026-08-29",
   "os": "linux",
   "release_info": {
     "JAVA_VERSION": "1.8.0_481",

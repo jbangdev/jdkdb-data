@@ -1,14 +1,22 @@
 {
   "architecture": "aarch64",
   "distro": "bisheng",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "bisheng-jre-8u432-linux-aarch64.tar.gz",
   "image_type": "jre",
   "java_version": "1.8.0_432-b11",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-29",
   "md5": "7f53975568e83d753dcb43a316aba69c",
   "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_432",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:6927e7d71768+"
+  },
   "release_type": "ga",
   "sha1": "c7562c720102b6d440b298878c9b7a466770c6b2",
   "sha256": "fa9a71ad01ea9d4928841e403ddcdc437831f5adbde0dae46fe6f013f089872a",

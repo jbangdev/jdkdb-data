@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.68.203-ca-crac-jre17.0.20.1-linux_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.20.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-08-29",
+  "md5": "eb92408587c0d21b412b217ad14e3c69",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.68+203-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.20.1+1-LTS",
+    "JAVA_VERSION": "17.0.20.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:af3e7955c428"
+  },
+  "release_type": "ga",
+  "sha1": "15b4da553a86af11a82853825a6b5bca9d51ad7d",
+  "sha256": "8cea630e45b64efbef3e741318c6cb01c22d691122d7511dcf1acd052e128cb9",
+  "sha512": "07f428db3ffe1f7ed70d47209b97ab266e273b8b819535c4bfa6846ee6f749b78f02400398c694e07760a22aa9954bf52b648bcab96a26aec77426fa28af98dd",
+  "size": 49716565,
+  "url": "https://static.azul.com/zulu/bin/zulu17.68.203-ca-crac-jre17.0.20.1-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.68.203"
+}

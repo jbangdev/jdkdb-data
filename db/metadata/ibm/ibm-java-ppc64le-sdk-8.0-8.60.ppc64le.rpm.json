@@ -1,13 +1,14 @@
 {
   "architecture": "ppc64le",
   "distro": "ibm",
-  "features": [],
+  "features": [ ],
   "file_type": "rpm",
   "filename": "ibm-java-ppc64le-sdk-8.0-8.60.ppc64le.rpm",
   "image_type": "jdk",
   "java_version": "8.0.8.60",
   "jvm_impl": "openj9",
   "md5": "2379d15084e0f6c3efa8580d3e463dff",
+  "missing_since": "2026-08-29",
   "os": "linux",
   "release_info": {
     "JAVA_VERSION": "1.8.0_481",

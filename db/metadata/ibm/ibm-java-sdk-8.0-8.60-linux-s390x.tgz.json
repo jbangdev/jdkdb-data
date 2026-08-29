@@ -1,13 +1,14 @@
 {
   "architecture": "s390x",
   "distro": "ibm",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "ibm-java-sdk-8.0-8.60-linux-s390x.tgz",
   "image_type": "jdk",
   "java_version": "8.0.8.60",
   "jvm_impl": "openj9",
   "md5": "6dd4869b249acbd1c1adf8c83097e229",
+  "missing_since": "2026-08-29",
   "os": "linux",
   "release_info": {
     "JAVA_VERSION": "1.8.0_481",
