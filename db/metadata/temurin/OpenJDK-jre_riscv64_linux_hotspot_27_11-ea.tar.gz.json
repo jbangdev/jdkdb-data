@@ -1,12 +1,13 @@
 {
   "architecture": "riscv64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK-jre_riscv64_linux_hotspot_27_11-ea.tar.gz",
   "image_type": "jre",
   "java_version": "27",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "b3259ae2ae72c90f8bbf8e64ca5d614b",
   "os": "linux",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "55183187afdeb565609bfda720295acf9f7b5b7fcfb27eef08666dc77bcd009d",
   "sha512": "155f1378ba712135987824aebe62292d783f8912a1d36043b6d540538cdc9ec0c49984086061947fcb3ba4819961e96e7569bf67036480353a78c0f7e8ab6274",
   "size": 61968448,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B11-ea-beta/OpenJDK-jre_riscv64_linux_hotspot_27_11-ea.tar.gz",
   "vendor": "eclipse",
   "version": "27+11-ea-beta"

@@ -1,12 +1,13 @@
 {
   "architecture": "aarch64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK-jdk_aarch64_mac_hotspot_27_11-ea.tar.gz",
   "image_type": "jdk",
   "java_version": "27",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "c6466d4cbbe460c166d4b662527dbbbf",
   "os": "macosx",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "3a798e381d13bdb67d44ec779538a431dd2c50546513e23943d13c69b78c2abc",
   "sha512": "6d64e388cd28c72a0972b6d9040873538cbf545371e308c43eccabd0b4676f7bb1c0d11808ee48c560dc40d88ee7ff1984254ba82b02ebaf9d8364271465c7ba",
   "size": 139881827,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B11-ea-beta/OpenJDK-jdk_aarch64_mac_hotspot_27_11-ea.tar.gz",
   "vendor": "eclipse",
   "version": "27+11-ea-beta"

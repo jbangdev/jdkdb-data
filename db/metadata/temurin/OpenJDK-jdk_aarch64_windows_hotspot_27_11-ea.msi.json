@@ -1,12 +1,13 @@
 {
   "architecture": "aarch64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "msi",
   "filename": "OpenJDK-jdk_aarch64_windows_hotspot_27_11-ea.msi",
   "image_type": "jdk",
   "java_version": "27",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "74e044457c8f308b5a374d1938334661",
   "os": "windows",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "947632d57c1244436f5d75100bc067b3a34a4941b829d94f5df790080f067bca",
   "sha512": "26690d37ad9ea4328870859c2eee7452ad8588ea1f107944ce4f1578dd5a341b4e578ccf211c194221acf524abc210da72a656ea528203e66eb52f12550490dc",
   "size": 101826560,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B11-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_27_11-ea.msi",
   "vendor": "eclipse",
   "version": "27+11-ea-beta"

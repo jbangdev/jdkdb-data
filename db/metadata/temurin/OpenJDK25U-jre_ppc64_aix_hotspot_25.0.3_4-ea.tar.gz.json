@@ -1,12 +1,13 @@
 {
   "architecture": "ppc64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK25U-jre_ppc64_aix_hotspot_25.0.3_4-ea.tar.gz",
   "image_type": "jre",
   "java_version": "25",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "0ec5e151de1a481ff37cb9fbb4414d5e",
   "os": "aix",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "656cd7f8cdc823600b5eb051be0a5befc854aa97a516ce47023924401d15d703",
   "sha512": "22cc8f7b647ee0931c8d3b7b305e4f5d8d9b9bc851a4410d1c4644d5e20abb614b501c69024902969d28fc320a2a6963076ab411f4471cdae6e18b8691233e6f",
   "size": 41115588,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B4-ea-beta/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.3_4-ea.tar.gz",
   "vendor": "eclipse",
   "version": "25.0.3+4-ea-beta"

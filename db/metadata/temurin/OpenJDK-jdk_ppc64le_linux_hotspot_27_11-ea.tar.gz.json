@@ -1,12 +1,13 @@
 {
   "architecture": "ppc64le",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK-jdk_ppc64le_linux_hotspot_27_11-ea.tar.gz",
   "image_type": "jdk",
   "java_version": "27",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "f595b15d87745472aac694ebf0d83c20",
   "os": "linux",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "a5badf8e3ce05d601b8902127e20dd45862084408e490fb15a86c1d546eab4d0",
   "sha512": "20f91acf277cb49337e45441483d5af7f8afa6eb45ea184817787e8753d45adeeba63a28ea013c698aaf63167dbcbe1eb28b57fa62872326d8786753e5e65e94",
   "size": 143495460,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B11-ea-beta/OpenJDK-jdk_ppc64le_linux_hotspot_27_11-ea.tar.gz",
   "vendor": "eclipse",
   "version": "27+11-ea-beta"

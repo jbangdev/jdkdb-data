@@ -1,12 +1,13 @@
 {
   "architecture": "riscv64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.3_4-ea.tar.gz",
   "image_type": "jdk",
   "java_version": "25",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "b59be9729929fed7cbffffeaee99aa07",
   "os": "linux",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "a94aa00209b0d3a201123f342fd553832b533dcf344665691d320a2e80791adc",
   "sha512": "9ac498a01509fadea7f7bc90d2cede0ef954ed25fed8343c8393f3431d91d6039e4e6e627ef3e9a8c877e9338d7fb28fb02187d1cf49ecfda30ed71834d8901f",
   "size": 139605022,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B4-ea-beta/OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.3_4-ea.tar.gz",
   "vendor": "eclipse",
   "version": "25.0.3+4-ea-beta"

@@ -1,12 +1,13 @@
 {
   "architecture": "ppc64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK-jdk_ppc64_aix_hotspot_27_11-ea.tar.gz",
   "image_type": "jdk",
   "java_version": "27",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-30",
   "md5": "cdcd4155e462d06841e8aa8003b86c25",
   "os": "aix",
   "release_info": {
@@ -35,6 +36,7 @@
   "sha256": "85c8d5c3bd94b5c1a4733be0129c218483beb13cc90fddc9be618bae486856c6",
   "sha512": "636a08e387267deccb28682f3635562a3e5d06aeae6f6b8f4fb8c644631b54f5d607ed6c7b1975f0e3077113d0b41f5568f017d184d38b500675e4ac40530947",
   "size": 117940641,
+  "unlisted_since": "2026-08-30",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B11-ea-beta/OpenJDK-jdk_ppc64_aix_hotspot_27_11-ea.tar.gz",
   "vendor": "eclipse",
   "version": "27+11-ea-beta"
