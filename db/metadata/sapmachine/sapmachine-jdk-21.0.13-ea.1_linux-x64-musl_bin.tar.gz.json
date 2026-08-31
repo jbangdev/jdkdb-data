@@ -1,34 +1,35 @@
 {
-    "architecture": "x86_64",
-    "distro": "sapmachine",
-    "features": [
-      "musl"
-    ],
-    "file_type": "tar.gz",
-    "filename": "sapmachine-jdk-21.0.13-ea.1_linux-x64-musl_bin.tar.gz",
-    "image_type": "jdk",
-    "java_version": "21.0.13-ea.1",
-    "jvm_impl": "hotspot",
-    "md5": "dba1fcaee06181601c13e917db726bd5",
-    "os": "linux",
-    "release_info": {
-      "IMPLEMENTOR": "SAP SE",
-      "IMPLEMENTOR_VERSION": "SapMachine",
-      "JAVA_RUNTIME_VERSION": "21.0.13-ea+1",
-      "JAVA_VERSION": "21.0.13",
-      "JAVA_VERSION_DATE": "2026-10-20",
-      "LIBC": "musl",
-      "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
-      "OS_ARCH": "x86_64",
-      "OS_NAME": "Linux",
-      "SOURCE": ".:git:b066fdab456a"
-    },
-    "release_type": "ea",
-    "sha1": "2e6285af30ac7ce11af7f1b8a5baca6806f32d60",
-    "sha256": "70c3fd8731a0f9ef4e5213d642a80c127f04e6df44310042626d3b22bf6f2ddb",
-    "sha512": "6fdc90bb86a247dabdfafde33dfc9c1b12d4dd11135cfa250c84cf84a3fe9f83f5a2e0356e378f2e9b2e5cf20c72ad1dd3533006a1dbea8120247b980078caae",
-    "size": 210671681,
-    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B1/sapmachine-jdk-21.0.13-ea.1_linux-x64-musl_bin.tar.gz",
-    "vendor": "sap",
-    "version": "21.0.13-ea.1"
-  }
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-21.0.13-ea.1_linux-x64-musl_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.13-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-08-31",
+  "md5": "dba1fcaee06181601c13e917db726bd5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+1",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:b066fdab456a"
+  },
+  "release_type": "ea",
+  "sha1": "2e6285af30ac7ce11af7f1b8a5baca6806f32d60",
+  "sha256": "70c3fd8731a0f9ef4e5213d642a80c127f04e6df44310042626d3b22bf6f2ddb",
+  "sha512": "6fdc90bb86a247dabdfafde33dfc9c1b12d4dd11135cfa250c84cf84a3fe9f83f5a2e0356e378f2e9b2e5cf20c72ad1dd3533006a1dbea8120247b980078caae",
+  "size": 210671681,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B1/sapmachine-jdk-21.0.13-ea.1_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13-ea.1"
+}

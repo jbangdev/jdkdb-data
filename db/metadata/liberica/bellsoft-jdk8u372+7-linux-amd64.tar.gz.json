@@ -1,14 +1,22 @@
 {
   "architecture": "x86_64",
   "distro": "liberica",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "bellsoft-jdk8u372+7-linux-amd64.tar.gz",
   "image_type": "jdk",
   "java_version": "8u372+7",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-08-31",
   "md5": "07d0752df3abe92e0ccb78bb1d99456f",
   "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_372",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:663995e79c47+"
+  },
   "release_type": "ga",
   "sha1": "1d6e80a5eeb569af200ac493889d3a00d5050b62",
   "sha256": "ebe94c2747015de6a2a427f1c761bc6c808fbc8c92b5829c1b5751ed26fb40e5",
