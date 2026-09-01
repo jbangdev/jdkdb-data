@@ -1,14 +1,22 @@
 {
   "architecture": "ppc64le",
   "distro": "adoptopenjdk",
-  "features": [],
+  "features": [ ],
   "file_type": "tar.gz",
   "filename": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u202b08.tar.gz",
   "image_type": "jdk",
   "java_version": "8u202-b08",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-09-01",
   "md5": "5115c453e7cd5abfb44de1c4181394b1",
   "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_202",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ""
+  },
   "release_type": "ga",
   "sha1": "952edebabbfe955fa50992b442a13f6604c883da",
   "sha256": "485533573e0a6aa4188a9adb336d24e795f9de8c59499d5b88a651b263fa1c34",

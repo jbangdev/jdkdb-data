@@ -1,14 +1,22 @@
 {
   "architecture": "i686",
   "distro": "zulu",
-  "features": [],
+  "features": [ ],
   "file_type": "msi",
   "filename": "zulu7.52.0.11-ca-jdk7.0.332-win_i686.msi",
   "image_type": "jdk",
   "java_version": "7.0.332",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-09-01",
   "md5": "2a6a143be8e2cd0b061e10287d3a30e5",
   "os": "windows",
+  "release_info": {
+    "JAVA_VERSION": "1.7.0",
+    "OS_ARCH": "i586",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.1",
+    "SOURCE": " .:a0ce9fdd052d corba:610a683503ab hotspot:44699b8796b4 jaxp:58dfb7d7de97 jaxws:6744916912d6 jdk:fa35b7112ae8 langtools:9df9938035b2"
+  },
   "release_type": "ga",
   "sha1": "b291aea5b38ee2487536b8807ae667594e414656",
   "sha256": "354b09a85c19e9b99640e15e9bd4f6ef67d5629545fa7d121c3460aedd36317a",
