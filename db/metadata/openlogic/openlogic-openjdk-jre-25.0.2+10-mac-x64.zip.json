@@ -1,14 +1,19 @@
 {
   "architecture": "x86_64",
   "distro": "openlogic",
-  "features": [],
+  "features": [ ],
   "file_type": "zip",
   "filename": "openlogic-openjdk-jre-25.0.2+10-mac-x64.zip",
   "image_type": "jre",
   "java_version": "25.0.2+10",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-09-02",
   "md5": "f1347dc5cb8211f8a3402fcfe393870e",
   "os": "macosx",
+  "release_info": {
+    "JAVA_VERSION": "25.0.2",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.ec jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs"
+  },
   "release_type": "ga",
   "sha1": "63d33387630f34696832d9c68bd973771d36d0f2",
   "sha256": "6782feabe610694a862ee0979b5d2ab391953f8df7ffc4eed2afe40352a3ade8",
