@@ -1,7 +1,7 @@
 {
   "architecture": "aarch64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "pkg",
   "filename": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.19_5-ea.pkg",
   "image_type": "jre",
@@ -35,6 +35,7 @@
   "sha256": "5973c51889a98a539a6227ec9c66098c762c2cdfc4efa1c232af6da9cfdd0a19",
   "sha512": "85bc7ba9451743086678b470b5ffd06958d897234d4a81a3b9973562796699cd0d694cfce48826ca8700ce80ff6dd0f0e98cb42899bb2f88fd9504e17cfc9dfd",
   "size": 42891996,
+  "unlisted_since": "2026-09-04",
   "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B5-ea-beta/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.19_5-ea.pkg",
   "vendor": "eclipse",
   "version": "17.0.19+5-ea-beta"
