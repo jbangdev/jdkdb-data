@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-17.0.21-ea.4_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21-ea.4",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-05",
+  "md5": "0cc892fcbc2ce4fd2ac2fc6c0ea97685",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+4",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:e04a3654f1fd"
+  },
+  "release_type": "ea",
+  "sha1": "502eebdceb10ad108c0188264f1ffab0a128f65d",
+  "sha256": "5548de44edc37467d58291580da6cc04873d2c105f1f7dac293f7468387f76d5",
+  "sha512": "16d9351ffdd3bb0b98732538eb9ba091aa6d4cae80c88f56d44b00cbf52e1b05366011a50b1620fe8dc0cba4fb468632c3ebd3ff9c7839b3733bc3adf3a14e28",
+  "size": 190117077,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B4/sapmachine-jdk-17.0.21-ea.4_macos-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21-ea.4"
+}

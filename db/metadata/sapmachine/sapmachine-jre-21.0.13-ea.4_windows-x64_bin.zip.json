@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-21.0.13-ea.4_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "21.0.13-ea.4",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-05",
+  "md5": "f3278df257f8066aab7f727c22662a2a",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+4",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:55631bfdd9b4"
+  },
+  "release_type": "ea",
+  "sha1": "89015fda453672e245bee2adcc3d523110e54cea",
+  "sha256": "64d53432aed11a313d07f645db70c554b355a14bea904ab595a38663b0291746",
+  "sha512": "65586fc7f6037954b5d0bff158990929d68d730644497b7b5c514023f0932282a3665584661df762f60b2fdc818f89cc39284eedbe55134cef2ca9c3c1aa6ea6",
+  "size": 54277998,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B4/sapmachine-jre-21.0.13-ea.4_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "21.0.13-ea.4"
+}

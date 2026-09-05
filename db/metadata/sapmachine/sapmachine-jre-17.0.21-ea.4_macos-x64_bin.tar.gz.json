@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.21-ea.4_macos-x64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21-ea.4",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-05",
+  "md5": "db4eb6cffbdeb31ff803d6528ac8bdb5",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+4",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:e04a3654f1fd"
+  },
+  "release_type": "ea",
+  "sha1": "9f7d9ffb2348f0e399d3dd0b084bc7524d04fb95",
+  "sha256": "a3aa62fa6a9e383e36c44084fa3a6f8f618264f1507db6279b9b4cee0213ba85",
+  "sha512": "0495b9dd1cb4d8f946374592f37ac5e0c5b0637d20584f61e13bfba7da8d715da41aed03f467f91d973f7ec90afbbfd717f755ecfa09b11546eaea59f1fbdf71",
+  "size": 44839784,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B4/sapmachine-jre-17.0.21-ea.4_macos-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21-ea.4"
+}

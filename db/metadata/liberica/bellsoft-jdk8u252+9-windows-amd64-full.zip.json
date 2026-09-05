@@ -1,31 +1,32 @@
 {
-"architecture": "x86_64",
-"distro": "liberica",
-"features": [
-"libericafx",
-"minimal-vm",
-"javafx"
-],
-"file_type": "zip",
-"filename": "bellsoft-jdk8u252+9-windows-amd64-full.zip",
-"image_type": "jdk",
-"java_version": "8u252+9",
-"jvm_impl": "hotspot",
-"md5": "98c1e61abd1f66f7d1542bfc59456de1",
-"os": "windows",
-"release_info": {
-"JAVA_VERSION": "1.8.0_252",
-"OS_ARCH": "amd64",
-"OS_NAME": "Windows",
-"OS_VERSION": "5.2",
-"SOURCE": " .:ecde297a64f2 corba:3da649db678e hotspot:ee4d5e999653+ jaxp:500d6087cd1f jaxws:c772bca13e9f jdk:a15d75c81817+ langtools:81b5a085b07c nashorn:13db9dac5175"
-},
-"release_type": "ga",
-"sha1": "4db2e397932dc7db2fb645e7bc27c61c59e74e7d",
-"sha256": "ae7ac518a13c4cb844f7d3f6b4a040abcdb86f238d899ea228ef16753f49422c",
-"sha512": "dd4020c1f724128a9146bc83a472c5ffd5c68ddb8eaf91b6505f7a6a3fdc4813c75bfcef39dbdb26bd3c523f1f678aca0c91fa0336f4055f519054e0ca07e1ef",
-"size": 140011667,
-"url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-windows-amd64-full.zip",
-"vendor": "bellsoft",
-"version": "8u252+9"
+  "architecture": "x86_64",
+  "distro": "liberica",
+  "features": [
+    "libericafx",
+    "minimal-vm",
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "bellsoft-jdk8u252+9-windows-amd64-full.zip",
+  "image_type": "jdk",
+  "java_version": "8u252+9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-05",
+  "md5": "98c1e61abd1f66f7d1542bfc59456de1",
+  "os": "windows",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_252",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.2",
+    "SOURCE": " .:ecde297a64f2 corba:3da649db678e hotspot:ee4d5e999653+ jaxp:500d6087cd1f jaxws:c772bca13e9f jdk:a15d75c81817+ langtools:81b5a085b07c nashorn:13db9dac5175"
+  },
+  "release_type": "ga",
+  "sha1": "4db2e397932dc7db2fb645e7bc27c61c59e74e7d",
+  "sha256": "ae7ac518a13c4cb844f7d3f6b4a040abcdb86f238d899ea228ef16753f49422c",
+  "sha512": "dd4020c1f724128a9146bc83a472c5ffd5c68ddb8eaf91b6505f7a6a3fdc4813c75bfcef39dbdb26bd3c523f1f678aca0c91fa0336f4055f519054e0ca07e1ef",
+  "size": 140011667,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-windows-amd64-full.zip",
+  "vendor": "bellsoft",
+  "version": "8u252+9"
 }
