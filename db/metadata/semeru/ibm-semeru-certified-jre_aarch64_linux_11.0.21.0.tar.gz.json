@@ -2,19 +2,20 @@
   "architecture": "aarch64",
   "distro": "semeru",
   "features": [
-      "certified"
-    ],
-    "file_type": "tar.gz",
-      "filename": "ibm-semeru-certified-jre_aarch64_linux_11.0.21.0.tar.gz",
-    "image_type": "jre",
-    "java_version": "11.0.21+9",
-    "jvm_impl": "openj9",
-    "md5": "2b8fa2adab1d362a0239197c7f3bb303",
-    "os": "linux",
-    "release_info": {
-      "BUILD_INFO": "OS: Linux Version: 5.4.0-166-generic",
-      "BUILD_SOURCE": "git:228d09a07555e8ac8b1a50d2db2216fa29e79c75",
-      "BUILD_SOURCE_REPO": "https://github.com/ibmruntimes/temurin-build.git",
+    "certified"
+  ],
+  "file_type": "tar.gz",
+  "filename": "ibm-semeru-certified-jre_aarch64_linux_11.0.21.0.tar.gz",
+  "image_type": "jre",
+  "java_version": "11.0.21+9",
+  "jvm_impl": "openj9",
+  "last_verified": "2026-09-06",
+  "md5": "2b8fa2adab1d362a0239197c7f3bb303",
+  "os": "linux",
+  "release_info": {
+    "BUILD_INFO": "OS: Linux Version: 5.4.0-166-generic",
+    "BUILD_SOURCE": "git:228d09a07555e8ac8b1a50d2db2216fa29e79c75",
+    "BUILD_SOURCE_REPO": "https://github.com/ibmruntimes/temurin-build.git",
     "FULL_VERSION": "11.0.21+9",
     "IMAGE_TYPE": "JRE",
     "IMPLEMENTOR": "IBM Corporation",
