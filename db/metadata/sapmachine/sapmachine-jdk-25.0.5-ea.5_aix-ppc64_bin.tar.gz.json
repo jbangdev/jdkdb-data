@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-25.0.5-ea.5_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5-ea.5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-07",
+  "md5": "1e1b5f1c23a4a5058fffee5c77d4ed7d",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "25.0.5-ea+5",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:9999ad6dd242"
+  },
+  "release_type": "ea",
+  "sha1": "6463b013b05e99eff47db3a81a070059a3de4e06",
+  "sha256": "e91eb97033dbb1b82c8d3a876ab3f37723345bd8cc153c178825aae8a48597d5",
+  "sha512": "1b2b380176186585dd63b438470687e7b4dab9f0484245c9ab0a2f3b4488569ffde4fe0cbfe092d6707e37f5028eef76582f380279cfcafcc838b177d5b0edd0",
+  "size": 116234337,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5%2B5/sapmachine-jdk-25.0.5-ea.5_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "25.0.5-ea.5"
+}
