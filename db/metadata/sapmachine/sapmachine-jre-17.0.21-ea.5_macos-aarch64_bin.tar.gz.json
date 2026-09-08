@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.21-ea.5_macos-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21-ea.5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-08",
+  "md5": "a5d3a2f31c396ba3f150b110b0ef0a30",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+5",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:164eed5c8206"
+  },
+  "release_type": "ea",
+  "sha1": "00d46f34688a5d996e100be731ed6f7611d02c77",
+  "sha256": "0c986a353987f0e420d0201306e1d57ea097cc532d3f1e7c2707b9dce852535b",
+  "sha512": "4632878d9e94483a7157233f2347c0b1ed81348a8b2461a5c9847ffb9ec09a30540479329f2c19ea4a3cb14e64f57b0e22736c60363627bb25f66030f46343a1",
+  "size": 43846550,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B5/sapmachine-jre-17.0.21-ea.5_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21-ea.5"
+}
