@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jdk-28-ea.14_windows-x64_bin.zip",
+  "image_type": "jdk",
+  "java_version": "28-ea.14",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-09",
+  "md5": "8c526dc8d076b2927681ab0f0ffc4304",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+14",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2ea0e38a251a"
+  },
+  "release_type": "ea",
+  "sha1": "1d15ca860860504e0d247fc327524f804cab2171",
+  "sha256": "6057f4c9eea2a856543d93a0438dc84ae66b68addb8a34101cad9bf91d7a7358",
+  "sha512": "cc9d4a2c9f4ddd09a6b9de99a4cf95b4ee2cee3f3febb89ffc6d1176e133fc1c8995d40db13369c20928aa656b557e3ead20e83e1403b16bc3244bf29aa48fce",
+  "size": 134219864,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B14/sapmachine-jdk-28-ea.14_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "28-ea.14"
+}
