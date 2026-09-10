@@ -1,7 +1,7 @@
 {
   "architecture": "x86_64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "pkg",
   "filename": "OpenJDK-jdk_x64_mac_hotspot_27_13-ea.pkg",
   "image_type": "jdk",
@@ -35,6 +35,7 @@
   "sha256": "2cfd477d017fc86e12a7c4695f1b9253b4eff17141eb00a6bbe65f005d12f46a",
   "sha512": "a2a1d50a8762391a6f8b6daf324cbe735284f481be14db5dfc30fcf183a82b13ad69be8d0c41f519110fa0867cb11bf4995731d096b77ef2b4d0ebfcc83ee521",
   "size": 123662859,
+  "unlisted_since": "2026-09-10",
   "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B13-ea-beta/OpenJDK-jdk_x64_mac_hotspot_27_13-ea.pkg",
   "vendor": "eclipse",
   "version": "27+13-ea-beta"

@@ -1,7 +1,7 @@
 {
   "architecture": "aarch64",
   "distro": "temurin",
-  "features": [],
+  "features": [ ],
   "file_type": "pkg",
   "filename": "OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_4-ea.pkg",
   "image_type": "jre",
@@ -35,6 +35,7 @@
   "sha256": "246350f6210f2c6c198444ee49135dbef41f10b76ec7543821310dab4367a020",
   "sha512": "11d95920aa95a122f3a422b634d376f128d4f0549aba830795957e62350b6cb2f5ef4c0de12512ed6ca61230c0b0fdf06c77ae67e2064812dac158c8ce6c3758",
   "size": 37994327,
+  "unlisted_since": "2026-09-10",
   "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_4-ea.pkg",
   "vendor": "eclipse",
   "version": "11.0.31+4-ea-beta"
