@@ -31,6 +31,16 @@ on:
         description: 'Prune unlisted releases older than this age'
         required: false
         type: string
+        default: ''
+      prune-missing:
+        description: 'Prune metadata missing from the source older than this age'
+        required: false
+        type: string
+        default: ''
+      prune-unlisted-missing:
+        description: 'Prune metadata both unlisted and missing older than this age'
+        required: false
+        type: string
         default: '1w'
       do_commit:
         description: 'Commit the changes after cleaning data'
@@ -61,6 +71,16 @@ on:
         default: '100y'
       prune-unlisted:
         description: 'Prune unlisted releases older than this age'
+        required: false
+        type: string
+        default: ''
+      prune-missing:
+        description: 'Prune metadata missing from the source older than this age'
+        required: false
+        type: string
+        default: ''
+      prune-unlisted-missing:
+        description: 'Prune metadata both unlisted and missing older than this age'
         required: false
         type: string
         default: '1w'
@@ -128,6 +148,12 @@ jobs:
         fi
         if [ -n "${{ inputs.prune-unlisted }}" ]; then
           EXTRA_OPTS="$EXTRA_OPTS --prune-unlisted ${{ inputs.prune-unlisted }}"
+        fi
+        if [ -n "${{ inputs.prune-missing }}" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --prune-missing ${{ inputs.prune-missing }}"
+        fi
+        if [ -n "${{ inputs.prune-unlisted-missing }}" ]; then
+          EXTRA_OPTS="$EXTRA_OPTS --prune-unlisted-missing ${{ inputs.prune-unlisted-missing }}"
         fi
         echo "Running clean with: $EXTRA_OPTS"
         jbang --java 21+ $APP --version
