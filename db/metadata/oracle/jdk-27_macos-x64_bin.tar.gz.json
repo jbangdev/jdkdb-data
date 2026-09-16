@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-27_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "01d1b462804dbddc8b61e88d82c27aee",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27+35-2325",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d74ac875e9b6 open:git:815ff4dc327f"
+  },
+  "release_type": "ga",
+  "sha1": "6fe9cb822e4c96fa4ac71314e0434bc7775b9adf",
+  "sha256": "741ff1bbd441b1368a7347ac1ce14e8c4a096a4024a1df662793d3f6873c7be7",
+  "sha512": "27bb1f17de7d540d8bea966fd9dc787ace1ba65f3ced0f7c63e708811b1a216dac6da62d330863017de6d2fb35bada9bae8cdcdd7ab5692322d4f138e4dcaab4",
+  "size": 215310484,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27_macos-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-27.0.0.35.1-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0.35.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "888563d02dd4c42990498b9a9edcb00c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.0.35.1",
+    "JAVA_RUNTIME_VERSION": "27+35-FR",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c457a620b559+"
+  },
+  "release_type": "ga",
+  "sha1": "1071698c293a363fb5eb523b2ce6eee0b1fe51f2",
+  "sha256": "47fe85f93acb7a860f689aed45da461319232c87d27140e19c43011660592b53",
+  "sha512": "6467da2a4d0fa31b4bdc612b8cc04f06b82f3130dc0f9d380b7fa141c0e2ced1c6280097bafd5fae7cfa5d98e39b681114a8751ee5db94dd88c3c3d8df16a1fd",
+  "size": 227430609,
+  "url": "https://corretto.aws/downloads/resources/27.0.0.35.1/amazon-corretto-27.0.0.35.1-linux-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "27.0.0.35.1"
+}

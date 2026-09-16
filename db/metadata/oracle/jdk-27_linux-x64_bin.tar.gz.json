@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-27_linux-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "f6633133308d744d9be8756dd7e53f6e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27+35-2325",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d74ac875e9b6 open:git:815ff4dc327f"
+  },
+  "release_type": "ga",
+  "sha1": "c572cd51e9901562902153182dc9db4cbe69f196",
+  "sha256": "0c7bb6c33c7fcc46674054cab734e3ca027ba05323c6c6ecbc8786f76a45b155",
+  "sha512": "6a80ee8371d91774fbfd0024bcf71cb897de0ec51c66ba4e48e0f05ca34e082703a21c6ee6ed6937d12032ff98a282e5f5da01dcdb52da25d57b170d7136292a",
+  "size": 220435342,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27_linux-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27"
+}

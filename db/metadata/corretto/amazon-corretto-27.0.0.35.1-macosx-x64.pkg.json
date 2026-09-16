@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "amazon-corretto-27.0.0.35.1-macosx-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "27.0.0.35.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "f5f15db02b8c4955934b2f1fd9c9b19e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.0.35.1",
+    "JAVA_RUNTIME_VERSION": "27+35-FR",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c457a620b559+"
+  },
+  "release_type": "ga",
+  "sha1": "c10c85de0cbbb3ea260c58826f659a3a1d9246a9",
+  "sha256": "c1d911d627b982d325c91b346c2b7b598238a091357946350a771bfad5d4601b",
+  "sha512": "12a146392229cb999ba6a1a2a44bc5e2391160c0d2cc9b909a099bcd8d20db7f51b78ce1a32306d5453aa0724a803acc11907ed59316218dda493ac86e1ca75d",
+  "size": 223680426,
+  "url": "https://corretto.aws/downloads/resources/27.0.0.35.1/amazon-corretto-27.0.0.35.1-macosx-x64.pkg",
+  "vendor": "amazon",
+  "version": "27.0.0.35.1"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "msi",
+  "filename": "sapmachine-jre-27_windows-x64_bin.msi",
+  "image_type": "jre",
+  "java_version": "27",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "916d31c42c91393ba264f127e13e02ad",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:ddbcfc0f4482"
+  },
+  "release_type": "ga",
+  "sha1": "34d7436fe80f4e4aa57956a78d4b438b5505b62f",
+  "sha256": "e0c5ed70478c0d597a8214153be69c441ba44cd8b62aabcd3a6217b277e6bd78",
+  "sha512": "00de7c26dc90c680c6274c3b0173aa496aba4d47c40db2d2c3ba6d6514b69a515fe18b62c347ff3f7be2bcdbdeedb45eb66ee67089f378513e378307c3dc10c3",
+  "size": 47935488,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27/sapmachine-jre-27_windows-x64_bin.msi",
+  "vendor": "sap",
+  "version": "27"
+}

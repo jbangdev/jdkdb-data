@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-27_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-16",
+  "md5": "78357de20f74e3ba302c8b7f037a7514",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27+35-2325",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d74ac875e9b6 open:git:815ff4dc327f"
+  },
+  "release_type": "ga",
+  "sha1": "85be67a6e10e422f71e5c00361fa608f7f57aa27",
+  "sha256": "f2481d303016e6bba81cae75976929016b497ed0bcf1f0f49e8a4d515e6186e9",
+  "sha512": "aff45946d1903e122fe09ff049c977455737241142896196436c0c9821cee90dbc96a898f9c704cce0d47be761004a1786bb3d746026167c7e80de37cd691228",
+  "size": 218309111,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27"
+}
