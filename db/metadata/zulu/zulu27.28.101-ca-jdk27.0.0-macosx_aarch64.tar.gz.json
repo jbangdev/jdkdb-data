@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.28.101-ca-jdk27.0.0-macosx_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
+  "md5": "a73a0ecb71e812d88d81110ffc4dbef1",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.28+101-CA",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:0ce16fa7de90"
+  },
+  "release_type": "ga",
+  "sha1": "d3b9ff4f8b9b4a2cbc7bbae20a12f62cdaf620cc",
+  "sha256": "0d8f1d1912fa938ebd95499eb1e8a2a987725fe42aa0dd98497bb604748a8d07",
+  "sha512": "fa827291dfc265b2dee81cbec871b73aad02670718f0ca7e6bd454f599f71f0d7accf6ab2965ac7377ee9f93e184eec3f9add20adb290aa590eb250a9dd37e63",
+  "size": 226481410,
+  "url": "https://static.azul.com/zulu/bin/zulu27.28.101-ca-jdk27.0.0-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.28.101"
+}

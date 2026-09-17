@@ -1,14 +1,22 @@
 {
   "architecture": "x86_64",
   "distro": "zulu",
-  "features": [],
+  "features": [ ],
   "file_type": "zip",
   "filename": "zulu8.7.0.5-ca-jdk8.0.45-linux_x64.zip",
   "image_type": "jdk",
   "java_version": "8.0.45",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
   "md5": "2ab4a4f118c5450f90b50dee44935cdb",
   "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_45",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": " .:9f002eb7bfbb corba:17b0d42568d7 hotspot:f2a078bd993f jaxp:17887459dcc8 jaxws:190c5480ca28 jdk:c83410a86668 langtools:0f3df7f32bda nashorn:99197a08b1a3"
+  },
   "release_type": "ga",
   "sha1": "0b50c226100b7348315fd4c93b0ef2afb406b54e",
   "sha256": "dca01c4e13bfd4af46ade86ddecc16a65111f7e30ed7dc8a96c56cea967e9611",

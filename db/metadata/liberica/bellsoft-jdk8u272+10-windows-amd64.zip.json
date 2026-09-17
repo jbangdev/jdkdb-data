@@ -1,14 +1,22 @@
 {
   "architecture": "x86_64",
   "distro": "liberica",
-  "features": [],
+  "features": [ ],
   "file_type": "zip",
   "filename": "bellsoft-jdk8u272+10-windows-amd64.zip",
   "image_type": "jdk",
   "java_version": "8u272+10",
   "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
   "md5": "0414ad44b1ef810d5fa55e17da09ac5d",
   "os": "windows",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_272",
+    "OS_ARCH": "amd64",
+    "OS_NAME": "Windows",
+    "OS_VERSION": "5.2",
+    "SOURCE": " .:6464ce0569e7 corba:75460f3d1424 hotspot:6b836efa38fe+ jaxp:ba503169016f jaxws:1dc430818e0c jdk:badfd40f15ac+ langtools:68a2632bf926 nashorn:65ff5c46b9ac"
+  },
   "release_type": "ga",
   "sha1": "1345f4a1cb96c17d9e9e509a02d11f67effae731",
   "sha256": "5b315dc32fdd91c9794e71ecac6da57e278228d383f77bc6cabdace71aff0208",

@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.28.101-ca-crac-jdk27.0.0-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
+  "md5": "6f10964a1f2b80f71d8a41943ce9e851",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.28+101-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:72d7504339ac"
+  },
+  "release_type": "ga",
+  "sha1": "ce3d0b9dcb17e4c1cb4e80e748f4eaa89390f726",
+  "sha256": "65f9dee7d4a700fa013c336e4a969f94ffc8e5970485ef3ee0ee43149a03569d",
+  "sha512": "1be652792613a451fc1ca885a433feae06ab61927baecf6f8b40d0df648c24b9cb4d97cf9745049899dc672e25a11b69fe57d4fdd2feed2cbdbdc83e91c0b52c",
+  "size": 240047883,
+  "url": "https://static.azul.com/zulu/bin/zulu27.28.101-ca-crac-jdk27.0.0-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.28.101"
+}

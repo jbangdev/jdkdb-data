@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "zulu27.28.101-ca-jdk27.0.0-win_x64.msi",
+  "image_type": "jdk",
+  "java_version": "27.0.0",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
+  "md5": "150cde3f51ec6a86217613e009d12590",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.28+101-CA",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:0ce16fa7de90"
+  },
+  "release_type": "ga",
+  "sha1": "d2ddea6ee955dc17fa88b074c34f2b9fd718571e",
+  "sha256": "2cecdee1ae52597e37b9e2aa2118a9a855546fee5cb2738d70cd683b7ded215f",
+  "sha512": "72f79cf036a8683a482cbff8c438072441720c46be63d9a3f383ec859eadf09d38e170d1298b0c87abb2619d9016a6310ffe68d9faca44d726646c93c2289571",
+  "size": 206299136,
+  "url": "https://static.azul.com/zulu/bin/zulu27.28.101-ca-jdk27.0.0-win_x64.msi",
+  "vendor": "azul",
+  "version": "27.28.101"
+}

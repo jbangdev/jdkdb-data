@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.28.103-ca-fx-jdk27.0.0-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
+  "md5": "7c48288bbe44918fbca7d99469b4eeb4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.28+103-CA",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1230e0983fda"
+  },
+  "release_type": "ga",
+  "sha1": "ee34a87f3a14eed608957db24ad149f3d1351130",
+  "sha256": "52dfdc6e733c401a8ba94e4ec5840e566b96802feb11c61f9a527c7637d58fa7",
+  "sha512": "89547cb179cb70f15ee67ee66f492761e71bea450654fc3fa809cff98652882383d81d0a70a7ff89cf248df550b7e934ba8cc88817b681f7282d0fa7a645d35a",
+  "size": 351611394,
+  "url": "https://static.azul.com/zulu/bin/zulu27.28.103-ca-fx-jdk27.0.0-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.28.103"
+}

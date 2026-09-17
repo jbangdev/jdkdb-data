@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.28.103-ca-fx-jre27.0.0-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "27.0.0",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-17",
+  "md5": "dbf6985bbe005e53a91ae52472442f21",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.28+103-CA",
+    "JAVA_RUNTIME_VERSION": "27+35",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:1230e0983fda"
+  },
+  "release_type": "ga",
+  "sha1": "14ef21c9307a0b6359ee34b3d3effe0dd38a47a8",
+  "sha256": "727e7ee775e7326353e4bd90e2b93fc6db6d5910eec077e6fb122ef24aa0d8ab",
+  "sha512": "cdc770b5335ac31a36eb37f8bf20a18707746787ed29441dab5c65b42ddd231807b8090dcf7c5ad45cbaa29c6f3cffcda78ca711c23fe0550774a20ac2c8a48d",
+  "size": 102467677,
+  "url": "https://static.azul.com/zulu/bin/zulu27.28.103-ca-fx-jre27.0.0-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.28.103"
+}
