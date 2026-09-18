@@ -67,8 +67,23 @@ jobs:
       do_commit: true
     secrets: inherit
 
+  clean:
+    needs: verify
+    uses: ./.github/workflows/clean.yml
+    with:
+      branch: nightly-${{ github.run_id }}
+      remove-incomplete: ''
+      prune-invalid: true
+      remove-orphaned: true
+      prune-ea: '100y'
+      prune-unlisted: ''
+      prune-missing: ''
+      prune-unlisted-missing: '1w'
+      do_commit: true
+    secrets: inherit
+
   consolidate:
-    needs: [prepare, update, download, download-mac, verify]
+    needs: [prepare, update, download, download-mac, verify, clean]
     if: always() && needs.prepare.result == 'success'
     runs-on: ubuntu-latest
     permissions:
