@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.21-ea.6_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21-ea.6",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-18",
+  "md5": "150acda2231afc2503371e4c3ee04538",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+6",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:f0869974bd9a"
+  },
+  "release_type": "ea",
+  "sha1": "aa80e6d959a18707135f294c83f0938c792c135a",
+  "sha256": "28f550e9f0f9fff55a46f337c82b42fb4d69388bddca4c2e098df5a5ecc71a7b",
+  "sha512": "b2f564b8011b7a067824ea86eb9818adc07de90e856a924916dd2d36f03b62927985dd3db6d895ee5b33bdf5fdb23c9c440e7adccaff8759e6426348caa502f0",
+  "size": 47919061,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B6/sapmachine-jre-17.0.21-ea.6_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.21-ea.6"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-25.0.5-ea.6_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5-ea.6",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-18",
+  "md5": "b45d0f61996e77fb1aa443704212290c",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "25.0.5-ea+6",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:cdf00e33cb76"
+  },
+  "release_type": "ea",
+  "sha1": "64a10dbf2f25e98dce3098722228b32885de5548",
+  "sha256": "1838b025fc8704627c83e1ca3d6c3dfe823c393271a9a7f4965e310deeaf72e6",
+  "sha512": "0b071f15c702930a6759c87f259c17d31dd297806273036b9ab9a5ff47632ecbd2d47a7f41c84df8445da35cadaca25c5a79f45faed241197e25b89530c9404e",
+  "size": 124203606,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5%2B6/sapmachine-jdk-25.0.5-ea.6_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "25.0.5-ea.6"
+}
