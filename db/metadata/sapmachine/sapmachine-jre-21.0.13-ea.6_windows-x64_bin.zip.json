@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-21.0.13-ea.6_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "21.0.13-ea.6",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-19",
+  "md5": "5e933d15721d245a3659add84343f1a6",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+6",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:18d3bd5c852e"
+  },
+  "release_type": "ea",
+  "sha1": "0236eb0e84e8a4298c411e97ae71dd49609a49b9",
+  "sha256": "a5b7191cd33a1b71c9ce89151e4955fa638423baffde48ed062332c6479fbb84",
+  "sha512": "f4cda2b3432302c92a8d137a0700e2a9c786e28c92eef7a34095219c990da088e78af6c5510acc8756b7d3d0580243d24bdf98219953b648b4e0f40338ab4fb2",
+  "size": 54838784,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B6/sapmachine-jre-21.0.13-ea.6_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "21.0.13-ea.6"
+}
