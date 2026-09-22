@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-21.0.13-ea.7_macos-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13-ea.7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-22",
+  "md5": "dd5f765bf7cd1cb5ef2b7a2b98bf84c7",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+7",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:4ce934d4917d"
+  },
+  "release_type": "ea",
+  "sha1": "7053abe8dcd8822aee04e272f29af248a52a8171",
+  "sha256": "a1b8ce273ff77a6c32ce205349d694559755b8d95de0790a76d55e00c8c5fc7a",
+  "sha512": "36d37644d161c7ea52252bc0f8f8a3c113c1f3491b79bf7a3cecd32ddb1f11ab6b3be4a2e7153317db1801fd71505ff3507f696561aa3a1f51b89b1de4fefd83",
+  "size": 49033837,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B7/sapmachine-jre-21.0.13-ea.7_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13-ea.7"
+}

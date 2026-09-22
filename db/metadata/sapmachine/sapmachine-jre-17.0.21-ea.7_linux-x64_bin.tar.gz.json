@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.21-ea.7_linux-x64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21-ea.7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-22",
+  "md5": "3f1128324fefabbb19eb58ee90c5427c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+7",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7e93b25e2341"
+  },
+  "release_type": "ea",
+  "sha1": "1ee8f8545fc4e2ab938c863bfde60c81dd58854a",
+  "sha256": "9deed79a1766c2562f8ab36a590a6e1a037f3104a05d52412df76771d621f273",
+  "sha512": "07e91e269d42d9bc7ea9f868afc773ecdf5bb896a77b684c401fb3cd33cc25975ff9a42f7b55bfd75860e5074028a5c648686c33c5f946767973667743e7b108",
+  "size": 49381301,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B7/sapmachine-jre-17.0.21-ea.7_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21-ea.7"
+}
