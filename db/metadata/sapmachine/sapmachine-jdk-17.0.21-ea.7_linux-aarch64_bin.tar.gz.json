@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-17.0.21-ea.7_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21-ea.7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-23",
+  "md5": "9e3f89a3db7931a8b6babf3e4224894a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+7",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7e93b25e2341"
+  },
+  "release_type": "ea",
+  "sha1": "c8b0bcddfbe1fdf97144656cc8b5526d0cb47c75",
+  "sha256": "67486aae5bbba9a72eb408906a2a1fb8d2649b36e25372e6878eb885075adb27",
+  "sha512": "0f1d9f0b14ef6f45c9e98f9923f08044334e7c7ab946548986f50f177f7765673f3a04da2eff4dfff0a44b95f3661f09ec15d796a8318c9b3383a6d3f3768323",
+  "size": 195031295,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B7/sapmachine-jdk-17.0.21-ea.7_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21-ea.7"
+}
