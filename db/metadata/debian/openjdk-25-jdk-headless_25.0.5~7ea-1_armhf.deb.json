@@ -1,0 +1,25 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-25-jdk-headless_25.0.5~7ea-1_armhf.deb",
+  "image_type": "jdk",
+  "java_version": "25.0.5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-25",
+  "md5": "25494334e645014250de7a7e94fda652",
+  "os": "linux",
+  "release_info": { },
+  "release_type": "ga",
+  "sha1": "7df74a7936cb018d6683871aefd81516337c37cc",
+  "sha256": "dc6f37544cd31759e754380ca418135f481dc61aaf546dcd7fb67929d5230a86",
+  "sha512": "7e8b28c9daf71d23a664ff97775e791352c7b0bf873b30b52177cc8ced10188979a059bead3a65f73092ea2d98622766f256d4d90accbcd642f6d50141926593",
+  "size": 171026328,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jdk-headless_25.0.5~7ea-1_armhf.deb",
+  "vendor": "debian",
+  "version": "25.0.5~7ea-1"
+}
