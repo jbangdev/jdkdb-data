@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "amazon-corretto-11.0.32.12.1-windows-x86.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.32.12.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-26",
+  "md5": "2c146e239129dd539891d3eab899ef2c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-11.0.32.12.1",
+    "JAVA_RUNTIME_VERSION": "11.0.32.1+12-LTS",
+    "JAVA_VERSION": "11.0.32.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "f9c4940373ac06312bdae3bf9a078ecd459f3840",
+  "sha256": "f5335042f23931f2cc3565951dcb5515892f36e25f921379c2f73c3e89d6cfd8",
+  "sha512": "a9acb1dc5b49da72678814676b1042a22eb537faef0646654e553149bc0aceabd6369e3b8d4776cc1a44168ebf2c0b5e2e4718d8725bb8e156fce04e799f9fb2",
+  "size": 152973312,
+  "url": "https://corretto.aws/downloads/resources/11.0.32.12.1/amazon-corretto-11.0.32.12.1-windows-x86.msi",
+  "vendor": "amazon",
+  "version": "11.0.32.12.1"
+}

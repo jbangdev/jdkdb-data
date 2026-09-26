@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "amazon-corretto-25.0.4.10.1-macosx-aarch64.pkg",
+  "image_type": "jdk",
+  "java_version": "25.0.4.10.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-26",
+  "md5": "9cf20ab116416721a37c0e802e3f2cfb",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.4.10.1",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+10-LTS",
+    "JAVA_VERSION": "25.0.4.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:b5c175287a79+"
+  },
+  "release_type": "ga",
+  "sha1": "75d594d6d4d980f982ce407d5bf6b1b5fe2f3856",
+  "sha256": "a9f2ed031361b3cbb7a731db25463f14603a8fdd7a20f866008c68656b9c9393",
+  "sha512": "f2d1d0503c76d1941d1cb403021d7268b439cf3a6759c19f75830934d1f84eaae6617dea8938cf6a19df291f83b43e26dc91764ef4d61eb0351533abc27eaa94",
+  "size": 218400911,
+  "url": "https://corretto.aws/downloads/resources/25.0.4.10.1/amazon-corretto-25.0.4.10.1-macosx-aarch64.pkg",
+  "vendor": "amazon",
+  "version": "25.0.4.10.1"
+}

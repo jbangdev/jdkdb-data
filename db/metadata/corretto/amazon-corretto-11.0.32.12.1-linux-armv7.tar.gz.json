@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-11.0.32.12.1-linux-armv7.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.32.12.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-26",
+  "md5": "5245fd0cbeb4749abbe0c164a8c22c5e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-11.0.32.12.1",
+    "JAVA_RUNTIME_VERSION": "11.0.32.1+12-LTS",
+    "JAVA_VERSION": "11.0.32.1",
+    "JAVA_VERSION_DATE": "2026-08-18",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2d4301ae80b4+"
+  },
+  "release_type": "ga",
+  "sha1": "9a06a24f6dd8cacdea11015751d992ac769ee075",
+  "sha256": "7bcae470cf3b7f5bfd234a77429c262826a603e80d17a1f5c732b12acddabac9",
+  "sha512": "bae133788f3dc5857ae9dda00338ec67a68fe1385e80dd4725319715234cb4e626fa5dd1cc69fd7fbca2f98b2fe0dcb621c188f090b310571585611e55aed727",
+  "size": 173276700,
+  "url": "https://corretto.aws/downloads/resources/11.0.32.12.1/amazon-corretto-11.0.32.12.1-linux-armv7.tar.gz",
+  "vendor": "amazon",
+  "version": "11.0.32.12.1"
+}
