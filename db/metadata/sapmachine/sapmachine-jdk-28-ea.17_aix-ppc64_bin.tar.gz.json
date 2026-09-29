@@ -1,0 +1,33 @@
+{
+  "architecture": "ppc64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.17_aix-ppc64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.17",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-29",
+  "md5": "0f01019e2d6e2b7a6be38dd9c10543fb",
+  "os": "aix",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+17",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64",
+    "OS_NAME": "AIX",
+    "SOURCE": ".:git:200dc474a7a4"
+  },
+  "release_type": "ea",
+  "sha1": "378fd2bd10970d40d5b14fae20729f56a250581b",
+  "sha256": "89c2933444eea063482529110703446bdaca1f9feb08798add5b03e7a0bba440",
+  "sha512": "ca54734faf3522499ba6fbb8c8a9105ffae915ead2c977936de946e8d3056391b082149bfade42b3941bde6fa42bea8fb08568d8ae33623ce629ed6cc84aa900",
+  "size": 116495668,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B17/sapmachine-jdk-28-ea.17_aix-ppc64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.17"
+}

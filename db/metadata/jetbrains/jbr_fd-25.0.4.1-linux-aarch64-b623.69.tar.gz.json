@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-25.0.4.1-linux-aarch64-b623.69.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-29",
+  "md5": "bb000e8d9a5f559f3df13617b5e2900e",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-623.69-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b623.69",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:049c1897920c+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "b281d67a72872b505965bff353c12f534aa64f04",
+  "sha256": "2e60f00077e4dfb0f1e93d476ee33dfd3068bcb9fc82dadeb4e89eb6f3707d73",
+  "sha512": "01d14357aa3177e9260b738f6ea05f111658883b393920ce614680b05497e3182bb6c9e47b8df7c4464e43164515ce60052cd188777758011c8733628f912c8c",
+  "size": 109484032,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.4.1-linux-aarch64-b623.69.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b623.69"
+}

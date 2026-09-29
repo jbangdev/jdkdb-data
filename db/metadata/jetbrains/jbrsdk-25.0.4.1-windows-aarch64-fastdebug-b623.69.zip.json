@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "jbrsdk-25.0.4.1-windows-aarch64-fastdebug-b623.69.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-09-29",
+  "md5": "64d633f2857b3c49350f3c2537f2f292",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.4.1+1-623.69-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b623.69",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:049c1897920c+ VulkanSDK:git:183b6868ae0c jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "f654a1c0e10ae21fc652a59a8f41100f199e38dd",
+  "sha256": "217ff5dc5c1a2500d4ecc4c6a934f866c8f9ab952f425f60e1a73dd71c9a76fd",
+  "sha512": "8c77d1c259133df709fe71980a2741deee8a8c6e5ce4e2908a933b8fcd1a833bbda235569683311cfcd867f22194493085504442f70ca03eb86900c44fd4a31e",
+  "size": 293871825,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.4.1-windows-aarch64-fastdebug-b623.69.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b623.69"
+}
