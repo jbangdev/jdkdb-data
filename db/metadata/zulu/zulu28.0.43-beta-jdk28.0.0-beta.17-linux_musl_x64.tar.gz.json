@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu28.0.43-beta-jdk28.0.0-beta.17-linux_musl_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28.0.0-beta.17",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-01",
+  "md5": "0ddec8bd8e533b98bfe6a77cbf648b62",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu28+43-CA",
+    "JAVA_RUNTIME_VERSION": "28-beta+17",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:5bbddc9bf205"
+  },
+  "release_type": "ea",
+  "sha1": "a1147ff83b4c90931afa687832f536d4ef058633",
+  "sha256": "3ee29b0f1feec2da51f609092bf614c2032ced8b8b4ac7bb7b787243bdbc02fd",
+  "sha512": "1531fc36d10a79fe44ca027678478eb7ce0c163ed2307a1ae81f31179d933667a9229b5cfd7aff17ecdff0361ec5b64ea021e6789bad51e06c3bdb0e328e3c76",
+  "size": 251965502,
+  "url": "https://static.azul.com/zulu/bin/zulu28.0.43-beta-jdk28.0.0-beta.17-linux_musl_x64.tar.gz",
+  "vendor": "azul",
+  "version": "28.0.43"
+}

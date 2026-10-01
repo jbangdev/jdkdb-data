@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu28.0.43-beta-jdk28.0.0-beta.17-macosx_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28.0.0-beta.17",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-01",
+  "md5": "654e9500378fe3462a5a9b80938889af",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu28+43-CA",
+    "JAVA_RUNTIME_VERSION": "28-beta+17",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:5bbddc9bf205"
+  },
+  "release_type": "ea",
+  "sha1": "e7712a65b884754280b6c1ea5e695b5cec42df20",
+  "sha256": "91aaf2c5af279828efc5f61de02d7f1a83ca8c63bef09b406a9d06c7b0fb84ba",
+  "sha512": "8ab63ea674de9317f8100faa80ce091aa87b8028ea9aa841d4a4fd8402977802b86e45eb28181951109ccd96116c1b46e18f1d7c47e489c5a166947ec76ac964",
+  "size": 244735886,
+  "url": "https://static.azul.com/zulu/bin/zulu28.0.43-beta-jdk28.0.0-beta.17-macosx_x64.tar.gz",
+  "vendor": "azul",
+  "version": "28.0.43"
+}
