@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-21.0.13-ea.8_linux-x64-musl_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13-ea.8",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-05",
+  "md5": "666838d30edbf8c8b1e21fe80d5b70c7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+8",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1ea16351626e"
+  },
+  "release_type": "ea",
+  "sha1": "9f56a55371e81c0c105973cea43d7b5a05baa365",
+  "sha256": "6df2553762e9592f3d2781b29217f3397bac00dc3d06839e29fe27716ebb9c2e",
+  "sha512": "14e34f72670671d7618f1145dc90cb96abc7d6dd38a7c510ecd81f850530c4591aacc8d5fee541a35ee99fd57065198b90aac373034d720bdb92108279f529a7",
+  "size": 53921283,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B8/sapmachine-jre-21.0.13-ea.8_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13-ea.8"
+}

@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-25.0.4.1-osx-aarch64-fastdebug-b635.70.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-05",
+  "md5": "a3263beb41e97c42ef4645abac380d13",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.4.1+1-635.70-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b635.70",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:95357d90d8bd+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "9ac578191fb81bf362fc196aa08a4fa632074389",
+  "sha256": "957f831111b8d441ad913b468d0607c5e1603866572ec3299dadf65dee9c356e",
+  "sha512": "ae781f03fd02f249bd9e32a09ce371fdee246d3710d6df0e0e1b3b775e60e352a57a184fc8ff30caed55b945ab340899606c1f6917e0129c5d31b3fab9b85c6a",
+  "size": 392874323,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.4.1-osx-aarch64-fastdebug-b635.70.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b635.70"
+}

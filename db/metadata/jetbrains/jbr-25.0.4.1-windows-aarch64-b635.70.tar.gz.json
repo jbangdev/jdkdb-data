@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jbr-25.0.4.1-windows-aarch64-b635.70.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-05",
+  "md5": "b02f85ce54992b8ac86c5e5354593cb4",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-635.70-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b635.70",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:95357d90d8bd+ VulkanSDK:git:183b6868ae0c"
+  },
+  "release_type": "ga",
+  "sha1": "8ded4aeacc189cb2a774f57ed9dd7296bcf30d2a",
+  "sha256": "b85d3aad54a9f29f440d7a770a66318742fddf8b2857862431c7e97969d91be6",
+  "sha512": "eeff4ed358b2aa9ba65bcc59e7a85079f27db0f852ecfe7a6dca8f29788455c61d4afcfe1f3b8d9d0b9cbcd0d9b41d2703bbd56619b7f8f7af71d9537b051e8f",
+  "size": 80500600,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.4.1-windows-aarch64-b635.70.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b635.70"
+}
