@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.21~8ea-1_i386.deb",
+  "image_type": "jre",
+  "java_version": "17.0.21",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-09",
+  "md5": "955af42fac985b7f0e5a1b07d215e4d6",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+8-1-Debian",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "5beeda9690879b6b651a7055e26bb278737b276d",
+  "sha256": "444d2e4552cf939d6cfd530c109e1a0d9bae35a51f7c7d4eb407bf266040903c",
+  "sha512": "cbfd324a7262869ca45c53b137ff32162efe03b5b71ad60be9a6de2ab4a09342c71c165baf948d57b8a8e58e6ab29e82f98e7c7e494e1c161b65dc93aacb0eae",
+  "size": 43534328,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~8ea-1_i386.deb",
+  "vendor": "debian",
+  "version": "17.0.21~8ea-1"
+}

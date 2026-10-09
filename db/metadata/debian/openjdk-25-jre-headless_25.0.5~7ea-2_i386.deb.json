@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-25-jre-headless_25.0.5~7ea-2_i386.deb",
+  "image_type": "jre",
+  "java_version": "25.0.5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-09",
+  "md5": "65a82dff5b808c99874f073f376e70f3",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "25.0.5-ea+7-2-Debian",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "5c4fea54824f46c6cb436a2aba39919ec7f4ad05",
+  "sha256": "86bd427451408eb3ef54e93172b7d63464210957be07d6f059bb7b21b6ec06cc",
+  "sha512": "c70b991b7d064d9711a64c6871f6f521a1dc8e9324afbc5f7b82ee0b180eaf6b1a32d95fda7f9acce1ed408dacb760958261aa78d4c283343e4341f47fbfe19b",
+  "size": 38445920,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.5~7ea-2_i386.deb",
+  "vendor": "debian",
+  "version": "25.0.5~7ea-2"
+}

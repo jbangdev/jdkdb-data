@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.13~8ea-1_i386.deb",
+  "image_type": "jre",
+  "java_version": "21.0.13",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-09",
+  "md5": "1972922a9da2e45175bcffa387a4f7bd",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.13-ea+8-1-Debian",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "83fcf1c100f60a8a469a3e2241740dda8d3fa46d",
+  "sha256": "e6fbb0da233e9495c3561f595639952d0e289c99f273289bcbc8ea7888b4f125",
+  "sha512": "7b40f9ff41f5d734a722606e69048f85ad11b54cc660ceea9e4856babd211a7f2eefad846a1ded032f3354b40744bc6ae1885c9c983d20c919bfd8c169ff2128",
+  "size": 43895580,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~8ea-1_i386.deb",
+  "vendor": "debian",
+  "version": "21.0.13~8ea-1"
+}
