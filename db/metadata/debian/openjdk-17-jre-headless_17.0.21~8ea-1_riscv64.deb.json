@@ -1,0 +1,34 @@
+{
+  "architecture": "riscv64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.21~8ea-1_riscv64.deb",
+  "image_type": "jre",
+  "java_version": "17.0.21",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-11",
+  "md5": "caa2830e9dc0de5c8f16369e82621b41",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.21-ea+8-1-Debian",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "b15d0c973944e2f19c74fc47d1e85700521465f8",
+  "sha256": "8bb74d2e9647d3dab4e392a64e277be6ff390ad03eec5fe1492c58d1d6fac683",
+  "sha512": "c41eb5c473b16221d4a73e1c0c13966b21272100776196facb43258119427a9119440eefa0c9a5214279e852b012f6c476c4c0c85c099664fbfcac30f9010356",
+  "size": 43366152,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~8ea-1_riscv64.deb",
+  "vendor": "debian",
+  "version": "17.0.21~8ea-1"
+}
