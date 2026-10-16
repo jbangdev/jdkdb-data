@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-28-ea.19_linux-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28-ea.19",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-16",
+  "md5": "a254c1f703d5b5c88eabd163fc446d7f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "28-ea+19",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:7c989105cff3"
+  },
+  "release_type": "ea",
+  "sha1": "7744b45209ad8058741f5d8e8045a954b03b02d4",
+  "sha256": "9ae36680f5bb82ac4254d6bf6786c01f3e59511cc2254e0d72c18eea62cbf1d3",
+  "sha512": "c1b3b943f14fb3b71b1646efd2385d3423ff032e4a8356444721c4310729cae529aa6efb75710c200e2761a995d6c213c653342efb5f440a2b799431d56ab901",
+  "size": 129801517,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B19/sapmachine-jdk-28-ea.19_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "28-ea.19"
+}
