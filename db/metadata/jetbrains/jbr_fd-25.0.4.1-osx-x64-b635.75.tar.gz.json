@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-25.0.4.1-osx-x64-b635.75.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-20",
+  "md5": "f83e1882045efed164b6910b9067f5fc",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-635.75-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b635.75",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:8a91bff64015+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "250e553781342b50360ea2776330807fe47480f5",
+  "sha256": "bf133a2b79e84d02c025e6f4f2b86fd26eb32be98e859135e7e293ac3bfb9b57",
+  "sha512": "ad1945d623d9dfedfebcb911313bb40eead947a8410b1fc5c2a3e2262d55a4b087ae1b6795858f06b5ef7a211e0ad1ec73069efe227e6e0b6ef762c5a8983597",
+  "size": 252098552,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.4.1-osx-x64-b635.75.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b635.75"
+}
