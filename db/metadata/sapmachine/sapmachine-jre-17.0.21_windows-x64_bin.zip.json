@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.21_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-21",
+  "md5": "0bc0441e8646ed9fc9ae0b6e8516fe4e",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21+9-LTS",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:85211a21ada7"
+  },
+  "release_type": "ga",
+  "sha1": "5fc0be3ee1a7aed97c4b7d0d90fb6631bf1cd297",
+  "sha256": "b381b23c9147e85233129a9e1ffddb8733074e4337407a1478bb811ae76310b4",
+  "sha512": "7078c2969d9d4dd13409967573f980465f927ed76bae4d15c4f2cd8ba30cb7541a44e0ad15b07dbec566fa94a50c1c16e6ba3414f9e2276c85f67735c3ca7d07",
+  "size": 47938186,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21/sapmachine-jre-17.0.21_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.21"
+}

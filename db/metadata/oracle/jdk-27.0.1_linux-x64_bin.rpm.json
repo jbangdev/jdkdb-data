@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "jdk-27.0.1_linux-x64_bin.rpm",
+  "image_type": "jdk",
+  "java_version": "27.0.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-21",
+  "md5": "b3b87edeebc3fde90b6f93a8bb9b5176",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1+9-62",
+    "JAVA_VERSION": "27.0.1",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c5f7c6a5705d open:git:d0ae11687ce2"
+  },
+  "release_type": "ga",
+  "sha1": "7cfdee268613e2262dc6c305e19c3077a3f8392a",
+  "sha256": "facc341b42126aa3d3dcbf3064bcfaff752de7db40f43d7c2d02250561f47c81",
+  "sha512": "1c539d8db90652de53e2ccc9ecfdd03fedf4de2adaa8410af90ba53bfab4afc51ff2314239b75724969e626f2a740e9ec14adac6ed4aefd0621878bc7745056a",
+  "size": 219998738,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27.0.1_linux-x64_bin.rpm",
+  "vendor": "oracle",
+  "version": "27.0.1"
+}

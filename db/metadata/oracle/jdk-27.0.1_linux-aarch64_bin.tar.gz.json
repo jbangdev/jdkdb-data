@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-27.0.1_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-21",
+  "md5": "e05ae3c8b820fe946fce4d8bc13b0d27",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1+9-62",
+    "JAVA_VERSION": "27.0.1",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c5f7c6a5705d open:git:d0ae11687ce2"
+  },
+  "release_type": "ga",
+  "sha1": "dad57519bf01f59b0b08957926336b160ee8c7cc",
+  "sha256": "da7f3c4e51efe062cbe0e403800f489dab8a7d8f8cd6957db1fa3d8c86e4f598",
+  "sha512": "91373e2b3e852d1526884a9bb2d14dfc5b4e2ae4fcc63fa6f82578eaa2c38cac0071c2b446ede099546a4805e3c7d3048f7ed28f8aec2aab679de9523ad8e585",
+  "size": 218350993,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27.0.1_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27.0.1"
+}
