@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk27.0.1+11-windows-aarch64-lite.msi",
+  "image_type": "jdk",
+  "java_version": "27.0.1+11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "af1ef9735990470b2dc4a8445fe42a6c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1+11",
+    "JAVA_VERSION": "27.0.1",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:136ee2927c72+"
+  },
+  "release_type": "ga",
+  "sha1": "70cefaba09899e5f78530271e30201278d6b2b75",
+  "sha256": "356acc68695f08bd6bf2adba59525a0884baa33e87e60f717c549f81d47520b7",
+  "sha512": "1b9f1234a8b100de979a55697debedf85f59c4b9c4dc75df3cc83dee6f78c1406c141e0bd646516f7327f1e5f0354bd99dd068a2810902a7d083e51f99043397",
+  "size": 82206720,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1+11/bellsoft-jdk27.0.1+11-windows-aarch64-lite.msi",
+  "vendor": "bellsoft",
+  "version": "27.0.1+11"
+}

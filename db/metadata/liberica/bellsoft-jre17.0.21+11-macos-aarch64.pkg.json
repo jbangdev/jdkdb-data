@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre17.0.21+11-macos-aarch64.pkg",
+  "image_type": "jre",
+  "java_version": "17.0.21+11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "d8f0a613194dfdcdbdecb0327a2617ee",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21+11-LTS",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d912204993c2+"
+  },
+  "release_type": "ga",
+  "sha1": "417dc858d0f7aca2f6195b87e30f918250933bcf",
+  "sha256": "52c54ce36f5ea25c1f2646db77006f718a416ebaa0b96ea382247acd314c08bd",
+  "sha512": "35cec6d8f3fd4dd00ce39f859f582fef3ee7f08f4486894f3bbe13eeb31259da7debec360395f46ee81f014af3aa87ab505b5a26782882b349a9aceebafe7f30",
+  "size": 52529543,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21+11/bellsoft-jre17.0.21+11-macos-aarch64.pkg",
+  "vendor": "bellsoft",
+  "version": "17.0.21+11"
+}

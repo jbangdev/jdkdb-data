@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk21.0.13+12-linux-aarch64-crac.rpm",
+  "image_type": "jdk",
+  "java_version": "21.0.13+12",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "864c6778ff75f79a6035401c28483fac",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13+12-LTS",
+    "JAVA_VERSION": "21.0.13",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:5d665421b380+"
+  },
+  "release_type": "ga",
+  "sha1": "c49444040b96f7e80914840d66c675a04de22c91",
+  "sha256": "22ba93d9a8a4128495ad9066f3d3b56c68a0fef206e02ca169f63343dbdacdc5",
+  "sha512": "be1628643f750b0e3bbdd0d10f82351e9f43fbae25bc7497f7a4a1c02fcb7b24533b5b185064eb46541bd273ac1224e2b3391833b02af23016624d0698b0c1f8",
+  "size": 178391540,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13+12/bellsoft-jdk21.0.13+12-linux-aarch64-crac.rpm",
+  "vendor": "bellsoft",
+  "version": "21.0.13+12"
+}

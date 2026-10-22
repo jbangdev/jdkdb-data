@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre25.0.5+11-macos-amd64.pkg",
+  "image_type": "jre",
+  "java_version": "25.0.5+11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "118ace4d97f6622be7b2631c31728018",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5+11-LTS",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:9634b01a9bd3+"
+  },
+  "release_type": "ga",
+  "sha1": "e24a4c6b2ac97e6bd88e98dccb8dcb28a97df2e7",
+  "sha256": "977c21c3e50d4dccf8eba6b2a920cc45fa03b0f38efecfa796b29bc6da3243b8",
+  "sha512": "d6c23e99ec9fe473e3664cade5430ebfbe293563630d7c0c09879ff1afe6f25a152ecbcc9f43d9b791b152e3a38d2327e8531be26ef07ead98c4e3ad287a595d",
+  "size": 78521863,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5+11/bellsoft-jre25.0.5+11-macos-amd64.pkg",
+  "vendor": "bellsoft",
+  "version": "25.0.5+11"
+}

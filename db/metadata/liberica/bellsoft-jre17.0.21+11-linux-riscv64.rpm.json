@@ -1,0 +1,32 @@
+{
+  "architecture": "riscv64",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jre17.0.21+11-linux-riscv64.rpm",
+  "image_type": "jre",
+  "java_version": "17.0.21+11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "ea50a2355671a3918078b4569edbdf76",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21+11-LTS",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:34e55a8d88a1+"
+  },
+  "release_type": "ga",
+  "sha1": "7237e0f5ad4f2dc2c1b2d5ebac3b8e4e7ee81485",
+  "sha256": "67fcc2fbd1d44813ea13daacc27da5e355482b7a596c6f9b41d7f2dcb12302c8",
+  "sha512": "dec84f12a134bed5b6c8844c18d32dff9b4713379d4bcd951c0456bb68a71b00f81671186aaef6830a5d28c24f292d8f8eaadb1d946bf4a116f4acb08d17f7d9",
+  "size": 26389172,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21+11/bellsoft-jre17.0.21+11-linux-riscv64.rpm",
+  "vendor": "bellsoft",
+  "version": "17.0.21+11"
+}

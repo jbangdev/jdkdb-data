@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openjdk",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "openjdk-27.0.1.0.2_windows-x64_bin.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "5621af9dc0e1cfba6b8726ea596598f1",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.2+1-2",
+    "JAVA_VERSION": "27.0.1.0.2",
+    "JAVA_VERSION_DATE": "2026-10-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2ca72448a02e"
+  },
+  "release_type": "ga",
+  "sha1": "95596141b588c6cf9ebb51d67707d10215ed55e0",
+  "sha256": "dd57fc9519f739b19d354c3be2d8fd18c0fdbc1b8a81bc85cc2f61dacdcb8ebd",
+  "sha512": "1379c2ce511f4bee2bacfc20502b3e1d751b7eb90a4ad7264039f2af60b09bc9d7952d7041a4db3a79561253ab5982beb521a2ca0ebf278a89f879f11edfbb1f",
+  "size": 226154755,
+  "url": "https://download.java.net/java/GA/jdk27.0.1.0.2/924dbdccfc234bb9b9355d7c6b66034b/1/GPL/openjdk-27.0.1.0.2_windows-x64_bin.zip",
+  "vendor": "oracle",
+  "version": "27.0.1.0.2"
+}

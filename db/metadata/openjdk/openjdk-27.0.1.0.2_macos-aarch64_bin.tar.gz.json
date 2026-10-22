@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27.0.1.0.2_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "e7418c1ab14feb0d9a0bed271f2719fb",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.2+1-2",
+    "JAVA_VERSION": "27.0.1.0.2",
+    "JAVA_VERSION_DATE": "2026-10-21",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:2ca72448a02e"
+  },
+  "release_type": "ga",
+  "sha1": "1854118d36c0d82673e400001ce9f29367fffa1d",
+  "sha256": "26d0712e378b7e5ef47cea0c424ba113daf4bc9f28377023fa073c4ee3225933",
+  "sha512": "a93e8487d16484a996e26683f3b4adca3e942335085471bbf0861e2ba2e163e731b48275b2b108f70c0aafc406ab03fbd460ec4714e1ef6f4419be6affdade40",
+  "size": 219347871,
+  "url": "https://download.java.net/java/GA/jdk27.0.1.0.2/924dbdccfc234bb9b9355d7c6b66034b/1/GPL/openjdk-27.0.1.0.2_macos-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27.0.1.0.2"
+}

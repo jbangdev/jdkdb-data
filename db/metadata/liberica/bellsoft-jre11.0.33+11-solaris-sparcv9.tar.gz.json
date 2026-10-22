@@ -1,0 +1,32 @@
+{
+  "architecture": "sparcv9",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre11.0.33+11-solaris-sparcv9.tar.gz",
+  "image_type": "jre",
+  "java_version": "11.0.33+11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-22",
+  "md5": "aaf789a8380d05f5ead09c59de95b0c3",
+  "os": "solaris",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33+11-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.ucrypto jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "sparcv9",
+    "OS_NAME": "SunOS",
+    "SOURCE": ".:git:9d52197ed3a6+"
+  },
+  "release_type": "ga",
+  "sha1": "951af7ab108a4f27ede6d869e6da3d82ec11e679",
+  "sha256": "57aac949a8d5a7335e5478a811eb3ec64dacd05d27982b5b8520595d73eb3ff2",
+  "sha512": "c1ae57b647bbec2d732cfd83622f274c12dae0524bb010d7d82663e69c5520e67fe20b60fb3c7c1d6bd6f5c733f858e3bed7588b740b673702943cbc3f47e5e7",
+  "size": 56719934,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33+11/bellsoft-jre11.0.33+11-solaris-sparcv9.tar.gz",
+  "vendor": "bellsoft",
+  "version": "11.0.33+11"
+}
