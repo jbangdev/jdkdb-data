@@ -1,0 +1,37 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "pkg",
+  "filename": "jbrsdk_jcef-25.0.4.1-osx-aarch64-b329.136.pkg",
+  "image_type": "jdk",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-23",
+  "md5": "4d2cb4c4a9b760623d48dccd3bf98af9",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.4.1+1-329.136-jcef",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b329.136",
+    "JAVA_VERSION": "25.0.4.1",
+    "JCEF_COMMIT_HASH": "8b143394f1519ac92a20616cc7e88c281a11f4ca",
+    "JCEF_VERSION": "137.0.17.1143+g8b14339",
+    "JCEF_VERSION_DETAILED": "137.0.17-gf354b0e-chromium-137.0.7151.104-api-1.21-261-b89",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:db502e9d294b+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "7b6c638c0e386bfafa28aa4177d450c774673a29",
+  "sha256": "96bfdbd7636f13161480995a51db8c6c6fcb7fdf0861fd08660a657dcd57298d",
+  "sha512": "514923c5cfd0459817428a38e334b47961834dfb30cb019bddab1fdd46e64fc32d0efede2b35e7523097196b2c9d08124929124d7579f47be4948ccc58c263f4",
+  "size": 383555105,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.4.1-osx-aarch64-b329.136.pkg",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b329.136"
+}
