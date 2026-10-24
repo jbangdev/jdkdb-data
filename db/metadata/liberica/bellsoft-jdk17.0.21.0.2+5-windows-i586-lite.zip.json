@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "zip",
+  "filename": "bellsoft-jdk17.0.21.0.2+5-windows-i586-lite.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.2+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "6065be7ffe3a5795fbfbce3b7af9ac5a",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.2+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c36a6f2ae0e5+"
+  },
+  "release_type": "ga",
+  "sha1": "9fcf7569e7421c6f921794a62a76ca68a74c23a9",
+  "sha256": "4203e60a957254070c4fa8a65d10d88a9274c8abe6bc83ebe2b56ad2f08acd1d",
+  "sha512": "413aa2c565c8bbbc3dc2fe318877b409382d5750c7cee69dfdf2b0e39d04983cf7b80b9a5094072cc613d6e1b5cba8ae6e719330b899c1f577cd57e1761354a5",
+  "size": 69570992,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+5/bellsoft-jdk17.0.21.0.2+5-windows-i586-lite.zip",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.2+5"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk17.0.21.0.2+5-windows-aarch64.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.2+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "486f6524314e020dba596ddcd88f278f",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.2+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c36a6f2ae0e5+"
+  },
+  "release_type": "ga",
+  "sha1": "574c12712fdf6282629bfbab58408dea47a8ca35",
+  "sha256": "e7a12776d0dd871e1b7aa3d5489a6f3975a66299d6fe9e06aa910568a0e57461",
+  "sha512": "f9cba46cfb69deb69e7daf3bcc420798cb5fffdef916af0464e9ebcbf048f79a78ed3d708b2f5acc9cb37be9d20c6f212cd9043764d8abeb92ee90a51cbf213c",
+  "size": 182349824,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+5/bellsoft-jdk17.0.21.0.2+5-windows-aarch64.msi",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.2+5"
+}

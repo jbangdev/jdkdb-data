@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk11.0.33.0.2+5-linux-amd64.rpm",
+  "image_type": "jdk",
+  "java_version": "11.0.33.0.2+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "31f3c290d61cfcecf8d2f9930e235aa5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.2+5-LTS",
+    "JAVA_VERSION": "11.0.33.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:e865dcd9241a+"
+  },
+  "release_type": "ga",
+  "sha1": "b94e8520636cd7dae4805ab211bd3ffb62036cf9",
+  "sha256": "789693a154b957ab65971a140a489e58d3a973ef42edb2bbecab541c9231bc43",
+  "sha512": "888457f06a2c8e08b2610d9ce20910e0582ebea9587496283e8e6a6d28fdafd07feb2e540c1c52a9d10a57eb2370d0a7d800a76bafaa487d0db89f0406555d11",
+  "size": 193227904,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.2+5/bellsoft-jdk11.0.33.0.2+5-linux-amd64.rpm",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.2+5"
+}

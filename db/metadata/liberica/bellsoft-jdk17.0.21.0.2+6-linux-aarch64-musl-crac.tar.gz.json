@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk17.0.21.0.2+6-linux-aarch64-musl-crac.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.2+6",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "92e95ca7df47f37ebdc2f593f1d613d2",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.2+6-LTS",
+    "JAVA_VERSION": "17.0.21.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:259b75c6d681+"
+  },
+  "release_type": "ga",
+  "sha1": "5873c0d4e0c5ff3739303645525e72bd8ae2d2f1",
+  "sha256": "dc42da7c892feabc982467b15794356678e151f415a34b88557e1a7e1c128c16",
+  "sha512": "87245ba2ab7605eee9d1ba2850a86115989d72f070fe1feed75c23ec236244c655d158091bf1c102666aae7fb4e6c6dac2e53de9f2f503628c93e755f0323270",
+  "size": 196059007,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+6/bellsoft-jdk17.0.21.0.2+6-linux-aarch64-musl-crac.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.2+6"
+}

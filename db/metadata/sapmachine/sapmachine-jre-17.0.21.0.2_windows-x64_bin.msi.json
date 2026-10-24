@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "msi",
+  "filename": "sapmachine-jre-17.0.21.0.2_windows-x64_bin.msi",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "4cafeea40b0c27d23726b84d903fe8a6",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.2+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:871c89d036a2"
+  },
+  "release_type": "ga",
+  "sha1": "7b99fd45fd0e449a2f790bb70aae21ad88c87542",
+  "sha256": "88e362ce69e0ced33a8031d58cab097cc05ffc1d6e0fea0a3a636209568b9952",
+  "sha512": "5d63b4e3048b41efb12bd5902c7221a63716a7db14fab583676bfc76b8fdd36f180e0d808ea572869bc68802f6b5f06808b60f9ad442319830673020f5e67abd",
+  "size": 48009216,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21.0.2/sapmachine-jre-17.0.21.0.2_windows-x64_bin.msi",
+  "vendor": "sap",
+  "version": "17.0.21.0.2"
+}

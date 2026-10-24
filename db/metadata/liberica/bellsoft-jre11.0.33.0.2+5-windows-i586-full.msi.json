@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jre11.0.33.0.2+5-windows-i586-full.msi",
+  "image_type": "jre",
+  "java_version": "11.0.33.0.2+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "f8e2b7fdcb4594bd8fc74c09757d5af1",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.2+5-LTS",
+    "JAVA_VERSION": "11.0.33.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:a4f3083df59e+"
+  },
+  "release_type": "ga",
+  "sha1": "5c8f7bcaf8f8fbbab6cbd8aec1ba9cb5d38a33b2",
+  "sha256": "a1c4eab2cdd115c21f78276bffdd8873d7731feee9287ab5ce37268fb2e98723",
+  "sha512": "7ab26eec269e9fd240599b23f098497d75c56a49a0e717f3d19e2f8832d41448b6de8100c75d06eee24209429d76c3b456d00db604aad77f6a4e5bfd47bf7f10",
+  "size": 85123072,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.2+5/bellsoft-jre11.0.33.0.2+5-windows-i586-full.msi",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.2+5"
+}

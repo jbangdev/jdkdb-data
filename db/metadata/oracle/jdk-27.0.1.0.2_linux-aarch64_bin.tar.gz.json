@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-27.0.1.0.2_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-24",
+  "md5": "88a7adb55c76adcecd5f19fec7d22a67",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.2+1-2",
+    "JAVA_VERSION": "27.0.1.0.2",
+    "JAVA_VERSION_DATE": "2026-10-21",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:16ff78d05d6d open:git:2ca72448a02e"
+  },
+  "release_type": "ga",
+  "sha1": "f988dcd66759e7f120c3a50456556e18e20ada36",
+  "sha256": "21505bfd10245aa859055bdce5bf3d4b72906e2f2e46b3016f4631c09c41e15f",
+  "sha512": "82aa57be6661df6fd3caa8b78178b8eeda35dffcd510ecea2e2befcfd3b3db68c65597adbca0f197d2a76aa02b2045ede8bd85ad0c25cc7618efbad2f3db2c31",
+  "size": 218380025,
+  "url": "https://java.oraclecloud.com/java/27/archive/jdk-27.0.1.0.2_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27.0.1.0.2"
+}
