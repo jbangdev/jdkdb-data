@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27.0.1.0.3_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-25",
+  "md5": "4233e0c9cb553d3078ce14583c505c0f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+1-2",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-25",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d86c159aa1fa"
+  },
+  "release_type": "ga",
+  "sha1": "e0b5ef6b8e6cfe688c79821bb5cb482f25306dd5",
+  "sha256": "a088a727fa3e76ebeadfa76ed9c1e9fecbdfa54ec752ecb669c38a8585e058a1",
+  "sha512": "95c5df7096b931b6a676c63e11719c71eaeb765eb3177fe387815c5695a003d8e1b911600a2846b02fd6f0a2b2507634e4f0b02a49928cca7f1d20c2621f44f3",
+  "size": 224370069,
+  "url": "https://download.java.net/java/GA/jdk27.0.1.0.3/b14170c9b2de463d9b89442c6db3e384/1/GPL/openjdk-27.0.1.0.3_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27.0.1.0.3"
+}

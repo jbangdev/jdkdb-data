@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "zulu25.38.107-ca-jdk25.0.5-macosx_x64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-25",
+  "md5": "326d41af22462341148785502dda1db0",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.38+107-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.5+8-LTS",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:98ba8d2e58a8"
+  },
+  "release_type": "ga",
+  "sha1": "1bca17e9c4e54a908851c87f36d2e58853276579",
+  "sha256": "a919c14a4895345180edfcbb5a68a227053a6ca376609f57c3f0894330c0162c",
+  "sha512": "126bfd7ce4f4fde91a02b71e501d1e9a6fa3c775113ffebef978cea14bd6498d45160579f8ad87fb6dece7eb35e61ed77d8078347b0d7bd9c03efc347dd1d70a",
+  "size": 230059966,
+  "url": "https://static.azul.com/zulu/bin/zulu25.38.107-ca-jdk25.0.5-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "25.38.107"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu11.92.109-ca-jdk11.0.33-linux_musl_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-25",
+  "md5": "3f5b8ec24e68c6022e93b2fb04ccfd19",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+109-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+9-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:aeacf9aa7014"
+  },
+  "release_type": "ga",
+  "sha1": "2330a3f8d16af5dc17efacc27ee6553caac2bb6b",
+  "sha256": "2946c47ac9aab714e58d9bacdf89cbcb8d8954d5fb7e3e91eb9a42b3d0f8ee2b",
+  "sha512": "e4ebd6e16f19ed869a256156af0beeb7f9616bfd20e74018355cc71e1f1d90e56d1aa32e5936da13e67690c8ce60946018b69e30a07240c6a9fdf4ff2dbf4007",
+  "size": 200931372,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-linux_musl_x64.tar.gz",
+  "vendor": "azul",
+  "version": "11.92.109"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "sparcv9",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "zulu11.92.109-ca-jdk11.0.33-solaris_sparcv9.zip",
+  "image_type": "jdk",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-25",
+  "md5": "99634f12c4ccc1d0ce3229b6c6029540",
+  "os": "solaris",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+109-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+9-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.ucrypto jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "sparcv9",
+    "OS_NAME": "SunOS",
+    "SOURCE": ".:git:aeacf9aa7014"
+  },
+  "release_type": "ga",
+  "sha1": "e4afb82a0e10a57c7181364e27278a0dfa3a711f",
+  "sha256": "195b27f363cc89d1eaa7d3ad2e65d6adc44f32baa238df8f9d95b77d59d97fa0",
+  "sha512": "9afc4d2573a1f751806e20919625235fee4f581e2336de7b2c8768d82f75c0d94b3c709e03e56a6e6e1079b66a8948e5355b7a1a72a33bf33715dcb2a8f152d9",
+  "size": 216280744,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.109-ca-jdk11.0.33-solaris_sparcv9.zip",
+  "vendor": "azul",
+  "version": "11.92.109"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.111-ca-jdk17.0.21-linux_i686.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-25",
+  "md5": "8a56581b2b4495808ef7ef78942a1e25",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+111-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21+9-LTS",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d7f0a1c39cb0"
+  },
+  "release_type": "ga",
+  "sha1": "59faeb42b91745497e57d08b15fb1760a5c59969",
+  "sha256": "26013fa0f00088a27e2256d7cd4fc930fa289def238f15d85cd6a26e2c00095a",
+  "sha512": "7c5570816d6aa33efd2c16191a63b21c81aebbb12dcf8dba9e46702110bdf630e8ccb6e0a0d206c2e0a3a3df257ca008b2f7b318edda77c4c8585e49989be7c6",
+  "size": 190505821,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.111-ca-jdk17.0.21-linux_i686.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.111"
+}
