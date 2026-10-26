@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "microsoft-jdk-25.0.5.0.2-windows-aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-26",
+  "md5": "1449ce56e2ae42160bf8b06799dc1c0b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-15780129",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.2+1-LTS",
+    "JAVA_VERSION": "25.0.5.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:fff88c64340d"
+  },
+  "release_type": "ea",
+  "sha1": "266bbcfb2e166fb4487cefe4be2d94d868216f06",
+  "sha256": "f227cc459fbd65a42c1b28123d68e207eb500899c1c78238f21a038cd33688a3",
+  "sha512": "5dbbc1bde9c65954bae4c1cafbafbfa59bb24835118d407497c6147b23911e88e5c76912dbf6106a9d1195191b4e39e77213597cdbc521334ba6c45b1c0898e8",
+  "size": 215867316,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.5.0.2-windows-aarch64.zip",
+  "vendor": "microsoft",
+  "version": "25.0.5.0.2"
+}

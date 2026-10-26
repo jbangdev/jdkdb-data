@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "microsoft-jdk-21.0.13.0.2-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "21.0.13.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-26",
+  "md5": "41ce1f0a9b26b633b43c83c16204689d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-15780113",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.2+1-LTS",
+    "JAVA_VERSION": "21.0.13.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:86770f4f323a"
+  },
+  "release_type": "ga",
+  "sha1": "d9e73757c8f40302205a77b1d321e46ade27bdeb",
+  "sha256": "7a6700302e6079708a4596f8f84ff9d73516cda6ae6da91024063ac7c2a196e8",
+  "sha512": "1315eca71e776b40906cad3a0cb19e4e03e6c446bb51072e39f50e78293530c56e0e521841b3c4ca547108ad130bad9caf39bc0787cee7da04bfc509435a20a6",
+  "size": 179384320,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.13.0.2-windows-x64.msi",
+  "vendor": "microsoft",
+  "version": "21.0.13.0.2"
+}
