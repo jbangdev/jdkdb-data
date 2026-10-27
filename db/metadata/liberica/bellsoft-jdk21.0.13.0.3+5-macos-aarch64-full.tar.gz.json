@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk21.0.13.0.3+5-macos-aarch64-full.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "68caaaed8264315afa713c587c8499be",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:6a1ca53b3595+"
+  },
+  "release_type": "ga",
+  "sha1": "c86e02d442ff2d735afe242ca0909fa04eac3352",
+  "sha256": "d18f263073cf0c8152b93f27486a20e0247b5d6a8fcba11285a30e1e74bf9a88",
+  "sha512": "326b7cf4a6bcf9554e7c6ce2b0dab3b75a1d90dbe8f1f317a2862739f5630607a916d76ddfe93943e707147849f18be21b49364e2d4666553863ecf8a51c2734",
+  "size": 316628723,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jdk21.0.13.0.3+5-macos-aarch64-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

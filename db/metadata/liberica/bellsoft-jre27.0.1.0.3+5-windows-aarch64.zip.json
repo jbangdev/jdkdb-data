@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "bellsoft-jre27.0.1.0.3+5-windows-aarch64.zip",
+  "image_type": "jre",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "6761ebd2e4d70167512a211fe0573ce9",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "736cc87e6347e1ee6fe0229fda3d77f398c38e17",
+  "sha256": "8e8fffe1e6b3163811a7b5cd897c6139a85729d181f97e6bacc8b912b030f9e6",
+  "sha512": "51fadba5e5237a13aa6d48807c2298580e37ced4a249eab1e543db613aff6c02be3cf3842bbe13ab6168d011be0bb85c247b2f7358ed3214a44a92f0efe27b66",
+  "size": 43855868,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jre27.0.1.0.3+5-windows-aarch64.zip",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

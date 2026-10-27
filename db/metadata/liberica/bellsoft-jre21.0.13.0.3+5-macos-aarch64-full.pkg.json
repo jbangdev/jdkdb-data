@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre21.0.13.0.3+5-macos-aarch64-full.pkg",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "1d7a1d05de1d72740ce5bcc1cae785ed",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:6a1ca53b3595+"
+  },
+  "release_type": "ga",
+  "sha1": "067037b815d17177c64eac5605887111ad7cedc1",
+  "sha256": "c51e8b1de4064d5969a7df838dc003dbd68a78a76a65383f6f811770b869508d",
+  "sha512": "16ee821b6fa0d1fa7e1567fe2476d1f3bd329011921db439186e0271ea710bfb70c17647039ce61e23884bbd17921726f0599e96e2826c607282f6e9493b1e50",
+  "size": 104319333,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jre21.0.13.0.3+5-macos-aarch64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

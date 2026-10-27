@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-21.0.13.0.3-ea.1_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "c9c728f91ecda7c4d654e33ec9011f59",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3-ea+1",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:d93e307eefe9"
+  },
+  "release_type": "ea",
+  "sha1": "44eadd6db295d67aab2affd69a30ab36af1ff2a8",
+  "sha256": "df0880b0a6f4e90c506cf1880cf57ac985d1b4656c22248ac97c0b6fe5e1d305",
+  "sha512": "d4a30b4fa80521c750a624b64c66534bfecd5fb71738e21c2c7cb1fc6f13f042afd3711dec95dca8108067abe30ffbc49c079ab0a0238ad09bb5272edd10eb24",
+  "size": 54877885,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13.0.3%2B1/sapmachine-jre-21.0.13.0.3-ea.1_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "21.0.13.0.3-ea.1"
+}

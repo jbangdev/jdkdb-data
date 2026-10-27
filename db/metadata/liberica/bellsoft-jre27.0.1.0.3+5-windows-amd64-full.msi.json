@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jre27.0.1.0.3+5-windows-amd64-full.msi",
+  "image_type": "jre",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "7ff179b1a8097b6169eb19455635bc8d",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "c9d51d23ab035d67f4bc194d3a331deabcbbda3e",
+  "sha256": "e3dbff63efe57f0ffa8c2441ee82ab91774ce37ef0e78a0fb9c094e5ed4ab8b1",
+  "sha512": "f0e6d9680235a6f4b3ecb7bfea90d2888e6b0bfafa6fd1c5c121fc0513d6ab1c04afd557dcf0d05d6fe1c51572ba4fa7b2a1a14b362cc35393a0567771f5d065",
+  "size": 122642432,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jre27.0.1.0.3+5-windows-amd64-full.msi",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk25.0.5.0.3+5-linux-amd64-lite.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "262dfbb8eba6a33e1f4c21de7d71a7d5",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2a401c272ba9+"
+  },
+  "release_type": "ga",
+  "sha1": "967150633439dc27f7d16bc52d1e9b4e1140a5b2",
+  "sha256": "15943cdc94632bd2f299b17e6b9602e5de99631122529bab242f5514ddc00249",
+  "sha512": "821be5d70aba9f4b57d2bd3621d50012e8d1be01916928252d37c7589694803817483346ce8e0c43a539a8fb0bd99106b490c2d6a8ff8e905e2a1d0ae90b766a",
+  "size": 83095037,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jdk25.0.5.0.3+5-linux-amd64-lite.tar.gz",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

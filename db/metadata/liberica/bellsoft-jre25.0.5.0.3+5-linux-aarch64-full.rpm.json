@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jre25.0.5.0.3+5-linux-aarch64-full.rpm",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "a00ff60b2d15448e733e411b792c3391",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2a401c272ba9+"
+  },
+  "release_type": "ga",
+  "sha1": "88ed53c54198d31a31678282f35080b0c6f90add",
+  "sha256": "9f39899f14d85ecc6424655ad990c81ec6729dcaaf060b0d07ad4c5e18f49b06",
+  "sha512": "79dc182a6a4ec3cd0876fef3cc40b646cac0e648db496a3dfe9f5297f3416aea3fe32022d6dd3b71f47d49480bac6d9d55d0062df2cf80be7211dea19e46ef5f",
+  "size": 95608204,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jre25.0.5.0.3+5-linux-aarch64-full.rpm",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

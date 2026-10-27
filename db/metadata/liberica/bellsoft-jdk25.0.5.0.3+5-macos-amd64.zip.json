@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "bellsoft-jdk25.0.5.0.3+5-macos-amd64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "3f65a1e40f916b1beda7051a96935c51",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:2a401c272ba9+"
+  },
+  "release_type": "ga",
+  "sha1": "95bc30da2be0487727c4040eb49a5d50bc95bb1e",
+  "sha256": "ab6bb09521bf744fe0490a6f59ec1841bc0b683e0a316e091bdc3715a132f955",
+  "sha512": "648574364866ae3042c30a7b31eea7c019818ffc2b35f33512286aa4f676f786c7df6a102d48f5be26ddb4c9fa0f55b36de08724a079973b4d29a4b8b447d7f9",
+  "size": 251391114,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jdk25.0.5.0.3+5-macos-amd64.zip",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

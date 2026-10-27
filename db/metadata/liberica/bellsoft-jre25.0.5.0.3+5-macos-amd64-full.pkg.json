@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre25.0.5.0.3+5-macos-amd64-full.pkg",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "f5dbd07ffaa30746175e9460a237bea7",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:2a401c272ba9+"
+  },
+  "release_type": "ga",
+  "sha1": "326a713e73baa6bcd0e0344a51c223a6ed50b2b0",
+  "sha256": "e15ac3c290e13e2cf599f8abde6deff98caec52d4b3514043e9d093e4839988c",
+  "sha512": "c57276e889be682ca9b5166f829bd9df8738d3928e0d726feb939b554675071cb5709d0090fdf248ae9b4cbe5a70fab27fd9e4e0761230de26f4379e8bb1b07c",
+  "size": 126204261,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jre25.0.5.0.3+5-macos-amd64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

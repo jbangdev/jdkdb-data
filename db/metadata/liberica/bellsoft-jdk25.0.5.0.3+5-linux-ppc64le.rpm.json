@@ -1,0 +1,32 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk25.0.5.0.3+5-linux-ppc64le.rpm",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "8d15038ff15f9c472ce2aeca99dcb7da",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2a401c272ba9+"
+  },
+  "release_type": "ga",
+  "sha1": "f5800960f9ab0fcdf248d93a63adee5ac1110f68",
+  "sha256": "8ed94572c26139673dc4c9f578a12c7b8f0977e0b27f83f86b597b83eb8b978e",
+  "sha512": "637b00e15d8580844a54254fb02e9c8cf143927dbbb77e89cac3d4e0ec673a4f078547d3c28a020dc919d5bb07595ffb4c28337bc4699c50bc1c53d1a4081cdf",
+  "size": 198880336,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jdk25.0.5.0.3+5-linux-ppc64le.rpm",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.21.0.3-ea.1_linux-x64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "2bfa9082947a81f56e08f4ab303bec71",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3-ea+1",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a1353eec4602"
+  },
+  "release_type": "ea",
+  "sha1": "a58a55f80f08d3e0ff985be235dd8e664e85919c",
+  "sha256": "3302f736e1b3b6b21f8d0de7dc3a5683f5ca48fd067494e66a4e68b8febc0e79",
+  "sha512": "1df602c516b9c21c2a8dc2be5fed4741893ae0e8b8419112bbfca9adc25068ea73c3ec344021ae15547538d09b61aed8aca3c91e533592321c06ceded29efc50",
+  "size": 49425164,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21.0.3%2B1/sapmachine-jre-17.0.21.0.3-ea.1_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21.0.3-ea.1"
+}

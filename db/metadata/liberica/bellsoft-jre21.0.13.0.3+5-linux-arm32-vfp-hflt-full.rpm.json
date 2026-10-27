@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jre21.0.13.0.3+5-linux-arm32-vfp-hflt-full.rpm",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "bab334d5dfedc43487257e38df945e69",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:6a1ca53b3595+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "aa4c1497ab1ff8350602bbfb7a7b58b97d80edc2",
+  "sha256": "2a4c78fc2082e53dc65fe99bb6775ea1ed3b48ad0e5755287d254ac673b228d5",
+  "sha512": "33dec16ad433c6edcf0ccb8bc906368b6e1c094f9bde60e262bd948f842e807c97b2fd9fc3f4ede6b51f2cfeb10531874fa2dfb9aca2d3179688ea270ce5ac9e",
+  "size": 36227340,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jre21.0.13.0.3+5-linux-arm32-vfp-hflt-full.rpm",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

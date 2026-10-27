@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jre27.0.1.0.3+5-macos-aarch64-full.pkg",
+  "image_type": "jre",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "69cc4d7f28dfa9927c74a95b8344b3ba",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "41637345d3cb7b8705cfa1453a1cdb45e6d88fdc",
+  "sha256": "8b7dd1b64f3d49f9442e56ea65491c6936ab902c8bfabdb6933d164c521c22a8",
+  "sha512": "786ee8a6874973ca9ea708536584f881e875fcdd66a9a8ed3c817fec4b71e201d78604a98152cd7c8fbfcc15cb469f9182e029873611e71b3cb2a7123ee14888",
+  "size": 124564607,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jre27.0.1.0.3+5-macos-aarch64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

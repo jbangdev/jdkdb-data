@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jdk27.0.1.0.3+5-macos-amd64-full.pkg",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "d9489ce082a547f0bfb6a583612ad143",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "123c66bb427131ab49e9fa11df5ff9d27ef47110",
+  "sha256": "bfd0a117d52736f55f96ab6731a38ad0743902824e370ba4eda1637f82ec7436",
+  "sha512": "4481434967a73cc9f430241a0838e0face8535347cdbe42e88c1c03d6859d5d0e729938d9b813119bc2a2e915fd7a5039a83ea5d5cb4cf6db953a288e93be710",
+  "size": 358774445,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jdk27.0.1.0.3+5-macos-amd64-full.pkg",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre21.0.13.0.3+5-linux-arm32-vfp-hflt-full.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "d6f68198fb63d724d50e972ea960b290",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:6a1ca53b3595+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "9bfff11cceb9d32e7cb15cee5f541dc6bbce24f9",
+  "sha256": "8e41dd9ac68d15f509b9f4c6d640bb550c1d248983b190f05ed033fa5132ecdf",
+  "sha512": "a23a7b007f65185ce45950a185082b64710e96e3f718327435d53992f44be769cc5717bc54c9bef8d4074d49f200dfe86b592ab9a87f674116df90a16829f105",
+  "size": 52780886,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jre21.0.13.0.3+5-linux-arm32-vfp-hflt-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

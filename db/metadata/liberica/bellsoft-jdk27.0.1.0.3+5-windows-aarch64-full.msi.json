@@ -1,0 +1,34 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk27.0.1.0.3+5-windows-aarch64-full.msi",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "8ea33db13295aff7364e1e18e3b2aae5",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "18d4b44da461b9408ff820219b7aec55972c0798",
+  "sha256": "6547344070d5eb6722761b49003fd802f0519b18957a6d13ba3af04cd48c7344",
+  "sha512": "c4bd0481be0247ddc2846126c942148dd9a62710bd6822244757bb965cf7eee6bee53aa02bc597024edfd7f52bf7486e1de39f6fd68d4c5ada4fced5a92730dd",
+  "size": 230785024,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jdk27.0.1.0.3+5-windows-aarch64-full.msi",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

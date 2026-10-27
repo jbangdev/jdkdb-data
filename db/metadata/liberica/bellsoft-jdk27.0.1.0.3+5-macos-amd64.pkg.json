@@ -1,0 +1,32 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "bellsoft-jdk27.0.1.0.3+5-macos-amd64.pkg",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "4fc424d9e1df0c8b6eb4bb64047035b5",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c28fd72f1af5+"
+  },
+  "release_type": "ga",
+  "sha1": "4219323f190ad1db85f38e20c89c84d9b0ed0222",
+  "sha256": "87706c032c9c5e8ea4c5fc24b1b232890e7a3bb5dc47aacabcd8451457754400",
+  "sha512": "01aef7cf40b7f1ac9e974a12bd38c2384c0f56e3b5f764cb2e001b38b57911162ae5d190630b67bc4bc48e2a4882bc74663994a2c8a2228cf19ace10ff5f82a3",
+  "size": 251070769,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jdk27.0.1.0.3+5-macos-amd64.pkg",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}

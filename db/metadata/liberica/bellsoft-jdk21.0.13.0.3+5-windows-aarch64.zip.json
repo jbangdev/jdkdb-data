@@ -1,0 +1,32 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "bellsoft-jdk21.0.13.0.3+5-windows-aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "99e0043993bcd84fd4466bcca7008128",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:6a1ca53b3595+"
+  },
+  "release_type": "ga",
+  "sha1": "dbf1465805515e739fe45d3a68a20ed80ae1ff9c",
+  "sha256": "b25a0bc90e3cc6ffb3fbce0fb6a224d2efd2c47ddf0797ccb4ccd52743f18011",
+  "sha512": "5dbc9ac494ff1ba525ed3a2549d8ee85fce02edd5a26731d5f275621de213834860901216f4d1999e781d22b92b0b1658d1959656099e1328bcd38975c10b3cb",
+  "size": 198363012,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jdk21.0.13.0.3+5-windows-aarch64.zip",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

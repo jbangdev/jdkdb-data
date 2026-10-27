@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk21.0.13.0.3+5-linux-arm32-vfp-hflt.rpm",
+  "image_type": "jdk",
+  "java_version": "21.0.13.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "94f71344592de10080755274be42cb49",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+5-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:6a1ca53b3595+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "b0318998dede6ce50c0b8679a1df17840c1e07c5",
+  "sha256": "39f29e98029a7e2492f3d97e65eada4331640f642730878cb7cde2269e6b0493",
+  "sha512": "3b8a1bc7b0c3992dcdc30be51381db1d8ef01f9798b9343efe5318ac73089d711c2f6a1d93ca9b1820cc2c7ef222188bad24e030e0fb90c1b3300fa24db9e49d",
+  "size": 182360604,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.0.3+5/bellsoft-jdk21.0.13.0.3+5-linux-arm32-vfp-hflt.rpm",
+  "vendor": "bellsoft",
+  "version": "21.0.13.0.3+5"
+}

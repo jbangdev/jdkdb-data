@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-21.0.13.0.3_macos-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "f27825f7d15eb28d5ed20478051bbc8a",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+1-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:d93e307eefe9"
+  },
+  "release_type": "ga",
+  "sha1": "85e47efe5353b7732596e8453db0fdb94c291e40",
+  "sha256": "a1115a749457f3405ced7a9b802639f062716aa5921b40c9c30a1c881d0efd1b",
+  "sha512": "bc6ae7967c45123a28f674d007c0a97869007730a2f29f2d00021fd4233ed57547dafc6c0b7e3785942e7480e065e3f7f82327745f83fb47451d6a053f4cb6f9",
+  "size": 49065197,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13.0.3/sapmachine-jre-21.0.13.0.3_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13.0.3"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jre25.0.5.0.3+5-linux-arm32-vfp-hflt-full.rpm",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "680197812bdb49922368c1ad077f8719",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2a401c272ba9+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "cc6145b93dcee4ffc4269796ab1ae560ea528643",
+  "sha256": "9ebce48b814ced7abb840e089d38c7f5ca4e94a12696cb6d047efa5928ed30ca",
+  "sha512": "b71be83f53b739e3a610d136efab6369ef17e8d7d2de2f6fde9fc4cf998e0a1cf1143751c107805866579f7813917a9e96a102230fb51b80d7936826c637178c",
+  "size": 36899416,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jre25.0.5.0.3+5-linux-arm32-vfp-hflt-full.rpm",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

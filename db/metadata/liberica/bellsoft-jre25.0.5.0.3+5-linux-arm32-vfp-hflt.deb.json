@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "deb",
+  "filename": "bellsoft-jre25.0.5.0.3+5-linux-arm32-vfp-hflt.deb",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "91efdb39af26a0b4bfd5d195a6a81652",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+5-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2a401c272ba9+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "cb6f38f8cd941441fe7be860aa74094f35172acc",
+  "sha256": "1d827dc3234efa6e825159b113bc1aa5e2c4fd76f5a433a3636b2133caba3025",
+  "sha512": "eebaddfd4b647f06cdce017a41868f5e28f2e33f37c4fcefeee6c42834e044c04860ef746aaf46ae26ecdcbef1a81a8f1d32cb2b73f8ceda58d1d622057e2b36",
+  "size": 28242336,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jre25.0.5.0.3+5-linux-arm32-vfp-hflt.deb",
+  "vendor": "bellsoft",
+  "version": "25.0.5.0.3+5"
+}

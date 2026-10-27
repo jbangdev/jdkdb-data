@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jdk-25.0.5.0.3-ea.1_linux-x64-musl_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.3-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "73a7525ba02e35513707ff4da5502409",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3-ea+1",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ceae963ddf56"
+  },
+  "release_type": "ea",
+  "sha1": "d60e9a3d46c803097a10a4f429c34f9e57a1070d",
+  "sha256": "eb359623d74d0cc47d0f031ddcc40a36f08413e6f567443dda52c6c4e2e63edd",
+  "sha512": "301bb8fca355d5755bd1b6a76627914030798c5c0d2aa0032814d9e61ee26f902f483996490a1f3ebb5c26943ba485c08d501b970b2500a6086cc268e52f4cd1",
+  "size": 215946450,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5.0.3%2B1/sapmachine-jdk-25.0.5.0.3-ea.1_linux-x64-musl_bin.tar.gz",
+  "vendor": "sap",
+  "version": "25.0.5.0.3-ea.1"
+}

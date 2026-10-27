@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "microsoft-jdk-17.0.21.0.2-windows-aarch64.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "727e280a0fff72216c0d3e694163a874",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-15779924",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.2+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.2",
+    "JAVA_VERSION_DATE": "2026-10-22",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:426388110a74"
+  },
+  "release_type": "ea",
+  "sha1": "b057ba14858463193042d3c5c849e443ec360722",
+  "sha256": "71643fba8211ef4106176bdd68cc2614843f0b6d0eb294533058bd91a3002ac6",
+  "sha512": "b99366b406f7d60fcc7f3c5453fb51838d1610e5ad9def1a63ed6b92c9b2247738eeb48a19a931dbb043b7b405d952bc9942d298f0425ef3c8fc262628cc7afe",
+  "size": 164593664,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.21.0.2-windows-aarch64.msi",
+  "vendor": "microsoft",
+  "version": "17.0.21.0.2"
+}

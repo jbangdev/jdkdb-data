@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-21.0.13.0.3_linux-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "e6038e29c0f888e6cc60523bd0084cec",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+1-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d93e307eefe9"
+  },
+  "release_type": "ga",
+  "sha1": "fea3a6636a48c6c06eb9d9be1b024f6b9c2da9c5",
+  "sha256": "8bcabd991c76520da6c0157a03fcdafaa5680e4eb1a142ee14ceda91ed29216c",
+  "sha512": "b219d2e869ccf3b962f1c481ed4152baa96ea75ccdbe412c49a95185d03582320a897468648afbea2b236cd3fb8f3f405cbe062decd9e909b4494cd0ecba1a6d",
+  "size": 54418183,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13.0.3/sapmachine-jre-21.0.13.0.3_linux-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "21.0.13.0.3"
+}

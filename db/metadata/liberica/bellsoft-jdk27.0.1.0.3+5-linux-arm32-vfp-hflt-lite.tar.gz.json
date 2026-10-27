@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk27.0.1.0.3+5-linux-arm32-vfp-hflt-lite.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-27",
+  "md5": "c59ca58c6bef915ef496e628446a86b1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+5",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c28fd72f1af5+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "84cb34bf1bfd64ccc6b6dae3aef9ae5eb54ab041",
+  "sha256": "b8257eb42a865a202c61c80bfbaba1591ac4e693758ef3cb209d4bfadfaac4c0",
+  "sha512": "e17031243548d18952dcca7ac48484ee1592a135cb262ae37b34931de3b2c096dfed3dbb46474687757be887e6fccbde9b1d6ecfa467dd8c93cc31eb828841ab",
+  "size": 82945767,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/27.0.1.0.3+5/bellsoft-jdk27.0.1.0.3+5-linux-arm32-vfp-hflt-lite.tar.gz",
+  "vendor": "bellsoft",
+  "version": "27.0.1.0.3+5"
+}
