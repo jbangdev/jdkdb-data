@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk17.0.21.0.3+5-linux-arm32-vfp-hflt-lite.rpm",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "20191ef326971d725b7925cb3573d706",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2be37c0f910c+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "782839b27a99b27df6db36172a0efd23c166e937",
+  "sha256": "052b30d00eb9ede92200eafa18b30a731224e9db4bf4979bb05af438d9396301",
+  "sha512": "8750dec303dc45addabd209c13a1dd8722e57cacab494959e902cbcc05fe5abb89783dc898216348ee61df2fe05593e7804ae7b0d3d3a44fc9afb3ff5a75719b",
+  "size": 68130280,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.3+5/bellsoft-jdk17.0.21.0.3+5-linux-arm32-vfp-hflt-lite.rpm",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.3+5"
+}

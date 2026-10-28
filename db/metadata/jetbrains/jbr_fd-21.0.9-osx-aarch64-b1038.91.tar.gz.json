@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-21.0.9-osx-aarch64-b1038.91.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "25afec47511b8c5ff673e0ffe1bf4209",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.9+10-1038.91-fd",
+    "JAVA_RUNTIME_VERSION": "21.0.9+10-b1038.91",
+    "JAVA_VERSION": "21.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bd754c20e33b+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "c14a6a1d698f133692ca5e07f7e4bbd45a86c539",
+  "sha256": "ef86937e1dfb2cdb48fcd79accd16830fb4a70c57b84acb8842b6bf83944f1b7",
+  "sha512": "eee49849180d49e9add9640ec9b5610741d0daf47e19c0c2551998adc0a62bfd68422c62f4bf995e41a158a4d6e8406ede6fa3f607bf3aa9ff39c4398e3758ac",
+  "size": 211886124,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.9-osx-aarch64-b1038.91.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.91"
+}

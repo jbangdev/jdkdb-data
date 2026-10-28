@@ -1,0 +1,36 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.11-osx-aarch64-b1163.125.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "7aa87076499db14340e08fea02f4fe19",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.11+10-1163.125-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-b1163.125",
+    "JAVA_VERSION": "21.0.11",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:a166c74c11a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "40d5b155d952074074db9996446b1cd487e32f7e",
+  "sha256": "b2e335b956213950434900c4bdffcfa72c33832700a3251d29ae62a77d3f90b3",
+  "sha512": "65348d5ce994bfd90af9f1dd0b8aac594547c4cb2d203b5a542ef4420d1abe5ffdf400ef127bdece62b11ddad23d14289a95e5531260e20369b6f28a84003a0d",
+  "size": 228349581,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.11-osx-aarch64-b1163.125.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.125"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "sparcv9",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk11.0.33.0.3+7-solaris-sparcv9.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.0.3+7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "63315e57d1ed10cf406a47b8cd6cb3cd",
+  "os": "solaris",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.3+7-LTS",
+    "JAVA_VERSION": "11.0.33.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.ucrypto jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "sparcv9",
+    "OS_NAME": "SunOS",
+    "SOURCE": ".:git:1d53d38790a1+"
+  },
+  "release_type": "ga",
+  "sha1": "3fd314f8fe1acc68dfb8f12d3bb1303649a010db",
+  "sha256": "c19d1187a3cde3bef8e76fdb758dfc9320874943133c7424da71f89a63c3ce09",
+  "sha512": "1d35db2c01cf1c6fea020fea2797374d93d6f185041fc5df6b10c11d52a4930379cbe37d28c6beef154fe4594b7f53b8bbb0039b0f5be85cbd839aece88cf751",
+  "size": 210663730,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.3+7/bellsoft-jdk11.0.33.0.3+7-solaris-sparcv9.tar.gz",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.3+7"
+}

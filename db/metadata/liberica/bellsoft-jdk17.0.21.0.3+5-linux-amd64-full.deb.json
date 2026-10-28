@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jdk17.0.21.0.3+5-linux-amd64-full.deb",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "f72f48dba924818938e6c18f584fe4ba",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2be37c0f910c+"
+  },
+  "release_type": "ga",
+  "sha1": "cead949263334413539dd7bcbd17b27ef533828c",
+  "sha256": "9e392a76739e10a98e80ef30a6f80a7a2f929b82dfc6968c66a9f157b0207e79",
+  "sha512": "ccff1499571be808aedf490981c73f3b5e56f5e81dee7b2e77552c04c88df5ee68c91ae3c0a7eddf55dce0c38fbc48ec19c16dd3674f040e9635320b9eee328a",
+  "size": 279520456,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.3+5/bellsoft-jdk17.0.21.0.3+5-linux-amd64-full.deb",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.3+5"
+}

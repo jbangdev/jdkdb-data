@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk11.0.33.0.3+7-windows-i586-lite.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.33.0.3+7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "b8be6a3b340915250b792eb940e87ba2",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.3+7-LTS",
+    "JAVA_VERSION": "11.0.33.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:1d53d38790a1+"
+  },
+  "release_type": "ga",
+  "sha1": "4520cbb4e33c9b231400731a3357f19805341f8c",
+  "sha256": "06591241dc95629f9414764992eb50ac5ea8d7f4e3601f2487721bdce780d2df",
+  "sha512": "3dcdaa4ae903135c22f34c6d76511916377552d952aa4f003da18a44c96f91eb7e9be6db8055b693e9b229b9a3c9662f5a8f16e8fc6b9ee4d169b813c5fccfca",
+  "size": 67616768,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.3+7/bellsoft-jdk11.0.33.0.3+7-windows-i586-lite.msi",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.3+7"
+}

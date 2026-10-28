@@ -1,0 +1,34 @@
+{
+  "architecture": "ppc32",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "rpm",
+  "filename": "bellsoft-jdk11.0.33.0.3+7-linux-ppc64le-lite.rpm",
+  "image_type": "jdk",
+  "java_version": "11.0.33.0.3+7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "4f9d0fe73bfd8c74c9a66b7bbccb4899",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.3+7-LTS",
+    "JAVA_VERSION": "11.0.33.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "ppc64le",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1d53d38790a1+"
+  },
+  "release_type": "ga",
+  "sha1": "82f18884fba1365e8d98867252a2cd0d7a1106b4",
+  "sha256": "e38e70a507aa34b57d677222ff0026112e76d2a696bcc1acd875a836efe91731",
+  "sha512": "a6c5dde3152c997337ab2df9c112700987be1625e3a493c52ab11861dfafdcec09bc90c27cc725ae0036521ab50a603fa8853f5aadf9d4c05d89466879548b2e",
+  "size": 66327584,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.3+7/bellsoft-jdk11.0.33.0.3+7-linux-ppc64le-lite.rpm",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.3+7"
+}

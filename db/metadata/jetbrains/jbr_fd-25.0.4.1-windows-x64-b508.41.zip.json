@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "zip",
+  "filename": "jbr_fd-25.0.4.1-windows-x64-b508.41.zip",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "776a468be9f9cfa36094fddc912ef457",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-508.41-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b508.41",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:74edaa21451b+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "d97822622e473f3ea21738b69eb16fd3d084506d",
+  "sha256": "041e7b0c4f3dd281f539dc9cf636844a938db26ad06d19c8e4feaf176454b6e1",
+  "sha512": "b4f0758d5019521da2691241606420eca811a9c24eb1ddba6e2ecce13928b14aa339b771b4d57cd806692851e99529c73394b257b90f36abda334d0320dcdc0f",
+  "size": 106075690,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.4.1-windows-x64-b508.41.zip",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b508.41"
+}

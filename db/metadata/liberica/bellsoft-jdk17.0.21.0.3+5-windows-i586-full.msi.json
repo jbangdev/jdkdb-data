@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-jdk17.0.21.0.3+5-windows-i586-full.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "3f718c5c1c28b91b42076aa94eaf5934",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2be37c0f910c+"
+  },
+  "release_type": "ga",
+  "sha1": "f0072e747c5fb780e515e8a8f0356dcf651829d6",
+  "sha256": "33577f5225f512e800b6b5265a733d8c0b00f212da07bed904c5dd3c2551049d",
+  "sha512": "c639da58afb6b9f33e1ef535f9db910d3efe17d5433573640968a85d216912d0f9cff3aff4306c9acae95cd02c525d05515cb028a829a951d0b4665a23c32009",
+  "size": 279486464,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.3+5/bellsoft-jdk17.0.21.0.3+5-windows-i586-full.msi",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.3+5"
+}

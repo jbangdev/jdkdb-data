@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jbr-21.0.9-windows-aarch64-b1038.91.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "1c348249d86ae96a2b00e09a579935c7",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.9+1-1038.91-nomod",
+    "JAVA_RUNTIME_VERSION": "21.0.9+1-b1038.91",
+    "JAVA_VERSION": "21.0.9",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:bd754c20e33b+"
+  },
+  "release_type": "ga",
+  "sha1": "afde771a4fbc49bb5eb3f0cc7492d16d9ecbd4fc",
+  "sha256": "db90f862a0477aebf410af4022abbb664797f749be3da1a0224103f8e065f941",
+  "sha512": "e998b18ba3987a5a4dd386f1d4bf06fe4779d8e6ead378b854cf1a5c512952345c1f9b5679f405cd0d2e67da7aac601f42b5ce8dfc4f14b6bda86ee408637c36",
+  "size": 75654545,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.9-windows-aarch64-b1038.91.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.91"
+}

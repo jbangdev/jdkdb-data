@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk11.0.33.0.3+7-linux-arm32-vfp-hflt-full.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.0.3+7",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "8202ede5cd411cd867b0e939fa853bad",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "11.0.33.0.3+7-LTS",
+    "JAVA_VERSION": "11.0.33.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1d53d38790a1+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "f6fb33e59dc952e2afb45dc24e46f48df7a95018",
+  "sha256": "aa6d2405d0d7c17ce8955f69d712fa934eb7d7d3151623cb8abe4b865afbf798",
+  "sha512": "2820079415e4210f054afe2b98567fdab474816ef50c5b11de2684655adf2d6b082683b453c6c22ef715a2edc0b56efa3a36fc2194b0e3017bffdbf0a9dfff0a",
+  "size": 210712401,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.33.0.3+7/bellsoft-jdk11.0.33.0.3+7-linux-arm32-vfp-hflt-full.tar.gz",
+  "vendor": "bellsoft",
+  "version": "11.0.33.0.3+7"
+}

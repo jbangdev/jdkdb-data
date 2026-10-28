@@ -1,0 +1,33 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jre17.0.21.0.3+5-linux-arm32-vfp-hflt.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "629dcf6bac5cf48cce77d580d8bdd961",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+5-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2be37c0f910c+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "f19810a88ab3a4df588b99cb295d920a0cbb8589",
+  "sha256": "96ee72a84b8e99463eb1da6883bc24be4e6fc02752b1f97995ea87bf83392040",
+  "sha512": "7b6ec1fd19d537f78126123626a5a306b053d42b07c7d04b46dd4828d101c4dc0ca866fc8ec19f7fc21aaa90e1164a5fc90771ee55d1901310f3db65ba903efe",
+  "size": 42406923,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.3+5/bellsoft-jre17.0.21.0.3+5-linux-arm32-vfp-hflt.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.21.0.3+5"
+}

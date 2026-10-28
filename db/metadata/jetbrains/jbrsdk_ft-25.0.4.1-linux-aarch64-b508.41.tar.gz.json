@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "freetype"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk_ft-25.0.4.1-linux-aarch64-b508.41.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "dba684839decd7b8dc6ab46352df6610",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.4.1+1-508.41-nomodft",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b508.41",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:74edaa21451b+"
+  },
+  "release_type": "ga",
+  "sha1": "4e47b1000fe707aac5e486b526e25a76205c4160",
+  "sha256": "7273397298774457f2c70175e4d210b31780d342c37105f76f3a60b89da3d4cc",
+  "sha512": "38facc4bff64859c58c13de75a748f70706721db8c71db92fe4954b47ccc4b0acc0a4085c712507327cf58a746a5d9400edf222db6d46a59765d1a7109b5bb03",
+  "size": 249412120,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_ft-25.0.4.1-linux-aarch64-b508.41.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b508.41"
+}

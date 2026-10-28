@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-25.0.4.1-osx-aarch64-b508.41.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "e604c43615897b195822cc6533fe6447",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-25.0.4.1+1-508.41-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b508.41",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:74edaa21451b+"
+  },
+  "release_type": "ga",
+  "sha1": "d52003190f3bbb88b9725f2f5cb912444efe4a70",
+  "sha256": "2aa9a2944224844105ed9adac704db0eee5fb82a13d6213e79a4551c5e67ae9b",
+  "sha512": "461e34d7f1917497d358b82944f996ad940405cb10f63dfd6bd5e2cc1cfa2b3cbb689799a4d53c1b07110f9709d025ea17e7a18fc3d5f71c2f25d09c8f098d1a",
+  "size": 239972251,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.4.1-osx-aarch64-b508.41.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b508.41"
+}

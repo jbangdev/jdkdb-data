@@ -1,0 +1,30 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk8u513+9-linux-aarch64-musl.tar.gz",
+  "image_type": "jdk",
+  "java_version": "8u513+9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "46524868317ccd5e07391c17b1ce741e",
+  "os": "linux",
+  "release_info": {
+    "JAVA_VERSION": "1.8.0_513",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "OS_VERSION": "2.6",
+    "SOURCE": ".:git:b04f0b3d57cd+"
+  },
+  "release_type": "ga",
+  "sha1": "07bc4766f6b3b5eaab105b8553ab0f5d49d4a03b",
+  "sha256": "45f7f9951646e153e5b7249accf70472287949d7e39b10e0fd26c5dbddbf8a62",
+  "sha512": "f6c2c5dabd61967e6b9edc4142f1d939a13616ce1211a86053bbc88f701fbb9276185d8272beb5f0cfbbee9456352b1392d5aa7616eca7ca69b072e32835f50e",
+  "size": 104801084,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/8u513+9/bellsoft-jdk8u513+9-linux-aarch64-musl.tar.gz",
+  "vendor": "bellsoft",
+  "version": "8u513+9"
+}

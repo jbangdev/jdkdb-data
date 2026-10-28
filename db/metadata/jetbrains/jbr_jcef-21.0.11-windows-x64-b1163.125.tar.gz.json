@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.11-windows-x64-b1163.125.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "8933cc24a7b4a0430d8eab8aca8b9f43",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.11+1-1163.125-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.11+1-b1163.125",
+    "JAVA_VERSION": "21.0.11",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:a166c74c11a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "4d852c031c4befc869f4d8818807819a4d1c05fa",
+  "sha256": "69cc7f5a52d895fd16a921d0b9bd7c02c2c15745d95e82a7a7e3662c5c4f1763",
+  "sha512": "915c358ba80d900ba5beab53682257bb8cb0b31c4938ea4825a451e1a08eb247a21b469c8334d66a42f7a2a50f91c34e1ff8d6f6f903300fddc0af9e64d37e2d",
+  "size": 259680789,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.11-windows-x64-b1163.125.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.125"
+}

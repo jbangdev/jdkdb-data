@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "pkg",
+  "filename": "jbr_jcef-21.0.9-osx-x64-b1038.91.pkg",
+  "image_type": "jre",
+  "java_version": "21.0.9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "bbcbb1ff3b9d3e73db5acc026974af99",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.9+10-1038.91-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.9+10-b1038.91",
+    "JAVA_VERSION": "21.0.9",
+    "JCEF_COMMIT_HASH": "33f6357c0226f73b0e398b75d8bd22f486e430ab",
+    "JCEF_VERSION": "122.1.9.1060+g33f6357",
+    "LIBC": "default",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:bd754c20e33b+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "648d2afcfd9e8f57ccdc789e670421436bb1b622",
+  "sha256": "50547a242270079a388fd5463e1c9a40fca62b22120604da5e4c6034cdbb5166",
+  "sha512": "d2da5326122df9e8bc4ce3f797d000bf5687b771a008fc4c363b81382dcff57ffe9693a0a4228e832c63e32ff52d2c928d207385fbf438e3080ca9269f3c243d",
+  "size": 226708370,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.9-osx-x64-b1038.91.pkg",
+  "vendor": "jetbrains",
+  "version": "21.0.9b1038.91"
+}

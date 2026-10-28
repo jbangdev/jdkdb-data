@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jbrsdk-21.0.11-linux-aarch64-b1163.125.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "b99fc6bc7df1775f6588df337379796b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBRSDK-21.0.11+10-1163.125-nomod",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-b1163.125",
+    "JAVA_VERSION": "21.0.11",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a166c74c11a0+"
+  },
+  "release_type": "ga",
+  "sha1": "3ef4bc37e869c9811e26cb46003a4a886f6de934",
+  "sha256": "6c2d1691b1de485adce5a48ace53cc6d3638ea036a7e4f004b376792c3f368c2",
+  "sha512": "3943662d179c9ec41ea383ef8382bc861dcb21207d6cc378600b56e409218d9e868ac96ec48c6878af8036c23a4220881e5a73d02e75e0416a1e308ae413c3d8",
+  "size": 239403579,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.11-linux-aarch64-b1163.125.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.125"
+}

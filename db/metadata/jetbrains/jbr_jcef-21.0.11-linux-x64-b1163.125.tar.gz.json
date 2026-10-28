@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "jetbrains",
+  "features": [
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_jcef-21.0.11-linux-x64-b1163.125.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.11",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-28",
+  "md5": "543078858618c71e662217bbb32882a4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-21.0.11+10-1163.125-jcef",
+    "JAVA_RUNTIME_VERSION": "21.0.11+10-b1163.125",
+    "JAVA_VERSION": "21.0.11",
+    "JCEF_COMMIT_HASH": "e397b569415d3c67b114495985454e5201955573",
+    "JCEF_VERSION": "137.0.17.1107+ge397b56",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.datatransfer java.xml java.prefs java.desktop gluegen.rt java.compiler java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jogl.all jcef jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a166c74c11a0+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "9a3f04f478af10eaaa2246db52084136159ca93b",
+  "sha256": "d81998d9bec03aa92e46d5db5f9b2e16c34780b414e30c944130f8db0483fbf4",
+  "sha512": "106cf11060bb0b45c7bead2f7a808f62c8080225018755f308430ce83a087cf49a7b2ce5c7991389309f6280d01c3894451a03a8d4e613dfd6afbc5115cf97f5",
+  "size": 241644973,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.11-linux-x64-b1163.125.tar.gz",
+  "vendor": "jetbrains",
+  "version": "21.0.11b1163.125"
+}
