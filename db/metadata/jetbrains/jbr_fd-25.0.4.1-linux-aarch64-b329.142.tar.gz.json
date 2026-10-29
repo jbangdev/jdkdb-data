@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-25.0.4.1-linux-aarch64-b329.142.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.4.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-29",
+  "md5": "364a211b22e043d9d02afb7a99127037",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.4.1+1-329.142-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.4.1+1-b329.142",
+    "JAVA_VERSION": "25.0.4.1",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:fd88aefcf13d+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "99a1b49d54846bff7441b5eac693e5283bdb1378",
+  "sha256": "75c6f7d3d85667fc0a4f2676a7b31ed3ee307d17627b0873ca5303d52f7b555c",
+  "sha512": "6a920a3a6a57455044d383197e5c3b8450651ef6de2d575142ddbd410ca5a3830d694c7dbede99a181d4117e630269ab617254b4446027bebf830426d4c238fb",
+  "size": 109284646,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.4.1-linux-aarch64-b329.142.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.4.1b329.142"
+}
