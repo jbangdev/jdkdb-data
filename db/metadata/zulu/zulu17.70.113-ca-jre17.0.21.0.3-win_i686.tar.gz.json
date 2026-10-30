@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.113-ca-jre17.0.21.0.3-win_i686.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-30",
+  "md5": "cda2c8afd1eff10fb6f30e001b5aec98",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+113-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:da576b93b686+"
+  },
+  "release_type": "ga",
+  "sha1": "dd57c5e3ebfdba5280eafdd75c1db7ce9f80bf3b",
+  "sha256": "86f8b75539f7925df85ee407a6ad8910a4cb7d70bfefb9627bea5f0dbc63d90a",
+  "sha512": "0d7ead43d923d7d48759bf213f08b52b867ebc7e2a008055afa2b5b19edfa370527d0441b6ad38a65ee04a7560e98ffd88d127236b15674081e2a0f721e0563c",
+  "size": 40435965,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.113-ca-jre17.0.21.0.3-win_i686.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.113"
+}

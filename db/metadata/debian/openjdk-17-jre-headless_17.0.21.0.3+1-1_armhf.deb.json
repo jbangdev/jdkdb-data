@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jre-headless_17.0.21.0.3+1-1_armhf.deb",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3+1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-30",
+  "md5": "043fd3a51f445b0d58a15b60414262d0",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-1-Debian",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "90c90ee0e1e149e1e51ac9133c7eb3da8dd8408b",
+  "sha256": "e4b16d6a1952cd1f1f7ec60d20e26758583470d4b3c0f2ab1d27f2ba98bad56f",
+  "sha512": "2c40c083d102af5107820959293cb9957719de9250daefb86cc29205df9faabd41aa0420b80cfb0a2b3dbaa10908bebdc9bae00e7ae51b1ce87dbbfebcf7c17b",
+  "size": 38687464,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21.0.3+1-1_armhf.deb",
+  "vendor": "debian",
+  "version": "17.0.21.0.3+1-1"
+}

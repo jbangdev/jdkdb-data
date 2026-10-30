@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "soft-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-25-jre-headless_25.0.5+8-1~deb13u1_armel.deb",
+  "image_type": "jre",
+  "java_version": "25.0.5+8",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-30",
+  "md5": "68a92de79210d634b8a72da1c628cee3",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "25.0.5+8-1-deb13u1-Debian",
+    "JAVA_VERSION": "25.0.5",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "67a4d0ba605d42c4e9d4532370a3e33ea57b400f",
+  "sha256": "537987373b63f97b1bde3cb58e8332a2e49687c5a4691322c65161949c8fb33b",
+  "sha512": "454fb6b0619475a0b8ace6a844fa56eb7a85acd782953c7344e7d8203a866d10f421beacb2ef130adde0d4aa8d8d5d7b68a2cb0468951de2eac6d1e0f3101000",
+  "size": 37584804,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.5+8-1~deb13u1_armel.deb",
+  "vendor": "debian",
+  "version": "25.0.5+8-1~deb13u1"
+}

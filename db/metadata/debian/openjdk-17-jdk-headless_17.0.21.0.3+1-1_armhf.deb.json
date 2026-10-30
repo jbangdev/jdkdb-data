@@ -1,0 +1,25 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-17-jdk-headless_17.0.21.0.3+1-1_armhf.deb",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.3+1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-30",
+  "md5": "47747a0b00451c59c0ad920dddcd5571",
+  "os": "linux",
+  "release_info": { },
+  "release_type": "ga",
+  "sha1": "dd107732d44b9bf02f18836c2fcfe27d95be9145",
+  "sha256": "f476eda174726b410d9ce1485369c90bd12546ebf9ae9d9af4dacf9848bd973b",
+  "sha512": "ff45008aefdfa317cd4952648fc9d72b4257552800142ee86c79071c565d533bccfa89249e9b26db647f3734f9866cfe1a521b93bde32620bc8df61f3962a8cb",
+  "size": 68225540,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk-headless_17.0.21.0.3+1-1_armhf.deb",
+  "vendor": "debian",
+  "version": "17.0.21.0.3+1-1"
+}
