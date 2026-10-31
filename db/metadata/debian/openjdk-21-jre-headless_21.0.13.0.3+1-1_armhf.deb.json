@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.13.0.3+1-1_armhf.deb",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3+1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-31",
+  "md5": "a1b5368ba7f3c6e6430396fd41a89002",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+1-1-Debian",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "f45006b867be5161316c0f5ac3204a73f554875d",
+  "sha256": "52aaea184072d0260d343bc20e0a22709787a2564451e8134ffe192df8f7d164",
+  "sha512": "a45d800875c2e34b8ccbbd3cf52c4e5ff529a189199e8bff67d1050a4aa459be7b4ae81c827785c0bacc355a8241a2362629dcca2746b7ec79cb5cb92dc8fe49",
+  "size": 35950604,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13.0.3+1-1_armhf.deb",
+  "vendor": "debian",
+  "version": "21.0.13.0.3+1-1"
+}

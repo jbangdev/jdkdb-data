@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona-25.0.5.0.3.b1-jdk_linux-x86_64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.0.3.b1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-10-31",
+  "md5": "7b5dbe1957c0c513ca7d483ca1697a2b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+1-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-28",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1c5d5669ebd0"
+  },
+  "release_type": "ga",
+  "sha1": "38c34f8859e3e5894972e688f6b38a9d1b53977c",
+  "sha256": "8e51c6d9899c4713446697aadec3bb0f424d9b98fd7ea897ad9b7ec943d4bc29",
+  "sha512": "0788e94dee0f345b9b0b80785d730f68dd0b0ed092e48fb45516f5ea858d425e12d3668833467b4e125771e237e718f798d309738547886db8d4e22e8bfdcb74",
+  "size": 231840636,
+  "url": "https://github.com/Tencent/TencentKona-25/releases/download/TencentKona-25.0.5.0.3/TencentKona-25.0.5.0.3.b1-jdk_linux-x86_64.tar.gz",
+  "vendor": "tencent",
+  "version": "25.0.5.0.3.b1"
+}
