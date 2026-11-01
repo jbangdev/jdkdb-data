@@ -1,0 +1,34 @@
+{
+  "architecture": "loong64",
+  "distro": "debian",
+  "features": [
+    "headless"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-21-jre-headless_21.0.13.0.3+1-1_loong64.deb",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3+1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-01",
+  "md5": "642bff8fde1c06e0ec47a7326d0dec40",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Debian",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+1-1-Debian",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "loongarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "4caffde70e2c1e71fa3084257d395fd23fdd3cd8",
+  "sha256": "f91dfddf87492319489b2c2555c61f58e2d41e3047b703c7fb0c1a7da293688e",
+  "sha512": "30f153f1e2dd83d380844882af55f96ea9ccc20d2f55173aaf5465309d3436119cc470158894fed893d589d9c4c6421c912a588b80441c0f9eccf8ca6df729ee",
+  "size": 37059596,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13.0.3+1-1_loong64.deb",
+  "vendor": "debian",
+  "version": "21.0.13.0.3+1-1"
+}
