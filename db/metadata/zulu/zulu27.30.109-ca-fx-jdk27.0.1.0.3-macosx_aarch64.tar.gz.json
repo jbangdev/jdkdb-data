@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.30.109-ca-fx-jdk27.0.1.0.3-macosx_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "da9d4c020635d1393b0868583c2aa625",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.30+109-CA",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+1",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ed35643b79e3"
+  },
+  "release_type": "ga",
+  "sha1": "7df82e1ea220fce69892ddd54e274254a9133a33",
+  "sha256": "db61b3105fc1e6c5876d2fc0230b90aebea417ec488c725fd436a8321dfbc795",
+  "sha512": "a83200f542c39ee39e75a6a7df9644fd5e8fedaa8d7e320e3a8d2149629d15f69f5543ec84fb99a05f3d41b884e7db4e2712a0edd06c798cece34cac11313451",
+  "size": 331892397,
+  "url": "https://static.azul.com/zulu/bin/zulu27.30.109-ca-fx-jdk27.0.1.0.3-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.30.109"
+}

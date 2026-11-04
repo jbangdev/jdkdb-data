@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "zulu28.0.51-beta-jdk28.0.0-beta.21-macosx_x64.zip",
+  "image_type": "jdk",
+  "java_version": "28.0.0-beta.21",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "9ccb11396168b9139765f2a333408381",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu28+51-CA",
+    "JAVA_RUNTIME_VERSION": "28-beta+21",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:07ff3fae53fd"
+  },
+  "release_type": "ea",
+  "sha1": "a55fbce66d3df028aa0ef17a6d7bd51389f075cf",
+  "sha256": "87e02c88a56bf0aad48be46352783f2a447012fdcaa35ec81f06da44e53a9dd8",
+  "sha512": "028e17ed6716ea55c9d2d983ed748421d48df23b8a7ecef4704d4520762935332724ccf140be241a6a8a1cf7a553337125ae5e9dea87f2472671d14219578e61",
+  "size": 248282543,
+  "url": "https://static.azul.com/zulu/bin/zulu28.0.51-beta-jdk28.0.0-beta.21-macosx_x64.zip",
+  "vendor": "azul",
+  "version": "28.0.51"
+}

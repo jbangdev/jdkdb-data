@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.113-ca-fx-jre17.0.21.0.3-linux_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "543e859e333b1dec2b994c3abf1244e7",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+113-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:da576b93b686"
+  },
+  "release_type": "ga",
+  "sha1": "fb738652f04a453013d47e608aa8bf87893bedb7",
+  "sha256": "e530a61a74cb2701cda23df4bbde1f8995efb499fd8b4043549888086da12866",
+  "sha512": "caeda723bd0ee853e7c9e08867e025970ad253e64f6fccb4682dad5fa254042e00e01ce884d907b1ada5a398fd7312eb7e9f48844035c2a1a21f847ea7d54c6b",
+  "size": 96099065,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.113-ca-fx-jre17.0.21.0.3-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.113"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu17.70.113-ca-fx-jre17.0.21.0.3-win_i686.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "afb80ec4e01b72ff7c8f2499ae42b284",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+113-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:da576b93b686+"
+  },
+  "release_type": "ga",
+  "sha1": "deec044366fc76953c7e2d8205c22c4e231a723c",
+  "sha256": "18a4c5768cdc3ca0e874c5e84873fa3d65bf1f9f6924c973e169c0f290147754",
+  "sha512": "be21a7ebbc48d71a161ee790f9bf6915f733d27e3ad46c28ecb3b734022fc728db01ab5fb85139b993aea613579c592c92378f72d65743727003dab134376c77",
+  "size": 83005864,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.113-ca-fx-jre17.0.21.0.3-win_i686.zip",
+  "vendor": "azul",
+  "version": "17.70.113"
+}

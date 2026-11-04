@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu25.38.109-ca-fx-jre25.0.5.0.3-win_x64.zip",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "a0c00cfdc46b6e6b50004ab32981cfe4",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.38+109-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+1-LTS",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:ddf63d616ac2"
+  },
+  "release_type": "ga",
+  "sha1": "0d1a7cab70bead336600003e3cef7ac636588e2a",
+  "sha256": "b3a1809a2cdd68e629153f7ff8431a9a867e67d8509e74dbf01a3008e802d9c0",
+  "sha512": "cdc5fef6c959afdcb935afb844a7d21d0b585e9e45c0e4c181ce2cfc989ce594efd68659047edce616de1067129ae61b37b84e3810f73031ce8f3a2d7c44dccb",
+  "size": 102932602,
+  "url": "https://static.azul.com/zulu/bin/zulu25.38.109-ca-fx-jre25.0.5.0.3-win_x64.zip",
+  "vendor": "azul",
+  "version": "25.38.109"
+}

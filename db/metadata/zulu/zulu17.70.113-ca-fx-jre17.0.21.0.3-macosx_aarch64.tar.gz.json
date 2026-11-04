@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.113-ca-fx-jre17.0.21.0.3-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "7f4b9989c7b8cb93197a8936b80c950f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+113-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:da576b93b686"
+  },
+  "release_type": "ga",
+  "sha1": "6ab0b92baad998d6a50d1bd3d0a2868007494315",
+  "sha256": "f9fdf1be13e3f4f957d4af2aa9ef2fdb0f9c7b8a5a5bc91450d30e4b6f68598e",
+  "sha512": "df40feab990e499b9e78d4c08454f41558e52ae86dd6d414275bf9bab6df71a1e7451b4e0254d20a374f81cba02ce173cc0d3985e31c4d15ed3155f1f312f3d7",
+  "size": 88351780,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.113-ca-fx-jre17.0.21.0.3-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.113"
+}

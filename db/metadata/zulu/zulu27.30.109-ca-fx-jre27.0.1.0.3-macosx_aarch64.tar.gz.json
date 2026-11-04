@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.30.109-ca-fx-jre27.0.1.0.3-macosx_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "27.0.1.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-04",
+  "md5": "a5c87cfbb9c5ce5c1087b1d05de0265f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.30+109-CA",
+    "JAVA_RUNTIME_VERSION": "27.0.1.0.3+1",
+    "JAVA_VERSION": "27.0.1.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ed35643b79e3"
+  },
+  "release_type": "ga",
+  "sha1": "392f92ec5f24912b417d899c89d2d93c352464fb",
+  "sha256": "518a42e583d39331b9e1ccc8f69447c1c38615d4ac351ac39b14bb2bb02fa7f6",
+  "sha512": "747bba2fd74be7716af4a351a3f9ff85960a0733d9a17e77ebcc55bc67d16059cbe0d3f60b377c232377d8efbe446a100b8409a751b467fccf8e07a9e3bd2c22",
+  "size": 103828416,
+  "url": "https://static.azul.com/zulu/bin/zulu27.30.109-ca-fx-jre27.0.1.0.3-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "27.30.109"
+}
