@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona-11.0.33.b1_jdk_macosx-x86_64_notarized.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.b1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-05",
+  "md5": "2e96eda755ba7815cfafbd7241e5dad8",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "11.0.33+1",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-11-04",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:ab6af9654b65"
+  },
+  "release_type": "ga",
+  "sha1": "be8717745cda26071655b16c32093eafbc67c1ef",
+  "sha256": "37f1d904946eb0007c5dcac7332564949db0d76c17d9b0aedff821045de6f663",
+  "sha512": "5855d654326fc7c3414ce3101b5e2fd54bf976061e63464b51319b5d47f41776a37b589723cc8287d70ff45af258f6bd0caadfbeca2ef0a7af5a0bb89dfd3988",
+  "size": 192890179,
+  "url": "https://github.com/Tencent/TencentKona-11/releases/download/kona11.0.33/TencentKona-11.0.33.b1_jdk_macosx-x86_64_notarized.tar.gz",
+  "vendor": "tencent",
+  "version": "11.0.33.b1"
+}
