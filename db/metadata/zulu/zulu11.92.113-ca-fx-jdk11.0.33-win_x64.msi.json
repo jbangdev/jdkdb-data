@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "zulu11.92.113-ca-fx-jdk11.0.33-win_x64.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-07",
+  "md5": "e0adda4ac89a72581a0ceb3ff286ab5a",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+113-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:97a66bc4dfc0+"
+  },
+  "release_type": "ga",
+  "sha1": "1be99483a53d014dad9115901d21a99f8c9f03cc",
+  "sha256": "7796fec45c9ba2dc0aee2c5e598f04f956a4808a25a2c069301e7b0312cce0a8",
+  "sha512": "5ea4b7c21e11d23bb01a4e25863ea299a9ba329de7b2c1f5d68f2f3102a933267c5296ae15127c62347f6799bd09b13149ac817fae5c1b849b82f44417cc8df8",
+  "size": 262119424,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.113-ca-fx-jdk11.0.33-win_x64.msi",
+  "vendor": "azul",
+  "version": "11.92.113"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu11.92.113-ca-fx-jdk11.0.33-macosx_aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-07",
+  "md5": "7be043a1c4188363078858beab0b7c76",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+113-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:97a66bc4dfc0"
+  },
+  "release_type": "ga",
+  "sha1": "f011edae166c98c7e55b498af6ad07ed76194cf5",
+  "sha256": "02dcb572027bd2310e8dd86d29fd9785df93fc7115a12d64c3f29d670dec977f",
+  "sha512": "d34d8411b5b1357b22f84b999d494c1527eaa93051c65f71fc6d41053fbf70556f2a75ba070451ee63e9d4b7b95620f32755cbaa3884a6ff53b20fea17b7b491",
+  "size": 298604862,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.113-ca-fx-jdk11.0.33-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "11.92.113"
+}

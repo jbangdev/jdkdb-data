@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "zulu11.92.113-ca-jre11.0.33-win_i686.zip",
+  "image_type": "jre",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-07",
+  "md5": "88ede99183a2ba94c2f5d421d6df350c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+113-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:97a66bc4dfc0+"
+  },
+  "release_type": "ga",
+  "sha1": "b107caa17726f1dcdd797f35a12a02c0c1e65470",
+  "sha256": "c78212a818b5035943181a1448257a423a35246974532723b35795429756ebff",
+  "sha512": "0720438faa28ca5995ef9ff21a0316ef2374aadac7badbef62074bd5c7116864f4fff34155fc1266ba81d7878119e3372493a496460a9e34a39cbafab70ceccf",
+  "size": 37971479,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.113-ca-jre11.0.33-win_i686.zip",
+  "vendor": "azul",
+  "version": "11.92.113"
+}

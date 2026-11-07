@@ -1,0 +1,36 @@
+{
+  "architecture": "i686",
+  "distro": "liberica-native",
+  "features": [
+    "native-image"
+  ],
+  "file_type": "msi",
+  "filename": "bellsoft-liberica-vm-full-openjdk17.0.21.0.3+6-23.0.14+1-windows-amd64.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.21.0.3+6",
+  "jvm_impl": "graalvm",
+  "last_verified": "2026-11-07",
+  "md5": "503aa6442be61992e0bbc23d719e53d6",
+  "os": "windows",
+  "release_info": {
+    "COMMIT_INFO": "{\"compiler\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"java-benchmarks\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"regex\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"sdk\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"substratevm\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"truffle\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}, \"vm\": {\"commit.committer\": \"Mikhail Chernov <mikhail.chernov@bell-sw.com>\", \"commit.committer-ts\": 1793618164, \"commit.rev\": \"c400558128c7dfc8062bc28dbb5915ae8e9af87f\"}}",
+    "GRAALVM_VERSION": "23.0.14",
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+6-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.instrument java.logging java.management jdk.internal.vm.ci jdk.jfr jdk.unsupported org.graalvm.sdk java.datatransfer java.xml java.prefs java.desktop java.transaction.xa java.sql jdk.management org.graalvm.truffle jdk.internal.vm.compiler com.oracle.graal.graal_enterprise com.oracle.svm.extraimage_enterprise com.oracle.svm.svm_enterprise com.oracle.svm_enterprise.ml_dataset java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.internal.vm.compiler.truffle.jfr jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs org.graalvm.extraimage.builder org.graalvm.locator org.graalvm.nativeimage.llvm",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:2be37c0f910c+ compiler:c400558128c7dfc8062bc28dbb5915ae8e9af87f java-benchmarks:c400558128c7dfc8062bc28dbb5915ae8e9af87f regex:c400558128c7dfc8062bc28dbb5915ae8e9af87f sdk:c400558128c7dfc8062bc28dbb5915ae8e9af87f substratevm:c400558128c7dfc8062bc28dbb5915ae8e9af87f truffle:c400558128c7dfc8062bc28dbb5915ae8e9af87f vm:c400558128c7dfc8062bc28dbb5915ae8e9af87f"
+  },
+  "release_type": "ga",
+  "sha1": "42509c1db32ccea73421e4d2c6fa5e9097244849",
+  "sha256": "120686b8edac599f477e2be7b339121b2ab0904672e29b4f1644d1102bfd90fc",
+  "sha512": "21b2861a103c2fe24d042e2431f1671771524ed5a57767a312e97b82c567049adea5c9a4d614ba51d47757ae75b8b829e5370b5cfcd836f9a8c44340c936d552",
+  "size": 297734144,
+  "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.14+1-17.0.21.0.3+6/bellsoft-liberica-vm-full-openjdk17.0.21.0.3+6-23.0.14+1-windows-amd64.msi",
+  "vendor": "bellsoft",
+  "version": "23.0.14+1"
+}

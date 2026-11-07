@@ -1,0 +1,35 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu11.92.113-ca-fx-jre11.0.33-win_i686.zip",
+  "image_type": "jre",
+  "java_version": "11.0.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-07",
+  "md5": "d2af0473d82d2bc32b83e2176d109cc6",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+113-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-LTS",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.internal.ed jdk.internal.le jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:97a66bc4dfc0+"
+  },
+  "release_type": "ga",
+  "sha1": "635154a867152de1a7950ffeeda95da2af1e90c9",
+  "sha256": "dd206fa0c844696fb2edd616c5ebab33fab06a4bb72dfd9ba84bfe5987b6768c",
+  "sha512": "78b2a3c1514f27bc6f268f05b9fd67ad31d5d31090673ef9e3bd2c3af15519fc54d46e9083eed1ab995c8a775f82bd5994a0d3d6afe79c01ffed0ae963afcf4d",
+  "size": 80014975,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.113-ca-fx-jre11.0.33-win_i686.zip",
+  "vendor": "azul",
+  "version": "11.92.113"
+}

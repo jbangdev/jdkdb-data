@@ -1,0 +1,25 @@
+{
+  "architecture": "arm32-vfp-hflt",
+  "distro": "debian",
+  "features": [
+    "headless",
+    "hard-float"
+  ],
+  "file_type": "deb",
+  "filename": "openjdk-8-jre-headless_8u512-ga-1_armhf.deb",
+  "image_type": "jre",
+  "java_version": "8u512",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-07",
+  "md5": "6a2ce5d719a979ed9ed595cdca4f372d",
+  "os": "linux",
+  "release_info": { },
+  "release_type": "ga",
+  "sha1": "6eb032d082a30908a861755389db7cc4217cecdc",
+  "sha256": "25616213bb11a04078f124fea6873fb7dc40d168375d17a47806098db19d51fe",
+  "sha512": "f650ad44a6dcae4e3b534518461c208aadbcff4ad962d403e2d0618b2daa2b7aab20a6f88cf3452b0c3c2939d30210154fe15c79f29121b92a7222f9430a665e",
+  "size": 26641880,
+  "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre-headless_8u512-ga-1_armhf.deb",
+  "vendor": "debian",
+  "version": "8u512-ga-1"
+}
