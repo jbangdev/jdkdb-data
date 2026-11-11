@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jdk-21.0.14-ea.1_windows-x64_bin.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.14-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-11",
+  "md5": "28dac142dd1a341f570319bfd699d7d2",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "21.0.14-ea+1",
+    "JAVA_VERSION": "21.0.14",
+    "JAVA_VERSION_DATE": "2027-01-19",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:6a7f5d48de45"
+  },
+  "release_type": "ea",
+  "sha1": "c263591b051e63be0d55abfafd0f456725f7230a",
+  "sha256": "919dd46f30c691140743dd2e167e8ac30a2cd995f57d14455345d376e5eca4ff",
+  "sha512": "2fe520fb9c66c99e1fb1f6f9b09f78cc871f3c780f7110ef527027534cb2f6af9627099ca89e1a5486aa04e9715793f4d76d54695da46ed86ccf294dec703acb",
+  "size": 217391745,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.14%2B1/sapmachine-jdk-21.0.14-ea.1_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "21.0.14-ea.1"
+}

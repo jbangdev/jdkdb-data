@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.22-ea.1_linux-x64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.22-ea.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-11",
+  "md5": "b2ec355fc43ed78bc6a4fa6aa2efd684",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.22-ea+1",
+    "JAVA_VERSION": "17.0.22",
+    "JAVA_VERSION_DATE": "2027-01-19",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:2d2e55b875ab"
+  },
+  "release_type": "ea",
+  "sha1": "d64857aa9368133f84a3770521ef89342302d23c",
+  "sha256": "cd0993bec9cf2a07c047208f51392bd0c07350234e0a2e96b35a2e5a7ccfc9e8",
+  "sha512": "f60f0015a524829bb61a21b15ce22b83d45f3b4ad477be848dfcdfd8196794f4104363019b9355f71671a9940f8d91be5d9676b5404d876ca3f1f127502f7f05",
+  "size": 49426033,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.22%2B1/sapmachine-jre-17.0.22-ea.1_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.22-ea.1"
+}
