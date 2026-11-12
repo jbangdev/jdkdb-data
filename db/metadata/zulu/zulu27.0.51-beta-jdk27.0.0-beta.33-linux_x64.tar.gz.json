@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.51-beta-jdk27.0.0-beta.33-linux_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-12",
+  "md5": "7f059099ba6a6be0eac7909bbc25991a",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+51-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+33",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:06f4c5babd29"
+  },
+  "release_type": "ea",
+  "sha1": "d8c583899e909454a8ccbe0b4ceae9c0305cc8ca",
+  "sha256": "be03b0c129ce5c7d89104c06461df35233bb13a2e3506673a62d3a8594e16015",
+  "sha512": "21114d8e8f312acf49ce5b0596105323a1532af35a94f136d3237cd97cad4a9b28ee98e16ff68fe24f5a283e04aeac73ea1ad30beed32764a88a3efc7c16c77a",
+  "size": 233563539,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.51-beta-jdk27.0.0-beta.33-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.51"
+}

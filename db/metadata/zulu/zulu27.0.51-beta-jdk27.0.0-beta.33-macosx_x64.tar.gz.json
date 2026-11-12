@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu27.0.51-beta-jdk27.0.0-beta.33-macosx_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.0-beta.33",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-12",
+  "md5": "3834550da81707860ac178fdd278988c",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27+51-CA",
+    "JAVA_RUNTIME_VERSION": "27-beta+33",
+    "JAVA_VERSION": "27",
+    "JAVA_VERSION_DATE": "2026-09-15",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:06f4c5babd29"
+  },
+  "release_type": "ea",
+  "sha1": "4e09828b63e93c088e1806e18c8ddb664f95e7af",
+  "sha256": "64843849161f899985b9a0917b16e327b6b6ddfa261a097b217a3d1690bb4f84",
+  "sha512": "932236acb36a40879400c7781aa161ad57edddd17e238422b991c1b2f2f23bb51a7ff18bc0760d9346273c40d6ae6a386ad5b4ae321c58e9f94bfe57b952b202",
+  "size": 228894003,
+  "url": "https://static.azul.com/zulu/bin/zulu27.0.51-beta-jdk27.0.0-beta.33-macosx_x64.tar.gz",
+  "vendor": "azul",
+  "version": "27.0.51"
+}

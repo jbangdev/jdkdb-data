@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.113-ca-crac-jre17.0.21.0.3-linux_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-12",
+  "md5": "d7b05b34b5b78913bfe253f2dc596d81",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+113-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.0.3+1-LTS",
+    "JAVA_VERSION": "17.0.21.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:32f9654bbb7c"
+  },
+  "release_type": "ga",
+  "sha1": "b0ea82d800e7694f9ddf66d0c79f5293fae76f00",
+  "sha256": "fa24c8f3ff1947f34da62cffc6027c4638e4084aa67f2647fea062d2958bcfdd",
+  "sha512": "eb9a4e82d45dd480f4d2232cce93d4f0f4df72f3de49a352596e98a145e25a06243fa7571c41aaacee2d21826df1e0d1b904f0082b07e455c62342ceb6e36cd0",
+  "size": 49820427,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.113-ca-crac-jre17.0.21.0.3-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.113"
+}

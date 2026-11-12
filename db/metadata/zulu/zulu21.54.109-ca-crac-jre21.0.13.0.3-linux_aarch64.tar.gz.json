@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu21.54.109-ca-crac-jre21.0.13.0.3-linux_aarch64.tar.gz",
+  "image_type": "jre",
+  "java_version": "21.0.13.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-12",
+  "md5": "20c05f87faa09456754c263ce7664821",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.54+109-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.13.0.3+1-LTS",
+    "JAVA_VERSION": "21.0.13.0.3",
+    "JAVA_VERSION_DATE": "2026-10-24",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:08b5760c6ff8"
+  },
+  "release_type": "ga",
+  "sha1": "635e531799915228903a84a482f0666a8af9b524",
+  "sha256": "02d0d4ff993440777e1452f45db5d541e0439d47d440ce37a4a46406fd12c911",
+  "sha512": "558eb0ad40e1db0200390372704ebf9d94f3e83cf36fbfa21f995b721a09daecc365e5a5d9e8d711c50490115e9ab6c423c7c0ec6e58948d771c2df08b1c2bef",
+  "size": 55454257,
+  "url": "https://static.azul.com/zulu/bin/zulu21.54.109-ca-crac-jre21.0.13.0.3-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "21.54.109"
+}
