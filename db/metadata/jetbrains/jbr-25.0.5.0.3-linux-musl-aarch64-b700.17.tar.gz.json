@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr-25.0.5.0.3-linux-musl-aarch64-b700.17.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-17",
+  "md5": "6e74898285d2443eaeacf51c0dd4e1b1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.5.0.3+1-700.17-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+1-b700.17",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cdca38823e56+"
+  },
+  "release_type": "ga",
+  "sha1": "927ad512a94f9e0927450733ce2564e9e746b0d5",
+  "sha256": "7c9255d44844e3e66ad212916145be8a7f515764c03b0c092d7317744c41cf9d",
+  "sha512": "c8c0267aaa41a4cc43070f67129d4845d69e5dbc4d31b7d3d53149cc5c486f73e1aff45ead2493376dd40d2317cff667d89caa23d7c96ae0fe1d4d046eb486f4",
+  "size": 103466745,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.5.0.3-linux-musl-aarch64-b700.17.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.5.0.3b700.17"
+}

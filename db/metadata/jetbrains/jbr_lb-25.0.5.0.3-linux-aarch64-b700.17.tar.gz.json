@@ -1,0 +1,34 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "legacy"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_lb-25.0.5.0.3-linux-aarch64-b700.17.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5.0.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-17",
+  "md5": "51475fcd06c8b86760250e62cac05f06",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.5.0.3+1-700.17-lb",
+    "JAVA_RUNTIME_VERSION": "25.0.5.0.3+1-b700.17",
+    "JAVA_VERSION": "25.0.5.0.3",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:cdca38823e56+"
+  },
+  "release_type": "ga",
+  "sha1": "ee50d8da2daafe1d2e3f55359db11daeefef3259",
+  "sha256": "b0edfa697106c813abc8c52bc3762de6895daaab00c3543df81d3ae7e29ea410",
+  "sha512": "ba281cd81eeec8c83fccad1198a4eed6e2b0cd978a257e97b7653828a6030c17d6e1677b324244abe6db3b048702995bdd49a656dd5d9a2bd4a779c5ef10efe6",
+  "size": 102801689,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_lb-25.0.5.0.3-linux-aarch64-b700.17.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.5.0.3b700.17"
+}
