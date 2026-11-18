@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.21.1_macos-aarch64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "b3725106bd7217c31e3e48b8e72b44fb",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:e9feb7ab02be"
+  },
+  "release_type": "ga",
+  "sha1": "f062e1ff395a1e0c02e2778899a32d86b9686457",
+  "sha256": "5148789b618a2f5cbac1b9357a9a579545e29c0108a01535af561495500bab21",
+  "sha512": "29adb95eda1d87a591fe6624703472f8a22612b5228fa67e39f94a09998ab4a2708bf58560f95509dbbc56aa217f571fc206e252903d2a61e619d1afb56e7cdb",
+  "size": 43867475,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21.1/sapmachine-jre-17.0.21.1_macos-aarch64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.21.1"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-17.0.21.1.2-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "6be12f451868d30d2878006791bef56d",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-17.0.21.1.2",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:9ba6259ac5e1+"
+  },
+  "release_type": "ga",
+  "sha1": "e416571341b220e1dff41233e2576d8e5c46ca94",
+  "sha256": "f58bea1d8fca5788081a438e46997af0fe62491ef29b6ba4d9258cbfe8eeb5bb",
+  "sha512": "e5cd767aaa4b5cad01fb6cf959ba5bd98b42f91815d6a803f469f54a49bad011f91907ec8dbf33839919e071cff5d3a7a43993a88fa1297755aa85888f3f76ea",
+  "size": 193292130,
+  "url": "https://corretto.aws/downloads/resources/17.0.21.1.2/amazon-corretto-17.0.21.1.2-linux-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "17.0.21.1.2"
+}

@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-25.0.5.1_linux-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "4474b4932dcca6f708daac6ea26a1d73",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+4-LTS-20",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:eb23d0e513eb open:git:d63056be9a39"
+  },
+  "release_type": "ga",
+  "sha1": "4d7defd9fd2859110e60cbdc27971227df44039c",
+  "sha256": "2c30d5fe69796452732d32e746c5f4b4031e4991e2be9a3313f76e51fe5196ee",
+  "sha512": "abcbb74e8a5eb9f5e37b0868a7d9a6ead6ca025fc41fa168298b3ebaa78218cf97404fb79a62c7f2732c64a0d8045c130c628e34b625c7d61643d6db17fd39e1",
+  "size": 214840770,
+  "url": "https://java.oraclecloud.com/java/25/archive/jdk-25.0.5.1_linux-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "25.0.5.1"
+}

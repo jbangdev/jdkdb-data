@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.21.1_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "b1ed25db32cb1a6d18a67cdf8ff8175b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:e9feb7ab02be"
+  },
+  "release_type": "ga",
+  "sha1": "d0af14bdaeadc8ec673ca63b75a8a1a40bb896d6",
+  "sha256": "332ee12b03b92078b72ffbc7c1ad7baa308f09fb4e695292a662b0bc3d7c5325",
+  "sha512": "931dbf37ebf0a15887ba653aca41331c048738125a4efd28bf6c0b39fc423480b0d662c494aeac679eacfb01696d5149c930dd98f848d1e1ba39e60af1fd5d8c",
+  "size": 47948321,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21.1/sapmachine-jre-17.0.21.1_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.21.1"
+}

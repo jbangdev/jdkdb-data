@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "amazon-corretto-25.0.5.1.2-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "ac93fab19fd33a102873809f8c8eb100",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.5.1.2",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "f73d140170002b7c5b57f1399b0baeb7f3f49d66",
+  "sha256": "ded32dedfc8a2e3d15017700e29ecb08edb29b3a852c82ee3d6443dc9c354b61",
+  "sha512": "bf854c2394b31dd99b4482b35040798b6e21a976bbbd921b81f73ea141a304406eecf5d8aa7b9bbebebc48432a2c528e39b28178e80a77b735c0258b0991599b",
+  "size": 198664192,
+  "url": "https://corretto.aws/downloads/resources/25.0.5.1.2/amazon-corretto-25.0.5.1.2-windows-x64.msi",
+  "vendor": "amazon",
+  "version": "25.0.5.1.2"
+}

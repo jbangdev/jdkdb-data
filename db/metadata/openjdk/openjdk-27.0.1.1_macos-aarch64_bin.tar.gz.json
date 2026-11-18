@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "openjdk",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "openjdk-27.0.1.1_macos-aarch64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "2935aa042ba623c22104e7825f316002",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1+4-22",
+    "JAVA_VERSION": "27.0.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:03d8fb0da157"
+  },
+  "release_type": "ga",
+  "sha1": "343727d25f04e583cbc744c876daa97da4aae792",
+  "sha256": "ba98a8271a715587b25048096380d6d8ccfb38fb2edcd005cd40feb7e60189cc",
+  "sha512": "2ee2d4f12a615c387a2972242460a6238f31e9f0d2f7d89aa6ec785e6865946a7506cbd3a10ada5c7c140b5747f8584a7d578c59a49077ae026819a8ef40ea97",
+  "size": 219352299,
+  "url": "https://download.java.net/java/GA/jdk27.0.1.1/c3a705caf5044be8aa0b09e62be69b20/4/GPL/openjdk-27.0.1.1_macos-aarch64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "27.0.1.1"
+}

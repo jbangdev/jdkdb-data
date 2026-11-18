@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-25.0.5.1.2-macosx-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "9f31ebc835c1471c0f5844eebaa1034f",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-25.0.5.1.2",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:0fe6c4026884+"
+  },
+  "release_type": "ga",
+  "sha1": "4a9da618b1f3bd1b5617c60263031af0999d1762",
+  "sha256": "e511959cc5a403d47a126925bf5c359a8bec73d7fe486a633b83c336bfa850a5",
+  "sha512": "e9f1b7968f666d4e58c9177d2e8953b30a88653dc2658afca06aee96fb0765d269975e14923bb78614364cb6fabdeee308518c0348fff58d71c34e1d5497788c",
+  "size": 221154419,
+  "url": "https://corretto.aws/downloads/resources/25.0.5.1.2/amazon-corretto-25.0.5.1.2-macosx-x64.tar.gz",
+  "vendor": "amazon",
+  "version": "25.0.5.1.2"
+}

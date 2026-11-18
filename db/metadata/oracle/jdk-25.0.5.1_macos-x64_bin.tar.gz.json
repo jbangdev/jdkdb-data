@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "oracle",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jdk-25.0.5.1_macos-x64_bin.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "502fba89bc08da2e140ad71704d79680",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+4-LTS-20",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:eb23d0e513eb open:git:d63056be9a39"
+  },
+  "release_type": "ga",
+  "sha1": "f6034475ff292ddcb420e1415cf189a0cfefd2f7",
+  "sha256": "6828f032603f2858a05da8ca02221509649ee2b4d06ca12fd5ec75b04f5f4f0d",
+  "sha512": "331689203efba5e0c702f609bebbc1ebe05910a056baac8906f603a027b7a790a1c5080d6bb29a26fb4538380e09d209dbcb9173d98df150f222b46c286c9214",
+  "size": 211907250,
+  "url": "https://java.oraclecloud.com/java/25/archive/jdk-25.0.5.1_macos-x64_bin.tar.gz",
+  "vendor": "oracle",
+  "version": "25.0.5.1"
+}

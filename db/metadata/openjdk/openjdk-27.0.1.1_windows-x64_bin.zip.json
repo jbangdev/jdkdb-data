@@ -1,0 +1,32 @@
+{
+  "architecture": "x86_64",
+  "distro": "openjdk",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "openjdk-27.0.1.1_windows-x64_bin.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "fe07299e3976e52a3a092476b6cf03ba",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Oracle Corporation",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1+4-22",
+    "JAVA_VERSION": "27.0.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:03d8fb0da157"
+  },
+  "release_type": "ga",
+  "sha1": "8547c6eac50c5d7d5a36851a6f146593f9a20088",
+  "sha256": "bbb09207b18730d2b4796904f24aa0527b7bc3fc2c59076f3f04af32baaaf8b6",
+  "sha512": "a7dc6355bc5fa5763762c87bb2a1f21b42f7bae4d12bf4b68e69d3c3a57c48df86c9291e961761ef1c342d1d63cfad8480838064ce8e2b56e8aaae9ef29a8be0",
+  "size": 226159846,
+  "url": "https://download.java.net/java/GA/jdk27.0.1.1/c3a705caf5044be8aa0b09e62be69b20/4/GPL/openjdk-27.0.1.1_windows-x64_bin.zip",
+  "vendor": "oracle",
+  "version": "27.0.1.1"
+}

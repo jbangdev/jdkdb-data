@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "amazon-corretto-27.0.1.1.4-macosx-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1.4",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "02f7506d55b2f1e84c2ea5203da9a241",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.1.1.4",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1+4-FR",
+    "JAVA_VERSION": "27.0.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:558d3c33c174+"
+  },
+  "release_type": "ga",
+  "sha1": "2cdb4af3567f41d532359c009e631b87919f4704",
+  "sha256": "45d64c5886d5636e3ef06e434f5b79d1e4cb10769c5ea050d9700dfb177c4bf3",
+  "sha512": "69bfa70900de289340eea2f1019679018ff0c9416dd844486e9bcd16ce307d271371c005904125fc16408e0b061e8510779251f51353c5bd8e89006b67f9ea23",
+  "size": 221137021,
+  "url": "https://corretto.aws/downloads/resources/27.0.1.1.4/amazon-corretto-27.0.1.1.4-macosx-aarch64.tar.gz",
+  "vendor": "amazon",
+  "version": "27.0.1.1.4"
+}

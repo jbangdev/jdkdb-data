@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "corretto",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "amazon-corretto-27.0.1.1.4-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1.4",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-18",
+  "md5": "28229e8bd5d2584fb8cd2379d6038e8b",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Amazon.com Inc.",
+    "IMPLEMENTOR_VERSION": "Corretto-27.0.1.1.4",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1+4-FR",
+    "JAVA_VERSION": "27.0.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ""
+  },
+  "release_type": "ga",
+  "sha1": "193d5bf7fb5b0162a18a67a5d51cb6b33e81d095",
+  "sha256": "07f08e897c110e92f6c721125c4f9a911be6dafb9b899c8026c4daec5e248208",
+  "sha512": "e75399d08ff7b7d2a7fa786d9ef86ee5c495fcc11ac99bfc504702c4a5cf60cd82166eaa52c08b5c3006a43c1f1fc408c12ab9c32bb30c6c355dcb1738ee3dd2",
+  "size": 200617984,
+  "url": "https://corretto.aws/downloads/resources/27.0.1.1.4/amazon-corretto-27.0.1.1.4-windows-x64.msi",
+  "vendor": "amazon",
+  "version": "27.0.1.1.4"
+}
