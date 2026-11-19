@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.21.1-ea.2_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21.1-ea.2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "e84d0b8d801bf39347f6ceb35b4ca3c3",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1-ea+2",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:e9feb7ab02be"
+  },
+  "release_type": "ea",
+  "sha1": "744c45a365a029532883d7f0cff64088c00dee7f",
+  "sha256": "6198ccb8d15d13f6bc5c2c315d5d805b3614a7a8e69a26c84827c3e3a04f51cd",
+  "sha512": "c7f3c9c9a61bbf2e746f778e7ae32134762bcdc7f5c1f3af26df80b8f37dfbec870da3397b2414ae79490e8a88ebe0778f3c3e4c10c55d89f10647c6d48b4bd7",
+  "size": 47948083,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21.1%2B2/sapmachine-jre-17.0.21.1-ea.2_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.21.1-ea.2"
+}

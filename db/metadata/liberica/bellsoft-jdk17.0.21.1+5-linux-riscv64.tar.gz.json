@@ -1,0 +1,32 @@
+{
+  "architecture": "riscv64",
+  "distro": "liberica",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk17.0.21.1+5-linux-riscv64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "fb71bb1a2717a9b8a4e844c0b6dfafec",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+5-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "riscv64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:abd149f68368+"
+  },
+  "release_type": "ga",
+  "sha1": "8635656aecaf16f5002cbe63890a31f0083e31d5",
+  "sha256": "547b3eda133548fecb11f7da182e6724507d83f41f7accaa9c3c0106c75558d1",
+  "sha512": "de935753591f8315c42508e2ea6524cf663e012e7f122f5aef4e823de668bb1c352236687650774eeb89bb11e9896a421ced32fbfa40b50ad3ada4f702778165",
+  "size": 181239918,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.1+5/bellsoft-jdk17.0.21.1+5-linux-riscv64.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.21.1+5"
+}

@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-21.0.13.1-linux-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "21.0.13.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "f5b1a0e29a117f553e6d768a95eea83f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-16059586",
+    "JAVA_RUNTIME_VERSION": "21.0.13.1+2-LTS",
+    "JAVA_VERSION": "21.0.13.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:ebf06653af97"
+  },
+  "release_type": "ea",
+  "sha1": "c49ab39d9c7511a035d881ed30926440f7ee858d",
+  "sha256": "f85eb101982ca919acc17d779a80e89c0d3adc3f07b61860d31cdf26303ee2be",
+  "sha512": "bb3a2bd5680824c2e162586ed596d4c26d2c750a5693ea50481e6620b042364be55f43d241829ead36d4c2136deac589ab12cf64c2f777520aea6c9961ec60c6",
+  "size": 205153763,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.13.1-linux-aarch64.tar.gz",
+  "vendor": "microsoft",
+  "version": "21.0.13.1"
+}

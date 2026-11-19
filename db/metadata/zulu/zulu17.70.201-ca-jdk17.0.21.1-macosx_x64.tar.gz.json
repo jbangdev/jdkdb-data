@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.201-ca-jdk17.0.21.1-macosx_x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "d3dbbe87ac24b2e3839036fdf07a4e66",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c6c0b80367cc"
+  },
+  "release_type": "ga",
+  "sha1": "3adb2e828543ef9726a2f127da36e7a4f7294304",
+  "sha256": "7390536cc1fc2105d26885e0a8f272ebe8e7f975f68dace4c6d0924895cff3ec",
+  "sha512": "6f9c62ec647406d1a04315ea803bd291d4073d77ed1e7c9363f8a8706a570f1f42aeb7fbc8ca24e5b0d459827b15a059d28932036b6813c319c2bd1377cb0531",
+  "size": 194227676,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-jdk17.0.21.1-macosx_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.201"
+}

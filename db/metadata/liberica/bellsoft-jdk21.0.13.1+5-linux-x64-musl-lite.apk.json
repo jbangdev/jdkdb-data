@@ -1,0 +1,35 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "musl",
+    "lite"
+  ],
+  "file_type": "apk",
+  "filename": "bellsoft-jdk21.0.13.1+5-linux-x64-musl-lite.apk",
+  "image_type": "jdk",
+  "java_version": "21.0.13.1+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "8bdf96cb31197c1386783424a1abbc04",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "21.0.13.1+5-LTS",
+    "JAVA_VERSION": "21.0.13.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:97d9fa418dec+"
+  },
+  "release_type": "ga",
+  "sha1": "03168905952bdfd6493325c68b2688f06a53505c",
+  "sha256": "3f41efe75289ee2964bce94c2349b948116cd01e61177639ad502f853a1cc8a1",
+  "sha512": "c95a9e2209d0d8933a7b3e85f7ce2a48f3ca4da8667e83b7ee43997cf4624d900ffb2c61dae6ab99b2cc6de3ccf49a2395add49a762d12c923c650abfbb2ece8",
+  "size": 78240237,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.13.1+5/bellsoft-jdk21.0.13.1+5-linux-x64-musl-lite.apk",
+  "vendor": "bellsoft",
+  "version": "21.0.13.1+5"
+}

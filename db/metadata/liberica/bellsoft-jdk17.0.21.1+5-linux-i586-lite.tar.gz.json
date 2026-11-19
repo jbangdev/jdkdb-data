@@ -1,0 +1,34 @@
+{
+  "architecture": "i686",
+  "distro": "liberica",
+  "features": [
+    "lite"
+  ],
+  "file_type": "tar.gz",
+  "filename": "bellsoft-jdk17.0.21.1+5-linux-i586-lite.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "88d6ceaee962a6bac75f70f09fe8dfa8",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+5-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:9c03fa0ab9dd+"
+  },
+  "release_type": "ga",
+  "sha1": "3e7b841f90365a3d30c6daa937a90acd113d1459",
+  "sha256": "482e94fdd37adcdb9c1280204a233e4ea117a51cf2ed3b7e2ceea90b9ff51e61",
+  "sha512": "63895d8396184edd4410122a5be9823df835bdf298134974b42dda93747bcb2fcfbfbe11670cffe7097bfd3d4a9995330e58f0a8f8db730c7a5da6672e91d3e8",
+  "size": 72398145,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.1+5/bellsoft-jdk17.0.21.1+5-linux-i586-lite.tar.gz",
+  "vendor": "bellsoft",
+  "version": "17.0.21.1+5"
+}

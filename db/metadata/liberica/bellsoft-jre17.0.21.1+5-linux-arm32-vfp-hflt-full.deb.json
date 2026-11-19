@@ -1,0 +1,35 @@
+{
+  "architecture": "arm32",
+  "distro": "liberica",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "deb",
+  "filename": "bellsoft-jre17.0.21.1+5-linux-arm32-vfp-hflt-full.deb",
+  "image_type": "jre",
+  "java_version": "17.0.21.1+5",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "9ebcc3bec14c39a46da346de91a6af84",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "BellSoft",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+5-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dio jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "arm",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:540db0ab302e+",
+    "SUN_ARCH_ABI": "gnueabihf"
+  },
+  "release_type": "ga",
+  "sha1": "f37a08f71c790df7e435a7652ebeacaee76eab89",
+  "sha256": "d03c156c7d544a9f4b9e2b981792bc415a41746ceec3e6a101e82c1326f2178f",
+  "sha512": "6b465da6b6d4685fdb607148971c719cfe51b8048ab3057a7a0fe967a532d2ce22600064cc90665937e9695a5bae08a8d99a07e068a50b4d3077fc217de28bd0",
+  "size": 29350636,
+  "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.1+5/bellsoft-jre17.0.21.1+5-linux-arm32-vfp-hflt-full.deb",
+  "vendor": "bellsoft",
+  "version": "17.0.21.1+5"
+}

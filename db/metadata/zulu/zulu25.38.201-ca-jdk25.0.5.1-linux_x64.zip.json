@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "zulu25.38.201-ca-jdk25.0.5.1-linux_x64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "2aed128f8ebe22b8d7252007f6ca339c",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.38+201-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:3288a9e4a54f"
+  },
+  "release_type": "ga",
+  "sha1": "629fba4bfcfcf517895cdb34ba5b7b2f11d1d3f7",
+  "sha256": "ad02a96ef793073c3376296b53f21f82462ff41408b94f6f89d399b58821efe3",
+  "sha512": "eed713d1cd62c043baa7c6c64ad57783455975390752f9b8b253689e18460a480fa4a38dcd4b7cd8026207364d5eb956157d5f532fba6193e3bf80224fa2886c",
+  "size": 235639424,
+  "url": "https://static.azul.com/zulu/bin/zulu25.38.201-ca-jdk25.0.5.1-linux_x64.zip",
+  "vendor": "azul",
+  "version": "25.38.201"
+}

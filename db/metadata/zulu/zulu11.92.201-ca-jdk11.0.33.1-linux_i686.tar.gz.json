@@ -1,0 +1,33 @@
+{
+  "architecture": "i686",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu11.92.201-ca-jdk11.0.33.1-linux_i686.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "e13f709a24312b17a637255cf9175d1f",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+201-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33.1+1-LTS",
+    "JAVA_VERSION": "11.0.33.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:aff945078e17"
+  },
+  "release_type": "ga",
+  "sha1": "5ecc15782157c9b6027a1f71eeaeaab930e0ece5",
+  "sha256": "3dfa61633d49a615c8815fae28bcba4e1bfe6d747a0d080681a52432126bcc83",
+  "sha512": "351c0aefb198040156fe3fadaec15e9bd33afe40a5e4defb126e6e3fbda7fd38e392194fb5eb56656b8e5e2e8bb4308ea7815b3da67ec0934754a5e25f655927",
+  "size": 182225663,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.201-ca-jdk11.0.33.1-linux_i686.tar.gz",
+  "vendor": "azul",
+  "version": "11.92.201"
+}

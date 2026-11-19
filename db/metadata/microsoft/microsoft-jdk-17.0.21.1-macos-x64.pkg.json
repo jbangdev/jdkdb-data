@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "microsoft-jdk-17.0.21.1-macos-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "07338af268c3997182d7def9437cefc4",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-16059598",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:99bd36684118"
+  },
+  "release_type": "ga",
+  "sha1": "81fd7fa0016d0459d70b8f42a758e38b3702387a",
+  "sha256": "bef23476685ab082c0c9bd11dd88061479e650347e2090852be4fe9e2408a439",
+  "sha512": "1a9b5f76d489a08e7aaab4c14d275aeb44e13cfc4809f5edee83cc14bf216aaace467d3ca7e230c3a20be7d5e979ffb77aa8b08bcf8f73b16b04145aba35fe65",
+  "size": 188847452,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.21.1-macos-x64.pkg",
+  "vendor": "microsoft",
+  "version": "17.0.21.1"
+}

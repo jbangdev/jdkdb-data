@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "pkg",
+  "filename": "microsoft-jdk-11.0.33.1-macos-x64.pkg",
+  "image_type": "jdk",
+  "java_version": "11.0.33.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "af95d33fb0a7f529b6d8301aaf7a80a5",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-16059571",
+    "JAVA_RUNTIME_VERSION": "11.0.33.1+1-LTS",
+    "JAVA_VERSION": "11.0.33.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:7adcb772e66d"
+  },
+  "release_type": "ga",
+  "sha1": "db7857e2de5faa18c753a99fd7b0c30690b315f4",
+  "sha256": "236d943c6b78ff7a78d3ffd1a840c2a8f1cd04d97ddeb40791e007c554b97686",
+  "sha512": "24795a22e1ad6407aa739a4a42cb10583d59180636981cd60c1cf3928b7b35cb31ea11314064d6062dda1903eb57bbc125b71e4dab21555bfdcfb87615f2d79f",
+  "size": 191560706,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33.1-macos-x64.pkg",
+  "vendor": "microsoft",
+  "version": "11.0.33.1"
+}

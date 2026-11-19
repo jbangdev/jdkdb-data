@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-11.0.33.1-macos-aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "b89e4f10420d1258652c71de7f241f2e",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-16059576",
+    "JAVA_RUNTIME_VERSION": "11.0.33.1+1-LTS",
+    "JAVA_VERSION": "11.0.33.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.management jdk.unsupported jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:7adcb772e66d"
+  },
+  "release_type": "ea",
+  "sha1": "99af611586a544ea3003a69530d6f14e3618a444",
+  "sha256": "1b516ffe4df3bcf3f916420b8887b865f6f54561e73bfc7f7e628d4d2179d7fd",
+  "sha512": "2a6a6c9be622b2d0a7dc7d72a0dad782c32b95cd0691ff88b2b6fa5a147cfa7044f8e6100f2062225f5b07b654e8c9ef9f5e29450ac93ff53d809b8dd583ce65",
+  "size": 185306830,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33.1-macos-aarch64.tar.gz",
+  "vendor": "microsoft",
+  "version": "11.0.33.1"
+}

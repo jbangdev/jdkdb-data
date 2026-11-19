@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "microsoft",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "microsoft-jdk-25.0.5.1-macos-x64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-19",
+  "md5": "304282de6825a407a9d89ac1bb4706ba",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Microsoft",
+    "IMPLEMENTOR_VERSION": "Microsoft-16059591",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:82a97be0b910"
+  },
+  "release_type": "ga",
+  "sha1": "52e5f020fa5a5437b1c87c09b74a725d9a1c0a81",
+  "sha256": "e4b834eb6aa7c4974116ff6b7222092f0f2ca98425c872f232f7c1e533ca5fa3",
+  "sha512": "b636c5cdca413ce446b6a6d7cf01afc4706e8d02c46e105b2b9d7762f8777291442093fe2c9ab33e31482530de437edb2c88e7a38062b179f121eb933b920e65",
+  "size": 220043827,
+  "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.5.1-macos-x64.tar.gz",
+  "vendor": "microsoft",
+  "version": "25.0.5.1"
+}
