@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "zulu17.70.201-ca-fx-jdk17.0.21.1-win_x64.msi",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "56ee4502a9df1679a0967c170baac87c",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c6c0b80367cc+"
+  },
+  "release_type": "ga",
+  "sha1": "a7fda9f210e22c5d556fc13e9d47f0360b09628b",
+  "sha256": "5b4e3cba377125ac8645f2b3431b27ec2de7f749646d8498f668e93505460521",
+  "sha512": "6cb008e95074cb896341644e0d3fcc3d83133db6ced04c749f6cf6990b2e841bee414b91f8995f543da09493e911d19c588cf5f2290d7c49d5222450000d09a8",
+  "size": 261459968,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-fx-jdk17.0.21.1-win_x64.msi",
+  "vendor": "azul",
+  "version": "17.70.201"
+}

@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.201-ca-fx-jre17.0.21.1-linux_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "6151bf1544f3f6854100e43929a7aaa4",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:c6c0b80367cc"
+  },
+  "release_type": "ga",
+  "sha1": "7a14802d6d196484fd54a0ed421dcffbdd77c085",
+  "sha256": "3a51dfea250fc65398f0141ad832b3a483f77bb410ad1475345d9910d9335a7d",
+  "sha512": "741dfba67832bda25255577149d0b01084c913d87a97e6b98043e9881a3bae9753808c144c7905a2c05d89ff684db3a82ef4e5ab78abd4a7bcc9cb8b024858e8",
+  "size": 97245317,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-fx-jre17.0.21.1-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.201"
+}

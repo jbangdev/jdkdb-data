@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "zip",
+  "filename": "zulu25.38.201-ca-crac-jdk25.0.5.1-win_x64.zip",
+  "image_type": "jdk",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "bebfa7a076e2f1289bcd43ceda960549",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.38+201-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:ef7f4550b027"
+  },
+  "release_type": "ga",
+  "sha1": "94dc98cd2c38c697cb42ffb6431b7354ac4d1f63",
+  "sha256": "c0cdcb1b1eac587d364ba52d5bef8132d07e0a46c29f183cddf434dab56c7e75",
+  "sha512": "b6406034e01f54acdc31e689b14082baaa66dc39b0fb4cca80574243d2dc0557b35e7e8235c89ed5d694cb4afd0d1a6da6c1f3aed08748dfa6a1ab6135f245b8",
+  "size": 230868490,
+  "url": "https://static.azul.com/zulu/bin/zulu25.38.201-ca-crac-jdk25.0.5.1-win_x64.zip",
+  "vendor": "azul",
+  "version": "25.38.201"
+}

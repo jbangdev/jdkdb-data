@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu11.92.201-ca-fx-jdk11.0.33.1-linux_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "11.0.33.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "81c6695d2f4a6f762b567ed47636f106",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu11.92+201-CA",
+    "JAVA_RUNTIME_VERSION": "11.0.33.1+1-LTS",
+    "JAVA_VERSION": "11.0.33.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:aff945078e17"
+  },
+  "release_type": "ga",
+  "sha1": "b1ff421ae2c096438a06f0a119bc3d55a6cfe3ca",
+  "sha256": "bee83b1dd9a00e0a06d4e6278dfaebaf966a3ade9d8db7dd67aeaed1e047b793",
+  "sha512": "7319df35ac0bd2f805665e2718ae8b308ea7192ee31756e0b389e99e9582e2d31fb90ba4e2c0c67061b9d46a7b0108664de31723af3adab27e9aa99ac2a29b97",
+  "size": 308897792,
+  "url": "https://static.azul.com/zulu/bin/zulu11.92.201-ca-fx-jdk11.0.33.1-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "11.92.201"
+}

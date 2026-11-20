@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "msi",
+  "filename": "zulu27.30.201-ca-fx-jdk27.0.1.1-win_x64.msi",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "63655d9684df64a7257c125140ed2883",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.30+201-CA",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1+4",
+    "JAVA_VERSION": "27.0.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:daa282e7fc9e"
+  },
+  "release_type": "ga",
+  "sha1": "acd69212fda3bbbaaa75ffb4532cbeef9b68c2c6",
+  "sha256": "9d8cf2742f02f500dada5d7f0bd3a820c83ad04b2d48c1239481e22db9df4279",
+  "sha512": "b8783c3bc46a733820289d764c82103ba969791ac2114ed06e56771c50eda8a9a3fb8327ed2fd6093637cb5e6dc0df8899b5a8b11445ad4e1ba829989606173b",
+  "size": 294797312,
+  "url": "https://static.azul.com/zulu/bin/zulu27.30.201-ca-fx-jdk27.0.1.1-win_x64.msi",
+  "vendor": "azul",
+  "version": "27.30.201"
+}

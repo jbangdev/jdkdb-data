@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "zip",
+  "filename": "zulu17.70.201-ca-fx-jre17.0.21.1-win_x64.zip",
+  "image_type": "jre",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "fc4ea4d5761a665ff3d388ae3d61e7cf",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:c6c0b80367cc+"
+  },
+  "release_type": "ga",
+  "sha1": "9dbaa4978eb9a52c1ad539ef24246a3028e60d29",
+  "sha256": "38fce7ddb4675657d07b945448b6fd7382731330c479df8adc51693d18205618",
+  "sha512": "139d59527f93ab6027e2d1cd7586d97a4a4a464c99a84fd0c61acc013efedc226ad5b5912c144ec5b8d6d9d52a8c87b5297053d23cc6214e546633d294eeb5c5",
+  "size": 87758980,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-fx-jre17.0.21.1-win_x64.zip",
+  "vendor": "azul",
+  "version": "17.70.201"
+}

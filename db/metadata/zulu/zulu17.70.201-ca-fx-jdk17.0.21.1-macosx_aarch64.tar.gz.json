@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.201-ca-fx-jdk17.0.21.1-macosx_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "8b669066f1da3e0b1f5abe7a2e3e9621",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:c6c0b80367cc"
+  },
+  "release_type": "ga",
+  "sha1": "32987b149689b2b26f27aa38600ecb9dfb245bb3",
+  "sha256": "da110ef37bda2d306c448d47272757da28bcb7e7e7e7b86647b7d26c8863cd5c",
+  "sha512": "79bd52059bb51357afaf7b258fe4b8e77562fd2dc6aa64a5516bef020f5139ce6f2fe3a466ab6f6103a2a5d4677882f18ca399f01393ce0328bca9c87dc916c2",
+  "size": 293783559,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-fx-jdk17.0.21.1-macosx_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.201"
+}

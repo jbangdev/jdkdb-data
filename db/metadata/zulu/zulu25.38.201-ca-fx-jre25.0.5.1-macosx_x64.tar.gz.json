@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "javafx"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu25.38.201-ca-fx-jre25.0.5.1-macosx_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "c96293c5b7835b9c37501faf3f3f1408",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu25.38+201-CA",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+2-LTS",
+    "JAVA_VERSION": "25.0.5.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.charsets jdk.crypto.cryptoki jdk.dynalink jdk.internal.vm.ci jdk.graal.compiler jdk.graal.compiler.management jdk.httpserver jdk.incubator.vector jdk.jdwp.agent jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs jfx.incubator.input jfx.incubator.richtext",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:3288a9e4a54f"
+  },
+  "release_type": "ga",
+  "sha1": "b22f3f85b237cc9c9bf64782309e42577227b6cb",
+  "sha256": "95001330c54582cdcf501aeedb6f272fd470a8d353b72759f5aad2d195287bb6",
+  "sha512": "88f7dcffdd4d1ddcedab55e3ad990da1fee7d7da1bdeb0cb39ca2f935e0d8b8af06d94f46adc16dcc5d6707b32fee534ecdf140f06950b4b2f27e2e164de012d",
+  "size": 105417738,
+  "url": "https://static.azul.com/zulu/bin/zulu25.38.201-ca-fx-jre25.0.5.1-macosx_x64.tar.gz",
+  "vendor": "azul",
+  "version": "25.38.201"
+}

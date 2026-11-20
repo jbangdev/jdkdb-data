@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.201-ca-crac-jre17.0.21.1-linux_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-20",
+  "md5": "8d2a962dbb90f0858a225f6890158cac",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+201-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:1acd1d7d52f6"
+  },
+  "release_type": "ga",
+  "sha1": "cad3c8256c3d73def05824bfa3fc5dddcc8206d0",
+  "sha256": "100d614bc1159da44c6965f6af1425c23d3aea905944159ce1684aea9c72dd2f",
+  "sha512": "abae7c04d7654649a86dc4cc2f930b76751b1673ec73b15151257a6fd128c74ef90a1edb2c0eef343a1f8578d0dd4674c8eb718ee3e6ad2ec8e2c65cae2d84b6",
+  "size": 49832097,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.201-ca-crac-jre17.0.21.1-linux_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.201"
+}
