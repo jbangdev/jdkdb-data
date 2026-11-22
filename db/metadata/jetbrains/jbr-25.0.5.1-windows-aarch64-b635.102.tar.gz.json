@@ -1,0 +1,32 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "jbr-25.0.5.1-windows-aarch64-b635.102.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-22",
+  "md5": "2e728c1ce516840e0c4580e255fab1e0",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.5.1+1-635.102-nomod",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+1-b635.102",
+    "JAVA_VERSION": "25.0.5.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:99becd3c0943+ VulkanSDK:git:183b6868ae0c"
+  },
+  "release_type": "ga",
+  "sha1": "a2ed9226a7b0cdc986c09a4ff41653f72ef58e36",
+  "sha256": "742f8d28408ae5b561ad3b1acddcdfa553c4c0396ee6ec05accaff73a5ab05f4",
+  "sha512": "4b839396c23ebbeecd7d292f5af2f5212775d1905bfdfde9f6f35e90b28ad5e820f4ab02975ce8ed7877e4c2ef056e5b3af69d9b18f164ef5dc22ffdf28ac158",
+  "size": 80565061,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.5.1-windows-aarch64-b635.102.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.5.1b635.102"
+}
