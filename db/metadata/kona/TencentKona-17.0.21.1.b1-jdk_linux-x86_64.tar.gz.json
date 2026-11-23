@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "kona",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "TencentKona-17.0.21.1.b1-jdk_linux-x86_64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1.b1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-23",
+  "md5": "6078538ac24e6ef654315b00298eec8b",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Tencent",
+    "IMPLEMENTOR_VERSION": "TencentKonaJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+1-LTS",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:6a541f2b5778"
+  },
+  "release_type": "ga",
+  "sha1": "cf574b872ecfec0599ce96e544444c68e2b42f63",
+  "sha256": "ffa817d8234e3658f9120356ee097fc1397f8b581d206e5a1b725f1ef57318c0",
+  "sha512": "eb0aff3622db36ac4887942d9c2a096c4e6c89b9a4116c819370e69957b27b4c5137177a09cfcfa99776b550cfe32723191e25e22a20f33cb46e52fe1c67356c",
+  "size": 199802779,
+  "url": "https://github.com/Tencent/TencentKona-17/releases/download/TencentKona-17.0.21.1/TencentKona-17.0.21.1.b1-jdk_linux-x86_64.tar.gz",
+  "vendor": "tencent",
+  "version": "17.0.21.1.b1"
+}
