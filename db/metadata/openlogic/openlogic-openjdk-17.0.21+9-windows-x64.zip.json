@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [ ],
+  "file_type": "zip",
+  "filename": "openlogic-openjdk-17.0.21+9-windows-x64.zip",
+  "image_type": "jdk",
+  "java_version": "17.0.21+9",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-24",
+  "md5": "9fbbf95e9caaf11d3d1897ccf2828431",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.21+9-adhoc..jdk17u",
+    "JAVA_VERSION": "17.0.21",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:e8adc958475b"
+  },
+  "release_type": "ga",
+  "sha1": "8bc597d1ae2717084c8dc0f15768c22dbcfe4893",
+  "sha256": "2f2c83e9c33a80884c030ec34c8ba7fafa7da92bba298ec6f7bb6d5da1fdbda9",
+  "sha512": "bbd5b3f761066e6f8a68308f6f2ff698ec810ccf3eb6bf7f95cd0e1f7333cbd92a3853e07b1ade812f1b8e12320c1e5fd897d4af33e153630e154c574cd924cc",
+  "size": 217576759,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.21+9/openlogic-openjdk-17.0.21+9-windows-x64.zip",
+  "vendor": "openlogic",
+  "version": "17.0.21+9"
+}
