@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [ ],
+  "file_type": "msi",
+  "filename": "openlogic-openjdk-11.0.33+10-windows-x64.msi",
+  "image_type": "jdk",
+  "java_version": "11.0.33+10",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-25",
+  "md5": "5e806dbca4173d842b4dbcd0386a8dcb",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-adhoc..jdk11u",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:d001c53e35a8"
+  },
+  "release_type": "ga",
+  "sha1": "de9509c80a4daa4a49509750d16a0c04fdfb9a88",
+  "sha256": "5229add451438f55eba0b2df00ee7345b0699ab7458b8cf1808e556dee9e8f1e",
+  "sha512": "973091d121b522024faa138cb44789708ac16a276ff3e80cb42cbef4c3d13fab112ba0ec621e812c016c6a12c2750af0b3d1d9edcd8deff8b76eb367e45c3ef9",
+  "size": 195067904,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.33+10/openlogic-openjdk-11.0.33+10-windows-x64.msi",
+  "vendor": "openlogic",
+  "version": "11.0.33+10"
+}

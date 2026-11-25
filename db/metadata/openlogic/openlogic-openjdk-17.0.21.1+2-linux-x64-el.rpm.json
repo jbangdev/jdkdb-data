@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [ ],
+  "file_type": "rpm",
+  "filename": "openlogic-openjdk-17.0.21.1+2-linux-x64-el.rpm",
+  "image_type": "jdk",
+  "java_version": "17.0.21.1+2",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-25",
+  "md5": "1525d2d95784106521d957c9453a37b1",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic-OpenJDK",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1+2-adhoc.root.jdk17u",
+    "JAVA_VERSION": "17.0.21.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.jfr javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.le jdk.internal.opt jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:10ebaa9a96d1+"
+  },
+  "release_type": "ga",
+  "sha1": "830da2f93ca2e77adf594014cc68af2bb84ea5b3",
+  "sha256": "9b83de881e78737d73d5159e4c705d50c1204f1899276316369c9d15c3d7427b",
+  "sha512": "5b1ee790c776790a6ab529d92bf5c27ac752e1a56ff6b54464f0f53017604a1afdb4e0386483be3142c5e22a7d714debac2413beb05be8515eeeaf1605f238dd",
+  "size": 229738531,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.21.1+2/openlogic-openjdk-17.0.21.1+2-linux-x64-el.rpm",
+  "vendor": "openlogic",
+  "version": "17.0.21.1+2"
+}

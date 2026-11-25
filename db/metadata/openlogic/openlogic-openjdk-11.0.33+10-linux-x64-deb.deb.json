@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "openlogic",
+  "features": [ ],
+  "file_type": "deb",
+  "filename": "openlogic-openjdk-11.0.33+10-linux-x64-deb.deb",
+  "image_type": "jdk",
+  "java_version": "11.0.33+10",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-25",
+  "md5": "58d5fb60003152932409dc3014ccdbe0",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "OpenLogic-OpenJDK",
+    "IMPLEMENTOR_VERSION": "OpenLogic-OpenJDK",
+    "JAVA_RUNTIME_VERSION": "11.0.33+10-adhoc.root.jdk11u",
+    "JAVA_VERSION": "11.0.33",
+    "JAVA_VERSION_DATE": "2026-10-20",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web jdk.accessibility jdk.internal.vm.ci jdk.management jdk.internal.vm.compiler jdk.aot jdk.internal.jvmstat jdk.attach jdk.charsets jdk.compiler jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.internal.le jdk.internal.opt jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.ldap jdk.naming.rmi jdk.net jdk.pack jdk.rmic jdk.scripting.nashorn jdk.scripting.nashorn.shell jdk.sctp jdk.security.auth jdk.security.jgss jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:d001c53e35a8+"
+  },
+  "release_type": "ga",
+  "sha1": "5bc83dbe0835ed14b182e97b964736978109b8bc",
+  "sha256": "7271d222c1711bc01b5e16a2464ddff31346ee2081d7cabb2776e9d14017d00e",
+  "sha512": "133d8ff0912634f3f7cda7f07512488270cd7ce4b237e40ad0660f3f7a54a725817db4989c88938ff927728588bdbff1f497da9ecbd07bb195905c90635bc20b",
+  "size": 230651370,
+  "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.33+10/openlogic-openjdk-11.0.33+10-linux-x64-deb.deb",
+  "vendor": "openlogic",
+  "version": "11.0.33+10"
+}
