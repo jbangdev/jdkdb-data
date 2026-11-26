@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "tar.gz",
+  "filename": "sapmachine-jre-17.0.22-ea.3_linux-x64_bin.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.22-ea.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-26",
+  "md5": "d3d6ade5d2781d8880fe7d1331759b97",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.22-ea+3",
+    "JAVA_VERSION": "17.0.22",
+    "JAVA_VERSION_DATE": "2027-01-19",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:a903bcca78ac"
+  },
+  "release_type": "ea",
+  "sha1": "9810510586d5b25783c1d57170cd1e697708d8c1",
+  "sha256": "46440c75fa2d9c2939d1012ebe814291fe64a008e560f37986c35e0ec6a58c5e",
+  "sha512": "bbe68e3a273e06782f03070579089c6ddb86b275c4d8d8b04bf7a5b60c8eca1fe98ae6f51d8ff498c9bf4f2ebc1f931fb01a2b19acadd23c2d806fa4b86ae17d",
+  "size": 49546388,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.22%2B3/sapmachine-jre-17.0.22-ea.3_linux-x64_bin.tar.gz",
+  "vendor": "sap",
+  "version": "17.0.22-ea.3"
+}
