@@ -1,0 +1,33 @@
+{
+  "architecture": "x86_64",
+  "distro": "sapmachine",
+  "features": null,
+  "file_type": "zip",
+  "filename": "sapmachine-jre-17.0.22-ea.3_windows-x64_bin.zip",
+  "image_type": "jre",
+  "java_version": "17.0.22-ea.3",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-27",
+  "md5": "0d848a0fcb653df1501d10ef392c86b7",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "SAP SE",
+    "IMPLEMENTOR_VERSION": "SapMachine",
+    "JAVA_RUNTIME_VERSION": "17.0.22-ea+3",
+    "JAVA_VERSION": "17.0.22",
+    "JAVA_VERSION_DATE": "2027-01-19",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sapext jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:a903bcca78ac"
+  },
+  "release_type": "ea",
+  "sha1": "051d6ef280228058ba1466a0951b29285242fd56",
+  "sha256": "a28b75d3994d4a2cd33c26f7dea7dfb3eba575307c44d11f78bb58d8cf214be0",
+  "sha512": "f3738561763d5a03c9729a78ecd12b2c18c63ede7b242a58540ffee1223c8684f6e0622a0868f217c833901cfb65b2ac221a5e6e5cb166c4b4653f64ca13d6b0",
+  "size": 48012368,
+  "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.22%2B3/sapmachine-jre-17.0.22-ea.3_windows-x64_bin.zip",
+  "vendor": "sap",
+  "version": "17.0.22-ea.3"
+}
