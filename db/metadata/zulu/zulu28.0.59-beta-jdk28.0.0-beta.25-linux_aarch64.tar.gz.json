@@ -1,0 +1,33 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [ ],
+  "file_type": "tar.gz",
+  "filename": "zulu28.0.59-beta-jdk28.0.0-beta.25-linux_aarch64.tar.gz",
+  "image_type": "jdk",
+  "java_version": "28.0.0-beta.25",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-28",
+  "md5": "de047f8bc91e1f62ad0c97be963cb806",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu28+59-CA",
+    "JAVA_RUNTIME_VERSION": "28-beta+25",
+    "JAVA_VERSION": "28",
+    "JAVA_VERSION_DATE": "2027-03-23",
+    "LIBC": "gnu",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.json jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:71ed44bf1e3e"
+  },
+  "release_type": "ea",
+  "sha1": "d017ba9de71e1000c9460a4b9987b919304385a0",
+  "sha256": "20bee5e26ea1c216ef5feecbe94ab85bb6e9b62c5497dfe550dcd602d561a470",
+  "sha512": "d0f253bc2fefa9b37f796030e6903902beb215e17eadb781bc05a120cc12e17bb306e1aff62a1435e217e3320610135fdc1b4c6b42933d903e9d2e98e1cf1713",
+  "size": 250999527,
+  "url": "https://static.azul.com/zulu/bin/zulu28.0.59-beta-jdk28.0.0-beta.25-linux_aarch64.tar.gz",
+  "vendor": "azul",
+  "version": "28.0.59"
+}

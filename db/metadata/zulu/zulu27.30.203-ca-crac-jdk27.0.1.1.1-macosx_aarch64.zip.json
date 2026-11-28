@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "zip",
+  "filename": "zulu27.30.203-ca-crac-jdk27.0.1.1.1-macosx_aarch64.zip",
+  "image_type": "jdk",
+  "java_version": "27.0.1.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-28",
+  "md5": "522392a5ecab4c761ba95967b8761b6b",
+  "os": "macosx",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu27.30+203-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "27.0.1.1.1+1",
+    "JAVA_VERSION": "27.0.1.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.cryptoki jdk.crypto.ec jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.md jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Darwin",
+    "SOURCE": ".:git:a6007a6f10ad"
+  },
+  "release_type": "ga",
+  "sha1": "d0487716e3173cef87a87c3f952bbf0db7050a02",
+  "sha256": "10cfce55dad262bbc5e0645003068a747db55bf9b3506449d5a451223b44837d",
+  "sha512": "90131fb1e658d55469316b839b76724272eb484db97866565ee4f87c672e677e1292f5246c10818ae8f54e15384f1535f951bcb962d955810f7cfa49c2e20b2f",
+  "size": 230909952,
+  "url": "https://static.azul.com/zulu/bin/zulu27.30.203-ca-crac-jdk27.0.1.1.1-macosx_aarch64.zip",
+  "vendor": "azul",
+  "version": "27.30.203"
+}

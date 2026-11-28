@@ -1,0 +1,35 @@
+{
+  "architecture": "aarch64",
+  "distro": "jetbrains",
+  "features": [
+    "fastdebug",
+    "jcef"
+  ],
+  "file_type": "tar.gz",
+  "filename": "jbr_fd-25.0.5.1-windows-aarch64-b508.47.tar.gz",
+  "image_type": "jre",
+  "java_version": "25.0.5.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-28",
+  "md5": "a8fc77e21f3c4ebd41c22eed7b055f23",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "JetBrains s.r.o.",
+    "IMPLEMENTOR_VERSION": "JBR-25.0.5.1+1-508.47-fd",
+    "JAVA_RUNTIME_VERSION": "25.0.5.1+1-b508.47",
+    "JAVA_VERSION": "25.0.5.1",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crypto.cryptoki jdk.crypto.ec jdk.crypto.mscapi jdk.dynalink jdk.hotspot.agent jdk.httpserver jdk.internal.ed jdk.internal.le jdk.internal.md jdk.internal.vm.ci jdk.javadoc jdk.jcmd jdk.jdwp.agent jdk.jdi jdk.jfr jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "aarch64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:a42cf863588e+ jcef_git:git:4a605f44671a"
+  },
+  "release_type": "ga",
+  "sha1": "f04f22386a289c6e239a9edc3bded3afd9bfc723",
+  "sha256": "92d853eb5e966c9fa0c5175c538e8c1a2a22ef1f27a1c81447cfc9b4731a3f0f",
+  "sha512": "471c2d86590f55a84e5c932c13a231ec087a93054552956186ac3c7256faf254a043efb72de1184786e5607344b2a589e81684f8c7c8c3e0c1f3f3b119370595",
+  "size": 139295277,
+  "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.5.1-windows-aarch64-b508.47.tar.gz",
+  "vendor": "jetbrains",
+  "version": "25.0.5.1b508.47"
+}

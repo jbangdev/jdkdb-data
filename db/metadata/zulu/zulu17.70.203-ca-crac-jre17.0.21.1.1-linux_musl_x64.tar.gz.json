@@ -1,0 +1,36 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac",
+    "musl"
+  ],
+  "file_type": "tar.gz",
+  "filename": "zulu17.70.203-ca-crac-jre17.0.21.1.1-linux_musl_x64.tar.gz",
+  "image_type": "jre",
+  "java_version": "17.0.21.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-28",
+  "md5": "9f66b8ded6ed170a996a1ef9a51e7c44",
+  "os": "linux",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu17.70+203-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "17.0.21.1.1+1-LTS",
+    "JAVA_VERSION": "17.0.21.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "musl",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.dynalink jdk.httpserver jdk.incubator.foreign jdk.incubator.vector jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jcmd jdk.jdwp.agent jdk.jfr jdk.jsobject jdk.localedata jdk.management jdk.management.agent jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.xml.dom jdk.zipfs",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Linux",
+    "SOURCE": ".:git:4604e8a9aef9"
+  },
+  "release_type": "ga",
+  "sha1": "3b578c2377b6dc8d4f6c1db3b3b710568fefa5ca",
+  "sha256": "acf94194a76334fb5dcc89e9450459bb96ffcfa0a9df3fa0bc0b773c0655e657",
+  "sha512": "448f2659a3241a639007031969f15f3ced2e02881f96d6588b02290497e0c559bdc809b8425d2d21223927ed3029ac37dab80ddc50cbaeba98f1ef46dc2c66c5",
+  "size": 51365485,
+  "url": "https://static.azul.com/zulu/bin/zulu17.70.203-ca-crac-jre17.0.21.1.1-linux_musl_x64.tar.gz",
+  "vendor": "azul",
+  "version": "17.70.203"
+}

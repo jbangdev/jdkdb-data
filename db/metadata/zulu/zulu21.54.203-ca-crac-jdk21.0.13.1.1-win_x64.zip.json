@@ -1,0 +1,35 @@
+{
+  "architecture": "x86_64",
+  "distro": "zulu",
+  "features": [
+    "crac"
+  ],
+  "file_type": "zip",
+  "filename": "zulu21.54.203-ca-crac-jdk21.0.13.1.1-win_x64.zip",
+  "image_type": "jdk",
+  "java_version": "21.0.13.1.1",
+  "jvm_impl": "hotspot",
+  "last_verified": "2026-11-28",
+  "md5": "bbf7f001ec8714477a56022cc76a6115",
+  "os": "windows",
+  "release_info": {
+    "IMPLEMENTOR": "Azul Systems, Inc.",
+    "IMPLEMENTOR_VERSION": "Zulu21.54+203-CRaC-CA",
+    "JAVA_RUNTIME_VERSION": "21.0.13.1.1+1-LTS",
+    "JAVA_VERSION": "21.0.13.1.1",
+    "JAVA_VERSION_DATE": "2026-11-17",
+    "LIBC": "default",
+    "MODULES": "java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.rmi java.management.rmi java.net.http java.scripting java.security.jgss java.transaction.xa java.sql java.sql.rowset java.xml.crypto java.se java.smartcardio jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.charsets jdk.internal.opt jdk.zipfs jdk.compiler jdk.crac jdk.crypto.ec jdk.crypto.cryptoki jdk.crypto.mscapi jdk.dynalink jdk.internal.ed jdk.editpad jdk.hotspot.agent jdk.httpserver jdk.incubator.vector jdk.internal.le jdk.internal.vm.ci jdk.internal.vm.compiler jdk.internal.vm.compiler.management jdk.jartool jdk.javadoc jdk.jcmd jdk.management jdk.management.agent jdk.jconsole jdk.jdeps jdk.jdwp.agent jdk.jdi jdk.jfr jdk.jlink jdk.jpackage jdk.jshell jdk.jsobject jdk.jstatd jdk.localedata jdk.management.jfr jdk.naming.dns jdk.naming.rmi jdk.net jdk.nio.mapmode jdk.random jdk.sctp jdk.security.auth jdk.security.jgss jdk.unsupported jdk.unsupported.desktop jdk.xml.dom",
+    "OS_ARCH": "x86_64",
+    "OS_NAME": "Windows",
+    "SOURCE": ".:git:d216ae947246+"
+  },
+  "release_type": "ga",
+  "sha1": "7c2d40fc5fd9981bb37099fc81432fcd5c4d7d97",
+  "sha256": "cd150339950869bde4cd29b70a695939d58921ec31524026a5dcd997651f13fb",
+  "sha512": "f4589c6f6af10420bc66d9a683930ea084d4e51df86d488e3052439e8ceecdd6365ea9c8834e0484a73074c8a8cebbe864baf32cbe6f64499769c358a35c3427",
+  "size": 211727332,
+  "url": "https://static.azul.com/zulu/bin/zulu21.54.203-ca-crac-jdk21.0.13.1.1-win_x64.zip",
+  "vendor": "azul",
+  "version": "21.54.203"
+}
